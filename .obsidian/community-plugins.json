@@ -1,13 +1,7 @@
 [
-  "obsidian-git",
-  "table-editor-obsidian",
   "obsidian-annotator",
   "obsidian-charts",
   "obsidian-spaced-repetition",
-  "obsidian-vimrc-support",
-  "dataview",
-  "obsidian-relative-line-numbers",
-  "obsidian-style-settings",
   "obsidian-dictionary-plugin",
   "obsidian-contextual-typography",
   "obsidian-smart-typography",
@@ -16,10 +10,8 @@
   "obsidian-timeline",
   "obsidian-image-toolkit",
   "obsidian-latex-suite",
-  "obsidian-sort-and-permute-lines",
   "obsidian-trim-whitespace",
   "obsidian-outliner",
   "obsidian-zoom",
-  "calendar",
-  "obsidian-kanban"
+  "calendar"
 ]

@@ -11,23 +11,17 @@
             "id": "8e12a5db97f985a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             },
             "group": "67f03083f081e4d5"
-          },
-          {
-            "id": "3284267d660a9206",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -39,7 +33,7 @@
       {
         "id": "9732722e206e0aa9",
         "type": "tabs",
-        "dimension": 31.992149165848872,
+        "dimension": 50.5,
         "children": [
           {
             "id": "8c7234cc89361b8f",
@@ -61,7 +55,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -70,6 +66,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -92,20 +89,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6024013357398964,
+                  "scale": 0.9036020036098444,
                   "close": true
                 }
               }
             },
             "group": "67f03083f081e4d5"
-          },
-          {
-            "id": "16386d3cb70bee63",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
         "currentTab": 2
@@ -113,7 +102,7 @@
       {
         "id": "9666c2656724c170",
         "type": "tabs",
-        "dimension": 68.00785083415113,
+        "dimension": 49.5,
         "children": [
           {
             "id": "5ad3b669f9bfa3c4",
@@ -124,8 +113,17 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "e56c0733b51734b4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -140,19 +138,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e56c0733b51734b4",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
             "id": "732961bac7175094",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,41 +155,14 @@
             }
           },
           {
-            "id": "3213d9e3d0085e44",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "4ac1bc66cfc78d07",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
-            }
-          },
-          {
-            "id": "49b301fb6dfa7650",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "b6935657737b257d",
-            "type": "leaf",
-            "state": {
-              "type": "dictionary-view",
-              "state": {}
             }
           },
           {
@@ -214,14 +178,6 @@
             }
           },
           {
-            "id": "996e34b61335e688",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
             "id": "c92f3d3be2efa3ae",
             "type": "leaf",
             "state": {
@@ -230,11 +186,28 @@
             }
           }
         ]
+      },
+      {
+        "id": "8f9747d5aa715f65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3213d9e3d0085e44",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 391.5,
-    "collapsed": true
+    "width": 391.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,11 +217,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-trim-whitespace:Trim whitespace": false
     }
   },
-  "active": "3284267d660a9206",
+  "active": "732961bac7175094",
   "lastOpenFiles": [
+    "contents.md",
+    "README.md",
+    "SOFDESG.md",
+    "LBYCPD2.md",
+    "ENGENVI.md",
+    "ENGDATA.md",
+    "CALENG3.md",
+    "assets",
     "Books and audiobooks.md",
     "Backlogs.md",
     "Philosophy backlogs.md",
@@ -263,19 +245,13 @@
     "Templates/Untitled Kanban.md",
     "Chores.md",
     "Discipline challenge.md",
-    "README.md",
     "Daily Notes/2023-12-17.md",
     "Politics.md",
     "Games.md",
     "Ethics and morals.md",
     "Israeli-Palestinian conflict.md",
-    "kanban.md",
-    "Epistemology.md",
-    "Daily Notes/2023-11-29.md",
-    "Thoughts and experiences.md",
-    "Writing.md",
     "Templates",
-    "Daily Notes",
+    "journals",
     "Attachments",
     "childhood flash games",
     "6. Attachments/Pasted image 20231106224104.png",
@@ -297,7 +273,6 @@
     "6. Attachments/Subject Files/LBYPH1A/Experiment 1 - VOM.pdf",
     "6. Attachments/Subject Files/LBYPH1A",
     "6. Attachments/Subject Files/LBOEC2A/Lecture 08 -Modular Programming.pdf",
-    "6. Attachments/Subject Files/LBOEC2A/Lecture 06 -Conditional Statements.pdf",
     "Untitled.canvas"
   ]
 }
