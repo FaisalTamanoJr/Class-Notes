@@ -1,0 +1,13 @@
+{
+  "accentColor": "#30b090",
+  "cssTheme": "",
+  "theme": "moonstone",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "baseFontSize": 16,
+  "monospaceFontFamily": "",
+  "showViewHeader": false,
+  "enabledCssSnippets": [
+    "bolder_bold"
+  ]
+}
