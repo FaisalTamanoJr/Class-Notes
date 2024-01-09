@@ -2,8 +2,6 @@
 
 Because I frequently have been asked for my notes in class, I've decided to start uploading them in this repository.
 
-Keep in mind that my notes are not meant to be a comprehensive resource that can function as a replacement to the textbooks. It will mostly just be used for reviewing, or for helping me understand specific topics. Details that I am already very familiar with, or information that I can easily recall or understand, are usually ignored.
-
 Visit [[contents]] to view the contents of the vault.
 
 ## How to access the notes
