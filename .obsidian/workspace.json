@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "1. Obtaining Data.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -56,7 +56,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "1. Obtaining Data.md"
               }
             }
           },
@@ -66,7 +66,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "1. Obtaining Data.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -127,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 376.5,
+    "collapsed": true
   },
   "right": {
     "id": "eccee2bb78656ef6",
@@ -143,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "1. Obtaining Data.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "1. Obtaining Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +208,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 391.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,14 +223,15 @@
       "obsidian-trim-whitespace:Trim whitespace": false
     }
   },
-  "active": "732961bac7175094",
+  "active": "8e12a5db97f985a6",
   "lastOpenFiles": [
+    "ENGDATA.md",
     "contents.md",
+    "1. Obtaining Data.md",
     "README.md",
     "SOFDESG.md",
     "LBYCPD2.md",
     "ENGENVI.md",
-    "ENGDATA.md",
     "CALENG3.md",
     "assets",
     "Books and audiobooks.md",
@@ -249,7 +252,6 @@
     "Politics.md",
     "Games.md",
     "Ethics and morals.md",
-    "Israeli-Palestinian conflict.md",
     "Templates",
     "journals",
     "Attachments",
