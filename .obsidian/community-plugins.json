@@ -11,7 +11,7 @@
   "obsidian-image-toolkit",
   "obsidian-latex-suite",
   "obsidian-trim-whitespace",
-  "obsidian-outliner",
   "obsidian-zoom",
-  "calendar"
+  "calendar",
+  "obsidian-outliner"
 ]
