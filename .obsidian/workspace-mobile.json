@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Obtaining Data.md",
+                "file": "contents.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1. Obtaining Data.md",
+            "file": "contents.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1. Obtaining Data.md",
+            "file": "contents.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1. Obtaining Data.md"
+            "file": "contents.md"
           }
         }
       },
@@ -149,13 +149,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-trim-whitespace:Trim whitespace": false
+      "obsidian-trim-whitespace:Trim whitespace": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "40a35fd725c6c612",
   "lastOpenFiles": [
-    "kinds of components and chart forms.md",
     "1. Obtaining Data.md",
+    "comparisons and their appropriate chart forms.md",
     "assets/column chart.png",
     "assets/bar chart.png",
     "assets/pie chart.png",
