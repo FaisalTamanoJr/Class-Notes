@@ -14,8 +14,9 @@ Visit [[contents]] to view the contents of the vault.
 
 ## Updating the notes
 
-1. Open the command line at the cloned repository's folder.
-2. Type `git pull` (make sure you have [git](https://www.git-scm.com/downloads) installed).
-	-  If you encounter an error relating to local changes, type these commands
+1. Open the terminal/PowerShell at the cloned repository's folder.
+	- In windows, you can do this by opening the folder in file explorer, right clicking, and clicking “open PowerShell/terminal window here”.
+2. Enter `git pull` (make sure you have [git](https://www.git-scm.com/downloads) installed).
+	-  If you encounter an error relating to local changes, enter these commands
 		1. `git fetch origin master`
 		2. `git reset --hard origin/master`
