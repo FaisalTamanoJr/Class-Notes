@@ -1,0 +1,18 @@
+- tags: [[ENGENVI]]
+- Topic presentation
+	- Topics and group assigned to them
+		- (G1) A1-A2
+		- (G2) A3-A4
+		- (G3) B1-B3
+		- (G4) B4-B5
+		- (G5) C1-C3, C6
+		- (G6) C4-C5
+		- (G7) D1-D3
+		- (G8) D4
+		- (G9) E1
+		- (G10) E2
+		- (G11) IIIA - IIIB
+		- (G12) IIIC
+- Requirements
+	- Powerpoint presentation
+	- Sample questions
