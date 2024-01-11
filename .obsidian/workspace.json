@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "162445e292d61b1f",
+        "id": "ab5df8cdd804b431",
         "type": "tabs",
         "children": [
           {
-            "id": "7e946c77506259bc",
+            "id": "1be83e0af8702ea8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "2. Solution of Some 1st Order Differential Equation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -55,7 +55,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "2. Solution of Some 1st Order Differential Equation.md"
               }
             }
           },
@@ -65,7 +65,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "2. Solution of Some 1st Order Differential Equation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -92,8 +92,7 @@
                   "close": true
                 }
               }
-            },
-            "group": "08ba28004d4971c3"
+            }
           }
         ],
         "currentTab": 2
@@ -109,8 +108,7 @@
             "state": {
               "type": "bookmarks",
               "state": {}
-            },
-            "group": "08ba28004d4971c3"
+            }
           },
           {
             "id": "5ad3b669f9bfa3c4",
@@ -142,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "2. Solution of Some 1st Order Differential Equation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "2. Solution of Some 1st Order Differential Equation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,25 +219,26 @@
       "obsidian-trim-whitespace:Trim whitespace": false
     }
   },
-  "active": "7e946c77506259bc",
+  "active": "1be83e0af8702ea8",
   "lastOpenFiles": [
-    "ENGDATA.md",
+    "CALENG3.md",
+    "1. Introduction to Differential Equations.md",
     "contents.md",
     "README.md",
-    "assets/dot chart.png",
+    "ENGDATA.md",
+    "0. Introduction to Environmental Engineering.md",
+    "ENGENVI.md",
     "1. Obtaining Data.md",
-    "1. Introduction to Differential Equations.md",
+    "2. Solution of Some 1st Order Differential Equation.md",
+    "assets/dot chart.png",
     "assets/pie chart.png",
     "assets/bar chart.png",
     "assets/column chart.png",
     "assets/line chart.png",
-    "2. Solution of Some 1st Order Differential Equation.md",
-    "CALENG3.md",
     "comparisons and their appropriate chart forms.md",
     "CALENG3 practice questions.md",
     "variable separable practice questions.md",
     "assets/variable separable practice questions.png",
-    "ENGENVI.md",
     "kinds of components and chart forms.md",
     "SOFDESG.md",
     "LBYCPD2.md",
