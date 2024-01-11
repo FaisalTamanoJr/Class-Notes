@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d988282beaa5512c",
+        "id": "61016b524beb0855",
         "type": "tabs",
         "children": [
           {
-            "id": "55bfde6d32cc60df",
+            "id": "9c3b748c5071f806",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -120,7 +120,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -219,18 +220,28 @@
       "obsidian-trim-whitespace:Trim whitespace": false
     }
   },
-  "active": "55bfde6d32cc60df",
+  "active": "9c3b748c5071f806",
   "lastOpenFiles": [
-    "1. Obtaining Data.md",
     "ENGDATA.md",
     "contents.md",
-    "1. Introduction to Differential Equations.md",
-    "CALENG3.md",
     "README.md",
+    "assets/dot chart.png",
+    "1. Obtaining Data.md",
+    "1. Introduction to Differential Equations.md",
+    "assets/pie chart.png",
+    "assets/bar chart.png",
+    "assets/column chart.png",
+    "assets/line chart.png",
+    "2. Solution of Some 1st Order Differential Equation.md",
+    "CALENG3.md",
+    "comparisons and their appropriate chart forms.md",
+    "CALENG3 practice questions.md",
+    "variable separable practice questions.md",
+    "assets/variable separable practice questions.png",
+    "ENGENVI.md",
     "kinds of components and chart forms.md",
     "SOFDESG.md",
     "LBYCPD2.md",
-    "ENGENVI.md",
     "assets",
     "Books and audiobooks.md",
     "Backlogs.md",
@@ -243,11 +254,6 @@
     "Movies.md",
     "Templates/Routine template.md",
     "2008-2013 nostalgia.md",
-    "Templates/Untitled Kanban.md",
-    "Chores.md",
-    "Discipline challenge.md",
-    "Daily Notes/2023-12-17.md",
-    "Politics.md",
     "Templates",
     "journals",
     "Attachments",
@@ -256,12 +262,6 @@
     "6. Attachments/photo-1575936123452-b67c3203c357.jpg",
     "6. Attachments/Pasted image 20230924115604.png",
     "6. Attachments/Pasted image 20230912095157.png",
-    "6. Attachments/Pasted image 20230910194151.png",
-    "6. Attachments/Pasted image 20230910192957.png",
-    "6. Attachments/Pasted image 20230910185847.png",
-    "6. Attachments/Pasted image 20230910185526.png",
-    "6. Attachments/Pasted image 20230910183709.png",
-    "6. Attachments/Pasted image 20230909192202.png",
     "1. Fleeting Notes/Todo List.canvas",
     "1. Fleeting Notes/Filipino Indolence Canvas.canvas",
     "6. Attachments/Subject Files/CALENG1/CALENG1_Long_Quiz_2_Formula_Sheet.pdf",
