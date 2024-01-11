@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8eebb97fec823e3f",
+        "id": "162445e292d61b1f",
         "type": "tabs",
         "children": [
           {
-            "id": "0ca938f6875465ef",
+            "id": "7e946c77506259bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,7 +92,8 @@
                   "close": true
                 }
               }
-            }
+            },
+            "group": "08ba28004d4971c3"
           }
         ],
         "currentTab": 2
@@ -108,7 +109,8 @@
             "state": {
               "type": "bookmarks",
               "state": {}
-            }
+            },
+            "group": "08ba28004d4971c3"
           },
           {
             "id": "5ad3b669f9bfa3c4",
@@ -120,8 +122,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -220,7 +221,7 @@
       "obsidian-trim-whitespace:Trim whitespace": false
     }
   },
-  "active": "0ca938f6875465ef",
+  "active": "7e946c77506259bc",
   "lastOpenFiles": [
     "ENGDATA.md",
     "contents.md",
