@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3d93ad894e113ef8",
+        "id": "d36247f9c3521801",
         "type": "tabs",
         "children": [
           {
-            "id": "1e26c8e2e7a71d20",
+            "id": "7ddbc9fbce8fbe58",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -94,8 +94,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "4f9f1cd6dad9bf0e",
@@ -226,12 +225,14 @@
       "obsidian-trim-whitespace:Trim whitespace": false
     }
   },
-  "active": "1e26c8e2e7a71d20",
+  "active": "7ddbc9fbce8fbe58",
   "lastOpenFiles": [
-    "2. Solution of Some 1st Order Differential Equation.md",
-    "CALENG3.md",
     "contents.md",
     "README.md",
+    "SOFDESG.md",
+    "LBYCPD2.md",
+    "CALENG3.md",
+    "2. Solution of Some 1st Order Differential Equation.md",
     "1. Introduction to Differential Equations.md",
     "ENGDATA.md",
     "0. Introduction to Environmental Engineering.md",
@@ -247,8 +248,6 @@
     "variable separable practice questions.md",
     "assets/variable separable practice questions.png",
     "kinds of components and chart forms.md",
-    "SOFDESG.md",
-    "LBYCPD2.md",
     "assets",
     "Books and audiobooks.md",
     "Backlogs.md",
