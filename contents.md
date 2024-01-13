@@ -1,6 +1,4 @@
-- Term 5
-	- [[CALENG3]]
-	- [[ENGDATA]]
-	- [[ENGENVI]]
-	- [[LBYCPD2]]
-	- [[SOFDESG]]
+## Fifth term
+```dataview
+LIST FROM #Term5/Course 
+```
