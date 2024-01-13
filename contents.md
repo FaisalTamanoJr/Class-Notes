@@ -1,4 +1,5 @@
 ## Fifth term
 ```dataview
-LIST FROM #Term5/Course 
+LIST FROM #Term5/Course
+SORT file.name ASC
 ```
