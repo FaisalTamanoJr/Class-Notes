@@ -1,7 +1,7 @@
 ---
-Term: 5th Term
-tags:
-  - course
+Term: nth Term
+Tags:
+- course
 ---
 
 ```dataview

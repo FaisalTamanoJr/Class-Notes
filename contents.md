@@ -1,5 +1,9 @@
-## Fifth term
+Select a course to view.
+
+Click “contents” in the bookmarks tab on the left pane if you need to go back to this page.
+
 ```dataview
-LIST FROM #Term5/Course
-SORT file.name ASC
+TABLE WITHOUT ID file.link as "Course", Term 
+FROM #course AND !"templates"
+SORT Term ASC
 ```
