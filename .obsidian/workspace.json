@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cb8d21047139b225",
+        "id": "ce676df1806196ee",
         "type": "tabs",
         "children": [
           {
-            "id": "12c041bea935973e",
+            "id": "a75d5ac829f8ec49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contents.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -55,7 +55,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "contents.md"
+                "file": "README.md"
               }
             }
           },
@@ -144,19 +144,27 @@
       "obsidian-trim-whitespace:Trim whitespace": false
     }
   },
-  "active": "12c041bea935973e",
+  "active": "a75d5ac829f8ec49",
   "lastOpenFiles": [
     "progress-tracker.md",
-    "ENGENVI.md",
     "contents.md",
-    "1. Ecological Concepts.md",
-    "ENGDATA.md",
-    "LBYCPD2.md",
-    "SOFDESG.md",
-    "templates/course template.md",
-    "CALENG3.md",
-    "templates/lesson template.md",
     "README.md",
+    "LBYCPD2.md",
+    "CALENG3.md",
+    "ENGDATA.md",
+    "ENGENVI.md",
+    "SOFDESG.md",
+    "CALENG3 - Lesson 2.md",
+    "CALENG3 - Lesson 1.md",
+    "ENGDATA - Lesson 2.md",
+    "ENGDATA - Lesson 1.md",
+    "ENGENVI - Lesson 0.md",
+    "ENGENVI - Lesson 1.md",
+    "SOFDESG - Lesson 2.md",
+    "templates/lesson template.md",
+    "SOFDESG - Lesson 1.md",
+    "templates/course template.md",
+    "contingency table.md",
     "assets/line chart.png",
     "assets/dot chart.png",
     "assets/column chart.png",
@@ -165,13 +173,6 @@
     "templates/practice questions template.md",
     "variable separable practice questions.md",
     "comparisons and their appropriate chart forms.md",
-    "2. Software Characteristics and Applications.md",
-    "2. Probability.md",
-    "2. Solution of Some 1st Order Differential Equation.md",
-    "0. Introduction to Environmental Engineering.md",
-    "1. Introduction to Differential Equations.md",
-    "1. Obtaining Data.md",
-    "1. Software Engineering.md",
     "templates/YAML frontmatter template.md",
     "templates",
     "assets/pie chart.png",
