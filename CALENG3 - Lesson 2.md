@@ -10,7 +10,10 @@ References used:
 tags:
   - lesson
 ---
-
+- Before solving
+	1. Check if its variable separable.
+	2. Check if its a homogeneous DE.
+	3. Check if its an exact De.
 - Variable Separable
 	- General Form
 		- $M(x,y)dx+N(x,y)dy=0$
@@ -74,9 +77,9 @@ tags:
 			- In this step, get the partial derivative of the functions with respect to their opposite variables. So the partial derivative of $M(x,y)dx$ is $\frac{\partial M}{\partial y}$ and the partial derivative of $N(x,y)dy$ is $\frac{\partial N}{\partial x}$. Check if $\frac{\partial M}{\partial y}=\frac{\partial N}{\partial x}$, and if they are, it means that they are an exact DE.
 		2. You can either solve using $M$ or $N$. For this example, we’ll use $M$. Replace the entire $N$ function and $dy$ to $g(y)$.
 		3. Integrate the first function $M$ with respect to x because of the $dx$ in the function.
-		4. Find the derivative of the entire equation with respect to y.
+		4. Find the partial derivative of the entire equation with respect to $y$, since we know that it is equal to $N$.
 			- The derivative of $g(y)$ is $g'(y)$.
-		5. Make the entire equation equal to the original value of second function (before changing it to $g(y)$), and solve for $g’(y)$.
+		5. Equate the entire equation to the original value of $N$ (before changing it to $g(y)$), and solve for $g’(y)$.
 		6. Integrate $g’(y)$ to get $g(y)$.
 		7. Substitute the solved $g(y)$ to the whole equation found after doing step 3.
 		8. The general solution would be in the form of $F(x,y)=c$, where $F$ is a function of $x$ and $y$, and $c$ is the constant of integration.
