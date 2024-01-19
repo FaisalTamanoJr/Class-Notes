@@ -1,1 +1,0 @@
-- Also known as the [[software development process]] and the [[Systems Development Life Cycle]]

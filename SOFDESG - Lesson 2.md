@@ -10,7 +10,7 @@ tags:
   - lesson
 ---
 
-- [[Systems Development Life Cycle]] (SDLC)
+- [[Software Development Life Cycle|Systems Development Life Cycle]] (SDLC)
 	- Definition, characteristics, and key points
 		- Is a methodology that consists of several phases, and is used for developing information systems. The phases mark the progress of the systems analysis and design effort.
 		- It can be thought of as a circular system, where the end of a system leads to the start of a project that either produces a new version of the system, or a new system that replaces it.
@@ -46,7 +46,7 @@ tags:
 			- It answers the questions of who will use the system, what the system will do, and where and when it will be used.
 			- Steps
 				1. Perform requirements modeling, where you investigate business processes and document what the new system must do. You can perform fact-finding techniques (e.g., interviews, surveys, document reviews, observation, and sampling) to learn about the system.
-				2. The end product should be the [[System Requirements Document]] (SRS), which describes management and user requirements, costs, and benefits. The SRS should also outline alternative development strategies.
+				2. The end product should be the [[System Requirements Document]] (SRS), also known as the System Requirements Specification, which describes management and user requirements, costs, and benefits. The SRS should also outline alternative development strategies.
 		- [[systems design|Systems design]]
 			- In this phase, the designer decides how the system will operate in terms of hardware, software, and network infrastructure; the user interface, forms, and reports that will be used; and the specific programs, databases, and files that will be needed.
 				- Objective: To create a blueprint that will satisfy all documented requirements.
@@ -74,7 +74,7 @@ tags:
 				- File conversion happens.
 				- There is involvement from the users, managers, and the IT staff trained to operate and support the system.
 				- System evaluation is performed to determine whether the system operates properly and if costs and benefits are within expectations.
-			- [[coding and unit testing|Coding and unit testing]]
+			- [[coding and unit testing|Coding and unit testing]] (also known as the implementation phase)
 				- This is the stage where software design is translated into source code, and the components of the design are implemented as a program module. As a result, the end-product is a set of program modules that have been individually tested (since individually testing them is the most efficient way to debug errors).
 				- During each integration step, the partially integrated system is tested and a set of previously planned modules are added to it.
 				- System testing happens after all the modules have been integrated and tested. This is done to ensure that the developed system conforms to its requirements laid out in the SRS document.

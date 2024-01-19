@@ -107,6 +107,7 @@ tags:
 			- Flexibility
 			- Scalability
 	- [[Software Development Life Cycle]] (SDLC)
+		- Also known as the “software development process”.
 		- Definition and terminologies
 			- It is the process and framework used by the software industry to produce high quality software that exceeds customers expectations and reaches completion within times and cost estimates. It consists of a plan that describes how to develop, maintain, replace, alter, or enhance a specific software. Moreover, it defines a methodology for improving the overall development process.
 			- [[ISO/IEC 12207]] is an international standard for software life-cycle processes that aims to define all the tasks required for developing and maintaining software.

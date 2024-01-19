@@ -67,7 +67,7 @@ Tags:
 - [[sample space|Sample space]]
 	- Terminologies
 		- **Sample space (S)** is a list of all possible outcomes.
-		- **[[Sample points]] (x)** are the elements of the sample space (a single outcome is a single sample point).
+		- **[[sample points|Sample points]] (x)** are the elements of the sample space (a single outcome is a single sample point).
 	- Ways of defining a sample space
 		1. [[Listing/Roster method]]
 			- Done by enumerating all the elements of the sample space.
