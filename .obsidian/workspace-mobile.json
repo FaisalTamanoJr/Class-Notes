@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "be021db57bf81fb1",
+        "id": "8dff5ab57dfb7b72",
         "type": "tabs",
         "children": [
           {
-            "id": "50c1df829f8254ca",
+            "id": "49e716127575a379",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "contents.md",
                 "mode": "source",
-                "backlinks": false,
+                "backlinks": true,
                 "source": false
               }
             }
@@ -107,6 +107,23 @@
           "type": "dictionary-view",
           "state": {}
         }
+      },
+      {
+        "id": "f8b365c9c44178ca",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "contents.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
       }
     ],
     "currentTab": 1
@@ -118,40 +135,43 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-trim-whitespace:Trim whitespace": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "50c1df829f8254ca",
+  "active": "49e716127575a379",
   "lastOpenFiles": [
-    "CALENG3 - Lesson 2.md",
     "CALENG3.md",
     "contents.md",
-    "progress-tracker.md",
-    "CALENG3 - Lesson 1.md",
-    "ENGDATA - Lesson 2.md",
-    "ENGDATA.md",
-    "ENGDATA - Lesson 1.md",
-    "ENGENVI.md",
     "SOFDESG - Lesson 2.md",
-    "SOFDESG.md",
-    "ENGENVI - Lesson 0.md",
-    "LBYCPD2.md",
+    "acceptance testing.md",
     "SOFDESG - Lesson 1.md",
-    "README.md",
-    "2. Software Characteristics and Applications.md",
-    "1. Software Engineering.md",
-    "2. Probability.md",
-    "2. Ecological Concepts.md",
+    "CALENG3 - Lesson 2.md",
+    "exact DEs.md",
+    "DEs with homogeneous coefficient.md",
+    "variable separable.md",
+    "CALENG3 - Lesson 1.md",
+    "particular solution.md",
+    "general solution.md",
+    "ODE solution.md",
+    "linear differential equation.md",
+    "degree of a differential equation.md",
+    "order of a differential equation.md",
+    "partial differential equation.md",
+    "ordinary differential equation.md",
+    "differential equations.md",
+    "ENGDATA - Lesson 2.md",
+    "Bayes theorem.md",
+    "partitioning of n objects into cells.md",
+    "arrangement of similar objects.md",
+    "circular permutation.md",
+    "simple combination.md",
+    "simple premutation.md",
+    "Listing",
+    "ISO",
     "assets/arrangement of similar objects.jpg",
     "assets/set operations.jpg",
-    "0. Introduction to Environmental Engineering.md",
-    "1. Obtaining Data.md",
-    "2. Solution of Some 1st Order Differential Equation.md",
-    "1. Introduction to Differential Equations.md",
-    "variable separable practice questions.md",
     "templates",
-    "comparisons and their appropriate chart forms.md",
-    "CALENG3 practice questions.md",
     "assets/column chart.png",
     "assets/bar chart.png",
     "assets/pie chart.png",

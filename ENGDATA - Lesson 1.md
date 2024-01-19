@@ -12,21 +12,21 @@ Tags:
 - lesson
 ---
 
-- Data
+- [[data|Data]]
 	- Types
-		- **Quantitative**, or data that can be measured.
-		- **Qualitative**, such as words, images, and images.
-	- Methods of data collection
-		- Primary
+		- [[quantitative data|Quantitative]], or data that can be measured.
+		- [[qualitative data|Qualitative]], such as words, images, and images.
+	- Methods of [[data collection]]
+		- [[primary data collection|Primary]]
 			- Refers to the data gathered by the researcher themselves.
 			- Examples
 				- statistical methods
-				- surveys
+				- [[surveys]]
 				- polls
 				- interview
-				- Delphi technique
+				- [[Delphi technique]]
 				- focus groups
-		- Secondary
+		- [[secondary data collection|Secondary]]
 			- Refers to the data already collected by someone else (not the researcher).
 			- Examples
 				- financial reports
@@ -35,7 +35,7 @@ Tags:
 				- mission
 				- vision statement
 				- internet
-- Surveys
+- [[Surveys]]
 	- Uses
 		- Surveys are used to gather information that, ideally, represents the views of the population being studied. It involves asking plenty of people to answer a series of unbiased questions.
 	- Advantages
@@ -56,49 +56,49 @@ Tags:
 		4. Create the set of questions, while considering how they are phrased, and how they are ordered.
 		5. Conduct the interview and collect the information.
 		6. Analyze the results by making graphs and drawing conclusions.
-- Sampling
+- [[sampling|Sampling]]
 	- Definition
 		- Sampling is the process of selecting individuals or a subset of a population to help produce statistical inferences and approximate the characteristics of the entire population being researched.
 	- Types
-		- Probability sampling
+		- [[probability sampling|Probability sampling]]
 			- Definition
 				- Probability sampling refers to the type of sampling where a researcher chooses a few criteria, and randomly selects members from the population. The members will all have an equal chance of being part of the sample.
 			- Types
-				- Simple random sampling
+				- [[simple random sampling|Simple random sampling]]
 					- In simple random sampling, every member of the population has an equal chance of being part of the sample, because the sampling process only involves the random selection of members from the entire population.
-				- Cluster sampling
+				- [[cluster sampling|Cluster sampling]]
 					- Cluster sampling divides the population into clusters based on a chosen characteristic (e.g., age, sex, location), and selects from those clusters to form a sample.
-				- Systematic sampling
+				- [[systematic sampling|Systematic sampling]]
 					- Systematic sampling chooses the sample members of a population by requiring a starting point and a sample size determination that can be repeated at regular intervals. This is so that the members selected are based on a chosen interval (e.g., every 5th person is part of the population).
 					- This sampling method is the least time-consuming since it has a predefined range.
-				- Stratified random sampling
+				- [[stratified random sampling|Stratified random sampling]]
 					- Stratified random sampling involves dividing the population into smaller groups that do not overlap but represents the entire population. Samples are then separately drawn from each created group.
 			- Uses
-				- It reduces sample bias, resulting in high quality data due to the sample closely representing the population.
+				- It reduces [[sample bias]], resulting in high quality data due to the sample closely representing the population.
 				- It has diverse populations, where the data is not skewed to one demographic because of the adequate representation of the population.
 				- It generates an accurate sample; hence, it helps in obtaining to well-defined data.
-		- Non-probability sampling
+		- [[non-probability sampling|Non-probability sampling]]
 			- Definition
 				- Non-probability sampling is a type of sampling where not everyone has an equal opportunity to be part of the sample, because it is not a predefined or fixed selection process. For this sampling method, researchers also get samples by randomly choosing members.
 			- Types
-				- Convenience sampling
+				- [[convenience sampling|Convenience sampling]]
 					- This sampling method depends on the ease of access to subjects (proximity), instead of how well the subjects represents the whole population. It is mostly used due to time and cost limitations.
-				- Judgmental or purposive sampling
+				- [[purposive sampling|Judgmental or purposive sampling]]
 					- Purposive sampling only selects subjects that have desired characteristics for the study of the researchers.
-				- Snowball sampling
+				- [[snowball sampling|Snowball sampling]]
 					- Snowball sampling is helpful for finding subjects that are hard to trace, or when a topic has high sensitivity. It involves asking the subjects to help identify potential research participants. It can also involve asking assistance from volunteers associated with potential subjects, in order to extract information from them.
-				- Quota sampling
+				- [[quota sampling|Quota sampling]]
 					- In a quota sample, members are selected based on a predetermined number or proportion of units, after dividing the population based on specific attributes.
 			- Uses
-				- It is helpful for creating a hypothesis when no prior information is available, since it allows for immediate data collection. In addition, it builds a base for further research.
-				- It is useful for qualitative research, pilot studies, or exploratory research.
+				- It is helpful for creating a [[hypothesis]] when no prior information is available, since it allows for immediate [[data collection]]. In addition, it builds a base for further research.
+				- It is useful for [[qualitative research]], [[pilot studies]], or [[exploratory research]].
 				- Researchers use non-probability sampling methods when facing budget and time constraints.
-- Experimental Design
+- [[experimental design|Experimental design]]
 	- Key factors for a high quality experimental design
-		- Data should not be contaminated by poor measurement or errors in the procedure.
+		- [[Data]] should not be contaminated by poor measurement or errors in the procedure.
 		- Eliminate confounding variables, or variables that can influence both the independent and dependent variable.
 		- Ensure that the sample properly represents the population being studied.
-	- Elements of a good quantitative research design
+	- Elements of a good [[quantitative research]] design
 		- Bias-free
 		- Does not have any confounding variables.
 		- Extraneous variables, or variables that can affect the outcomes but are not being investigated, are controlled.
@@ -106,17 +106,17 @@ Tags:
 	- Steps
 		1. Question
 			- Formulate a question that you can test. You may use a mind map to assist you.
-		2. Hypothesis
+		2. [[Hypothesis]]
 			- Form a hypothesis (educated guess) by creating a testable statement. At the end of the experiment, check if the conclusion supports the hypothesis.
 		3. Explanation of hypothesis
 			- Explore the reasons on why you chose a specific hypothesis.
-		4. Prediction
+		4. [[Prediction]]
 			- Produce a prediction, or a statement about the direct results of the experiment. This is different from a hypothesis because a hypothesis is a testable statement where you predict the conclusion and not the results.
 		5. Identification of variables
 			- Identify the following variables for your experiment
-				- **Independent variable** (the cause of the study) or the variable that you alter to see if it directly affects the dependent variable(s). Only one independent variable is chosen to make it easier to identify which variable is directly responsible for causing the change.
-				- **Dependent variables** (the effect of the study) or the variables that you have observed or measured.
-				- **Controlled variables** refer to the factors that you intentionally keep the same throughout the entire experiment to prevent it from affecting the dependent variable. We do this to allow us to only see the effect of the independent variable on the dependent variable.
+				- [[independent variable|Independent variable]] (the cause of the study) or the variable that you alter to see if it directly affects the dependent variable(s). Only one independent variable is chosen to make it easier to identify which variable is directly responsible for causing the change.
+				- [[dependent variable|Dependent variables]] (the effect of the study) or the variables that you have observed or measured.
+				- [[controlled variables|Controlled variables]] refer to the factors that you intentionally keep the same throughout the entire experiment to prevent it from affecting the dependent variable. We do this to allow us to only see the effect of the independent variable on the dependent variable.
 		6. Risk assessment
 			- Identify potential risks in the experiment, then identify ways to minimize those risks.
 		7. Materials
@@ -126,9 +126,9 @@ Tags:
 		9. Carry out experiment
 			- Follow your created plan and carry out your experiment. During the experiment, record your data in a meaningful and easy-to-understand way. Do not forget to document any difficulties you have experienced, so that it could help you in evaluating your experimental method.
 			- After the experiment, share the results, analyze the data, and draw conclusions from the data.
-- Difference between precision and accuracy
+- Difference between [[precision]] and [[accuracy]]
 	- Accuracy is the characteristic of the result to be close to the true value, while precision is how close the results are to one another.
-- Graphical charts
+- [[graphical charts|Graphical charts]]
 	- Main types
 		1. Pie chart
 			- ![[pie chart.png|100]]
@@ -146,19 +146,19 @@ Tags:
 		3. Select a chart based on the comparison.
 			- ![[comparisons and their appropriate chart forms]]
 - Kinds of comparisons
-	- Component
+	- [[component comparison|Component]]
 		- A type of comparison focused on showing the size of each part as a percentage of the total.
 		- Words that might indicate that it is a component comparison type
 			- share
 			- percentage of total
 			- accounted for X percent
-	- Item
+	- [[item comparison|Item]]
 		- This type of comparison deals with how things rank.
 		- Words that might indicate that it is an item comparison type
 			- larger than
 			- smaller than
 			- equal
-	- Time series
+	- [[time series comparison|Time series]]
 		- A time series comparison revolves around how something changes over time.
 		- Words that might indicate that it is a time series comparison type
 			- change
@@ -168,14 +168,14 @@ Tags:
 			- increase
 			- decrease
 			- fluctuate
-	- Frequency distribution
+	- [[frequency distribution comparison|Frequency distribution]]
 		- This type of comparison is focused on the number of items that fall into a series of progressive numerical ranges.
 		- Words that might indicate that it is a frequency distribution comparison type
 			- X to Y range
 			- concentration
 			- frequency
 			- distribution
-	- Correlation
+	- [[correlation comparison|Correlation]]
 		- Correlation comparisons are used to show the behavior of the relationship between two variables. It can help in determining whether a relationship between variables follows, or fails to follow, an expected pattern.
 		- Words that might indicate that it is a correlation comparison type
 			- is/is not related to

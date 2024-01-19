@@ -14,7 +14,7 @@ tags:
 	1. Check if its variable separable.
 	2. Check if it's a homogeneous DE.
 	3. Check if it's an exact DE.
-- Variable Separable
+- [[variable separable|Variable Separable]]
 	- General Form
 		- $M(x,y)dx+N(x,y)dy=0$
 		- The two functions must be products or quotients of x and y, meaning that they can be separated. Otherwise, they are not variable separable.
@@ -27,8 +27,8 @@ tags:
 		2. Separate the variables by making $dx$ together with all the $x$s, and by making all the $y$s in the function together with $dy$. In other words, isolate the $x$ and $y$ from each other.
 		3. Integrate
 		4. The general solution would be in the form of $F(x,y)=c$, where $F$ is a function of $x$ and $y$, and $c$ is the constant of integration.
-- DEs with Homogeneous Coefficient
-	- Homogeneous Function
+- [[DEs with homogeneous coefficient]]
+	- Homogeneous function
 		1. A function is said to be homogeneous of degree $n$ if and only if
 			- $f(tx,ty)=t^nf(x,y)$
 			- You can draw out the original function multiplied by  $t^n$ when substituting $tx$ to $x$ and $ty$ to $y$ in the function.
@@ -54,7 +54,7 @@ tags:
 		6. Integrate
 		7. Replace $v$ using $x=vy$, so $v=\frac{x}{y}$. This would slightly be different if $N$ was simpler than $M$ since it would use $y=vx$.
 		8. The general solution would be in the form of $F(x,y)=c$, where $F$ is a function of $x$ and $y$, and $c$ is the constant of integration.
-- Exact DEs
+- [[exact DEs|Exact DEs]]
 	- Given: $F(x,y)=0$
 		- Total differential
 			- $\frac{\partial F}{\partial x}dx+\frac{\partial F}{\partial y}dy=0$
