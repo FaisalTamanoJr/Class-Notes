@@ -14,12 +14,12 @@ tags:
 	- Definition, characteristics, and key points
 		- Is a methodology that consists of several phases, and is used for developing information systems. The phases mark the progress of the systems analysis and design effort.
 		- It can be thought of as a circular system, where the end of a system leads to the start of a project that either produces a new version of the system, or a new system that replaces it.
-		- The phases do not necessarily have to be sequentially ordered since the specific steps and their sequence are meant to be adapted as required for a project.
-		- In a SDLC, you can complete some activates in one phase in parallel with some activates of another phase.
+		- The phases do not necessarily have to be sequentially ordered, since the specific steps and their sequence are meant to be adapted as required for a project.
+		- In an SDLC, you can complete some activates in one phase in parallel with some activates of another phase.
 		- There are some cases where the SDLC is iterative, which means that phases are repeated until an acceptable system is found.
 		- In an organization, it refers to an orderly set of activates conducted and planned for each development project.
 		- The outcomes of each phase provide important information to other phases.
-		- Each of the phases include a set of steps which rely on techniques that produce specific document files. These document files are helpful for understanding the project.
+		- Each of the phases includes a set of steps which rely on techniques that produce specific document files. These document files are helpful for understanding the project.
 		- Individual companies use customized life cycles.
 	- Simplified stages of an SDLC
 		1. An idea
@@ -29,7 +29,7 @@ tags:
 	- Models
 		- Waterfall model
 			- ![[SDLC waterfall model.jpg|300]]
-				- Is the traditional way of representing a SDLC.
+				- Is the traditional way of representing an SDLC.
 				- The result of each phase, referred to as the end product, flows sequentially into the next phase.
 				- The adjacent phases interact, as shown by the dotted lines.
 		- Alternative model
@@ -42,7 +42,7 @@ tags:
 				- A key part of the investigation is a feasibility study that reviews costs and benefits, and recommends a course of action based on operational, technical, economic, and time factors.
 			- A **systems request** starts the planning process and describes the problems or desired changes in an information system or business process.
 		- Systems analysis
-			- It serves as the phase for building a logical model of the new system. Hence, it will involve the investigation of any current systems, the identification for what could be improved, and the development of a concept for the new system.
+			- It serves as the phase for building a logical model of the new system. Hence, it will involve the investigation of any current systems, the identification of what could be improved, and the development of a concept for the new system.
 			- It answers the questions of who will use the system, what the system will do, and where and when it will be used.
 			- Steps
 				1. Perform requirements modeling, where you investigate business processes and document what the new system must do. You can perform fact-finding techniques (e.g., interviews, surveys, document reviews, observation, and sampling) to learn about the system.
@@ -59,7 +59,7 @@ tags:
 				- Focuses on the technical specifications.
 			- Different approaches to systems design.
 				- Traditional design
-					- Consists of two different activities
+					- consists of two different activities
 						1. A structured analysis of the requirements specification, where the detailed structure of the problem is examined.
 						2. A structured design activity, where the results of the structured analysis are transformed into the software design.
 				- Object-oriented design
@@ -101,9 +101,9 @@ tags:
 				- Is more difficult to do than developing the product itself. Studies even claim that the ratio between software development effort and maintenance effort is roughly in the 40:60 ratios.
 				- Kinds of maintenance activities
 					- Corrective maintenance
-						- Focuses on correcting errors that were not discovered during the product development phase.
+						- focuses on correcting errors that were not discovered during the product development phase.
 					- Perfective maintenance
-						- Deals with the improvement of the system’s implementation and functionalities (based on the customer’s requirements).
+						- deals with the improvement of the system’s implementation and functionalities (based on the customer’s requirements).
 					- Adaptive maintenance
 						- Is concentrated on porting the software to work in a new environment.
 - Systems development guidelines
@@ -112,7 +112,7 @@ tags:
 	- Listen to users.
 		- This will allow you to effectively meet their needs, and help you create the best system. When interacting with users, put aside any preconceived notions and listen closely.
 	- Create a timetable with major milestones.
-		- Identify major milestones for project review and assessment. At those milestones, managers and systems developers must decide whether to proceed with the project, redo certain tasks, return to earlier phase, or terminate the project.
+		- Identify major milestones for project review and assessment. At those milestones, managers and systems developers must decide whether to proceed with the project, redo certain tasks, return to an earlier phase, or terminate the project.
 	- Identify interim checkpoints
 		- Establish interim checkpoints between major milestones to ensure that the project remains on schedule.
 	- Remain flexible

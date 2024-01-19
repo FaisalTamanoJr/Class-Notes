@@ -12,10 +12,10 @@ tags:
 
 - Software engineering
 	- Definition and characteristics
-		- Software engineering is the set of techniques, methodologies, and tools used for producing a high quality software system. The production is given a budget while change occurs before the deadline.
+		- Software engineering is the set of techniques, methodologies, and tools used for producing a high quality software system. The production is given a budget, while change occurs before the deadline.
 		- It is the process of analyzing user needs to develop end user applications that satisfy these needs. This would involve the use of programming languages to assist in designing, constructing, and testing the applications.
 		- Unlike simple programming, software engineering is used for larger and more complex software systems. These software systems are used as [critical systems](https://en.wikipedia.org/wiki/Critical_system) for businesses and organizations.
-		- Software engineering is a branch of engineering that focuses on making software while using scientific principles, resulting to an efficient and reliable software product.
+		- Software engineering is a branch of engineering that focuses on making software while using scientific principles, resulting in an efficient and reliable software product.
 		- It is the application of systematic, disciplined, quantifiable, approach to the development, operation and maintenance of software.
 	- Science, engineering, management, and human factors of software engineering
 		- Science: Makes use of empirical studies and theories for the behavior of the whole system (for reliability).
@@ -41,12 +41,12 @@ tags:
 	- Reasons to study
 		- It is not reasonable to build software without discipline.
 		- Software is critical to society.
-		- Building a large complete software project is hard.
+		- Building a large and complete software project is hard.
 		- There is a perceived crisis in our ability to build software.
 		- It is fun.
 	- Importance
 		- Software engineering is becoming more important because of the increasing rate of change in user requirements and environment of the software.
-		- It also addresses the following (with regards to software)
+		- It also addresses the following (in regard to software)
 			- Large software
 				- Software engineering introduces scientific principles to assist in dealing with large software.
 			- Scalability
@@ -80,7 +80,7 @@ tags:
 		- Software debugging
 		- Software documentation
 		- Software testing
-		- Problem solving
+		- Problem-solving
 		- Teamwork
 		- Software development fundamentals
 		- Software development process
@@ -101,7 +101,7 @@ tags:
 			- Interoperability
 			- Reusability
 			- Adaptability
-		- **Maintenance**, or the aspect the indicates how well a software can adapt to an ever-changing environment. It can be measured based on
+		- **Maintenance**, or the aspect that indicates how well a software can adapt to an ever-changing environment. It can be measured based on
 			- Modularity
 			- Maintainability
 			- Flexibility
@@ -109,15 +109,15 @@ tags:
 	- Software Development Life Cycle (SDLC)
 		- Definition and terminologies
 			- Also known as the Software Development Process.
-			- Is the process and framework used by the software industry to produce high quality software that exceeds customers expectations and reaches completion within times and cost estimates. It consists of a plan that describes how to develop, maintain, replace, alter, or enhance a specific software. Moreover, it defines a methodology for improving the overall development process.
+			- It is the process and framework used by the software industry to produce high quality software that exceeds customers expectations and reaches completion within times and cost estimates. It consists of a plan that describes how to develop, maintain, replace, alter, or enhance a specific software. Moreover, it defines a methodology for improving the overall development process.
 			- ISO/IEC 12207 is an international standard for software life-cycle processes that aims to define all the tasks required for developing and maintaining software.
 		- Stages of a typical SDLC
 			1. Planning and requirement analysis
 				- Requirement analysis is the most important stage.
 				- This is done by the senior members of the team with inputs from the customer, the sales department, market surveys, and domain experts in the industry.
 				- This stage is used to plan the basic project approach, and to conduct product feasibility study in the economical, operational, and technical areas.
-				- This stage involves planning for the quality assurance requirements, and also the identification of the risks associated with the project.
-				- The goal of a technical feasability study is to find viable technical approaches in order to successfully implement the project with minimum risks.
+				- It is the stage that involves planning for the quality assurance requirements, and also the identification of the risks associated with the project.
+				- The goal of a technical feasibility study is to find viable technical approaches in order to successfully implement the project with minimum risks.
 			2. Defining Requirements
 				- This stage is used for defining the requirements, and getting them approved by the customer or the market analysts. This is done through a Software Requirement Specification (SRS) document, a document that contains all the product requirements to be designed and developed during the project life cycle.
 			3. Designing the product architecture
@@ -126,14 +126,14 @@ tags:
 				- A design approach defines all the architectural modules of the product, along with its communication and data flow representation with the external and third party modules (if any).
 				- The internal design of all the modules of the proposed architecture should be clearly defined, with all the details, in the DDS.
 			4. Building or developing the product
-				- Development begins and the product is built in accordance to the DDS.
+				- Development begins, and the product is built in accordance to the DDS.
 				- Different high-level programming languages are used depending on the type of software being developed.
 			5. Testing the product
 				- Although testing is a subset of all the stages in the modern SDLC models, and testing activities are mostly involved in all the stages, this stage only refers to the testing only stage. Hence, it is where product defects are reported, tracked, fixed, and retested, until the product reaches the quality standards defined in the SRS.
 			6. Deployment in the market and maintenance
 				- The product is released to the market after it is tested and ready to be deployed.
 				- Sometimes product deployment happens in stages as per the business strategy of that organization.
-				- The product may first be released in a limited segment and tested in the real business environment (UAT - User Acceptance Testing). Then based on the feedback, the product may be released as it is or with suggested enhancements in the targeting market segment.
+				- The product may first be released in a limited segment and tested in the real business environment (UAT - User Acceptance Testing). Then, based on the feedback, the product may be released as it is or with suggested enhancements in the targeting market segment.
 				- After the product is released in the market, its maintenance is done for the existing customer base.
 		- Software Lifecycle Context
 			1. Requirements

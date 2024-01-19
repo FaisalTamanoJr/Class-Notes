@@ -49,7 +49,7 @@ Tags:
 		1. Determine the goal.
 		2. Identify the sample population.
 		3. Choose an interviewing method.
-			- face-to-face interview
+			- Face-to-face interview
 			- phone interview
 			- self-administered paper survey
 			- internet survey
@@ -70,16 +70,16 @@ Tags:
 					- Cluster sampling divides the population into clusters based on a chosen characteristic (e.g., age, sex, location), and selects from those clusters to form a sample.
 				- Systematic sampling
 					- Systematic sampling chooses the sample members of a population by requiring a starting point and a sample size determination that can be repeated at regular intervals. This is so that the members selected are based on a chosen interval (e.g., every 5th person is part of the population).
-					- This sampling method is the least time consuming since it has a predefined range.
+					- This sampling method is the least time-consuming since it has a predefined range.
 				- Stratified random sampling
 					- Stratified random sampling involves dividing the population into smaller groups that do not overlap but represents the entire population. Samples are then separately drawn from each created group.
 			- Uses
-				- It reduces sample bias, resulting to high quality data due to the sample closely representing the population.
+				- It reduces sample bias, resulting in high quality data due to the sample closely representing the population.
 				- It has diverse populations, where the data is not skewed to one demographic because of the adequate representation of the population.
 				- It generates an accurate sample; hence, it helps in obtaining to well-defined data.
 		- Non-probability sampling
 			- Definition
-				- Non-probability sampling is a type of sampling where not everyone has an equal opportunity to be part of the sample, because it is not a predefined or fixed selection process. For this sampling method, researchers get samples by also randomly choosing members.
+				- Non-probability sampling is a type of sampling where not everyone has an equal opportunity to be part of the sample, because it is not a predefined or fixed selection process. For this sampling method, researchers also get samples by randomly choosing members.
 			- Types
 				- Convenience sampling
 					- This sampling method depends on the ease of access to subjects (proximity), instead of how well the subjects represents the whole population. It is mostly used due to time and cost limitations.
@@ -116,13 +116,13 @@ Tags:
 			- Identify the following variables for your experiment
 				- **Independent variable** (the cause of the study) or the variable that you alter to see if it directly affects the dependent variable(s). Only one independent variable is chosen to make it easier to identify which variable is directly responsible for causing the change.
 				- **Dependent variables** (the effect of the study) or the variables that you have observed or measured.
-				- **Controlled variables** refers to the factors that you intentionally keep the same throughout the entire experiment to prevent it from affecting the dependent variable. We do this to allow us to only see the effect of the independent variable on the dependent variable.
+				- **Controlled variables** refer to the factors that you intentionally keep the same throughout the entire experiment to prevent it from affecting the dependent variable. We do this to allow us to only see the effect of the independent variable on the dependent variable.
 		6. Risk assessment
 			- Identify potential risks in the experiment, then identify ways to minimize those risks.
 		7. Materials
 			- Identify the materials needed for the experiment (including the safety equipment).
 		8. General plan and diagram
-			- Create a plan that can allow other scientists to reproduce your experiment. You may use numbered list of instructions to do this. Additionally, you may also use diagrams if it can help in explaining your experiment.
+			- Create a plan that can allow other scientists to reproduce your experiment. You may use a numbered list of instructions to do this. Additionally, you may also use diagrams if it can help in explaining your experiment.
 		9. Carry out experiment
 			- Follow your created plan and carry out your experiment. During the experiment, record your data in a meaningful and easy-to-understand way. Do not forget to document any difficulties you have experienced, so that it could help you in evaluating your experimental method.
 			- After the experiment, share the results, analyze the data, and draw conclusions from the data.
@@ -154,7 +154,7 @@ Tags:
 			- accounted for X percent
 	- Item
 		- This type of comparison deals with how things rank.
-		- Words that might indicate that it is a item comparison type
+		- Words that might indicate that it is an item comparison type
 			- larger than
 			- smaller than
 			- equal

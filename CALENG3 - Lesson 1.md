@@ -1,7 +1,7 @@
 ---
 Course: CALENG3
 Topic: Introduction to Differential Equations
-Linked_Tests: 
+Linked_Tests:
 - Quiz 1
 Status: Done
 References used:
@@ -20,7 +20,7 @@ tags:
 			- This type only has partial derivatives, and have three or more variables (one dependent, while the rest are independent).
 	- Order of a differential equation
 		- The order of a differential equation is the order of the highest ordered derivative in the equation.
-		- The order of this derivative $y^n=\frac{d^ny}{dx^n}$, is the value of $n$. So we say that this derivative is at the $n^{th}$ order.
+		- The order of this derivative, $y^n=\frac{d^ny}{dx^n}$, is the value of $n$. So we say that this derivative is at the $n^{th}$ order.
 	- Degree of a differential equation
 		- The degree of a differential equation is determined by the algebraic degree of the highest ordered derivative in the equation.
 		- A differential equation may not have a degree.

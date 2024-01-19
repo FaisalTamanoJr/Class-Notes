@@ -12,8 +12,8 @@ tags:
 ---
 - Before solving
 	1. Check if its variable separable.
-	2. Check if its a homogeneous DE.
-	3. Check if its an exact De.
+	2. Check if it's a homogeneous DE.
+	3. Check if it's an exact DE.
 - Variable Separable
 	- General Form
 		- $M(x,y)dx+N(x,y)dy=0$

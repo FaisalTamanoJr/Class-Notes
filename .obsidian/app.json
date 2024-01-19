@@ -12,7 +12,15 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "assets",
   "showUnsupportedFiles": false,
-  "spellcheck": true,
+  "spellcheck": false,
   "showInlineTitle": true,
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "source",
+  "spellcheckDictionary": [
+    "Incrementality",
+    "systems",
+    "Perfective",
+    "PDE",
+    "DEs",
+    "DEs"
+  ]
 }

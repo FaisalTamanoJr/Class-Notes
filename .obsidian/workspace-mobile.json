@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eb8b462c5a26d5d7",
+        "id": "be021db57bf81fb1",
         "type": "tabs",
         "children": [
           {
-            "id": "2b9fc91bb7b5106d",
+            "id": "50c1df829f8254ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "contents.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -96,12 +96,20 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "contents.md"
           }
+        }
+      },
+      {
+        "id": "265e45896e0d0729",
+        "type": "leaf",
+        "state": {
+          "type": "dictionary-view",
+          "state": {}
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -113,39 +121,42 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2b9fc91bb7b5106d",
+  "active": "50c1df829f8254ca",
   "lastOpenFiles": [
-    "README.md",
+    "CALENG3 - Lesson 2.md",
+    "CALENG3.md",
+    "contents.md",
     "progress-tracker.md",
+    "CALENG3 - Lesson 1.md",
+    "ENGDATA - Lesson 2.md",
+    "ENGDATA.md",
+    "ENGDATA - Lesson 1.md",
+    "ENGENVI.md",
+    "SOFDESG - Lesson 2.md",
+    "SOFDESG.md",
+    "ENGENVI - Lesson 0.md",
+    "LBYCPD2.md",
+    "SOFDESG - Lesson 1.md",
+    "README.md",
     "2. Software Characteristics and Applications.md",
     "1. Software Engineering.md",
-    "SOFDESG.md",
-    "contents.md",
     "2. Probability.md",
-    "ENGDATA.md",
     "2. Ecological Concepts.md",
     "assets/arrangement of similar objects.jpg",
     "assets/set operations.jpg",
     "0. Introduction to Environmental Engineering.md",
-    "ENGENVI.md",
     "1. Obtaining Data.md",
     "2. Solution of Some 1st Order Differential Equation.md",
-    "CALENG3.md",
     "1. Introduction to Differential Equations.md",
-    "LBYCPD2.md",
     "variable separable practice questions.md",
     "templates",
     "comparisons and their appropriate chart forms.md",
     "CALENG3 practice questions.md",
-    "ENGENVI topic presentation.md",
     "assets/column chart.png",
     "assets/bar chart.png",
     "assets/pie chart.png",
     "assets/line chart.png",
     "assets/dot chart.png",
-    "mathematical models.md",
-    "differential equations.md",
-    "initial-value problems.md",
     "journals",
     "assets"
   ]

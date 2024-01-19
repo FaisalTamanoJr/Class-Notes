@@ -134,7 +134,7 @@ Tags:
 		- $_{nC_r = \frac{n!}{r!(n-r)!}}$
 - Special types of permutation
 	- Circular permutation
-		- The arrangment of objects in a circle.
+		- The arrangement of objects in a circle.
 		- Technique
 			- Fix one of the objects in order to have a reference point for the circle.
 		- Symbol
