@@ -1,6 +1,6 @@
 ---
 Course: SOFDESG
-Topic: Software Life Cycle
+Topic: Systems Development Life Cycle (SDLC)
 Linked_Tests:
   - Quiz 1
 Status: Done
@@ -10,7 +10,7 @@ tags:
   - lesson
 ---
 
-- [[Software Development Life Cycle|Systems Development Life Cycle]] (SDLC)
+- [[Software Development Life Cycle|Systems Development Life Cycle]]
 	- Definition, characteristics, and key points
 		- Is a methodology that consists of several phases, and is used for developing information systems. The phases mark the progress of the systems analysis and design effort.
 		- It can be thought of as a circular system, where the end of a system leads to the start of a project that either produces a new version of the system, or a new system that replaces it.
@@ -27,7 +27,7 @@ tags:
 		3. Design and implementation
 		4. Operation, security, and support
 	- Models
-		- [[waterfall model of an SDLC|Waterfall model]]
+		- [[waterfall model|Waterfall model]]
 			- ![[SDLC waterfall model.jpg|300]]
 				- Is the traditional way of representing an SDLC.
 				- The result of each phase, referred to as the end product, flows sequentially into the next phase.
