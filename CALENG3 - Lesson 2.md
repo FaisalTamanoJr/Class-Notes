@@ -3,10 +3,12 @@ Course: CALENG3
 Topic: Solution of Some 1st Order Differential Equation
 Linked_Tests:
 - Quiz 1
-Status: Work in Progress
+Status: Done
 References used:
   - 1.1 Variable Separable (Lecture Slides)
   - 1.5 Homogeneous de (Lecture Slides)
+  - 1.3 Linear de (Lecture Slides)
+  - 1.4 Bernouilli's equation (Lecture Slides)
 tags:
   - lesson
 ---
@@ -83,3 +85,18 @@ tags:
 		6. Integrate $g’(y)$ to get $g(y)$.
 		7. Substitute the solved $g(y)$ to the whole equation found after doing step 3.
 		8. The general solution would be in the form of $F(x,y)=c$, where $F$ is a function of $x$ and $y$, and $c$ is the constant of integration.
+- [[linear differential equation| Linear DEs]]
+	- [Recommended video](https://youtu.be/fX5YwaD4Ryc?feature=shared)
+	- $\frac{dy}{dx}+P(x)y=Q(x)$
+		- Integrating factor
+			- $e^{\int P(x) \, dx}$
+		- Solution
+			- $ye^{\int P(x) \, dx}=\int Q(x)e^{\int P(x) \, dx} \, dx+c$
+- [[bernoulli’s equations|Bernoulli’s equations]]
+	- [Recommended video](https://youtu.be/I15tLSHl_vU?feature=shared)
+	- Standard form: (Bernouilli in y) $dy+P(x)ydx = Q(x)y^ndx$
+		- if $n=0$: Linear differential equation
+		- if $n=1$: Variable separable
+		- if $n \neq 0, 1:$ Bernouilli’s equation
+	- General solution
+		- $y^{1-n}e^{\int (1-n)P(x) \, dx}=\int (1-n)Q(x)e^{\int (1-n)P(x) \, dx} + c \, dx$
