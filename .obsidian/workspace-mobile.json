@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8dff5ab57dfb7b72",
+        "id": "e87f408a40376c0e",
         "type": "tabs",
         "children": [
           {
-            "id": "49e716127575a379",
+            "id": "e7934760858459ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contents.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,7 +96,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "contents.md"
+            "file": "README.md"
           }
         }
       },
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "contents.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,34 +139,40 @@
       "graph:Open graph view": false
     }
   },
-  "active": "49e716127575a379",
+  "active": "e7934760858459ef",
   "lastOpenFiles": [
-    "CALENG3.md",
     "contents.md",
-    "SOFDESG - Lesson 2.md",
-    "acceptance testing.md",
-    "SOFDESG - Lesson 1.md",
-    "CALENG3 - Lesson 2.md",
-    "exact DEs.md",
-    "DEs with homogeneous coefficient.md",
-    "variable separable.md",
-    "CALENG3 - Lesson 1.md",
-    "particular solution.md",
-    "general solution.md",
-    "ODE solution.md",
-    "linear differential equation.md",
-    "degree of a differential equation.md",
-    "order of a differential equation.md",
-    "partial differential equation.md",
-    "ordinary differential equation.md",
-    "differential equations.md",
+    "SOFDESG - Lesson 4.md",
+    "SOFDESG.md",
+    "progress-tracker.md",
+    "ENGDATA - Lesson 3.md",
+    "SOFDESG - Lesson 3.md",
+    "scrum.md",
+    "Parallel development.md",
+    "Rapid Application Development.md",
+    "Joint Application Development.md",
+    "ENGDATA.md",
     "ENGDATA - Lesson 2.md",
-    "Bayes theorem.md",
-    "partitioning of n objects into cells.md",
-    "arrangement of similar objects.md",
-    "circular permutation.md",
-    "simple combination.md",
-    "simple premutation.md",
+    "README.md",
+    "SOFDESG - Lesson 1.md",
+    "SOFDESG - Lesson 2.md",
+    "ENGENVI.md",
+    "LBYCPD2.md",
+    "assets/user stories card.jpg",
+    "Software Development Life Cycle.md",
+    "assets/kinds of prototype.jpg",
+    "ENGENVI - Lesson 1.md",
+    "CALENG3.md",
+    "agile modeling.md",
+    "prototyping.md",
+    "risk analysis.md",
+    "assets/spiral model example.jpg",
+    "assets/spiral model.jpg",
+    "software engineer.md",
+    "phase.md",
+    "risk handling.md",
+    "assets/evolutionary model.jpg",
+    "assets/iterative waterfall model.jpg",
     "Listing",
     "ISO",
     "assets/arrangement of similar objects.jpg",
@@ -174,9 +180,6 @@
     "templates",
     "assets/column chart.png",
     "assets/bar chart.png",
-    "assets/pie chart.png",
-    "assets/line chart.png",
-    "assets/dot chart.png",
     "journals",
     "assets"
   ]
