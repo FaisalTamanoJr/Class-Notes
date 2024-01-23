@@ -9,6 +9,7 @@ References used:
   - 1.5 Homogeneous de (Lecture Slides)
   - 1.3 Linear de (Lecture Slides)
   - 1.4 Bernouilli's equation (Lecture Slides)
+  - Class lecture
 tags:
   - lesson
 ---
@@ -87,11 +88,18 @@ tags:
 		8. The general solution would be in the form of $F(x,y)=c$, where $F$ is a function of $x$ and $y$, and $c$ is the constant of integration.
 - [[linear differential equation| Linear DEs]]
 	- [Recommended video](https://youtu.be/fX5YwaD4Ryc?feature=shared)
-	- $\frac{dy}{dx}+P(x)y=Q(x)$
+	- Standard form: $\frac{dy}{dx}+P(x)y=Q(x)$
 		- Integrating factor
 			- $e^{\int P(x) \, dx}$
 		- Solution
 			- $ye^{\int P(x) \, dx}=\int Q(x)e^{\int P(x) \, dx} \, dx+c$
+	- Solving steps
+		1. Reduce to standard form.
+		2. Solve for the integrating factor.
+		3. Solution: (integrating factor) (variable where the d.e. is linear to) = right side of the standard form (integrating factor) (derivative of the dependent variable) + c
+	- Linear in a function
+		- Looks something like this
+			- $\frac{d(F(y))}{dx}+P(x)[F(y)]=Q(x)$
 - [[bernoulli’s equations|Bernoulli’s equations]]
 	- [Recommended video](https://youtu.be/I15tLSHl_vU?feature=shared)
 	- Standard form: (Bernouilli in y) $dy+P(x)ydx = Q(x)y^ndx$
