@@ -43,7 +43,7 @@ Tags:
 		5. Contingency table
 			- A tool used to facilitate the calculation of probabilities involving two events.
 			- ![[contingency table]]
-	- [[Conditional probability]]
+		- [[Conditional probability]]
 		- Refers to the probability that an event will occur given that some other event has already occurred. This is used to limit the sample space.
 		- Symbol
 			- $P(A/B)$
@@ -53,7 +53,7 @@ Tags:
 	- [[Multiplication law of probability]]
 		- $P(A/B)=\left (\frac{P(A\cap B)}{P(B)} \right)$ => $P(A\cap B)=P(B)\times P(A/B)$
 		- $P(B/A)=\left (\frac{P(A\cap B)}{P(A)} \right)$ => $P(A\cap B)=P(A)\times P(B/A)$
-		- $P(A\cap B)=P(A)\times P(B)$ if event $A$ and event $B$ are independent of each other.
+		- $P(A\cap B)=P(A)\times P(B)$ if event $A$ and event $B$ are independent (opposite of mutually exclusive) of each other.
 - [[Statistical Inference]]
 	- Statistical inference is the process of using sample information to draw conclusions about the characteristics of a population being studied.
 - Importance of [[probability]] and [[statistical inference]]
