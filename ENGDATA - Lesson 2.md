@@ -43,7 +43,7 @@ Tags:
 		5. Contingency table
 			- A tool used to facilitate the calculation of probabilities involving two events.
 			- ![[contingency table]]
-		- [[Conditional probability]]
+	- [[Conditional probability]]
 		- Refers to the probability that an event will occur given that some other event has already occurred. This is used to limit the sample space.
 		- Symbol
 			- $P(A/B)$
