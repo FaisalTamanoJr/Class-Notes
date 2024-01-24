@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e87f408a40376c0e",
+        "id": "51289a5a47be3d0c",
         "type": "tabs",
         "children": [
           {
-            "id": "e7934760858459ef",
+            "id": "72baef78566f86bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "contents.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,7 +96,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "contents.md"
           }
         }
       },
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "contents.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,38 +139,38 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e7934760858459ef",
+  "active": "72baef78566f86bf",
   "lastOpenFiles": [
-    "contents.md",
     "SOFDESG - Lesson 4.md",
     "SOFDESG.md",
-    "progress-tracker.md",
+    "contents.md",
+    "README.md",
+    "LBYCPD2.md",
+    "ENGDATA.md",
     "ENGDATA - Lesson 3.md",
+    "CALENG3.md",
+    "SOFDESG - Lesson 2.md",
+    "progress-tracker.md",
+    "CALENG3 - Lesson 2.md",
+    "bernoulli’s equations.md",
+    "linear differential equation.md",
+    "ENGDATA - Lesson 2.md",
     "SOFDESG - Lesson 3.md",
     "scrum.md",
     "Parallel development.md",
     "Rapid Application Development.md",
     "Joint Application Development.md",
-    "ENGDATA.md",
-    "ENGDATA - Lesson 2.md",
-    "README.md",
     "SOFDESG - Lesson 1.md",
-    "SOFDESG - Lesson 2.md",
     "ENGENVI.md",
-    "LBYCPD2.md",
     "assets/user stories card.jpg",
     "Software Development Life Cycle.md",
     "assets/kinds of prototype.jpg",
     "ENGENVI - Lesson 1.md",
-    "CALENG3.md",
     "agile modeling.md",
     "prototyping.md",
     "risk analysis.md",
     "assets/spiral model example.jpg",
     "assets/spiral model.jpg",
-    "software engineer.md",
-    "phase.md",
-    "risk handling.md",
     "assets/evolutionary model.jpg",
     "assets/iterative waterfall model.jpg",
     "Listing",

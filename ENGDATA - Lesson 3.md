@@ -2,7 +2,7 @@
 Course: ENGDATA
 Topic: Untitled
 Linked_Tests:
-  - Test
+  - Quiz 1
 Status: Planned
 References used:
   - Reference

@@ -2,7 +2,7 @@
 Course: SOFDESG
 Topic: Systems Development Methodologies
 Linked_Tests:
-  - Test
+  - Quiz 1
 Status: Planned
 References used:
   - Reference
