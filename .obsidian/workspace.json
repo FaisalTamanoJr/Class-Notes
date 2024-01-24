@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "14d17d198e23839f",
+        "id": "114c761255fad62c",
         "type": "tabs",
         "children": [
           {
-            "id": "1770694df81741a5",
+            "id": "8af1da16571f5c26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contents.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -55,7 +55,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "contents.md"
+                "file": "README.md"
               }
             }
           },
@@ -75,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "contents.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -98,7 +98,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.9999999999999997,
+                  "scale": 0.6024013357398963,
                   "close": true
                 }
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "contents.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,41 +198,41 @@
       "obsidian-trim-whitespace:Trim whitespace": false
     }
   },
-  "active": "1770694df81741a5",
+  "active": "8af1da16571f5c26",
   "lastOpenFiles": [
-    "README.md",
-    "Software Development Life Cycle.md",
-    "SOFDESG - Lesson 3.md",
-    "SOFDESG.md",
     "contents.md",
+    "CALENG3 - Lesson 2.md",
+    "degree.md",
+    "CALENG3 - Lesson 1.md",
+    "variable separable.md",
+    "linear differential equation.md",
+    "partial differential equation.md",
+    "general solution.md",
+    "progress-tracker.md",
+    "SOFDESG - Lesson 2.md",
+    "SOFDESG.md",
+    "LBYCPD2.md",
+    "ENGENVI - Lesson 1.md",
+    "ENGENVI.md",
+    "ENGENVI - Lesson 0.md",
+    "CALENG3.md",
+    "SOFDESG - Lesson 3.md",
+    "SOFDESG - Lesson 4.md",
+    "README.md",
     "ENGDATA - Lesson 1.md",
     "ENGDATA.md",
-    "progress-tracker.md",
-    "LBYCPD2.md",
-    "CALENG3.md",
-    "ENGENVI.md",
-    "CALENG3 - Lesson 2.md",
-    "CALENG3 - Lesson 1.md",
+    "Software Development Life Cycle.md",
     "ENGDATA - Lesson 2.md",
-    "ENGENVI - Lesson 0.md",
-    "ENGENVI - Lesson 1.md",
-    "SOFDESG - Lesson 2.md",
     "templates/lesson template.md",
     "SOFDESG - Lesson 1.md",
     "templates/course template.md",
-    "contingency table.md",
     "assets/line chart.png",
     "assets/dot chart.png",
     "assets/column chart.png",
     "assets/bar chart.png",
     "assets/arrangement of similar objects.jpg",
-    "templates/practice questions template.md",
-    "variable separable practice questions.md",
-    "comparisons and their appropriate chart forms.md",
-    "templates/YAML frontmatter template.md",
     "templates",
     "assets/pie chart.png",
-    "CALENG3 practice questions.md",
     "assets/variable separable practice questions.png",
     "assets",
     "Templates",
