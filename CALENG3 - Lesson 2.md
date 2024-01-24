@@ -29,13 +29,13 @@ tags:
 		1. Make sure that the functions $M$ and $N$ are products or quotients of $x$ and $y$, else they are not variable separable.
 		2. Separate the variables by making $dx$ together with all the $x$s, and by making all the $y$s in the function together with $dy$. In other words, isolate the $x$ and $y$ from each other.
 		3. Integrate
-		4. The general solution would be in the form of $F(x,y)=c$, where $F$ is a function of $x$ and $y$, and $c$ is the constant of integration.
+		4. The [[general solution]] would be in the form of $F(x,y)=c$, where $F$ is a function of $x$ and $y$, and $c$ is the constant of integration.
 - [[DEs with homogeneous coefficient]]
 	- Homogeneous function
-		1. A function is said to be homogeneous of degree $n$ if and only if
+		1. A function is said to be homogeneous of [[degree]] $n$ if and only if
 			- $f(tx,ty)=t^nf(x,y)$
 			- You can draw out the original function multiplied by  $t^n$ when substituting $tx$ to $x$ and $ty$ to $y$ in the function.
-		2. The DE $M(x,y)dx+N(x,y)dy=0$ is only homogeneous when both $M(x,y)$ and $N(x,y)$ are homogeneous, and are of the same degree.
+		2. The DE $M(x,y)dx+N(x,y)dy=0$ is only homogeneous when both $M(x,y)$ and $N(x,y)$ are homogeneous, and are of the same [[degree]].
 			- Standard form
 				- $M(x,y)dx+N(x,y)dy=0$
 			- Solution
@@ -56,12 +56,12 @@ tags:
 		5. Separate the variables (or isolate them from each other).
 		6. Integrate
 		7. Replace $v$ using $x=vy$, so $v=\frac{x}{y}$. This would slightly be different if $N$ was simpler than $M$ since it would use $y=vx$.
-		8. The general solution would be in the form of $F(x,y)=c$, where $F$ is a function of $x$ and $y$, and $c$ is the constant of integration.
+		8. The [[general solution]] would be in the form of $F(x,y)=c$, where $F$ is a function of $x$ and $y$, and $c$ is the constant of integration.
 - [[exact DEs|Exact DEs]]
 	- Given: $F(x,y)=0$
 		- Total differential
 			- $\frac{\partial F}{\partial x}dx+\frac{\partial F}{\partial y}dy=0$
-		- General form of ODE
+		- General form of [[ordinary differential equation|ODE]]
 			- $M(x,y)dx+N(x,y)dy=0$
 		- Therefore
 			- $M(x,y)$
@@ -73,14 +73,14 @@ tags:
 	- For: $\frac{\partial ^2F}{\partial y \partial x} = \frac{\partial^2 F}{\partial x \partial y}$
 		- Sufficient and necessary condition for exact DE
 			- $\frac{\partial M(x,y)}{\partial y}=\frac{\partial N(x,y)}{\partial x}$
-		- General solution
+		- [[General solution]]
 			- $F(x,y)=c$
 	- Solving steps [(recommended video)](https://youtu.be/rNpMtelVVUQ?feature=shared)
 		1. Test of exactness
-			- In this step, get the partial derivative of the functions with respect to their opposite variables. So the partial derivative of $M(x,y)dx$ is $\frac{\partial M}{\partial y}$ and the partial derivative of $N(x,y)dy$ is $\frac{\partial N}{\partial x}$. Check if $\frac{\partial M}{\partial y}=\frac{\partial N}{\partial x}$, and if they are, it means that they are an exact DE.
+			- In this step, get the partial derivative of the functions with respect to their opposite variables. So the [[partial differential equation|partial derivative]] of $M(x,y)dx$ is $\frac{\partial M}{\partial y}$ and the partial derivative of $N(x,y)dy$ is $\frac{\partial N}{\partial x}$. Check if $\frac{\partial M}{\partial y}=\frac{\partial N}{\partial x}$, and if they are, it means that they are an exact DE.
 		2. You can either solve using $M$ or $N$. For this example, we’ll use $M$. Replace the entire $N$ function and $dy$ to $g(y)$.
 		3. Integrate the first function $M$ with respect to x because of the $dx$ in the function.
-		4. Find the partial derivative of the entire equation with respect to $y$, since we know that it is equal to $N$.
+		4. Find the [[partial differential equation|partial derivative]] of the entire equation with respect to $y$, since we know that it is equal to $N$.
 			- The derivative of $g(y)$ is $g'(y)$.
 		5. Equate the entire equation to the original value of $N$ (before changing it to $g(y)$), and solve for $g’(y)$.
 		6. Integrate $g’(y)$ to get $g(y)$.
@@ -103,8 +103,8 @@ tags:
 - [[bernoulli’s equations|Bernoulli’s equations]]
 	- [Recommended video](https://youtu.be/I15tLSHl_vU?feature=shared)
 	- Standard form: (Bernouilli in y) $dy+P(x)ydx = Q(x)y^ndx$
-		- if $n=0$: Linear differential equation
-		- if $n=1$: Variable separable
-		- if $n \neq 0, 1:$ Bernouilli’s equation
-	- General solution
+		- if $n=0$: [[Linear differential equation]]
+		- if $n=1$: [[Variable separable]]
+		- if $n \neq 0, 1:$ Bernoulli’s equations
+	- [[General solution]]
 		- $y^{1-n}e^{\int (1-n)P(x) \, dx}=\int (1-n)Q(x)e^{\int (1-n)P(x) \, dx} + c \, dx$

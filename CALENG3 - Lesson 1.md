@@ -21,7 +21,7 @@ tags:
 	- [[Order of a differential equation]]
 		- The order of a differential equation is the order of the highest ordered derivative in the equation.
 		- The order of this derivative, $y^n=\frac{d^ny}{dx^n}$, is the value of $n$. So we say that this derivative is at the $n^{th}$ order.
-	- [[degree of a differential equation|Degree of a differential equation]]
+	- [[degree|Degree of a differential equation]]
 		- The degree of a differential equation is determined by the algebraic degree of the highest ordered derivative in the equation.
 		- A differential equation may not have a degree.
 			- Example
