@@ -11,11 +11,6 @@ WHERE Course = this.file.name
 SORT file.name ASC
 ```
 
-```dataview
-TABLE WITHOUT ID file.link AS "Practice Question" FROM #practice_question 
-WHERE Course = this.file.name
-```
-
 - Helpful materials for solving
 	- [Algebra](http://tutorial.math.lamar.edu/getfile.aspx?file=B,31,N)
 	- [Trigonometry](http://tutorial.math.lamar.edu/getfile.aspx?file=B,33,N)
