@@ -108,3 +108,6 @@ tags:
 		- if $n \neq 0, 1:$ Bernoulli’s equations
 	- [[General solution]]
 		- $y^{1-n}e^{\int (1-n)P(x) \, dx}=\int (1-n)Q(x)e^{\int (1-n)P(x) \, dx} + c \, dx$
+- [[Substitution suggested by the equation]]
+	- [Recommended video](https://www.youtube.com/watch?v=XS9sBMtAxuE)
+	- Sorry, no explanation provided since it wasn’t part of our slides :(
