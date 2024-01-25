@@ -13,6 +13,10 @@ References used:
 tags:
   - lesson
 ---
+
+- My solutions to examples
+	- [[CALENG3 - Variable Separable Practice.pdf]]
+	- [[CALENG3 - Homogeneous DE Practice.pdf]]
 - Before solving
 	1. Check if its variable separable.
 	2. Check if it's a homogeneous DE.
