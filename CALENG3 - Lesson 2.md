@@ -104,6 +104,10 @@ tags:
 	- Linear in a function
 		- Looks something like this
 			- $\frac{d(F(y))}{dx}+P(x)[F(y)]=Q(x)$
+			- $F(y)$ is any function you assign and treat similar to an average variable.
+			- you can obtain $d(F(y))$ by deriving the function.
+			- Solving steps is pretty similar to linear in a variable (in other words, similar to the linear de method).
+			- If you substituted $F(y)$ and its derivative into variables, put them back to their original value after you are done solving.
 - [[bernoulli’s equations|Bernoulli’s equations]]
 	- [Recommended video](https://youtu.be/I15tLSHl_vU?feature=shared)
 	- Standard form: (Bernouilli in y) $dy+P(x)ydx = Q(x)y^ndx$
@@ -114,4 +118,8 @@ tags:
 		- $y^{1-n}e^{\int (1-n)P(x) \, dx}=\int (1-n)Q(x)e^{\int (1-n)P(x) \, dx} + c \, dx$
 - [[Substitution suggested by the equation]]
 	- [Recommended video](https://www.youtube.com/watch?v=XS9sBMtAxuE)
-	- Sorry, no explanation provided since it wasn’t part of our slides :(
+	- Solving steps
+		1. If you noticed that you cannot solve the DE with any of the other methods, substitute one function into a variable.
+		2. Solve for the replacement of the derivative of the variable found inside the function substituted (if the variable can only be found existing inside the functions).
+		3. Now that the DE is simplified, use one of the other methods to solve it.
+		4. Undo the substitution by replacing the variable with the actual function.
