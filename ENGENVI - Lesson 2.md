@@ -3,77 +3,88 @@ Course: ENGENVI
 Topic: Ecological Concepts
 Linked_Tests:
 - Quiz 1
-Status: Planned
+Status: Work in Progress
 References used:
 - Ecological Concept (Lecture Slides)
 tags:
   - lesson
 ---
 
-- Ecology
+- [[ecology|Ecology]]
 	- The study of interactions between different organisms, and between organisms and their surroundings.
-- Ecosystem
-	- The organisms living in an area and the non-living features of their environment. It also includes the interactions that exist within.
+	- Levels of ecological organization
+		- [[species|Species]]
+			- Refer to all organisms that can reproduce.
+		- [[populations|Populations]]
+			- The organisms of the same species living in the same place and at the same time.
+		- [[community|Community]]
+			- Several interacting populations occupying the same habitat.
+		- [[ecosphere|Ecosphere]]
+			- The entirety of Earth’s ecosystems.
+- [[ecosystem|Ecosystem]]
+	- The organisms living in an area and the non-living features of their environment, including the interactions that exist within.
 	- They vary in complexity, not delineated by sharp boundaries, merge with one another.
 	- Major components
-		- Biotic
-		- Abiotic
-- Biosphere
+		- [[biotic|Biotic]]
+			- The biological environment that consists of
+				- plants
+				- animals
+				- microorganisms
+				- fungi
+			- Components
+				- [[producers|Producers]]
+					- Plants (autotrophs) - produce their own food from inorganic compounds via photosynthesis.
+				- [[consumers|Consumers]]
+					- Organisms (heterotrophs) - can only acquire food from other organisms, by feeding on plants or other organisms.
+					- Herbivores, carnivores, and omnivores.
+					- Classifications
+						- Primary consumers - herbivores.
+						- Secondary consumers - feed on primary consumers.
+						- Tertiary consumers - feed on secondary consumers.
+				- [[decomposers|Decomposers]]
+					- Breaks down the remains of dead animals and plants, releasing substances that can be used by other members of the ecosystem.
+		- [[abiotic|Abiotic]]
+			- The physical and chemical environment that consists of
+				- water
+				- air
+				- nutrients
+				- solar energy
+- [[biosphere|Biosphere]]
 	- The part of earth that supports life.
-		- Top portion of Earth’s crust
-		- Earth’s bodies of water
-		- Earth’s atmosphere
-- Ecology and life
-	- Levels of ecological organization
-		- Species
-			- Refer to all organisms that can reproduce.
-		- Populations
-			- The organisms of the same species living in the same place and at the same time.
-		- Community
-			- Several interacting populations occupying the same habitat.
-		- Ecosphere
-			- The entirety of Earth’s ecosystems.
+		- Top portion of the crust
+		- Water bodies
+		- Atmosphere
 - Earth’s life support system
-	- Atmosphere
-		- Uses
-			- Breathing
-			- Ozone layer
-		- Composition
-			- The atmosphere is a thin layer of gases that surrounds the Earth. It is composed of 78% nitrogen, 21% oxygen, and 0.9% argon, and 0.03% carbon dioxide, and trace amounts of other gases.
-	- Lithosphere
-		- The lithosphere is divided into three principal regions: core, mantle, and the crust. The two principal divisions of Earth’s lithosphere are the continents and the ocean basins.
-		- Inner core
-			- Is beneficial due to the magnetic field it produces, which can help deflect solar flares from the sun. It also helps in providing direction.
-	- Biosphere
-		- A closed system.
-		- All materials are repeatedly recycled.
-		- Only one contribution from the outside, the Sun.
-	- Hydrosphere
-		- It is the water portion of Earth that covers nearly 71% of Earth’s surface.
-	- ==insert image here==
-- Biomes
+	- Is a closed system where all materials are repeatedly recycled. The only contributing part from the outside is the Sun.
+	- [[atmosphere|Atmosphere]]
+		- A thin layer of gases that surround the Earth. It is composed of 78% nitrogen, 21% oxygen, 0.9% argon, 0.03% carbon dioxide, and trace amounts of other gases.
+	- [[hydrosphere|Hydrosphere]]
+		- The water portion of Earth that covers nearly 71% of its surface.
+	- [[lithosphere|Lithosphere]]
+		- Is divided into three principal regions: core, mantle, and the crust. Two of its principal divisions are the continents and the ocean basins.
+- [[biomes|Biomes]]
 	- A distinct ecological community of plants and animals living together in a particular climate.
-	- Broad terrestrial regions of the biosphere.
-	- Climate
+	- The broad terrestrial regions of the biosphere.
+	- [[climate|Climate]]
 		- The weather over the long term that determines the type of life forms in the biomes.
-	- Precipitation and temperature
-		- The most important climatic factors.
-- Biotic Components
-	- Divisions of biotic components
-		- Producers
-			- Plants (autotrophs)
-		- Consumers
-			- Organisms (heterotrophs)
-			- Herbivores, carnivores, and omnivores.
-			- Classification
-				- Primary
-				- Secondary
-				- Tertiary
-		- Decomposers
-- Interactions among organisms
+		- Its most important factors are [[precipitation|Precipitation]] and [[temperature]].
+- Interaction among organisms
 	- Predation
+		- A form of population control where an organism kills another organism for food.
 	- Commensalism
+		- An interaction where it is beneficial to one but neutral to another.
 	- Mutualism
+		- Benefits both organisms.
 	- Parasitism
+		- One species lives on or even inside their host.
 	- Competition
+		- Two organisms compete for the same resource.
 - Food chains and food webs
+	- A way to allow nutrients and energy to flow through an ecosystem.
+	- [[food chain|Food Chain]] - feeding of one organism upon another in a sequence of food transfers.
+		- Types
+			- [[grazer|Grazer]] - starts with plants.
+			- [[decomposer|Decomposer]] - organic waste material (detritus) is the major food source.
+	- [[food web|Food Web]] - a set of interconnected food chains by which energy and materials circulate within an ecosystem. All plants and animals are part of this complex food web.
+- Matter cycling
+	- ==TODO==
