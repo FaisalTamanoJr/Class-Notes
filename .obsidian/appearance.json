@@ -6,7 +6,7 @@
   "textFontFamily": "",
   "baseFontSize": 16,
   "monospaceFontFamily": "",
-  "showViewHeader": false,
+  "showViewHeader": true,
   "enabledCssSnippets": [
     "bolder_bold"
   ]
