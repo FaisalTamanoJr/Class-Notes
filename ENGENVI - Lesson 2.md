@@ -3,7 +3,7 @@ Course: ENGENVI
 Topic: Ecological Concepts
 Linked_Tests:
 - Quiz 1
-Status: Work in Progress
+Status: Done
 References used:
 - Ecological Concept (Lecture Slides)
 tags:
@@ -12,6 +12,7 @@ tags:
 
 - [[ecology|Ecology]]
 	- The study of interactions between different organisms, and between organisms and their surroundings.
+	- [[habitat|Habitat]], refers to the natural home or environment of a particular animal, plant, or other organisms.
 	- Levels of ecological organization
 		- [[species|Species]]
 			- Refer to all organisms that can reproduce.
@@ -42,13 +43,30 @@ tags:
 						- Secondary consumers - feed on primary consumers.
 						- Tertiary consumers - feed on secondary consumers.
 				- [[decomposers|Decomposers]]
-					- Breaks down the remains of dead animals and plants, releasing substances that can be used by other members of the ecosystem.
+					- Break down the remains of dead animals and plants, releasing substances that can be used by other members of the ecosystem.
 		- [[abiotic|Abiotic]]
 			- The physical and chemical environment that consists of
 				- water
 				- air
 				- nutrients
 				- solar energy
+	- Services
+		- [[ecosystem services|Ecosystem services]] constitute the Earth’s natural capital.
+		- [[provisioning services|Provisioning services]]
+			- Are the products obtained from ecosystems, such as genetic resource, food and fiber, and freshwater.
+		- [[regulating services|Regulating services]]
+			- Are the benefits obtained from the regulation of ecosystem services, such as the regulation of climate, pest control, and waste decomposition.
+		- [[cultural services|Cultural services]]
+			- Are the non-material benefits people obtain from ecosystems, such as spiritual enrichment, cognitive development, reflection, recreation, and aesthetic experience.
+		- [[supporting services|Supporting services]]
+			- Are necessary for the production of all other ecosystem services. Examples are biomass production, production of atmospheric oxygen, nutrient cycling, and water cycling.
+	- [[sustainable ecosystem|Sustainable ecosystem]]
+		- Meeting the needs of the current generation without impairing the future generation from meeting theirs.
+		- Lives within the [[carrying capacity]] of the environment.
+			- Carrying capacity refers to the number of organisms an ecosystem can support indefinitely.
+		- Principles of natural ecosystem sustainability
+			- Use renewable solar energy.
+			- Recycle nutrients efficiently.
 - [[biosphere|Biosphere]]
 	- The part of earth that supports life.
 		- Top portion of the crust
@@ -62,6 +80,7 @@ tags:
 		- The water portion of Earth that covers nearly 71% of its surface.
 	- [[lithosphere|Lithosphere]]
 		- Is divided into three principal regions: core, mantle, and the crust. Two of its principal divisions are the continents and the ocean basins.
+	- Life in the biosphere exists at the intersection of the land (lithosphere), air (atmosphere), and water (hydrosphere).
 - [[biomes|Biomes]]
 	- A distinct ecological community of plants and animals living together in a particular climate.
 	- The broad terrestrial regions of the biosphere.
@@ -71,6 +90,7 @@ tags:
 - Interaction among organisms
 	- Predation
 		- A form of population control where an organism kills another organism for food.
+		- Predators usually kill the weak, sick, and aged members of a population to reduce the prey population size and ensure that remaining members have enough share of available food supply.
 	- Commensalism
 		- An interaction where it is beneficial to one but neutral to another.
 	- Mutualism
@@ -87,4 +107,64 @@ tags:
 			- [[decomposer|Decomposer]] - organic waste material (detritus) is the major food source.
 	- [[food web|Food Web]] - a set of interconnected food chains by which energy and materials circulate within an ecosystem. All plants and animals are part of this complex food web.
 - Matter cycling
-	- ==TODO==
+	1. Plants eaten by herbivores are later excreted.
+	2. The minerals from the bodies of herbivores are recycled by carnivores.
+	3. Scavengers consume the carcass or the body of dead animals, allowing them to absorb the minerals from the carcass.
+	4. The minerals in the plants are returned to the soil by the bacteria and fungi that consume fecal matter. However, some escape the ecosystem and end up in the ocean.
+- Energy Flow
+	- Energy is also cycled.
+	- All energy in an ecosystem comes from the sun, which is constantly transferred from one trophic level to another.
+	- Energy passes from the producers, to the consumers, and back to the producers.
+	- At each trophic level
+		- ![[energy flow.jpg|250]]
+		- Net production is much lesser than gross production because organisms use some of the energy to stay alive. For this reason, the difference in net production and gross production for animals is much greater than for plants.
+		- Much of the energy stored in the net production was lost to the system by decay, being carried downstream.
+		- Substantial losses in net production as energy passes from one trophic level to the next. For instance, only 1-2% of energy is captured by plants and stored as chemical bonds, and only 1-20% is consumed by herbivores.
+			- It is transformed into mechanical energy or other forms.
+			- It is lost during metabolic processes.
+			- The organisms at one tropic level are not completely utilized by those at the next level.
+			- Food passing through animals are not completely digested.
+		- [[conversion efficiency|Conversion Efficiency]]
+			- The ratio of net production at one level to the net production at the next higher level.
+			- In the image, it varied from
+				- 17% from producers to primary consumers (1478/8833).
+				- 4.5% from primary to secondary consumers (67/1478).
+		- From similar studies in other ecosystems, we can take 10% as the average conversion efficiency from producers to primary consumers.
+- [[land resources|Land resources]]
+	- The survival of animals and plants and other living organisms depend much on the condition of the lands.
+	- Contain essential nutrients and minerals that sustain plants. As a result, it also indirectly sustain humans.
+	- [[Soil]]
+		- If not disturbed, it can maintain the balance in an ecosystem.
+		- It is reproduced from its parent material at a very slow rate: 300 to 1,000 years or more to build just a single inch of topsoil.
+		- Layers
+			1. Topsoil
+				- Contains most of the nutrients needed by plants and animals, and important microorganisms that are helpful in the maintenance of ecological balance.
+			2. Subsoil
+				- Works as a water catchment system.
+			3. Substratum
+				- Stores minerals such as coal and other mined minerals.
+		- Destruction
+			- Erosion
+				- Accelerated process of soil removal brought about by human interference, with the normal equilibrium between soil building and soil removal.
+				- [[artificial erosion|Artificial erosion]] - caused by human activities.
+				- [[geological erosion|Geological or natural erosion]] - caused by nature.
+				- [[water erosion|Water erosion]] - transposition of soil by rainwater, including melted snow running rapidly over exposed land surfaces. Types of water erosion include sheet erosion, rill erosion, and gully erosion.
+				- [[Wind erosion]] - blowing of loose soil from one place to another.
+					- [[sand storm|Sand storm or dust storm]] is as destructive as water erosion, and is usually occurring in places where water erosion is also active.
+	- [[agricultural crop land|Agricultural crop land]]
+		- Land mostly used for food and fiber production.
+		- Agriculture relies heavily on irrigation.
+		- Overgrazing and poor cropping lead to major losses of soil.
+		- Erosion is a threat to the productivity of agricultural land.
+- [[silviculture|Silviculture]]
+	- The science of controlling the establishment, growth, composition, health, and quality of forests and woodlands to sustainably meet the needs and values of landowners and society.
+	- [[silvics|Silvics]] - provide descriptions of individual tree species.
+- [[watersheds|Watersheds]]
+	- A region of land where water drains downhill into a specific water body, such as a river, lake, sea, ocean, or wetland. This includes both the waterway and the land that drains to it.
+	- Are separated topographically by a ridge, hill, or mountain.
+	- Provide habitats for animals, lessen flooding, and prevent erosion.
+	- Watersheds in the Philippines
+		- Angat/Bulacan river
+		- Aklan river
+		- Cagayan river
+		- Pampanga river
