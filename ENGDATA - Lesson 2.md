@@ -20,7 +20,7 @@ Tags:
 			2. $P(A) = 1$ is the certain probability of the entire sample space.
 			3. $P(A)=0$ is the improbable event.
 			4. The sum of all the probabilities of the events should be unity.
-				- $\sum^n_{i=1}P(E)=1$
+				- $\sum\limits^n_{i=1}P(E)=1$
 		- Ways of measuring
 			- [[classical concept of measurement|Classical concept]]
 				- This method can determine the probabilities of events even without data gathering. It is also used in classical experiments, such as tossing a coin.
@@ -144,12 +144,12 @@ Tags:
 			- $P_{nc}=(n-1)!$
 	- [[arrangement of similar objects|Arrangement of similar objects]]
 		- Objective
-			- To find the number of permutations of $n$ objects all taken at the same time; $n_1$ of which are of type 1, $n_2$ of which are of type 2, $\ldots$ $n_k$ of which are of type $k$, where $\sum^k_{i=1}n_{i}=n$.
+			- To find the number of permutations of $n$ objects all taken at the same time; $n_1$ of which are of type 1, $n_2$ of which are of type 2, $\ldots$ $n_k$ of which are of type $k$, where $\sum\limits^k_{i=1}n_{i}=n$.
 		- Formula
 			- $\begin{pmatrix}\text{ }&\text{ }&n&\text{ }\text{ }\\n_{1}&n_{2}&n_{3}&\ldots&n_{k}\end{pmatrix} = \frac{n!}{n_{1}!n_{2}!n_{3}!\ldots n_{k}!}$
 	- [[partitioning of n objects into cells|Partitioning of n objects into cells]]
 		- Objective
-			- To find the number of permutations of $n$ “objects” all taken at the same time; $n_1$ of which are placed in cell 1, $n_2$ of which are placed in cell 2, …, $n_k$ of which are placed in cell $k$, where $\sum^k_{i=1}n_{i}=n$.
+			- To find the number of permutations of $n$ “objects” all taken at the same time; $n_1$ of which are placed in cell 1, $n_2$ of which are placed in cell 2, …, $n_k$ of which are placed in cell $k$, where $\sum\limits^k_{i=1}n_{i}=n$.
 		- Formula
 			- $\begin{pmatrix}\text{ }&\text{ }&n&\text{ }\text{ }\\n_{1}&n_{2}&n_{3}&\ldots&n_{k}\end{pmatrix} = \frac{n!}{n_{1}!n_{2}!n_{3}!\ldots n_{k}!}$
 - [[Bayes theorem|Bayes Theorem]] [(recommended video that explains the concept)](https://youtu.be/HZGCoVF3YvM?feature=shared)
