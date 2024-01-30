@@ -5,7 +5,7 @@ Linked_Tests:
   - Quiz 1
 Status: Done
 References used:
-  - Discrete Probability Distribution (Lecture Slides)
+  - 3 Discrete Probability Distribution (Lecture Slides)
 tags:
   - lesson
 ---

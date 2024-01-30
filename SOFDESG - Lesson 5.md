@@ -1,9 +1,9 @@
 ---
 Course: SOFDESG
-Topic: SWOT Analysis
+Topic: Strategic Planning
 Linked_Tests:
   - Quiz 1
-Status: Strategic Planning
+Status: Work in Progress
 References used:
   - SOFWENG Lecture 5 (Lecture Slides)
 tags:
