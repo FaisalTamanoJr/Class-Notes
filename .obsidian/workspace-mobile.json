@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "37e7d98b078137d1",
+        "id": "788d73c4795d0cfd",
         "type": "tabs",
         "children": [
           {
-            "id": "bdc468357f1dddca",
+            "id": "fef4c9b85b9d208a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "contents.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,7 +96,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "contents.md"
           }
         }
       },
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "contents.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,34 +139,38 @@
       "graph:Open graph view": false
     }
   },
-  "active": "bdc468357f1dddca",
+  "active": "fef4c9b85b9d208a",
   "lastOpenFiles": [
+    "README.md",
+    "progress-tracker.md",
+    "SOFDESG - Lesson 5.md",
     "SOFDESG.md",
     "contents.md",
-    "README.md",
-    "CALENG3.md",
-    "assets/CALENG3 - Bernouilli's Equation Practice.pdf",
-    "ENGDATA.md",
-    "progress-tracker.md",
     "ENGENVI.md",
-    "CALENG3 - Lesson 2.md",
-    "judgemental sampling.md",
-    "ENGENVI - Lesson 3.md",
-    "SOFDESG - Lesson 2.md",
-    "SOFDESG - Lesson 1.md",
+    "project initiation.md",
+    "objectives.md",
+    "goals.md",
+    "stakeholders.md",
+    "mission statement.md",
+    "assets/strategic plans to business results.jpg",
     "ENGENVI - Lesson 2.md",
+    "ENGDATA - Lesson 3.md",
+    "ENGDATA.md",
+    "SWOT analysis.md",
+    "strategic planning.md",
     "SOFDESG - Lesson 4.md",
-    "SOFDESG - Lesson 5.md",
-    "SOFDESG - Lesson 3.md",
-    "Scrum artifacts.md",
-    "fundamental Sprint goal.md",
-    "increment.md",
-    "Sprint Backlog.md",
-    "Product Backlog.md",
-    "Sprint.md",
-    "Scrum.md",
-    "agile modeling.md",
-    "decomposer.md",
+    "ENGENVI - Lesson 3.md",
+    "material cycles.md",
+    "matter cycles.md",
+    "silviculture.md",
+    "standard deviation.md",
+    "variance.md",
+    "states of nature.md",
+    "expectation.md",
+    "continuous random variable.md",
+    "assets/energy flow.jpg",
+    "assets/CALENG3 - Bernouilli's Equation Practice.pdf",
+    "assets/CALENG3 - Linear DE Practice.pdf",
     "assets/CALENG3 - Homogeneous DE Practice.pdf",
     "assets/CALENG3 - Variable Separable Practice.pdf",
     "assets/user stories card.jpg",
@@ -180,8 +184,6 @@
     "assets/arrangement of similar objects.jpg",
     "assets/set operations.jpg",
     "templates",
-    "assets/column chart.png",
-    "assets/bar chart.png",
     "journals",
     "assets"
   ]

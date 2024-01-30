@@ -11,7 +11,7 @@ tags:
 ---
 
 - [[random variable|Random variable]]
-	- It is an item used to define or denote the [[sample points]], where each one are assigned a value. It is called “random” because its numerical value is of a random nature.
+	- It is an item used to define or denote the [[sample points]], where each one is assigned a value. It is called “random” because its numerical value is of a random nature.
 	- Types of random variable
 		- [[discrete random variable|Discrete]]
 			- A type of random variable that is either finite or countably infinite number of possible values.
