@@ -31,7 +31,7 @@ tags:
 		- $E(x)=\int xf(x) \, dx$
 - [[variance|Variance]]
 	- A property of the probability distribution of $x$ that measures the dispersion or “spread” of the values of x.
-	- The average of the squares of the deviations of all the x-values from the mean.
+	- The average of the squares of the deviations of all the x-values from the [[mean]].
 	- $\mu_{x}$ and $\sigma^2_{x}$ are measures that provide description to a population.
 	- Basic formula
 		- $\sigma^2_{x}=E(x-\mu_{x})^2$
