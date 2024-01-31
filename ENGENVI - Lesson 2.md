@@ -106,7 +106,7 @@ tags:
 			- [[grazer|Grazer]] - starts with plants.
 			- [[decomposer|Decomposer]] - organic waste material (detritus) is the major food source.
 	- [[food web|Food Web]] - a set of interconnected food chains by which energy and materials circulate within an ecosystem. All plants and animals are part of this complex food web.
-- [[material cycles|Matter cycling]]
+- [[matter cycles|Matter cycling]]
 	1. Plants eaten by herbivores are later excreted.
 	2. The minerals from the bodies of herbivores are recycled by carnivores.
 	3. Scavengers consume the carcass or the body of dead animals, allowing them to absorb the minerals from the carcass.
