@@ -10,3 +10,6 @@ FROM #lesson
 WHERE Course = this.file.name
 SORT file.name ASC
 ```
+
+- Helpful materials
+	- [[Statistical-Tables.pdf|Statistical tables]]

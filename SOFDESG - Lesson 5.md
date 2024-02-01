@@ -3,7 +3,7 @@ Course: SOFDESG
 Topic: Strategic Planning
 Linked_Tests:
   - Quiz 1
-Status: Work in Progress
+Status: Done
 References used:
   - SOFWENG Lecture 5 (Lecture Slides)
 tags:
@@ -14,7 +14,7 @@ tags:
 	- Is the process of identifying long term organizational goals, strategies, and resources.
 - [[SWOT analysis]] is a series of questions managers ask during strategic planning. It stands for
 	- **S**trengths
-		- Questions include, what are our major strengths, and how can we maximize them in the future? What should we do to strengthen our function, including our people the technology infrastructure?
+		- Questions include, what are our major strengths, and how can we maximize them in the future? What should we do to strengthen our function, including our people and the technology infrastructure?
 	- **W**eaknesses
 		- Questions include, what are our major weaknesses, and how can we overcome them? How should we address our weaknesses in resource and capability?
 	- **O**pportunities
@@ -44,4 +44,85 @@ tags:
 	- Are situations where the goals are never met or are no longer being met.
 - Factors that affect systems projects
 	- Internal factors
+		- Strategic plan
+			- Sets the overall direction for the firm; therefore, it significantly affects the projects. For instance, a strategic plan that emphasizes technology offer a better climate for newer projects.
+			- Company goals and objectives in need of support will generate system requests and influence priorities.
+		- Top managers
+			- Their directives are the primary source of large-scale system projects. Furthermore, their support takes decisions that require new systems, more information for decision-making, or better support for mission-critical information systems.
+		- User requests
+			- As users rely on [[information system|Information Systems]] (IS) more, they are likely to request greater IT services and support.
+			- Users satisfactory with the current system.
+			- New business requirement that did not even exist when the system was developed.
+		- Information Technology (IT) department
+			- Recommendations based on the team’s knowledge on business operations and trends in technology.
+			- Proposals might strictly be technical matters or business oriented.
+		- Existing systems
+			- Problems in existing systems can trigger requests for systems projects.
 	- External factors
+		- Technology
+			- Changes in technology greatly affect businesses. For example, the internet influences many business bases, virtual companies, online universities, and internet banking. Additionally, telecommunication opened new ways for businesses.
+			- New programming languages and applications make it easier for everyone to use computers.
+		- Customer
+			- They are vital to any business; for this reason, information systems that interact with customers take the highest priority.
+			- Managers and the department are also highly concerned of customer needs and requests, encouraging them to update and build new systems.
+			- Integrated customer systems, like marketing sales and customer service activities, are a real challenge for the department.
+		- Competitors
+			- Competitors’ prices, services, and quality rapidly affect the company’s decisions and plans; hence, driving many information systems decisions.
+		- Economy
+			- Economic activities and changes strongly impact corporate information management.
+			- Economic expansion needs scalable systems that can handle additional volume and growth.
+		- Government
+			- Federal, state, and local government regulations affect the design of corporate information systems.
+			- Tax rules for sales products, income, and internet sales, affect company’s systems.
+		- Supplier
+			- Relationships with suppliers are important for any company since new technology and markets need new inventory control system to minimize unnecessary inventory.
+			- A supplier aims to provide the right product at the right place and at the right time.
+- [[risk management|Risk management]]
+	- Every project involves risks that system analysts and project managers must address.
+	- Risk management is the process of identifying, evaluating, tracking, and controlling risks to minimize their impact.
+	- Information that the analyst should take into consideration for each risk
+		- Probability, or the probability that the risk will happen.
+		- Impact, which indicates the degree of adverse effects of the risk.
+		- Cost, which indicates the potential financial impact of the risk.
+		- Category, which specifies the risk type.
+		- Description, which specifies the risk nature.
+		- Mitigation plan, which identifies plans to control or limit the risk.
+- [[Systems request]]
+	- A document describing business reasons for project and system’s expected value.
+	- Many organizations use a special form for systems requests [[Systems Requests Forms]].
+		- A properly designed form streamlines the request process and ensures consistency.
+	- Request form must be easy to understand and include clear instructions
+- [[system review committee|System review committee]]
+	- Systems review committee or a computer resources committee evaluate systems projects.
+	- System review committees
+		- Most large companies use a systems review committee to evaluate systems requests.
+		- Many smaller companies rely on one person to evaluate system requests instead of a committee.
+		- The goal is to evaluate the request and set priorities.
+- Project selection
+	- Five specific criteria for project selection
+		- Backed by management.
+		- Timed appropriately for commitment of resources.
+		- It moves the business toward attainment of its goals.
+		- Practicable
+		- Important enough to be considered over other projects.
+- [[feasibility study|Feasibility study]]
+	- A systems request must pass several tests, called a feasibility study, to see whether it is worthwhile to proceed further.
+	- Feasibility study determines the probability of success of the proposed system’s development project and assesses it.
+	- Feasibility analysis is used to aid in the decision of whether to proceed with the project.
+	- Categories
+		- Operational feasibility
+			- Determines if the human resources are available to operate the system once it has been installed.
+			- Users that do not want a new system may prevent it from becoming operationally feasible.
+		- Technical feasibility
+			- Refers to the technical resources needed to develop, purchase, install, or operate the system.
+			- Familiarity with technology.
+				- Users’ and analysts’ familiarity with the business application area.
+			- Project size
+				- Number of people, time, and features.
+			- Compatibility with existing systems.
+		- Economic feasibility
+			- Means that the projected benefits of the proposed system outweigh the estimated costs.
+			- Analysts need to assess tangible and intangible benefits and costs.
+		- Schedule feasibility
+			- Assessment of time frame and project completion dates with respect to organization constraints for affecting change.
+			- A system analyst must consider the interaction between time and costs.
