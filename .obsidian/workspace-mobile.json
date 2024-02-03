@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "788d73c4795d0cfd",
+        "id": "faec397afbe50851",
         "type": "tabs",
         "children": [
           {
-            "id": "fef4c9b85b9d208a",
+            "id": "c446658c9d337184",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "contents.md",
+                "file": "ENGDATA.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -45,7 +45,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#PracticeQuestions/CALENG3",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -96,7 +96,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "contents.md"
+            "file": "ENGDATA.md"
           }
         }
       },
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "contents.md",
+            "file": "ENGDATA.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,40 +139,43 @@
       "graph:Open graph view": false
     }
   },
-  "active": "fef4c9b85b9d208a",
+  "active": "c446658c9d337184",
   "lastOpenFiles": [
+    "contents.md",
     "README.md",
+    "SOFDESG.md",
+    "SOFDESG - Lesson 3.md",
+    "SOFDESG - Lesson 2.md",
     "progress-tracker.md",
     "SOFDESG - Lesson 5.md",
-    "SOFDESG.md",
-    "contents.md",
-    "ENGENVI.md",
-    "project initiation.md",
-    "objectives.md",
-    "goals.md",
-    "stakeholders.md",
-    "mission statement.md",
-    "assets/strategic plans to business results.jpg",
-    "ENGENVI - Lesson 2.md",
-    "ENGDATA - Lesson 3.md",
-    "ENGDATA.md",
-    "SWOT analysis.md",
-    "strategic planning.md",
-    "SOFDESG - Lesson 4.md",
-    "ENGENVI - Lesson 3.md",
-    "material cycles.md",
-    "matter cycles.md",
-    "silviculture.md",
-    "standard deviation.md",
-    "variance.md",
-    "states of nature.md",
-    "expectation.md",
-    "continuous random variable.md",
-    "assets/energy flow.jpg",
+    "system review committee.md",
+    "risk management.md",
+    "feasibility study.md",
+    "Systems Requests Forms.md",
+    "systems request.md",
+    "CALENG3.md",
+    "CALENG3 - Lesson 2.md",
     "assets/CALENG3 - Bernouilli's Equation Practice.pdf",
     "assets/CALENG3 - Linear DE Practice.pdf",
+    "assets/CALENG3 - Exact DE Practice.pdf",
     "assets/CALENG3 - Homogeneous DE Practice.pdf",
     "assets/CALENG3 - Variable Separable Practice.pdf",
+    "CALENG3 - Lesson 1.md",
+    "ENGDATA.md",
+    "ENGDATA - Lesson 5.md",
+    "ENGDATA - Lesson 4.md",
+    "ENGDATA - Lesson 3.md",
+    "ENGDATA - Lesson 2.md",
+    "ENGDATA - Lesson 1.md",
+    "ENGENVI.md",
+    "ENGENVI - Lesson 3.md",
+    "ENGENVI - Lesson 2.md",
+    "ENGENVI - Lesson 1.md",
+    "LBYCPD2.md",
+    "assets/Statistical-Tables.pdf",
+    "assets/matter cycles phases.jpeg",
+    "assets/strategic plans to business results.jpg",
+    "assets/energy flow.jpg",
     "assets/user stories card.jpg",
     "assets/kinds of prototype.jpg",
     "assets/spiral model example.jpg",
@@ -182,9 +185,7 @@
     "Listing",
     "ISO",
     "assets/arrangement of similar objects.jpg",
-    "assets/set operations.jpg",
     "templates",
-    "journals",
-    "assets"
+    "journals"
   ]
 }
