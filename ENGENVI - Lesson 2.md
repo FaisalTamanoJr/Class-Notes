@@ -131,20 +131,20 @@ tags:
 				- 4.5% from primary to secondary consumers (67/1478).
 		- From similar studies in other ecosystems, we can take 10% as the average conversion efficiency from producers to primary consumers.
 - [[land resources|Land resources]]
-	- The survival of animals and plants and other living organisms depend much on the condition of the lands.
+	- The survival of animals and plants and other living organisms highly depend on the condition of the lands.
 	- Contain essential nutrients and minerals that sustain plants. As a result, it also indirectly sustain humans.
 	- [[Soil]]
 		- If not disturbed, it can maintain the balance in an ecosystem.
 		- It is reproduced from its parent material at a very slow rate: 300 to 1,000 years or more to build just a single inch of topsoil.
 		- Layers
-			1. Topsoil
+			1. [[topsoil|Topsoil]]
 				- Contains most of the nutrients needed by plants and animals, and important microorganisms that are helpful in the maintenance of ecological balance.
-			2. Subsoil
+			2. [[subsoil|Subsoil]]
 				- Works as a water catchment system.
-			3. Substratum
+			3. [[substratum|Substratum]]
 				- Stores minerals such as coal and other mined minerals.
 		- Destruction
-			- Erosion
+			- [[erosion|Erosion]]
 				- Accelerated process of soil removal brought about by human interference, with the normal equilibrium between soil building and soil removal.
 				- [[artificial erosion|Artificial erosion]] - caused by human activities.
 				- [[geological erosion|Geological or natural erosion]] - caused by nature.
