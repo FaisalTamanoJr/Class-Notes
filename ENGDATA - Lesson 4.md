@@ -48,7 +48,7 @@ tags:
 						- $q=$ probability of failure
 				3. Because the repeated trials are independent, the probability of success remains constant from trial to trial.
 			- Underlying assumption
-				- Sampling is done with replacement, and trials are independent of each other. However, If lot size is big and sampling is small, binomial distribution can be applied even if it is without replacement.
+				- Sampling is done with replacement, and trials are independent of each other. However, if the population size is much larger than the sample size, then binomial distribution can be applied even if it is without replacement.
 				- $f(x)=b(x,n,p)=\begin{pmatrix}n\\x\end{pmatrix} p^xq^{n-x}$
 					- $x=$ binomial random variable (the number of successes obtained from $n$ trials).
 			- [[variance|Variance]], $\sigma^2$
