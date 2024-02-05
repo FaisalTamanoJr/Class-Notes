@@ -34,7 +34,7 @@ tags:
 		- Design must completely be specified before programming begins.
 		- There is a lot of time between the completion of the system proposal in the analysis phase and the delivery of the system.
 		- Accommodating changes is expensive.
-- [[parallel development|Parallel development]]
+- [[Parallel development|Parallel development]]
 	- ![[parallel development.jpg|400]]
 	- Attempts to address the waterfall development problem, where there is a long time interval between the analysis phase and the delivery of the system.
 - [[Rapid Application Development]] (RAD)
@@ -77,7 +77,7 @@ tags:
 		- Can result to a more accurate system requirements, clearer idea of common goals, and a stronger commitment to the success of the new system.
 	- Disadvantages
 		- Expensive and demanding, especially if the group of users is much larger relative to the size of the project.
-- [[Scrum]]
+- [[scrum]]
 	- An [[agile modeling|agile]] and management framework that organizes work into fixed-length iterations called [[Sprint|sprints]]. This is done to work towards a common goal.
 	- It describes a set of meetings, tools, and roles for efficient project delivery.
 	- Principles
@@ -97,7 +97,7 @@ tags:
 		- Openness
 			- Team members are open to new ideas and opportunities that allow each member to learn, and support the overall project quality.
 		- Respect
-			- Team members not only respect everyone involved in the project, but also the [[Scrum]] process. This creates a spirit of mutual cooperation within the team.
+			- Team members not only respect everyone involved in the project, but also the [[scrum]] process. This creates a spirit of mutual cooperation within the team.
 	- [[Scrum artifacts]]
 		- Are tools to solve problems and manage projects by providing critical planning and task information to team members and stakeholders.
 		- Primary artifacts

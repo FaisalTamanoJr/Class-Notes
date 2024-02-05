@@ -50,13 +50,13 @@ Tags:
 			- Reads as “probability of $A$ given $B$”.
 		- Formula
 			- $P(A/B)=\left (\frac{P(A\cap B)}{P(B)} \right)$
-	- [[Multiplication law of probability]]
+	- [[multiplication law of probability]]
 		- $P(A/B)=\left (\frac{P(A\cap B)}{P(B)} \right)$ => $P(A\cap B)=P(B)\times P(A/B)$
 		- $P(B/A)=\left (\frac{P(A\cap B)}{P(A)} \right)$ => $P(A\cap B)=P(A)\times P(B/A)$
 		- $P(A\cap B)=P(A)\times P(B)$ if event $A$ and event $B$ are independent of each other.
 - [[Statistical Inference]]
 	- Statistical inference is the process of using sample information to draw conclusions about the characteristics of a population being studied.
-- Importance of [[probability]] and [[statistical inference]]
+- Importance of [[probability]] and [[Statistical Inference]]
 	- The study of probability and statistical inference aids in the translation of sample information into something conclusive or inconclusive about the scientific system being studied. The resulting conclusion from the statistical inference can assist an individual in their decision-making process.
 	- It can allow us to quantify the confidence we have in our conclusions.
 - [[experiment|Experiment]]
@@ -69,7 +69,7 @@ Tags:
 		- **Sample space (S)** is a list of all possible outcomes.
 		- **[[sample points|Sample points]] (x)** are the elements of the sample space (a single outcome is a single sample point).
 	- Ways of defining a sample space
-		1. [[Listing/Roster method]]
+		1. [[listing method|Listing/Roster method]]
 			- Done by enumerating all the elements of the sample space.
 		2. [[defining property method|Defining property method]]
 			- Done by selecting a property common to all sample points, then using that same property to define a sample space.

@@ -17,7 +17,7 @@ tags:
 			- Involves a discrete random variable.
 		- [[continuous probability distribution]]
 			- Involves a continuous random variable.
-- [[Discrete probability distribution]]
+- [[discrete probability distribution]]
 	- Characteristics
 		1. $f(x)>0 \begin{align} && \forall{x\text{ (for all x)}} \end{align}$
 			- The probability of each outcome is greater than or equal to 0.
@@ -30,7 +30,7 @@ tags:
 		- Denoted by: $F(x)=P(X\leq x)=\sum\limits^x_{{x=L}}f(x)$
 			- where $L$ is equal to the lower limit of possible $x$ values.
 	- Types
-		- [[Discrete uniform distribution]]
+		- [[discrete uniform distribution]]
 			- All values of the random variable has an equal chance of occurring
 			- $u(x:n)=\frac{1}{n}\begin{align} && \text{;} && x=x_{1},x_{2},x_{3}\ldots X_{n}\end{align}$
 				- $u(x:n)$ refers to the probability assigned to each one of the random variable’s values.
@@ -39,7 +39,7 @@ tags:
 				- $\mu=\frac{ \sum^n_{i=1}x_{i}}{n}$
 			- [[variance|Variance]], $\sigma^2$
 				- $\sigma^2=\frac{ \sum^n_{i=1}(x_{i}-\mu)^2}{n}$
-		- [[Binomial distribution]]
+		- [[binomial distribution]]
 			- Characteristics
 				1. The experiments consists of $n$ repeated trials, where each trial is called a [[Bernoulli trial]].
 				2. There are only two mutually exclusive outcomes for each trial, namely, success and failure. The event that corresponds to success is chosen arbitrarily.
@@ -55,7 +55,7 @@ tags:
 				- $\sigma^2=npq$
 			- [[mean|Mean]], $\mu$
 				- $\mu=np$
-		- [[Multinomial distribution]]
+		- [[multinomial distribution]]
 			- Extends the binomial distribution by being able to generally represent it with more than two possible outcomes per trial.
 			- Characteristics
 				1. The experiment consists of $n$ repeated trials.
@@ -68,7 +68,7 @@ tags:
 				- $\mu=n\prod\limits_{i=1}^k p_{i}$
 			- [[variance|Variance]], $\sigma^2$
 				- $\sigma^2=n\prod\limits_{i=1}^k p_{i}\prod\limits_{i=1}^k q_{i}$
-		- [[Negative binomial distribution]]
+		- [[negative binomial distribution]]
 			- If repeated independent trials can result in a success with a probability $p$ and a failure with a probability of $q=1-p$, then the probability distribution of the random variable $x$, the trial on which the $k^{th}$ success occurs, is given by,
 				- $b(x,k,p)=\begin{pmatrix}x-1 \\ k-1\end{pmatrix}p^kq^{x-k} \begin{align} && ; && x=k,k+1,k+2\ldots\end{align}$
 					- Where: $k=$ number of successes, $x$ = number of trials
@@ -76,14 +76,14 @@ tags:
 				- $\mu=\frac{k(1-p)}{p}$
 			- [[variance|Variance]], $\sigma^2$
 				- $\sigma^2=\frac{k(1-p)}{p^2}$
-		- [[Geometric distribution]]
+		- [[geometric distribution]]
 			- If repeated independent trials can result in a success with probability $p$ and a failure with a probability $q$, then the probability distribution of the random variable $x$, the trial on which the first success occurs, is given by,
 				- $g(x:p)=pq^{x-1} \begin{align} && ; && x=1,2,3,\ldots, \infty\end{align}$
 			- [[mean|Mean]], $\mu$
 				- $\mu=\frac{1}{p}$
 			- [[variance|Variance]], $\sigma^2$
 				- $\sigma^2=\frac{1-p}{p^2}$
-		- [[Hypergeometric distribution]]
+		- [[hypergeometric distribution]]
 			- Characteristics
 				1. A random sample of size $n$ is selected from $N$ items.
 				2. The $N$ items may be subdivided into two groups: $k$ and $N-k$, where the former refers to the items classified as successes, and the latter refers to the items classified as failures. The choice of successes is arbitrary.
@@ -97,7 +97,7 @@ tags:
 			- Cases where the binomial distribution can approximate the hypergeometric distribution
 				1. When $N$ is not given (assume $N$ is large).
 				2. When $N$ is given but it is very large.
-		- [[Poisson distribution]]
+		- [[poisson distribution]]
 			- In a Poisson experiment, the observer is concerned with the actual number of occurrences or successes at random points in time, space or volume, or in any other stated unit.
 			- Examples of experiments which may follow the Poisson experiment
 				1. Number of arrivals per hour at a counter.

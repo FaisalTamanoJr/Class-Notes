@@ -133,7 +133,7 @@ tags:
 - [[land resources|Land resources]]
 	- The survival of animals and plants and other living organisms highly depend on the condition of the lands.
 	- Contain essential nutrients and minerals that sustain plants. As a result, it also indirectly sustain humans.
-	- [[Soil]]
+	- [[soil]]
 		- If not disturbed, it can maintain the balance in an ecosystem.
 		- It is reproduced from its parent material at a very slow rate: 300 to 1,000 years or more to build just a single inch of topsoil.
 		- Layers
@@ -149,7 +149,7 @@ tags:
 				- [[artificial erosion|Artificial erosion]] - caused by human activities.
 				- [[geological erosion|Geological or natural erosion]] - caused by nature.
 				- [[water erosion|Water erosion]] - transposition of soil by rainwater, including melted snow running rapidly over exposed land surfaces. Types of water erosion include sheet erosion, rill erosion, and gully erosion.
-				- [[Wind erosion]] - blowing of loose soil from one place to another.
+				- [[wind erosion]] - blowing of loose soil from one place to another.
 					- [[sand storm|Sand storm or dust storm]] is as destructive as water erosion, and is usually occurring in places where water erosion is also active.
 	- [[agricultural crop land|Agricultural crop land]]
 		- Land mostly used for food and fiber production.

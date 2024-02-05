@@ -9,7 +9,7 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "attachmentFolderPath": "assets",
   "showUnsupportedFiles": false,
   "spellcheck": false,
@@ -29,5 +29,6 @@
     "variable",
     "nutrients",
     "monggo"
-  ]
+  ],
+  "newFileFolderPath": "pages"
 }

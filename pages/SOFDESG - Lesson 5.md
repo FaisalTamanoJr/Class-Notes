@@ -87,7 +87,7 @@ tags:
 		- Category, which specifies the risk type.
 		- Description, which specifies the risk nature.
 		- Mitigation plan, which identifies plans to control or limit the risk.
-- [[Systems request]]
+- [[systems request]]
 	- A document describing business reasons for project and system’s expected value.
 	- Many organizations use a special form for systems requests [[Systems Requests Forms]].
 		- A properly designed form streamlines the request process and ensures consistency.

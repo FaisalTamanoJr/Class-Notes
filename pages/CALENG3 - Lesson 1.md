@@ -18,7 +18,7 @@ tags:
 			- A type of differential equation with total derivatives only. Furthermore, it only has two variables, one dependent variable and one independent variable.
 		- [[partial differential equation|Partial differential equation]] (PDE)
 			- This type only has partial derivatives, and have three or more variables (one dependent, while the rest are independent).
-	- [[Order of a differential equation]]
+	- [[order of a differential equation]]
 		- The order of a differential equation is the order of the highest ordered derivative in the equation.
 		- The order of this derivative, $y^n=\frac{d^ny}{dx^n}$, is the value of $n$. So we say that this derivative is at the $n^{th}$ order.
 	- [[degree|Degree of a differential equation]]

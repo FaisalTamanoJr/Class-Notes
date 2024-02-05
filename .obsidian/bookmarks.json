@@ -8,7 +8,7 @@
     {
       "type": "file",
       "ctime": 1701159780783,
-      "path": "README.md"
+      "path": "pages/README.md"
     },
     {
       "type": "file",
@@ -23,12 +23,12 @@
     {
       "type": "file",
       "ctime": 1703594221748,
-      "path": "contents.md"
+      "path": "pages/contents.md"
     },
     {
       "type": "file",
       "ctime": 1705315242636,
-      "path": "progress-tracker.md"
+      "path": "pages/progress-tracker.md"
     }
   ]
 }

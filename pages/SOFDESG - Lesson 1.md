@@ -10,7 +10,7 @@ tags:
   - lesson
 ---
 
-- [[Software engineering]]
+- [[software engineering]]
 	- Definition and characteristics
 		- Software engineering is the set of techniques, methodologies, and tools used for producing a high quality software system. The production is given a budget, while change occurs before the deadline.
 		- It is the process of analyzing user needs to develop end user applications that satisfy these needs. This would involve the use of programming languages to assist in designing, constructing, and testing the applications.
@@ -57,7 +57,7 @@ tags:
 				- Software engineering can enhance software to adapt to the changes in the environment of the users, and the nature of the software.
 			- Quality management
 				- Better software development process leads to a higher quality software product.
-- [[Software engineer]]
+- [[software engineer]]
 	- Definition
 		- A software engineer (computer scientist, programmer, or software developer) is a person who applies software engineering principles in the design, development, maintenance, testing, and evaluation of software.
 	- Responsibilities
@@ -110,7 +110,7 @@ tags:
 		- Also known as the “software development process”.
 		- Definition and terminologies
 			- It is the process and framework used by the software industry to produce high quality software that exceeds customers expectations and reaches completion within times and cost estimates. It consists of a plan that describes how to develop, maintain, replace, alter, or enhance a specific software. Moreover, it defines a methodology for improving the overall development process.
-			- [[ISO/IEC 12207]] is an international standard for software life-cycle processes that aims to define all the tasks required for developing and maintaining software.
+			- [[ISO - IEC 12207]] is an international standard for software life-cycle processes that aims to define all the tasks required for developing and maintaining software.
 		- Stages of a typical SDLC
 			1. [[Planning and requirement analysis]]
 				- Requirement analysis is the most important stage.

@@ -80,7 +80,7 @@ tags:
 	- For: $\frac{\partial ^2F}{\partial y \partial x} = \frac{\partial^2 F}{\partial x \partial y}$
 		- Sufficient and necessary condition for exact DE
 			- $\frac{\partial M(x,y)}{\partial y}=\frac{\partial N(x,y)}{\partial x}$
-		- [[General solution]]
+		- [[general solution]]
 			- $F(x,y)=c$
 	- Solving steps [(recommended video)](https://youtu.be/rNpMtelVVUQ?feature=shared)
 		1. Test of exactness
@@ -114,10 +114,10 @@ tags:
 - [[bernoulli’s equations|Bernoulli’s equations]]
 	- [Recommended video](https://youtu.be/I15tLSHl_vU?feature=shared)
 	- Standard form: (Bernouilli in y) $dy+P(x)ydx = Q(x)y^ndx$
-		- if $n=0$: [[Linear differential equation]]
-		- if $n=1$: [[Variable separable]]
+		- if $n=0$: [[linear differential equation]]
+		- if $n=1$: [[variable separable]]
 		- if $n \neq 0, 1:$ Bernoulli’s equations
-	- [[General solution]]
+	- [[general solution]]
 		- $y^{1-n}e^{\int (1-n)P(x) \, dx}=\int (1-n)Q(x)e^{\int (1-n)P(x) \, dx} + c \, dx$
 - [[Substitution suggested by the equation]]
 	- [Recommended video](https://www.youtube.com/watch?v=XS9sBMtAxuE)

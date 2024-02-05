@@ -14,7 +14,7 @@ tags:
 	- No matter is created nor destroyed, they are all cycled through the ecosystem. All of them are also composed of certain chemical elements and compounds.
 	- Two main compartments: the reservoir and the sink.
 		- Materials are cycled from the reservoir to the sink and from the sink to the reservoir.
-- [[Matter cycles]] in ecosystems
+- [[matter cycles]] in ecosystems
 	- General phases
 		- ![[matter cycles phases.jpeg|400]]
 	- Types
@@ -32,9 +32,9 @@ tags:
 				- [[runoff|Runoff]] - water flows downwards across the surface.
 		2. [[carbon cycle|Carbon cycle]]
 			- Processes involved for $CO_{2}\text{ - }O_{2}$
-				- [[Producers]] (plants and algae) - $CO_{2}$ absorption by [[photosynthesis]].
+				- [[producers]] (plants and algae) - $CO_{2}$ absorption by [[photosynthesis]].
 					- Main products: $O_{2}$ and food molecules (glucose)
-				- [[Consumers]] - use $O_{2}$ to break down food molecules in cells ([[cellular respiration]]).
+				- [[consumers]] - use $O_{2}$ to break down food molecules in cells ([[cellular respiration]]).
 					- $CO_{2}$ is released and used in photosynthesis.
 			- Other processes releasing $CO_{2}$
 				- [[fermentation|Fermentation]] and decay of wastes and remains of plants and animals ([[cellular respiration]]).
@@ -55,7 +55,7 @@ tags:
 					- Plants in [[legume]] family contain Rhizobia in their roots that fix $N_{2}$ in [[nodules]].
 						- Beans (monggo, snake beans, alfalfa, etc.), peanuts, clover, and others.
 						- Crop rotation for soil enrichment.
-				- [[Decomposers]]
+				- [[decomposers]]
 					- Refer to the bacteria and fungi that decompose dead animals and plants. They convert their organic nitrogen (found in proteins and nucleic acids) into [[inorganic ammonium]] ($NH_{4}^+$).
 				- Nitrifying bacteria
 					- Interconvert inorganic nitrogen molecules.

@@ -35,7 +35,7 @@ Tags:
 				- mission
 				- vision statement
 				- internet
-- [[Surveys]]
+- [[surveys]]
 	- Uses
 		- Surveys are used to gather information that, ideally, represents the views of the population being studied. It involves asking plenty of people to answer a series of unbiased questions.
 	- Advantages
@@ -95,7 +95,7 @@ Tags:
 				- Researchers use non-probability sampling methods when facing budget and time constraints.
 - [[experimental design|Experimental design]]
 	- Key factors for a high quality experimental design
-		- [[Data]] should not be contaminated by poor measurement or errors in the procedure.
+		- [[data]] should not be contaminated by poor measurement or errors in the procedure.
 		- Eliminate confounding variables, or variables that can influence both the independent and dependent variable.
 		- Ensure that the sample properly represents the population being studied.
 	- Elements of a good [[quantitative research]] design
@@ -106,11 +106,11 @@ Tags:
 	- Steps
 		1. Question
 			- Formulate a question that you can test. You may use a mind map to assist you.
-		2. [[Hypothesis]]
+		2. [[hypothesis]]
 			- Form a hypothesis (educated guess) by creating a testable statement. At the end of the experiment, check if the conclusion supports the hypothesis.
 		3. Explanation of hypothesis
 			- Explore the reasons on why you chose a specific hypothesis.
-		4. [[Prediction]]
+		4. [[prediction]]
 			- Produce a prediction, or a statement about the direct results of the experiment. This is different from a hypothesis because a hypothesis is a testable statement where you predict the conclusion and not the results.
 		5. Identification of variables
 			- Identify the following variables for your experiment
