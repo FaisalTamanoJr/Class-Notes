@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3c2789e22c93b0f7",
+        "id": "ae8390f0bbbd702c",
         "type": "tabs",
         "children": [
           {
-            "id": "d30106d176d7191a",
+            "id": "38225c9be33679a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "pages/README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,7 +96,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "pages/README.md"
           }
         }
       },
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "pages/README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,12 +139,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "d30106d176d7191a",
+  "active": "38225c9be33679a6",
   "lastOpenFiles": [
+    "pages/SOFDESG - Lesson 2.md",
+    "pages/SOFDESG.md",
+    "pages/contents.md",
+    "pages/ENGDATA.md",
+    "pages/README.md",
+    "SOFDESG.md",
     "contents.md",
     "README.md",
     "SOFDESG - Lesson 6.md",
-    "SOFDESG.md",
     "ENGDATA.md",
     "ENGDATA - Lesson 2.md",
     "ENGDATA - Lesson 5.md",
@@ -167,11 +172,6 @@
     "assets/CALENG3 - Homogeneous DE Practice.pdf",
     "assets/CALENG3 - Variable Separable Practice.pdf",
     "CALENG3 - Lesson 1.md",
-    "ENGDATA - Lesson 1.md",
-    "ENGENVI.md",
-    "ENGENVI - Lesson 3.md",
-    "ENGENVI - Lesson 2.md",
-    "ENGENVI - Lesson 1.md",
     "assets/Statistical-Tables.pdf",
     "assets/matter cycles phases.jpeg",
     "assets/strategic plans to business results.jpg",
