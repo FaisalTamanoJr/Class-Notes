@@ -1,6 +1,6 @@
 # Class-notes
 
-Because I frequently have been asked for my notes in class, I've decided to start uploading them in this repository.
+Because I have frequently been asked for my notes in class, I've decided to start uploading them in this repository.
 
 To switch from edit mode to preview/reading mode, press `ctrl+e`.
 
