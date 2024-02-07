@@ -16,11 +16,11 @@ tags:
 		- It is the process of analyzing user needs to develop end user applications that satisfy these needs. This would involve the use of programming languages to assist in designing, constructing, and testing the applications.
 		- Unlike simple programming, software engineering is used for larger and more complex software systems. These software systems are used as [critical systems](https://en.wikipedia.org/wiki/Critical_system) for businesses and organizations.
 		- Software engineering is a branch of engineering that focuses on making software while using scientific principles, resulting in an efficient and reliable software product.
-		- It is the application of systematic, disciplined, quantifiable, approach to the development, operation and maintenance of software.
+		- It is the application of systematic, disciplined, and quantifiable approach to the development, operation, and maintenance of software.
 	- Science, engineering, management, and human factors of software engineering
 		- Science: Makes use of empirical studies and theories for the behavior of the whole system (for reliability).
 		- Management: Organizing teams, directing activities, and correcting problems.
-		- Human factors: Designing the user interface with the user in mind, meaning that it is intuitive and ergonomic.
+		- Human: Designing the user interface with the user in mind, meaning that it is intuitive and ergonomic.
 		- Engineering: Making trade-offs, and using canonical solutions to typical problems.
 	- Principles
 		- Rigor and formality
@@ -112,7 +112,7 @@ tags:
 			- It is the process and framework used by the software industry to produce high quality software that exceeds customers expectations and reaches completion within times and cost estimates. It consists of a plan that describes how to develop, maintain, replace, alter, or enhance a specific software. Moreover, it defines a methodology for improving the overall development process.
 			- [[ISO - IEC 12207]] is an international standard for software life-cycle processes that aims to define all the tasks required for developing and maintaining software.
 		- Stages of a typical SDLC
-			1. [[Planning and requirement analysis]]
+			1. Planning and requirement analysis
 				- Requirement analysis is the most important stage.
 				- This is done by the senior members of the team with inputs from the customer, the sales department, market surveys, and domain experts in the industry.
 				- This stage is used to plan the basic project approach, and to conduct product feasibility study in the economical, operational, and technical areas.

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1b5f89c706c4215c",
+        "id": "62c3888f4d3d4972",
         "type": "tabs",
         "children": [
           {
-            "id": "109987b885348c1a",
+            "id": "3451eb5a4dcdb017",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/README.md",
-                "mode": "source",
+                "file": "pages/SOFDESG - Lesson 1.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -55,7 +55,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/README.md"
+                "file": "pages/SOFDESG - Lesson 1.md"
               }
             }
           },
@@ -75,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/README.md",
+                "file": "pages/SOFDESG - Lesson 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5069465637207
+    "width": 376.5069465637207,
+    "collapsed": true
   },
   "right": {
     "id": "eccee2bb78656ef6",
@@ -170,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/README.md",
+                "file": "pages/SOFDESG - Lesson 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,12 +181,22 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "ca2815a155c1646a",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 391.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,14 +209,18 @@
       "obsidian-trim-whitespace:Trim whitespace": false
     }
   },
-  "active": "109987b885348c1a",
+  "active": "3451eb5a4dcdb017",
   "lastOpenFiles": [
+    "pages/System Requirements Document.md",
+    "pages/SOFDESG - Lesson 1.md",
+    "pages/Planning and requirement analysis.md",
+    "pages/SOFDESG.md",
     "pages/contents.md",
+    "README.md",
     "pages/ENGDATA - Lesson 1.md",
     "pages/ENGDATA.md",
     "pages/ENGDATA - Lesson 2.md",
     "pages/README.md",
-    "pages/SOFDESG.md",
     "pages/abiotic.md",
     "pages/ENGENVI - Lesson 2.md",
     "pages/Conditional probability.md",
@@ -215,7 +230,6 @@
     "Listing/Roster method.md",
     "pages/listing method.md",
     "pages/ISO - IEC 12207.md",
-    "pages/SOFDESG - Lesson 1.md",
     "ISO/IEC 12207.md",
     "pages",
     "pages/ENGENVI.md",
@@ -224,9 +238,6 @@
     "pages/substratum.md",
     "pages/subsoil.md",
     "pages/topsoil.md",
-    "pages/CALENG3 - Lesson 2.md",
-    "pages/degree.md",
-    "pages/CALENG3 - Lesson 1.md",
     "assets/line chart.png",
     "assets/dot chart.png",
     "assets/column chart.png",
