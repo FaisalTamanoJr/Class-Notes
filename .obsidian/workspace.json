@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "62c3888f4d3d4972",
+        "id": "3cb241838296c76f",
         "type": "tabs",
         "children": [
           {
-            "id": "3451eb5a4dcdb017",
+            "id": "a74dc7d74c5dae9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/SOFDESG - Lesson 1.md",
+                "file": "README.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -55,7 +55,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/SOFDESG - Lesson 1.md"
+                "file": "README.md"
               }
             }
           },
@@ -75,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/SOFDESG - Lesson 1.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5069465637207,
-    "collapsed": true
+    "width": 376.5069465637207
   },
   "right": {
     "id": "eccee2bb78656ef6",
@@ -171,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/SOFDESG - Lesson 1.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,8 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5,
-    "collapsed": true
+    "width": 391.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,14 +207,20 @@
       "obsidian-trim-whitespace:Trim whitespace": false
     }
   },
-  "active": "3451eb5a4dcdb017",
+  "active": "a74dc7d74c5dae9d",
   "lastOpenFiles": [
-    "pages/System Requirements Document.md",
-    "pages/SOFDESG - Lesson 1.md",
-    "pages/Planning and requirement analysis.md",
+    "pages/SOFDESG - Lesson 5.md",
     "pages/SOFDESG.md",
     "pages/contents.md",
+    "pages/agile modeling.md",
+    "pages/SOFDESG - Lesson 4.md",
+    "pages/SOFDESG - Lesson 3.md",
+    "pages/SOFDESG - Lesson 2.md",
+    "pages/information system.md",
+    "pages/SOFDESG - Lesson 1.md",
     "README.md",
+    "pages/System Requirements Document.md",
+    "pages/Planning and requirement analysis.md",
     "pages/ENGDATA - Lesson 1.md",
     "pages/ENGDATA.md",
     "pages/ENGDATA - Lesson 2.md",
@@ -232,12 +236,6 @@
     "pages/ISO - IEC 12207.md",
     "ISO/IEC 12207.md",
     "pages",
-    "pages/ENGENVI.md",
-    "pages/ENGENVI - Lesson 3.md",
-    "pages/erosion.md",
-    "pages/substratum.md",
-    "pages/subsoil.md",
-    "pages/topsoil.md",
     "assets/line chart.png",
     "assets/dot chart.png",
     "assets/column chart.png",

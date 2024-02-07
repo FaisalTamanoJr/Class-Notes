@@ -12,7 +12,7 @@ tags:
 
 - [[Software Development Life Cycle|Systems Development Life Cycle]]
 	- Definition, characteristics, and key points
-		- Is a methodology that consists of several phases, and is used for developing information systems. The phases mark the progress of the systems analysis and design effort.
+		- Is a methodology that consists of several phases, and is used for developing [[information system|information systems]]. The phases mark the progress of the systems analysis and design effort.
 		- It can be thought of as a circular system, where the end of a system leads to the start of a project that either produces a new version of the system, or a new system that replaces it.
 		- The phases do not necessarily have to be sequentially ordered, since the specific steps and their sequence are meant to be adapted as required for a project.
 		- In an SDLC, you can complete some activates in one phase in parallel with some activates of another phase.
@@ -40,7 +40,7 @@ tags:
 		- [[systems planning|Systems planning]]
 			- It involves the preliminary investigation to identify the nature and scope of the business opportunity or problem. The outcome of this investigation will affect the entire development process.
 				- A key part of the investigation is a feasibility study that reviews costs and benefits, and recommends a course of action based on operational, technical, economic, and time factors.
-			- A [[systems request]] starts the planning process and describes the problems or desired changes in an information system or business process.
+			- A [[systems request]] starts the planning process and describes the problems or desired changes in an [[information system]] or business process.
 		- [[systems analysis|Systems analysis]]
 			- It serves as the phase for building a logical model of the new system. Hence, it will involve the investigation of any current systems, the identification of what could be improved, and the development of a concept for the new system.
 			- It answers the questions of who will use the system, what the system will do, and where and when it will be used.
