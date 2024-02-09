@@ -17,7 +17,7 @@ tags:
 			- Involves a discrete random variable.
 		- [[continuous probability distribution]]
 			- Involves a continuous random variable.
-- [[discrete probability distribution]]
+- [[discrete probability distribution|Discrete probability distribution]]
 	- Characteristics
 		1. $f(x)>0 \begin{align} && \forall{x\text{ (for all x)}} \end{align}$
 			- The probability of each outcome is greater than or equal to 0.
