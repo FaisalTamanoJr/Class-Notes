@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bdff103700de777b",
+        "id": "179bf269c4519380",
         "type": "tabs",
         "children": [
           {
-            "id": "f63bbdbf7afb9fa1",
+            "id": "ac72caa93c88ec7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/contents.md",
+                "file": "pages/CALENG3 - Lesson 3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,7 +96,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "pages/contents.md"
+            "file": "pages/CALENG3 - Lesson 3.md"
           }
         }
       },
@@ -114,7 +114,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/contents.md",
+            "file": "pages/CALENG3 - Lesson 3.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,8 +139,19 @@
       "graph:Open graph view": false
     }
   },
-  "active": "f63bbdbf7afb9fa1",
+  "active": "ac72caa93c88ec7e",
   "lastOpenFiles": [
+    "pages/Kirchoff’s law.md",
+    "pages/CALENG3 - Lesson 3.md",
+    "assets/rcl series.jpg",
+    "assets/chemical solutions first order ode.jpg",
+    "pages/electric circuit.md",
+    "pages/chemical solution.md",
+    "pages/newton’s law of cooling.md",
+    "pages/decomposition and growth.md",
+    "pages/CALENG3.md",
+    "pages/contents.md",
+    "README.md",
     "pages/continuous probability distribution.md",
     "pages/ENGDATA - Lesson 5.md",
     "pages/cumulative density function.md",
@@ -153,20 +164,11 @@
     "pages/cumulative densitiy function.md",
     "pages/ENGDATA.md",
     "pages/continuous density function.md",
-    "pages/contents.md",
-    "README.md",
     "pages/SOFDESG - Lesson 2.md",
     "pages/SOFDESG.md",
     "SOFDESG.md",
     "contents.md",
     "SOFDESG - Lesson 6.md",
-    "ENGDATA.md",
-    "ENGDATA - Lesson 2.md",
-    "ENGDATA - Lesson 5.md",
-    "ENGDATA - Lesson 3.md",
-    "ENGDATA - Lesson 4.md",
-    "SOFDESG - Lesson 3.md",
-    "SOFDESG - Lesson 2.md",
     "assets/CALENG3 - Bernouilli's Equation Practice.pdf",
     "assets/CALENG3 - Linear DE Practice.pdf",
     "assets/CALENG3 - Exact DE Practice.pdf",
@@ -181,10 +183,8 @@
     "assets/spiral model example.jpg",
     "assets/spiral model.jpg",
     "assets/evolutionary model.jpg",
-    "assets/iterative waterfall model.jpg",
     "Listing",
     "ISO",
-    "assets/arrangement of similar objects.jpg",
     "templates",
     "journals"
   ]
