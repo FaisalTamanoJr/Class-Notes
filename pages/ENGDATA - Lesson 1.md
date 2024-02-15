@@ -2,7 +2,7 @@
 Course: ENGDATA
 Topic: Obtaining Data
 Linked_Tests:
-- Quiz 1
+- Final Exam
 Status: Done
 References used:
   - 1 Graphical Data Presentation (Lecture Slides)
