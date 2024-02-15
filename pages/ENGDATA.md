@@ -12,4 +12,5 @@ SORT file.name ASC
 ```
 
 - Helpful materials
-	- [[Statistical-Tables.pdf|Statistical tables]]
+	- [[statistical tables.pdf|Statistical tables]]
+	- [[sampling distributions.pdf|Sampling Distributions]]
