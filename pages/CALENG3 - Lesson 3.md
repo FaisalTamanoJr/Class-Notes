@@ -53,6 +53,7 @@ tags:
 				- $V=V_{0}+(q_{1}-q_{2})t$
 				- $m=\frac{Q}{V}$
 - [[electric circuit|Electric circuit]]
+	- ![[rcl series.jpg|100]]
 	- Electric circuits are treated as a network containing only one closed path
 	- Elements
 		1. Electromotive force (EMF) or Voltage ($E$ or $V$), which acts as a source of energy (volts).

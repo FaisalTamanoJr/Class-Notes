@@ -14,3 +14,13 @@ SORT file.name ASC
 - Helpful materials
 	- [[statistical tables.pdf|Statistical tables]]
 	- [[sampling distributions.pdf|Sampling Distributions]]
+- Calculator tehniques (CASIO fx-991ES PLUS)
+	- Steps to compute for $\bar{x}$ and $sx$
+		1. Mode setup
+		2. Stat
+		3. 1-VAR
+		4. Input Data
+		5. AC
+		6. Shift Stat
+		7. Var
+		8. Choose either $\bar{x}$ or $sx$ based on desired output.
