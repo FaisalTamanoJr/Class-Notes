@@ -3,7 +3,6 @@
   "obsidian-charts",
   "obsidian-spaced-repetition",
   "obsidian-dictionary-plugin",
-  "obsidian-contextual-typography",
   "obsidian-smart-typography",
   "obsidian-day-planner",
   "obsidian-excalidraw-plugin",
@@ -14,6 +13,5 @@
   "obsidian-outliner",
   "homepage",
   "dataview",
-  "obsidian-minimal-settings",
-  "obsidian-languagetool-plugin"
+  "obsidian-minimal-settings"
 ]

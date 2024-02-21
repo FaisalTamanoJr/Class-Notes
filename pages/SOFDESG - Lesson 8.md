@@ -3,95 +3,107 @@ Course: SOFDESG
 Topic: File Processing and Databases
 Linked_Tests:
   - Quiz 2
-Status: Planned
+Status: Done
 References used:
   - SOFWENG Lecture 8 (Lecture Slides)
 tags:
   - lesson
 ---
 
-- File processing
-	- File proccessing is a design approach suited for mainframe hardware and batch input.
-	- It is less common today; however, it can be better than DBMS in certain situations.
+- [[file processing|File processing]]
+	- This approach was suited to mainframe hardware and batch input.
+	- It is less common today, despite being more efficient and costing less than [[Database management system|DBMS]] in certain situations.
 	- Advantages
 		- Simplicity
-			- File processing is simpler than Database.
+			- Designing it is simpler than designing [[database|Database]].
 		- Efficiency
-			- It cost less and can run faster than Database.
+			- It costs less and can run faster than [[Database]].
 		- Customization
-			- It is easier to customize than Database because the files are related with the application. Moreover, it has all the data needed for that application.
-	- Types
-		- Master file
+			- It is easier to customize than Database because the files are related with the application, and it has all the data needed for that application.
+	- Types of files
+		- [[master file|Master file]]
 			- Stores relatively permanent data about an entity.
-		- Table file
-			- Contains reference data used by the information system.
-			- Are relatively static and are not updated by the information system.
-		- Transaction file
-			- Stores records that contain day-to-day business and operational data. It is an input file that updates a master file; after the update is completed, the transaction file has served its purpose.
-		- Work file - scratch file
-			- TODO
-		- Security file
-			- Sequence codes are numbers or letters assigned in a specific order. Sequence codes contain no additional information other than an indication of order of entry into a system.
-		- History file
-			- Is a copy created and saved for historical and archiving purposes. New history files, unlike new security files, do not replace the old files.
-- Database systems
-	- Database
+		- [[table file|Table file]]
+			- Table files contain reference data used by the [[information system]].
+			- They are relatively static and are not updated by the [[information system]].
+		- [[transaction file|Transaction file]]
+			- A transaction file stores records that contain day-to-day business and operational data.
+			- It is an input file that updates a master file; the transaction file serves its purpose after it completes the update.
+		- [[work file|Work file]] - [[scratch file]]
+			- A work file is a temporary file used by the information system for a single task.
+			- It is often created by one process and is used by another process within the same [[information system]].
+		- [[security file|Security file]]
+			- Sequence codes are numbers or letters assigned in a specific order, indicating the order of entry into a system.
+		- [[history file|History file]]
+			- A history file is a copy created and saved for historical and archiving purposes.
+			- New history files, unlike new [[security file|security files]], do not replace the old files.
+- [[database systems|Database systems]]
+	- A properly designed database system offers a solution to the problems of [[file processing]].
+	- It provides a comprehensive framework that avoids data redundancy and supports a real-time, dynamic environment.
+	- Advantages
+		- Scalability
+			- Scalability refers to the capacity of the system to be expanded, modified, or downsized to meet rapidly changing needs of a business enterprise.
+			- It is also known as extensibility.
+		- Better support for client/server systems
+			- In a client/server system, processing is distributed across an organization. For this reason, they need the power and flexibility of [[database]] design.
+		- Economy of scale
+			- Economy of scale refers to the inherent efficiency of high-volume processing on larger computers. Database design allows better utilization of hardware.
+		- Flexible data sharing
+			- Data can be shared across the enterprise, allowing more users to view the same information differently.
+		- Enterprise-wide application - [[database administrator]] (DBA)
+			- DBA typically manages a database management system (DBMS).
+			- The DBA assesses overall requirements and maintains the database for the benefit of the entire organization rather than a single department user.
+		- Stronger standards
+			- Effective database administration helps ensure that standards for data names, formats, and documentation are followed uniformly throughout the organization.
+		- Controlled redundancy
+			- Because the data is stored in a set of related tables, data items do not need to be duplicated in multiple locations.
+		- Better security
+			- The [[database administrator|DBA]] defines authorization procedures to ensure that only legitimate users can access the database and can allow different users to have different levels of access.
+		- Increased programmer productivity
+			- Programmers do not have to create the underlying file structure for the database; instead, they can focus on its logical design.
+		- Data independence
+			- Systems that interact with a DBMS are relatively independent of how the physical data is maintained.
+	- Tradeoffs
+		- Because DBMSs are powerful, they require expensive hardware, software, and data networks capable of supporting a multi-user environment.
+		- They are more complex than a file processing system.
+		- Procedures for security, backup, and recovery are more complicated and critical.
+	- [[Database]]
 		- A collection of groups of information that relate to each other in some way.
-		- A properly design system offers a solution to the problems of file processing.
-		- It provides a framework that avoids data redundancy and supports a real-time, dynamic environment.
-		- Tradeoffs
-			- Because DBMS are powerful, they require expensive hardware, software, and data networks capable of supporting a multi-user environment.
-			- More complex than a file processing system.
-			- Procedures for security, backup, and recovery are more complicated and critical.
-	- Database management system (DBMS)
-		- Is a collection of tools, features, and interfaces that enables users to add, update, manage, access, and analyze the contents of a database.
-		- Advantages
-			- Scalability/extensibility
-				- Allows the system to easily be expanded, modified, or downsized to meet rapidly changing needs of a business enterprise.
-			- Better support for client/server systems
-				- TODO
-			- Economy of scale
-				- Refers to the inherent efficiency of high-volume processing on larger computers. Database design allows better utilization of hardware.
-			- Flexible data sharing
-				- Data can be shared across the enterprise, allowing more users to view the same information in different ways.
-			- Enterprise-wide application - database administrator (DBA)
-				- DBA typically manages a database management system (DBMS). The DBA assesses overall requirements and maintains the database for the benefit of the entire organization rather than a single department user.
-			- Stronger standards
-				- TODO
-			- Controlled redundancy
-				- Because the data is stored in a set of related tables, data items do not need to be duplicated in multiple locations.
-			- Better security
-				- TODO
-			- Increased programmer productivity
-			- Data independence
-- Entity-relationship diagrams
-	- A picture showing information created, stored, and used by a business system.
-	- TODO
+	- [[database management system|Database management system]] (DBMS)
+		- DBMS is a collection of tools, features, and interfaces that enables users to access, update, and analyze the contents of a database.
+- [[entity-relationship diagrams|Entity-relationship diagrams]] (ERD)
+	- A picture showing information created, stored, and used by a business system, including high-level business rules.
+	- ERD is a network model that describes a system’s stored data at a high-level of abstraction.
+	- Entities generally represent similar kinds of information.
+	- Lines drawn between entities show relationships among the data.
 	- Representing entities
-		- An entity is represented by a named rectangle
-		- Use a singular noun, or adjective + noun
-		- Refer to one instance in naming
+		- An entity is represented as a named rectangle.
+		- Use a singular noun, or adjective + noun.
+		- Refer to one instance in naming.
 	- Entity types and instances
-		- An entity type is a classification of entity instances
+		- An entity type is a classification of entity instances.
 	- Relationship
-		- Is an association between two entities
-		- We may wish to store information about the association
-		- Relationships should have active verb names
-		- TODO
-		- A relationship type is a relevant business association between two entity types
-		- A relationship is an occurence of a relationship type
+		- A relationship is an association between two entities, which can store information.
+		- Relationships should have active verb names.
+		- They are often represented as a verb or “entity + verb + entity”.
+		- A Relationship Type is a relevant business association between two entity types.
+		- A relationship is an occurence of a relationship type.
 	- Types of relationships
-		- One to one relationship
-			- One instance in an entity refers to one and only one instance in the related entity
-		- One to many relationship
-			- One instance in an entity refers to one or more instances in the related entity
-		- Many to many relationship
-			- Exists when one instance of the first entity can relate to many instances of the second entity, and one instance of the second entity can relate to many instances of the first entity
-			- Associative entity, is the process to determine if the relationship is many to many.
-	- Cardinality
-		- Cardinality notation
-			- The notation that shows relationships between entities
-		- Crow’s foot notation
-			- A type of cardinality notation
-			- TODO
-		- 
+		- [[one-to-one relationship|One-to-one relationship]] (1:1)
+			- One instance in an entity (parent) refers to one and only one instance in the related entity (child).
+		- [[one-to-many relationship|One-to-many relationship]] (1:M)
+			- One instance in an entity (parent)refers to one or more instances in the related entity (child)
+		- [[many-to-many relationship|Many-to-many relationship]] (M:N)
+			- A M:N relationship exists when one instance of the first entity (parent) can relate to many instances of the second entity (child), and one instance of the second entity can relate to many instances of the first entity
+			- This relationship cannot be represented physically; therefore, it has to be divided into two 1:M relationships.
+			- [[associative entity|Associative entity]] is the event or third entity that links two entities that are under a M:N relationship.
+	- [[cardinality|Cardinality]]
+		- [[cardinality notation|Cardinality notation]]
+			- ![[cardinality notation.jpg|250]]
+			- Cardinality notation serves as the notation to show the relationships between entities
+		- [[crow’s foot notation|Crow’s foot notation]]
+			- Crow’s foot notation is a common type of cardinality notation that is referred to as the “Crow’s foot notation” because of the shapes.
+				- A single bar indicates one.
+				- A double bar indicates one and only one.
+				- A circle indicates zero.
+				- A crow’s foot indicates many.
