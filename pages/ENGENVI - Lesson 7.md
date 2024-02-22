@@ -45,3 +45,148 @@ tags:
 					- Exchange information
 					- Promote public information, awareness, and education
 			- Chemical control order
+	- Hazardous wastes
+		- Wastes with properties that are harmful to humans or the environment
+	- Treatment technologies
+		- Biological
+			- Aerobic
+				- uses oxygen-feeding bacteria, protozoa, and other specialty microbes to clean the wastes.
+				- BOD
+					- amount of dissolved oxygen…
+			- Anaerobic
+				- does not rely on using oxygen
+				- direct and indirect symbiotic association between different groups of bacteria
+				- two steps
+					- initial acid-forming phase
+						- undergoes a phase to transform of higher molecular mass compounds into suitable compounds to use as a source of energy
+					- methane production phase
+						- acidogenesis
+							- bacterial conversion of compounds resulting from the first stage to identifiable lower molecular mass compounds
+						- methagenesis
+							- bacterial conversion of compounds to simpler end products
+			- Membrane bioreactor
+				- mostly used in municipal, industrial, and landfill
+				- combination of microfiltration membrane with a growth bioreactor
+				- bioreactor
+					- chamber that supports a biologically active environment consisting of bacteria and protozoa
+				- membrane
+					- solid liquid separation
+				- types
+					- sidestream (or external) in case of pressure driven
+			- Constructor wetlands
+				- use of naturall processes involving wetland vegetation
+				- free water surface constructed wetlands
+					- flooded planted channels or basin
+				- horizontal subsurface flow
+					- gravel
+			- Biomedication
+				- use of living organism to purge contaminants and toxins from soil and water
+				- bacteria bioremediation
+					- used in industrial hazardous waste
+				- fungal bioremediation
+			- Biofiltration
+				- treatment of contaminated air and water through biological filters
+				- biofilters: the microorganism attach themselves and purge the contaminants by capturing and degrading
+		- Physical
+			- physically alters the waste properties to make it safer for disposal
+			- aims to reduce wastes mobility volume or activity
+			- drawbacks
+				- limited treatment
+				- secondary waste streams
+				- significant energy consumption
+				- incomplete hazard elimination
+			- different physical treatment proccesses
+				- screening
+					- separating larger particles or objects from a mixture of waste materials
+					- achieved by passing the waste through a screen or mesh with openings of a specific size
+				- filtration
+					- passing a waste mixture through a porous material that would separate solids from liquid or gas
+					- different types of filtration
+						- gravity filtration
+						- pressur filtration
+						- vacuum filtration
+				- sedimentation
+					- removing suspended solid particles from a waste stream
+					- relies on the difference of density
+					- if certain particles are too small, flotation is used
+				- centrifugation
+					- separates solid and liquid components by rapidly rotating a mixture at high speeds in a centrifugal machine
+				- stripping
+					- widely used in removing volatile organic compounds (vocs) of a liquid mixture by passing streams of gas
+				- reverse osmosis
+					- pushses a solution through a semi permeable membrane under pressure, allowing water molecules to flow through but obstructing most other pollutants
+				- evaporation
+					- involves boiling off the liquid part of the waste stream in order to concentrate non volatile solids in a solution
+					- reduces the volume of hazardous substances
+				- incineration
+					- uses the combustion of waste materials at high temperatures in a controlled environment
+					- breaks down organic compounds
+				- distillation
+					- different boiling points are used to separate liquids
+					- involves heating the mixture to vaporize the more volatile components then cooling and condensing the vapor back into a liquid form
+		- Chemical
+			- reduce the hazardous nature of the waste by undergoing a chemical process using chemicals
+			- recovery of valuable products and reduce the overall cost of waste disposal
+			- different processes
+				- ion exchange
+					- exchanging with another non-objectionable ionic substance that will result in removing one or more of the contaminants
+					- must be dissolved and have the same type of electric charge
+					- drawbacks
+						- high operation costs over long-term
+						- regenerating the ion exchange bed dumps salt water into the environment
+				- chemical precipitation
+					- process of the contaminants dissolving or suspending in a solution to settle out
+					- filtered, centrifuged, or separated
+					- removal of metals and other inorganics, and organic substances that may be harmful
+					- assisted through using coagulants which are an agent that causes smaller particles suspended in solution to gather larger
+					- municipal and industrial wastewater
+					- drawbacks
+					- polymers used as coagulants can be expensive
+					- competing reactions
+				- redox
+					- oxidation and reduction
+					- convert of compounds to make it more stable, less mobile, or inert
+					- transfer of electrons wherein one reactant is oxidized and one is reduced
+					- oxidizing agents are most commonly used for the treatment of hazardous contaminants
+					- drawbacks
+						- incomplete oxidation of intermediate contaminants may occur
+						- process is not cost-effective
+				- neturilization
+					- adjusts the pH value of the waste
+					- crucial move in a conventional treatment process due to pH being a key element in this process
+				- chlorination
+					- usage of chlorine dioxide to treat hazardous wastes
+					- ensures the drinking water is safe to drink after the treatment
+				- ozonation
+					- widely considred for the treatment of wastewater by oxidation as ozone
+					- direct and indirect oxidation
+		- Land disposal
+			- involves dumping garbage into or onto the ground
+			- drawbacks
+				- significant environmental risks
+				- emissions of harmful gases
+				- long-term liabilities
+			- types
+				- surface impoundments
+					- temporary holds an accumulation of liquid hazardous waste
+				- waste piles
+			- types of secure landfilles
+				- are excavated locations where non liquid hazardous waste is dumped and covered for ultimate disposal
+				- most commonly used process
+			- critical design standards
+				- liners:protective barrier
+				- natural hydrogeologic setting: prevents waste from escaping
+				- double leachate collection system: designed to automatically pump the leachate to maintain compliance with the requirements.
+				- cover: layer of compressed soil laid on top of a deposition of waste
+				- implrmeable cap: designed to minimize migration of liquids through the closed landfill
+			- example facilities
+				- l2612-phi visayas base load pwoer project - secured landfill facility
+				- located in brgy tina an naga city
+				- aims to mitigate the indiscriminate dumping of coal ash
+		- bedrock disposal
+			- showcases a multi barrier design where the solid hazardous waste is sealed with dfferent materials to prevent leakage of groundwater
+		- deep well disposal
+			- uses injection wells to place treated or untreated waste into geological formations that have no possiblities of contamination to water aquifers
+	- facility in the philippines
+		- laguna technopark
+		- aglipay sewage treatment plant in the philippines
