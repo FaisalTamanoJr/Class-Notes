@@ -86,9 +86,9 @@ tags:
 					- smoke
 			- Biological pollutant
 				- Sources
-					- plants
 					- animals
 					- bacteria
+					- plants
 					- biological entity excretion
 					- forms of population distribution (i.e. pollen from plants and viral and bacterial spread)
 				- Effects
@@ -117,7 +117,7 @@ tags:
 				- cars
 				- trains
 		- Area
-			- Area sources include any agricultural or commercial emmision sources.
+			- Area sources include any agricultural or commercial emission sources.
 			- Examples
 				- city pollution
 				- agricultural production
@@ -132,7 +132,8 @@ tags:
 			- Calcerous building stones and ferrous metals are the most susceptible to damage from air pollution, potentially causing the following:
 				- Loss of material mass.
 				- Change in porosity.
-				- Discoloration.
+				- Discoloration
+				- Emribbtlement
 		- Vegetative effects
 			- Interference in resource accumulation.
 				- Contact with the pollutants affect the metabolic function of leaves and interferes with [[carbon fixation]].
@@ -145,7 +146,97 @@ tags:
 			- sore throat
 	- Regulations and legislations
 		- [[DAO 14]]
+			- DAO 14 of 1993 created specifications to the amount of air pollutants that can be generated from different sources for different industries.
+			- One standard found in DAO 14 was referred to as the *[[National Emission Standards for Source Specific Air Pollutants]]* (NESSAP).
+				- When there is a lack of an emission standard for a pollutant, operations dealing with said pollutant must do their best to reduce its emission.
+			- Control of sulfur compound emissions
+				- When an existing source of sulfur oxides emissions fails to comply with the emission limits under the *Maximum Permissible Emission Limits from Stationary Sources* section, the Secretary shall require in writing the operator of said source to institute any one or a combination of the following corrective measures (which should be implemented within an agreed upon deadline).
+					- Use of specified amount of sulfur content of fuel.
+					- Erect or alter the height or dimensions of the stack to reduce ground level concentrations of sulfur dioxide at a specified level which shall not exceed 80 $\frac{ug}{Ncm}$ (24 hour sampling) above background level; or
+					- Alter the method of operation or industrial process
 		- [[RA 8749]]
 			- Also known as the [[clean air act]].
+			- Establishes the right that people have relating to the aerial environment through the following:
+				1. The right to breathe clean air.
+				2. The right to use all natural resources according to the sustainable development principle.
+				3. The right to participate in the formulation and implementation of environmental policies and programs and in the decision making process concerning it.
+				4. The right to be informed of any potential hazard of any activity, and to be served timely notice of any significant rise in pollution and the release into the atmosphere of harmful substances.
+				5. The right of access to public records.
+				6. The right to bring action in court or quasi-judicial bodies to enjoin all activities violating environmental laws, to comple the rehabilitation and cleanup of affected area, and to seek the imposition of penal sanctions against violators of environmental laws.
+				7. The right to bring action in court for compensation of personal damages resulting from the adverse environmental and public health impact of a activity.
+			- This act also specifies many terms used in relation to air pollution, with terms that describe the pollution (air pollution, air pollutant), terms that are used to describe air quality (ambient air quality guideline values), and other related terms.
+			- The act introduces an air quality management system that aims to keep track of air quality around the country through the following:
+				1. Air quality monitoring and information network
+					- The department shall prepare an annual national air quality status report which will be used as the basis in formulating the integrated air quality improvement framework.
+				2. Integrated air quality improvement framework
+					- This is used for a comprehensive air pollution management and control program, that shall prescribe emission reduction goals.
+				3. Air quality control action plan
+				4. Airsheds
+					- Designation is based on areas with similar climate, meteorology and topology, or areas which share common interest, prospects, or problems.
+				5. Management of nonattainment areas
+					- The department designates areas where pollutants have already exceeded standards as nonattainment areas. They then prepare and implement a program that prevent new sources of exceeded air pollutant from entering (that is in place until pollutant is reduced to the acceptable standard).
+				6. Air quality control techniques
+				7. Ambient air quality guideline values and standards
+				8. emission charge system
+				9. air quality management fund
+				10. air pollution research and development program
+			- Air pollution clearances and permits for stationary sources
+				- Permits
+					- Aims to reduce the amount of air pollution by allowing a select number of companies to emit air pollutants within a reasonable standard.
+				- Emission quotas
+				- Financial liability for environmental rehabilitation
+			- Pollution from stationary sources
+				- Ban on incineration
+			- Pollution from motor vehicles
+				- The creation of emission standards for motor vehicles are to be reviewed every 2 years.
+				- Said emission standards are then used to regulate the motor vehicles in the Philippines to ensure no excess emissions.
 		- [[Kyoto protocol]]
+			- Signed on December 11, 1997.
+			- It is a legally binding international treaty under the [[United Nations Framework Convention on Climate Change]] (UNFCCC) that aimed to limit the emission of greenhouse gases to 5% below the 1990 levels for the first commitment period of the protocol (2008-2012), and 18% below the 1990 levels for the second commitment period (2013-2020).
+			- Ratified by
+				- European Union
+				- Realm of New Zealand
+				- All members of the United Nations except Canada
+				- United States (only signed/not legally binding)
+				- Andorra
+				- South Sudan
+			- Substances (greenhouse gases \[GHGs\])
+				- $CO_{2}$
+				- $CH_{4}$
+				- $N_{2}O$
+				- $HFC$s
+				- $PFC$s
+				- $SF_{6}$
+				- $NF_{3}$
+			- Laws
+				- [[The Kyoto mechanism]]
+					- Allows for the trade of emission permits between constituents to be able to manipulate and meet emission targets.
+					- Collaborative projects (Joint Implementation \[JI\]) are projects funded by an industrialized country in another industrialized country to reduce emissions and increase GHG sinks.
+					- Clean Development Mechanism (CDM) are projects funded by industrialized countries in developing countries to reduce emissions or increase GHG sinks (and aid sustainable development).
+				- Reduction of greenhouse gases to below 1990 levels by a certain date.
+			- Effects
+				- Laid the foundations for the [[Paris Agreement]]
+				- Mixed results due to targets being reached for those constituents with individual targets but being counteracted by those without individual targets (i.e. China, India) continuing to emit GHGs.
+				- New emissions trading market stemming from [[the Kyoto mechanism]].
 		- [[Montreal protocol]]
+			- Signed on September 16, 1987
+			- The montreal protocol is an international agreement under the United Nations that was preceded by the [[Vienna Convention]] for the protection of the ozone layer. Its initial goal was to phase out the use of CFCs and Halons, but eventually expanded to completely phase out of the production and consumption of ozone-depleting substances by a certain target date.
+			- It is a universally ratified and is one of the most successful international agreements in the history of mankind; it was also one of the most successful environmental projects in the history of mankind.
+			- Constituents
+				- All members of the United Nations
+				- European Union
+				- Vatican
+				- Palestine
+				- Realm of New Zealand
+			- Substances
+				- $CFC$s
+				- $HCFC$s
+				- $HBFC$s
+				- Halons ([[haloalkanes]])
+				- some other specific organic substances (which are under [[Ozone Depleting Substances]] \[ODS\])
+			- Effects
+				- Renowned praise for being a model of international cooperation and environmental activism.
+				- Prevented an increase of 2.5 $^\circ C$ in global temperatures.
+				- Prevented having 30% more $CO_{2}$ in the atmosphere by the end of the century.
+				- Prevented having 4.5x the average global UV levels by the end of the century.
+				- Prevented the destruction/thinning of the ozone layer, particularly in Antarctica.
