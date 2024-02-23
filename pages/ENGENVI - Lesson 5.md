@@ -1,149 +1,192 @@
 ---
 Course: ENGENVI
-Topic: Solid Environment
+Topic: Air Environment
 Linked_Tests:
   - Quiz 2
-Status: Work in Progress
+Status: Done
 References used:
   - Student Presentation Materials
 tags:
   - lesson
 ---
 
-- [[air pollutants|Air pollutants]]
-	- Air pollutants are elements that are not inherently found in nature; therefore, they can contaminate the atmosphere.
-	- Air quality, the characteristic that indicates the level of air pollution in an area, is measured through an [[Air Quality Index]] (AQI).
-	- Different places have different AQI standards and tests depending on their local government authority.
-	- Philippines makes use of the [[National Ambient Air Quality]] (NAAQGV) set by the [[Department of Environment and Natural Resources]] (DENR).
-	- Classifications
-		- Via emission
-			- Primary pollutants
-				- Are the main source of air pollution that directly pollute the air when emitted.
-				- They create secondary pollutants through certain chemical reactions.
-				- Laws
-					- [[Philippine Clean Air Act of 1999]] - [[DAO 81]]
+- Air environment
+	- Importance
+		- It can negatively impact human health and the environment.
+			- [[Ozone depletion]] leads to reduced protection against [[ultraviolet rays|UV rays]], which can cause sunburns, skin cancer, skin aging, and snow blindness, and immune system suppression in humans.
+	- Challenges
+		- [[ozone depletion]]
+			- Ozone depletion refers to the thinning of the ozone layer in the Earth’s [[stratosphere]].
+			- It happens when bromine and chlorine atoms destroy the ozone molecules in the stratosphere faster than it can recover.
+				- The ozone depleting substances containing chlorine include the following:
+					- [[chlorofluorocarbons]] ($CFC$s)
+						- $CFC$s are the most abundant ozone-depleting substance. They originate from a reaction between a chlorine atom and another molecule. In addition, they are released from things such as solvents, spray aerosols, refrigerators, and air-conditioners.
+					- [[carbon tetrachloride]]
+					- [[hydrochlorofluorocarbons]] ($HFC$s)
+					- [[methyl chloroform]]
+				- On the other hand, ozone depleting substances containing bromide include the following:
+					- [[haloalkanes|halons]]
+					- [[methyl bromide]]
+					- [[hydro bromofluorocarbons]]
+			- History
+				- [[Chlorofluorocarbons]] ($CFC$s) were first synthesized in 1928 by [[Thomas Midgley Jr.]], as safer chemicals for refrigerators (coolants) in commercial applications.
+				- After [[World War II]], $CFC$s were used as propellants for bug sprays, paints, hair conditioner, and many other healthcare products.
+				- In 1974, [[Mario Molina]] and [[Sherwood Rowland]] discovered and detailed the threats $CFC$s pose against the ozone layer. They found that the chlorine released from $CFCs$ destroys ozone in catalytic reactions, where 100,000 ozone molecules can be destroyed per chlorine atom.
+				- [[Mario Molina]] and [[Sherwood Rowland]]'s study was validated in 1985, when a hole in the ozone layer was observed over Antartica.
+				- The [[Montreal protocol]] was signed in 1987 to reduce ozone-depleting substances.
+		- [[acid deposition]]
+			- Acid deposition, also known as [[acid rain]], is the occurence of air pollutants rising to the atmosphere and reacting with water vapor to produce acidic compounds (i.e. [[sulfuric acid]] and [[nitric acid]]), which fall back to the ground in two possible forms:
+				- Wet deposition
+					- Acidic compunds fall as rain, snow, or hail.
+				- Dry deposition
+					- Acidic compounds fall as dust.
+			- The air pollutants that are responsible for acid deposition are [[sulfur dioxide]] ($SO_{2}$) and [[nitrogen oxide]] ($NO$), which react with oxygen gas ($O_{2}$) and water vapor to form [[sulfuric acid]] ($H_{2}SO_{4}$) and [[nitric acid]] ($HNO_{3}$). These compounds can decrease the pH level of rain to drop to below 5.6, which turns it into acidic rain.
+			- Potential effects
+				- Damages roots and leaves of plants.
+				- Increase in the pH level of water bodies.
+				- Destruction of marine life.
+				- Corrosion of man-made structures.
+		- [[global warming]] and [[climate change]]
+			- Global warming pertains to the temperature increase in Earth due to the trapped heat from the sun, which is caused by greenhouse gases.
+			- Its rapid escalation is a result of increased usage of $CO_{2}$ that produces a heat trapping blanket, which is known as the greenhouse effect. Moreover, the effect is also exacerbated by burning fossil fuels (e.g. coal and petroleum) and other greenhouse gases. Because the temperature rises, it results to the melting of glaciers or ice caps and the growth of sea levels.
+			- Greenhouse effect is just the concept of confining heat inside a greenhouse. Its primary source are the industrial sector, with some smaller contributing factors like deforestation and agriculture.
+			- Although global warming and climate change are used interchangeably, they are not the same; they are just related.
+		- [[carbon footprint]]
+			- Carbon footprint is the total amount of [[carbon dioxide]] that a person or action is responsible for releasing into the atmosphere.
+	- [[air pollutants|Air pollutants]]
+		- Air pollutants are elements that are not natural; therefore, they can contaminate the atmosphere.
+		- Air quality, the characteristic that indicates the level of air pollution in an area, is measured through an [[Air Quality Index]] (AQI).
+		- Different places have different AQI standards and tests depending on their local government authority.
+		- Philippines makes use of the [[National Ambient Air Quality]] (NAAQGV) set by the [[Department of Environment and Natural Resources]] (DENR).
+		- Classifications
+			- Via emission
+				- Primary pollutants
+					- Are the main source of air pollution that directly pollute the air when emitted.
+					- They create secondary pollutants through certain chemical reactions.
+					- Laws
+						- [[Philippine Clean Air Act of 1999]] - [[DAO 81]]
+					- Examples
+						- [[particulate matter]] (dust, sand, ash)
+						- $CO_{2}$
+						- $CO$
+						- $NO_{x}$
+						- $CFC$s
+						- $VOC$s
+						- [[ammonia]]
+				- Secondary pollutants
+					- Secondary pollutants are products of primary pollutants that are more hazardous to human health compared to their prior forms.
+					- There are no specific laws that directly address them; instead, they are managed by the guideline standards of primary pollutants (see [[DAO 81]]).
+					- Examples
+						- [[ozone]]
+						- [[photochemical smog]]
+						- [[acid rain]] ([[sulfuric acid]] and [[nitric acid]])
+						- [[ammonium]]
+			- Via composition
+				- Gaseous pollutant
+					- Sources
+						- Industries (as a byproduct)
+						- farm animals
+						- vehicles
+						- fumes from commercial products
+					- Effects
+						- smog formation
+						- health risks
+							- vision impairment
+							- respiratory failure
+							- inflammation and irritation
+							- reduced mental capability
+						- acid rain
+						- environmental/biodiversity damage
+					- Examples
+						- $CO_{2}$
+						- $CO$
+						- $SOx$
+						- $NOx$
+						- methane
+						- GHGs
+						- VOCs
+				- Particulate matter
+					- Sources
+						- volcanic activity
+						- vehicle exhaust
+						- industrial emissions
+						- events involving combustion
+					- Classifications
+						- PM10
+							- “Course particles”, comprise of particles that are smaller than 10 micrometers (in diameter) but bigger than 2.5 micrometers (e.g. dust).
+						- PM2.5
+							- “Fine particles”, comprise of particles smaller than or equal to 2.5 micrometers (in diameter) but bigger than 0.1 micrometers (e.g. exhaust).
+						- PM0.1
+							- “Ultrafine particles”, comprise of particles smaller than 0.1 micrometers in diameter (e.g. metal vapors).
+					- Effects
+						- respiratory and cardiovascular problems
+						- complications of respiratory and cardiovascular problems
+					- Examples
+						- sand
+						- volcanic ash
+						- dust
+						- dirt
+						- smoke
+				- Biological pollutant
+					- Sources
+						- animals
+						- bacteria
+						- plants
+						- biological entity excretion
+						- forms of population distribution (i.e. pollen from plants and viral and bacterial spread)
+					- Effects
+						- allergic reactions (mostly from pollen and excretion type \[i.e. urine, fur, dander, and droppings\] or various infectious diseases \[from spread type; i.e. bacteria, viruses, and molds\]).
+					- Examples
+						- pollen
+						- bacteria
+						- viruses
+						- molds
+						- animal hair
+						- fur
+						- pest excretions
+		- Origin
+			- Natural
+				- Natural sources include anything that was not produced through artificial means.
 				- Examples
-					- [[particulate matter]] (dust, sand, ash)
-					- $CO_{2}$
-					- $CO$
-					- $NO_{x}$
-					- $CFC$s
-					- $VOC$s
-					- [[ammonia]]
-			- Secondary pollutants
-				- Secondary pollutants are products of primary pollutants that are more hazardous to human health compared to their prior forms.
-				- There are no specific laws that directly address them; instead, they are managed by the guideline standards of primary pollutants (see [[DAO 81]]).
+					- natural disasters
+						- wildfires
+						- volcanic activity
+						- desert storms
+			- Mobile
+				- Mobile sources include any transport vehicle or automobile emissions.
 				- Examples
-					- [[ozone]]
-					- [[photochemical smog]]
-					- [[acid rain]] ([[sulfuric acid]] and [[nitric acid]])
-					- [[ammonium]]
-		- Via composition
-			- Gaseous pollutant
-				- Sources
-					- Industries (as a byproduct)
-					- farm animals
-					- vehicles
-					- fumes from commercial products
-				- Effects
-					- smog formation
-					- health risks
-						- vision impairment
-						- respiratory failure
-						- inflammation and irritation
-						- reduced mental capability
-					- acid rain
-					- environmental/biodiversity damage
+					- planes
+					- boats
+					- cars
+					- trains
+			- Area
+				- Area sources include any agricultural or commercial emission sources.
 				- Examples
-					- $CO_{2}$
-					- $CO$
-					- $SOx$
-					- $NOx$
-					- methane
-					- GHGs
-					- VOCs
-			- Particulate matter
-				- Sources
-					- volcanic activity
-					- vehicle exhaust
-					- industrial emissions
-					- events involving combustion
-				- Classifications
-					- PM10
-						- “Course particles”, comprise of particles that are smaller than 10 micrometers (in diameter) but bigger than 2.5 micrometers (e.g. dust).
-					- PM2.5
-						- “Fine particles”, comprise of particles smaller than or equal to 2.5 micrometers (in diameter) but bigger than 0.1 micrometers (e.g. exhaust).
-					- PM0.1
-						- “Ultrafine particles”, comprise of particles smaller than 0.1 micrometers in diameter (e.g. metal vapors).
-				- Effects
-					- respiratory and cardiovascular problems
-					- complications of respiratory and cardiovascular problems
+					- city pollution
+					- agricultural production
+			- Stationary
+				- Stationary sources include anything industrial in nature, including energy manufacturing and waste disposal sites.
 				- Examples
-					- sand
-					- volcanic ash
-					- dust
-					- dirt
-					- smoke
-			- Biological pollutant
-				- Sources
-					- animals
-					- bacteria
-					- plants
-					- biological entity excretion
-					- forms of population distribution (i.e. pollen from plants and viral and bacterial spread)
-				- Effects
-					- allergic reactions (mostly from pollen and excretion type \[i.e. urine, fur, dander, and droppings\] or various infectious diseases \[from spread type; i.e. bacteria, viruses, and molds\]).
-				- Examples
-					- pollen
-					- bacteria
-					- viruses
-					- molds
-					- animal hair
-					- fur
-					- pest excretions
-	- Origin
-		- Natural
-			- Natural sources include anything that was not produced through artificial means.
-			- Examples
-				- natural disasters
-					- wildfires
-					- volcanic activity
-					- desert storms
-		- Mobile
-			- Mobile sources include any transport vehicle or automobile emissions.
-			- Examples
-				- planes
-				- boats
-				- cars
-				- trains
-		- Area
-			- Area sources include any agricultural or commercial emission sources.
-			- Examples
-				- city pollution
-				- agricultural production
-		- Stationary
-			- Stationary sources include anything industrial in nature, including energy manufacturing and waste disposal sites.
-			- Examples
-				- factories
-				- power plants
-				- sewage treatment facilities
-	- Effects
-		- Material effects
-			- Calcerous building stones and ferrous metals are the most susceptible to damage from air pollution, potentially causing the following:
-				- Loss of material mass.
-				- Change in porosity.
-				- Discoloration
-				- Emribbtlement
-		- Vegetative effects
-			- Interference in resource accumulation.
-				- Contact with the pollutants affect the metabolic function of leaves and interferes with [[carbon fixation]].
-		- Health effects
-			- short breath
-			- coughing and wheezing
-			- chest pain
-			- fatigue
-			- difficulty in breathing
-			- sore throat
+					- factories
+					- power plants
+					- sewage treatment facilities
+		- Effects
+			- Material effects
+				- Calcerous building stones and ferrous metals are the most susceptible to damage from air pollution, potentially causing the following:
+					- Loss of material mass.
+					- Change in porosity.
+					- Discoloration
+					- Emribbtlement
+			- Vegetative effects
+				- Interference in resource accumulation.
+					- Contact with the pollutants affect the metabolic function of leaves and interferes with [[carbon fixation]].
+			- Health effects
+				- short breath
+				- coughing and wheezing
+				- chest pain
+				- fatigue
+				- difficulty in breathing
+				- sore throat
 	- Regulations and legislations
 		- [[DAO 14]]
 			- DAO 14 of 1993 created specifications to the amount of air pollutants that can be generated from different sources for different industries.
@@ -238,5 +281,5 @@ tags:
 				- Renowned praise for being a model of international cooperation and environmental activism.
 				- Prevented an increase of 2.5 $^\circ C$ in global temperatures.
 				- Prevented having 30% more $CO_{2}$ in the atmosphere by the end of the century.
-				- Prevented having 4.5x the average global UV levels by the end of the century.
+				- Prevented having 4.5x the average global [[ultraviolet rays|UV levels]] by the end of the century.
 				- Prevented the destruction/thinning of the ozone layer, particularly in Antarctica.
