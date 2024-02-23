@@ -21,19 +21,19 @@ tags:
 				- The ozone depleting substances containing chlorine include the following:
 					- [[chlorofluorocarbons]] ($CFC$s)
 						- $CFC$s are the most abundant ozone-depleting substance. They originate from a reaction between a chlorine atom and another molecule. In addition, they are released from things such as solvents, spray aerosols, refrigerators, and air-conditioners.
+						- History
+							- [[Chlorofluorocarbons]] ($CFC$s) were first synthesized in 1928 by [[Thomas Midgley Jr.]], as safer chemicals for refrigerators (coolants) in commercial applications.
+							- After [[World War II]], $CFC$s were used as propellants for bug sprays, paints, hair conditioner, and many other healthcare products.
+							- In 1974, [[Mario Molina]] and [[Sherwood Rowland]] discovered and detailed the threats $CFC$s pose against the ozone layer. They found that the chlorine released from $CFCs$ destroys ozone in catalytic reactions, where 100,000 ozone molecules can be destroyed per chlorine atom.
+							- [[Mario Molina]] and [[Sherwood Rowland]]'s study was validated in 1985, when a hole in the ozone layer was observed over Antartica.
+							- The [[Montreal protocol]] was signed in 1987 to reduce ozone-depleting substances.
 					- [[carbon tetrachloride]]
-					- [[hydrochlorofluorocarbons]] ($HFC$s)
+					- [[hydrochlorofluorocarbons]] ($HCFC$s)
 					- [[methyl chloroform]]
 				- On the other hand, ozone depleting substances containing bromide include the following:
 					- [[haloalkanes|halons]]
 					- [[methyl bromide]]
-					- [[hydro bromofluorocarbons]]
-			- History
-				- [[Chlorofluorocarbons]] ($CFC$s) were first synthesized in 1928 by [[Thomas Midgley Jr.]], as safer chemicals for refrigerators (coolants) in commercial applications.
-				- After [[World War II]], $CFC$s were used as propellants for bug sprays, paints, hair conditioner, and many other healthcare products.
-				- In 1974, [[Mario Molina]] and [[Sherwood Rowland]] discovered and detailed the threats $CFC$s pose against the ozone layer. They found that the chlorine released from $CFCs$ destroys ozone in catalytic reactions, where 100,000 ozone molecules can be destroyed per chlorine atom.
-				- [[Mario Molina]] and [[Sherwood Rowland]]'s study was validated in 1985, when a hole in the ozone layer was observed over Antartica.
-				- The [[Montreal protocol]] was signed in 1987 to reduce ozone-depleting substances.
+					- [[hydrobromofluorocarbons]] ($HBFC$s)
 		- [[acid deposition]]
 			- Acid deposition, also known as [[acid rain]], is the occurence of air pollutants rising to the atmosphere and reacting with water vapor to produce acidic compounds (i.e. [[sulfuric acid]] and [[nitric acid]]), which fall back to the ground in two possible forms:
 				- Wet deposition
@@ -57,7 +57,7 @@ tags:
 		- Air pollutants are elements that are not natural; therefore, they can contaminate the atmosphere.
 		- Air quality, the characteristic that indicates the level of air pollution in an area, is measured through an [[Air Quality Index]] (AQI).
 		- Different places have different AQI standards and tests depending on their local government authority.
-		- Philippines makes use of the [[National Ambient Air Quality]] (NAAQGV) set by the [[Department of Environment and Natural Resources]] (DENR).
+		- Philippines makes use of the [[National Ambient Air Quality Guideline Values]] (NAAQGV) set by the [[Department of Environment and Natural Resources]] (DENR).
 		- Classifications
 			- Via emission
 				- Primary pollutants
@@ -84,7 +84,7 @@ tags:
 			- Via composition
 				- Gaseous pollutant
 					- Sources
-						- Industries (as a byproduct)
+						- industries (as a byproduct)
 						- farm animals
 						- vehicles
 						- fumes from commercial products
