@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "41698a164f1fcc74",
+        "id": "a520df345b19b108",
         "type": "tabs",
         "children": [
           {
-            "id": "975cac261aba2906",
+            "id": "456464935e0d36b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "pages/ENGENVI.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -71,7 +71,9 @@
         "state": {
           "type": "all-properties",
           "state": {
-            "sortOrder": "frequency"
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
           }
         }
       },
@@ -96,7 +98,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "pages/ENGENVI.md"
           }
         }
       },
@@ -114,7 +116,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "pages/ENGENVI.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,34 +141,34 @@
       "graph:Open graph view": false
     }
   },
-  "active": "975cac261aba2906",
+  "active": "456464935e0d36b0",
   "lastOpenFiles": [
-    "pages/Ozone Depleting Substances.md",
-    "pages/ENGENVI - Lesson 5.md",
-    "pages/haloalkanes.md",
-    "pages/Vienna Convention.md",
-    "pages/Paris Agreement.md",
-    "pages/The Kyoto mechanism.md",
-    "pages/National Emission Standards for Source Specific Air Pollutants.md",
-    "pages/United Nations Framework Convention on Climate Change.md",
+    "pages/ENGENVI - Lesson 6.md",
+    "pages/Eddy current separator.md",
+    "pages/air separator.md",
+    "pages/air knife.md",
+    "pages/magnetic separator.md",
+    "pages/ballistic separator.md",
+    "pages/Trommel screen.md",
+    "pages/bag breaker.md",
     "pages/ENGENVI.md",
     "pages/contents.md",
     "README.md",
-    "pages/carbon fixation.md",
-    "pages/particulate matter.md",
-    "pages/ammonia.md",
-    "pages/ammonium.md",
-    "pages/ozone.md",
-    "pages/photochemical smog.md",
-    "pages/acid rain.md",
-    "pages/nitric acid.md",
-    "pages/DAO 81.md",
-    "pages/Philippine Clean Air Act of 1999.md",
-    "pages/Department of Environment and Natural Resources.md",
-    "pages/National Ambient Air Quality.md",
-    "pages/Air Quality Index.md",
-    "pages/Montreal protocol.md",
-    "pages/Kyoto protocol.md",
+    "pages/Near-Infrared.md",
+    "pages/robotics.md",
+    "pages/optical sorting.md",
+    "pages/artificial intelligence.md",
+    "pages/sanitary landfill.md",
+    "pages/pyrolysis.md",
+    "pages/composting.md",
+    "pages/incineration.md",
+    "pages/ENGENVI - Lesson 7.md",
+    "pages/polyvinyl chloride.md",
+    "pages/high-density polyethylene.md",
+    "pages/polyethylene terephthalate.md",
+    "pages/Solid Waste Management Board.md",
+    "pages/Materials Recovery Facilities.md",
+    "pages/RA 9003.md",
     "assets/cardinality notation.jpg",
     "assets/rcl series.jpg",
     "assets/sampling distributions.pdf",
