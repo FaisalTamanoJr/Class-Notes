@@ -37,7 +37,7 @@ tags:
 		- [[acid deposition]]
 			- Acid deposition, also known as [[acid rain]], is the occurence of air pollutants rising to the atmosphere and reacting with water vapor to produce acidic compounds (i.e. [[sulfuric acid]] and [[nitric acid]]), which fall back to the ground in two possible forms:
 				- Wet deposition
-					- Acidic compunds fall as rain, snow, or hail.
+					- Acidic compounds fall as rain, snow, or hail.
 				- Dry deposition
 					- Acidic compounds fall as dust.
 			- The air pollutants that are responsible for acid deposition are [[sulfur dioxide]] ($SO_{2}$) and [[nitrogen oxide]] ($NO$), which react with oxygen gas ($O_{2}$) and water vapor to form [[sulfuric acid]] ($H_{2}SO_{4}$) and [[nitric acid]] ($HNO_{3}$). These compounds can decrease the pH level of rain to drop to below 5.6, which turns it into acidic rain.
@@ -176,10 +176,9 @@ tags:
 					- Loss of material mass.
 					- Change in porosity.
 					- Discoloration
-					- Emribbtlement
+					- Embrittlement
 			- Vegetative effects
-				- Interference in resource accumulation.
-					- Contact with the pollutants affect the metabolic function of leaves and interferes with [[carbon fixation]].
+				- Contact with the pollutants affect the metabolic function of leaves and interferes with [[carbon fixation]].
 			- Health effects
 				- short breath
 				- coughing and wheezing

@@ -56,7 +56,7 @@ tags:
 			- Common sources include industrial processes, medical facilities, and household hazardous waste (e.g. batteries, paint, and chemicals).
 	- Composition
 		- Organic waste
-			- Organic waste comprises waste materials that are biological in orgin, includng food scraps, garden waste, and wood.
+			- Organic waste comprises waste materials that are biological in origin, includng food scraps, garden waste, and wood.
 			- This type of waste is biodegradable and can be processed into compost or biogas through methods like [[composting]] or anaerobic digestion.
 		- Paper and cardboard
 			- These materials are recyclable and can be reprocessed into new paper products.
@@ -97,7 +97,7 @@ tags:
 					- Establishment of [[Materials Recovery Facilities]] (MRFs)
 			- Disposal
 				- The final stage in which the rest of the residual waste are disposed of in landfill sites or other designated facilities.
-		- Waste collection
+		- Types of waste collection
 			- Residue collection
 				- The most common method in urban areas.
 				- Municipal or contracted waste collectors pick up segregated waste from designated collection points on scheduled days.
@@ -139,6 +139,7 @@ tags:
 				- Economic benefits
 					- Recycling creates jobs in the collection, sorting, and processing of recyclables.
 		- [[RA 9003]]
+			- Also known as the *Ecological Solid Waste Management Act of 2000*.
 			- Waste avoidance and volume reduction
 				- Focuses in reducing waste through
 					- the promotion of durable, repairable, and recyclable products.
