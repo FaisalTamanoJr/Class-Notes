@@ -1,7 +1,5 @@
 # Class-notes
 
-To switch from edit mode to preview/reading mode, press `ctrl+e`.
-
 Visit [[contents]] to view the contents of the vault.
 
 ## How to access the notes
