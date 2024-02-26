@@ -12,6 +12,7 @@ SORT file.name ASC
 ```
 
 - Helpful materials
+	- [[ENGDATA estimation.pdf|Estimation]]
 	- [[statistical tables.pdf|Statistical tables]]
 	- [[sampling distributions.pdf|Sampling Distributions]]
 - Calculator tehniques (CASIO fx-991ES PLUS)
