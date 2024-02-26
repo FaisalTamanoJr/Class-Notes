@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2317aa0177d3752b",
+        "id": "3be217c78fc97d86",
         "type": "tabs",
         "children": [
           {
-            "id": "45b6a2d9e77f1ab7",
+            "id": "5b614f651d58ed6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -207,7 +207,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "45b6a2d9e77f1ab7",
+  "active": "5b614f651d58ed6a",
   "lastOpenFiles": [
     "pages/statistical independence.md",
     "pages/ENGDATA - Lesson 6.md",

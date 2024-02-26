@@ -30,5 +30,6 @@
     "nutrients",
     "monggo"
   ],
-  "newFileFolderPath": "pages"
+  "newFileFolderPath": "pages",
+  "defaultViewMode": "preview"
 }
