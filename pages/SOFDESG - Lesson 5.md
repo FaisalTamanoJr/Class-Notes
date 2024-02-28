@@ -2,7 +2,7 @@
 Course: SOFDESG
 Topic: Strategic Planning
 Linked_Tests:
-  - Quiz 1
+  - Quiz 2
 Status: Done
 References used:
   - SOFWENG Lecture 5 (Lecture Slides)
