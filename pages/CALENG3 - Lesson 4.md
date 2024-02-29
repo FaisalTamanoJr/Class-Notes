@@ -3,7 +3,7 @@ Course: CALENG3
 Topic: Homogenous Linear DE of Order n
 Linked_Tests:
   - Quiz 3
-Status: Work in Progress
+Status: Done
 References used:
   - Homogenous linear d.e. of order n (Lecture Slides)
   - Non-homogenous linear d.e. of order n (Lecture Slides)
@@ -82,10 +82,32 @@ tags:
 			- Particular solution $y_{p}$:
 				- $y_{p}=$ particular solution of the original differential equation.
 					- Methods of solving the particular solution ($y_{p}$)
-						- Method of Undetermined Coefficients (MUC)
+						- [[Method of Undetermined Coefficients]] (MUC)
 							- $R(x)$ itself is a solution of the homogenous linear DE with constant coefficients, and hence the roots can be determined from the given $R(x)$.
 								- $R(x)=$ polynomial in $x$, exponential function, sine function or cosine function.
 								- Note
 									1. $y_{p}$ will be based on the $m'$ of $R(x)$ and treat the roots as roots from the auxiliary equation.
 									2. $y_{p}$ will either have the following equation.
-									3.
+										- $y_{p}=Ae^{m_{1}x}+Be^{m_{2}x}+Ce^{m_{3}x}+\dots+Ze^{m_{n}x}$
+										- $y_{p}=(A+Bx+Cx^2+\dots+Zx^{n-1})e^{mx}$
+										- $y_{p}=Ae^{ax}\sin bx+Be^{ax}\cos bx$
+										- $y_{p}=(A+Bx+\dots+Cx^n)e^{ax}\sin bx+(D+Ex+\dots+Zx^n)e^{ax}\cos bx$
+										- Where
+											- $A, B, C,\dots,Z=$ constants to be determined numerically so that $y_{p}$ will satisfy the original $DE$
+						- [[Method of Variation of Parameters]] (MVP)
+							- $R(x)$ is not a particular solution of some homogenous linear DE with constant coefficient.
+							- Complementary solution: $y_{c}$
+							- Auxiliary equation: $f(m)=0$
+							- $y_{c}$ will either have the following general solution depending on the roots of the auxiliary equation.
+							- $y_{c}=c_{1}e^{m_{1}x}+c_{2}e^{m_{2}x}+c_{3}e^{m_{3}x}+\dots+c_{n}e^{m_{n}x}$
+							- $y_{c}=(c_{1}+c_{2}x+c_{3}x^2+\dots+c_{n}x^{n-1})e^{mx}$
+							- $y_{c}=c_{1}e^{ax}\sin bx+c_{2}e^{ax}\cos bx$
+							- $y_{c}=(c_{1}+c_{2}x+\dots+c_{n}x^n)e^{ax}\sin bx + (c_{3}+c_{4}x+\dots+c_{m}x^n)e^{ax}\cos bx$
+							- Particular solution $y_{p}:$
+								- $y_{p}$ will be based on the solved $y_{c}$ above execept for the arbitrary constants and will either have the following solutions:
+									- $y_{p}=A(x)e^{m_{1}x}+B(x)e^{m_{2}x}+\dots+Z(x)e^{m_{n}x}$
+									- $y_{p}=[A(x)+B(x)x+\dots+Z(x)x^{n-1}]e^{mx}$
+									- $y_{p}=A(x)e^{ax}\sin bx+B(x)e^{ax}\cos bx$
+									- $y_{p}=[A(x)+B(x)x+\dots+C(x)x^n]e^{ax}\sin bx + [D(x)+E(x)x+\dots+Z(x)x^n]e^{ax}\cos bx$
+									- Where
+										- $A,B,C,\dots,Z=$ functions of $x$ to be determined numerically so that $y_{p}$ will satisfy the original DE
