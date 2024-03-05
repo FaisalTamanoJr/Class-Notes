@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a966dfc7af674b61",
+        "id": "af0a29a88e7602f4",
         "type": "tabs",
         "children": [
           {
-            "id": "b3072e290ef1fc31",
+            "id": "41a5f3976e33d2d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/CALENG3 - Lesson 4.md",
+                "file": "pages/ENGDATA - Lesson 8.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -98,7 +98,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "pages/CALENG3 - Lesson 4.md"
+            "file": "pages/ENGDATA - Lesson 8.md"
           }
         }
       },
@@ -116,7 +116,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/CALENG3 - Lesson 4.md",
+            "file": "pages/ENGDATA - Lesson 8.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -141,11 +141,23 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b3072e290ef1fc31",
+  "active": "41a5f3976e33d2d3",
   "lastOpenFiles": [
-    "pages/CALENG3.md",
+    "pages/standard normal distribution.md",
+    "pages/ENGDATA - Lesson 8.md",
+    "pages/central limit theorem.md",
+    "pages/sampling distributions.md",
+    "pages/statistic.md",
+    "pages/random sample.md",
+    "pages/parameters and their statistics.md",
+    "pages/point estimator.md",
+    "pages/sampling distribution.md",
+    "pages/statistics.md",
+    "pages/point estimate.md",
+    "pages/ENGDATA.md",
     "pages/contents.md",
     "README.md",
+    "pages/CALENG3.md",
     "pages/auxiliary equation.md",
     "pages/CALENG3 - Lesson 4.md",
     "pages/non-homogenous linear differential equation.md",
@@ -157,18 +169,6 @@
     "pages/SOFDESG - Lesson 5.md",
     "pages/SOFDESG - Lesson 6.md",
     "pages/software failures.md",
-    "pages/software fault.md",
-    "pages/software error.md",
-    "pages/software quality control.md",
-    "pages/software quality assurance.md",
-    "pages/ENGENVI.md",
-    "pages/ENGENVI - Lesson 5.md",
-    "pages/SOFDESG - Lesson 1.md",
-    "pages/SOFDESG - Lesson 8.md",
-    "pages/ENGENVI - Lesson 6.md",
-    "pages/Eddy current separator.md",
-    "pages/air separator.md",
-    "pages/air knife.md",
     "assets/cardinality notation.jpg",
     "assets/rcl series.jpg",
     "assets/sampling distributions.pdf",
