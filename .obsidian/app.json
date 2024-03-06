@@ -1,6 +1,6 @@
 {
-  "vimMode": false,
-  "showLineNumber": false,
+  "vimMode": true,
+  "showLineNumber": true,
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
     "includeName": false,
@@ -12,7 +12,7 @@
   "newFileLocation": "folder",
   "attachmentFolderPath": "assets",
   "showUnsupportedFiles": false,
-  "spellcheck": false,
+  "spellcheck": true,
   "showInlineTitle": true,
   "propertiesInDocument": "source",
   "spellcheckDictionary": [
