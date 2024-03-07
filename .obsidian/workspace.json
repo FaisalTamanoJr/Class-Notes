@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6f44bb9da55ac94d",
+        "id": "515dd9d40795ec1d",
         "type": "tabs",
         "children": [
           {
-            "id": "d3536cfaf1fee50a",
+            "id": "e55d701b312dfb64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/ENGDATA - Lesson 8.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -55,7 +55,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/ENGDATA - Lesson 8.md"
+                "file": "README.md"
               }
             }
           },
@@ -75,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/ENGDATA - Lesson 8.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5069465637207,
-    "collapsed": true
+    "width": 376.5069465637207
   },
   "right": {
     "id": "eccee2bb78656ef6",
@@ -171,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/ENGDATA - Lesson 8.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,8 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5,
-    "collapsed": true
+    "width": 391.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,7 +207,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d3536cfaf1fee50a",
+  "active": "e55d701b312dfb64",
   "lastOpenFiles": [
     "pages/optimal estimator.md",
     "pages/ENGDATA - Lesson 8.md",
