@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "515dd9d40795ec1d",
+        "id": "f5548b1ac428267f",
         "type": "tabs",
         "children": [
           {
-            "id": "e55d701b312dfb64",
+            "id": "3230aaf65d31c830",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "pages/contents.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -55,7 +55,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "pages/contents.md"
               }
             }
           },
@@ -75,7 +75,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "pages/contents.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "pages/contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,34 +207,34 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e55d701b312dfb64",
+  "active": "3230aaf65d31c830",
   "lastOpenFiles": [
-    "pages/optimal estimator.md",
-    "pages/ENGDATA - Lesson 8.md",
-    "pages/linear regression.md",
-    "pages/estimated standard error.md",
-    "pages/minimum variance unbiased estimator.md",
-    "pages/mean square error.md",
-    "pages/standard error.md",
-    "pages/ENGDATA.md",
-    "pages/contents.md",
     "README.md",
-    "pages/statistical independence.md",
-    "pages/ENGDATA - Lesson 6.md",
-    "pages/conditional distributions.md",
-    "pages/marginal distributions.md",
-    "pages/joint density function.md",
-    "pages/ENGDATA - Lesson 4.md",
-    "pages/ENGDATA - Lesson 3.md",
-    "pages/joint probability distribution.md",
-    "pages/ENGDATA - Lesson 5.md",
-    "pages/National Ambient Air Quality Guideline Values.md",
-    "pages/ENGENVI - Lesson 5.md",
-    "pages/hydrochlorofluorocarbons.md",
-    "pages/hydrobromofluorocarbons.md",
+    "pages/contents.md",
+    "pages/CALENG3 - Lesson 5.md",
+    "pages/SOFDESG.md",
+    "pages/SOFDESG - Lesson 9.md",
+    "pages/SOFDESG - Lesson 8.md",
+    "pages/SOFDESG - Lesson 7.md",
+    "pages/SOFDESG - Lesson 6.md",
+    "pages/SOFDESG - Lesson 5.md",
+    "pages/SOFDESG - Lesson 4.md",
+    "pages/SOFDESG - Lesson 3.md",
+    "pages/SOFDESG - Lesson 2.md",
+    "pages/SOFDESG - Lesson 1.md",
+    "pages/CALENG3.md",
+    "pages/CALENG3 - Lesson 4.md",
+    "pages/CALENG3 - Lesson 3.md",
+    "pages/CALENG3 - Lesson 2.md",
+    "pages/CALENG3 - Lesson 1.md",
     "pages/ENGENVI.md",
+    "pages/LBYCPD2.md",
+    "pages/ENGENVI - Lesson 1.md",
+    "pages/ENGENVI - Lesson 2.md",
+    "pages/ENGENVI - Lesson 3.md",
+    "pages/ENGENVI - Lesson 4.md",
+    "pages/ENGENVI - Lesson 5.md",
     "pages/ENGENVI - Lesson 7.md",
-    "pages/Untitled.md",
     "assets/sampling distributions.pdf",
     "pages",
     "assets/line chart.png",

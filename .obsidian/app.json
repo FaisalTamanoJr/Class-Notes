@@ -31,5 +31,6 @@
     "monggo"
   ],
   "newFileFolderPath": "pages",
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "livePreview": true
 }

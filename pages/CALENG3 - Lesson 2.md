@@ -113,7 +113,7 @@ tags:
 			- If you substituted $F(y)$ and its derivative into variables, put them back to their original value after you are done solving.
 - [[bernoulli’s equations|Bernoulli’s equations]]
 	- [Recommended video](https://youtu.be/I15tLSHl_vU?feature=shared)
-	- Standard form: (Bernouilli in y) $dy+P(x)ydx = Q(x)y^ndx$
+	- Standard form: (Bernoulli in y) $dy+P(x)ydx = Q(x)y^ndx$
 		- if $n=0$: [[linear differential equation]]
 		- if $n=1$: [[variable separable]]
 		- if $n \neq 0, 1:$ Bernoulli’s equations

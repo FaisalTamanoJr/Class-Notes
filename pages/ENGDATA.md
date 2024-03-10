@@ -15,7 +15,7 @@ SORT file.name ASC
 	- [[ENGDATA estimation.pdf|Estimation]]
 	- [[statistical tables.pdf|Statistical tables]]
 	- [[sampling distributions.pdf|Sampling Distributions]]
-- Calculator tehniques (CASIO fx-991ES PLUS)
+- Calculator techniques (CASIO fx-991ES PLUS)
 	- Steps to compute for $\bar{x}$ and $sx$
 		1. Mode setup
 		2. Stat

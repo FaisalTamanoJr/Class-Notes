@@ -144,7 +144,7 @@ Tags:
 		1. Determine the message you want to make.
 		2. Identify the comparison (component, item, time series, frequency distribution, correlation).
 		3. Select a chart based on the comparison.
-			- ![[comparisons and their appropriate chart forms]]
+			- ![[comparisons and their appropriate chart forms|no-title]]
 - Kinds of comparisons
 	- [[component comparison|Component]]
 		- A type of comparison focused on showing the size of each part as a percentage of the total.

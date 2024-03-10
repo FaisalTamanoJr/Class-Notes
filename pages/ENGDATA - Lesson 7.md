@@ -50,7 +50,7 @@ tags:
 			- Biased estimators are occasionally used in [[linear regression]].
 			- An estimator whose MSE is smaller than that of any other estimator is called an [[optimal estimator]].
 - Some parameters and their [[statistics]]
-	- ![[parameters and their statistics]]
+	- ![[parameters and their statistics|no-title]]
 	- There could be choices for the point estimator of a parameter.
 	- To estimate the mean of the population, we could choose the:
 		- sample mean

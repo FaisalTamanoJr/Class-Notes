@@ -1,13 +1,14 @@
 {
   "accentColor": "",
   "cssTheme": "Minimal",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "baseFontSize": 16,
   "monospaceFontFamily": "",
   "showViewHeader": true,
   "enabledCssSnippets": [
-    "bolder_bold"
+    "bolder_bold",
+    "no_title_embed"
   ]
 }
