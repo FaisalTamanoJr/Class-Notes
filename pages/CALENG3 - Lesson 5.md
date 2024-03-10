@@ -38,3 +38,10 @@ tags:
 			2. $=L\{-t^3F(t)\}$
 	- Theorem 16
 		- $f^n(s)=L\{(-t)^nF(t)\}$
+		- Common transforms
+			1. $L\{t(\sin (kt))\}=\frac{2ks}{(s^2+k^2)^2}$
+			2. $L\left\{ \frac{t}{2k}(\sin (kt)) \right\}=\frac{s}{(s^2+k^2)^2}$
+			3. $L\{t(\cos(kt))\}=\frac{s^2-k^2}{(s^2+k^2)^2}$
+			4. $L\left\{ \frac{1}{k}\sin(kt)-t\cos(kt) \right\}=\frac{2k^2}{(s^2+k^2)^2}$
+			5. $L\left\{ \frac{1}{2k^2}\left( \frac{1}{k}\sin (kt)-t\cos (kt) \right) \right\}=\frac{1}{(s^2+k^2)^2}$
+			6. $L\left\{ \frac{1}{2k^3}(\sin (kt)-kt\cos(kt)) \right\}=\frac{1}{(s^2+k^2)^2}$
