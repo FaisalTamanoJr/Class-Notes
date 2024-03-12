@@ -10,40 +10,47 @@ tags:
   - lesson
 ---
 
-- Documentation
-	- Describes an information system and helps the users, managers, and IT staff who must interact with it.
-	- TODO
-	- Program documentation
-		- Describes the inputs, outputs, and processing logic for all the program modules.
-		- The program documentation process starts in the system analysis phase and continue during implementation.
-		- TODO
-	- System documentation
-		- Describes the system’s functions and how they are implemented.
-		- Includes data dictionary entries, data flow diagrams, object models, screen layouts, source documents, and the systems request that initiated the project.
-		- TODO
-	- Operation documentation
-		- Operations documentation contains all the information needed for processing and describing online and printed output.
-		- Includes the following information:
-			- Program system analyst, programmer, and system identification.
-			- Scheduling information for printed output, such as report run frequency and deadlines.
-			- Input files and where they originate, and out files and destination.
-			- E-mail and report distribution lists.
-			- TODO
-	- User documentation
-		- User documentation, written or other visual information consists of instructions and information to users who will interact with the system. It includes user manuals, help screens, and tutorials.
-		- Programmer or systems analysts usually create programs and system documentation.
-		- You need someone with expert skills in the area doing the development, just as you need someone with expert skills developing the software.
+- [[documentation|Documentation]]
+	- Describes an [[information system]] and helps the users, managers, and IT staff who must interact with it.
+	- Benefits of accurate documentation
+		- It can reduce system downtime.
+		- It can cut costs.
+		- It can speed up maintenance tasks.
+	- Types
+		- [[program documentation|Program documentation]]
+			- It describes the inputs, outputs, and processing logic for all the program modules.
+			- The program documentation process starts in the [[systems analysis]] phase and continues during the implementation.
+			- This documentation guides programmers who construct modules that are supported by internal and external comments and descriptions.
+		- [[system documentation|System documentation]]
+			- It describes the system’s functions and how they are implemented.
+			- It includes data dictionary entries, data flow diagrams, object models, screen layouts, source documents, and the systems request that initiated the project.
+			- Most of the systems documentation is prepared during the [[systems analysis]] and [[systems design]] phases.
+			- During systems implementation, an analyst must review the documentation to ensure that it is complete, up-to-date, and accurate (including any changes that was made during the implementation process).
+		- [[operation documentation|Operation documentation]]
+			- Operations documentation contains all the information needed for processing and distributing online and printed output.
+			- Includes the following information:
+				- Program, system analyst, programmer, and system identification.
+				- Scheduling information for printed output, such as report run frequency and deadlines.
+				- Input files and where they originate, and output files and destination.
+				- E-mail and report distribution lists.
+				- Special forms required, including online forms.
+				- Error and informational messages to operators and restart procedures.
+				- Special instructions, such as security requirements.
+		- [[user documentation|User documentation]]
+			- User documentation refers to the instructions and information to users. It includes user manuals, help screens, and tutorials.
+			- Programmers or systems analysts usually create the program and system documentation.
+			- You need someone with expert skills in this area doing the development, just as you need someone with expert skills developing the software.
 - Management approval
 	- After system testing is complete, you present the results to management.
 	- You must provide detailed time schedule, cost estimate, and staffing requirements for making the system fully operational.
-	- TODO
+	- If system testing produced no technical, economical, or operational problems, management determines a schedule for system installation and evaluation.
 - Training
 	- A successful information system requires training for users, managers, and IT staff members.
 	- The entire systems development effort can depend on whether or not people understand the system and know how to use it effectively.
 - Vendor training
-	- If the system includes the purchase of software or hardware, then vendor-supplied training is one of the features you should investigate in the RFPs (requests for proposal) and RFQs (requests for quotation) that you sent to potential vendors.
+	- If the system includes the purchase of software or hardware, then vendor-supplied training is one of the features you should investigate in the [[Requests For Proposal]] (RFPs) and [[Requests For Quotation]] (RFQs) that you send to potential vendors.
 	- The training is usually is conducted as the vendor’s site.
-	- TODO
+	- If a large number of people need training, you might need to schedule classes at your location.
 - Outside training resources
 	- If you have standardized or customized package, and vendor training is not practical and your organization does not have the internal resources to perform the training, outside training consultants might be a desirable alternative.
 	- TODO

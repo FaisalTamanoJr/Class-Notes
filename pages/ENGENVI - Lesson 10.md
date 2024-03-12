@@ -10,6 +10,47 @@ tags:
   - lesson
 ---
 
+- [[sustainable management|Sustainable management]]
+	- Sustainable management refers to a set of principles and practices that organizations adopt to meet their current needs while ensuring the ability of the future generations to meet their own needs. This philosophy emphasizes a long term perspective and balance approach that considers not just the bottom line, but also the environmental and social impacts of an organization’s activities.
+	- 3 Pillars
+		- Economic
+		- Social
+		- Environmental
+- [[Sustainable Development Goals]] (SDGs)
+	- In 2015, [[United Nations]] held the [[Sustainable Development Summit]] which resulted in the creation of the UN Sustainable Development Goals, a universal call to action for all countries to address pressing global challenges like poverty, inequality, and climate change.
+	- The 17 SDGs encompass a wide range of interconnected goals, categorized into four themes:
+		- Planet
+		- People
+		- Prosperity
+		- Partnership
+	- Benefits
+		- Attract responsible investors and stakeholders.
+		- Enhance brand reputation and build customer trust.
+		- Identify and mitigate environmental and social risks.
+		- Develop innovative solutions and create new market opportunities.
+- [[Environmental Management Systems]] (EMS)
+	- What is it?
+		- An EMS is a formal and systematic framework that aims to improve the impacts of businesses on the environment, and it also aims to address governmental regulations.
+		- It helps set priorities for action and it encourages all employees to find ways to lessen those impacts and protect the environment.
+	- What does it do?
+		- An EMS helps your organization achieve environmental goals and systematically address regulatory requirements in a cost-effective manner.
+		- It provides a proactive approach to working towards environmental targets, reducing risk, and improving health and safety practices. It can also help your company work towards non-regulated issues that are more important globally.
+	- Significance
+		- It allows business to identify, monitor, and manage their environmental responsibilities effectively by establishing clear objectives and procedures.
+	- Examples
+		- [[ISO 14001]]
+			- It is the most commonly used framework, developed by the [[International Organization for Standardization]] (ISO), for an EMS. Established on 1996, it is the international standard for an EMS, and it is based on the [[Plan-Do-Check-Act]] methodology.
+		- [[Eco-Management and Audit Scheme]] (EMAS)
+			- It emphasizes continuous improvement in environmental performance through audits and reporting.
+		- [[ISO 14005]]
+			- This system allows for companies to break their environmental goals into smaller and more achievable phases, resulting to more flexibility.
+	- Stages
+		1. Commitment and Policy
+		2. Planning
+		3. Implementation
+		4. Evaluation
+		5. Review
+	- Benefits
 - [[Environmental Impact Assessment]] (EIA)
 	- EIA is a process used to predict and evaluate the relevant effects of developmental proposals prior to any major decisions being taken.
 	- History
