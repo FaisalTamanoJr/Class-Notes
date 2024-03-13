@@ -46,6 +46,11 @@ tags:
 			- This system allows for companies to break their environmental goals into smaller and more achievable phases, resulting to more flexibility.
 	- Stages
 		1. Commitment and Policy
+			- ISO 4001 requires local governments to start with the development of their own environmental policy, which serves as the basis for their EMS.
+				- It must outline environmental issues that the EMS will tackle.
+				- It must be relevant to products, services, and activities.
+				- It must show commitment to continual improvement, and compliance with the law.
+				- It must be well documented.
 		2. Planning
 		3. Implementation
 		4. Evaluation
