@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e10ff994b57469ad",
+        "id": "f75f06fd943fc401",
         "type": "tabs",
         "children": [
           {
-            "id": "20f6ac906ad21bc6",
+            "id": "af76e4bedf9fde51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/CALENG3.md",
-                "mode": "preview",
+                "file": "pages/contents.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "pages/CALENG3.md"
+            "file": "pages/contents.md"
           }
         }
       },
@@ -116,7 +116,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/CALENG3.md",
+            "file": "pages/contents.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -141,15 +141,26 @@
       "graph:Open graph view": false
     }
   },
-  "active": "20f6ac906ad21bc6",
+  "active": "af76e4bedf9fde51",
   "lastOpenFiles": [
+    "pages/SOFDESG.md",
+    "pages/SOFDESG - Lesson 10.md",
     "pages/contents.md",
-    "pages/progress-tracker.md",
+    "pages/SOFDESG - Lesson 9.md",
+    "pages/post-implementation evaluation.md",
+    "pages/pilot site.md",
+    "pages/phased operation.md",
+    "pages/pilot operation.md",
+    "pages/system changeover.md",
+    "pages/parallel cutover.md",
+    "pages/direct cutover.md",
+    "pages/ENGENVI.md",
+    "pages/CALENG3.md",
     "pages/CALENG3 - Lesson 5.md",
+    "README.md",
+    "pages/progress-tracker.md",
     "pages/Laplace transforms of eat f(t).md",
     "pages/Laplace transforms of F(t).md",
-    "pages/CALENG3.md",
-    "README.md",
     "pages/ENGDATA - Lesson 7.md",
     "pages/laplace operator.md",
     "pages/laplace transform.md",
@@ -158,17 +169,6 @@
     "pages/central limit theorem.md",
     "pages/sampling distributions.md",
     "pages/statistic.md",
-    "pages/random sample.md",
-    "pages/parameters and their statistics.md",
-    "pages/point estimator.md",
-    "pages/sampling distribution.md",
-    "pages/statistics.md",
-    "pages/point estimate.md",
-    "pages/ENGDATA.md",
-    "pages/auxiliary equation.md",
-    "pages/CALENG3 - Lesson 4.md",
-    "pages/non-homogenous linear differential equation.md",
-    "pages/SOFDESG - Lesson 7.md",
     "assets/cardinality notation.jpg",
     "assets/rcl series.jpg",
     "assets/sampling distributions.pdf",
