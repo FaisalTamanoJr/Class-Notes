@@ -3,7 +3,7 @@ Course: ENGENVI
 Topic: Sustainable Management
 Linked_Tests:
   - Quiz 3
-Status: Work in Progress
+Status: Done
 References used:
   - Student Presentation Materials
 tags:
@@ -52,10 +52,36 @@ tags:
 				- It must show commitment to continual improvement, and compliance with the law.
 				- It must be well documented.
 		2. Planning
+			- The organization should consider how its EMS affects the environment, what it aims for, and how it should go about achieving those goals.
+			- ISO14001 requires the organization to consider the following:
+				- Environmental aspects
+				- Legal and other aspects
+				- Objectives and targets
+				- Environmental management program
 		3. Implementation
+			- This step outlines the following:
+				- The structure and responsibility of the implementation.
+				- Calls for awareness and competency training.
+				- Set up for communication systems for informing everyone involved.
+				- Document all steps and stages of the EMS.
+				- Create document and control procedures.
+				- Ensure that a plan for emergency preparedness and response is in place.
 		4. Evaluation
+			- The ISO14001 requires that the EMS be a living and applied system; therefore, checking and correction procedures are necessary. This is done through intensive monitoring and measurement, correction and preventive action, keeping proper records and undertaking EMS audits.
+			- The following can be used as evidence to show current activities or those being planned:
+				- internal memoranda
+				- procedural forms
+				- plans
 		5. Review
+			- ISO14001 requires the EMS to be reviewed periodically by the top management to ensure that the program is still suitable, adequate, and effective.
 	- Benefits
+		- reduced environmental impacts and risks
+			- creation of an environmental early warning system
+		- lower operating costs
+		- savings on waste management
+		- enhanced reputation
+		- improved relationships with regulators and stakeholders
+		- cheaper insurance
 - [[Environmental Impact Assessment]] (EIA)
 	- EIA is a process used to predict and evaluate the relevant effects of developmental proposals prior to any major decisions being taken.
 	- History

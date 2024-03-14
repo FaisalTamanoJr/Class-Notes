@@ -2,7 +2,7 @@
 Course: ENGENVI
 Topic: Hazardous Wastes
 Linked_Tests:
-  - Quiz 2
+  - Quiz 3
 Status: Planned
 References used:
   - Student Presentation Materials

@@ -8,7 +8,7 @@ tags:
 TABLE WITHOUT ID file.link as "File", Topic, Linked_Tests AS "Linked Tests", Status
 FROM #lesson 
 WHERE Course = this.file.name
-SORT file.name ASC
+SORT number(split(file.name,"CALENG3 - Lesson")[1]) ASC
 ```
 
 - Helpful materials for solving
