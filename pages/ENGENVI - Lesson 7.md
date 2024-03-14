@@ -1,6 +1,6 @@
 ---
 Course: ENGENVI
-Topic: Hazardous Wastes
+Topic: Hazardous Waste
 Linked_Tests:
   - Quiz 3
 Status: Planned
