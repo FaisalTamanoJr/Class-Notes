@@ -28,6 +28,25 @@ tags:
 		- Enhance brand reputation and build customer trust.
 		- Identify and mitigate environmental and social risks.
 		- Develop innovative solutions and create new market opportunities.
+	- All 17 SDGs
+		1. No poverty
+		2. Zero hunger
+		3. Good health and well-being
+		4. Quality education
+		5. Gender equality
+		6. Clean water and sanitation
+		7. Affordable and clean energy
+		8. Decent work and economic growth
+		9. Industry innovation and infrastructure
+			- 2.6 billion people still do not have access to the internet.
+		10. Reduced inequalities
+		11. Sustainable cities and communities
+		12. Responsible consumption and production
+		13. Climate action
+		14. Life below water
+		15. Life on land
+		16. Peace, justice, and strong institutions
+		17. Partnerships for the goals
 - [[Environmental Management Systems]] (EMS)
 	- What is it?
 		- An EMS is a formal and systematic framework that aims to improve the impacts of businesses on the environment, and it also aims to address governmental regulations.
@@ -135,9 +154,10 @@ tags:
 		- It determines the [[environmental receptors]] of the project. Moreover, measures are also made for each environmental receptor to minimize the project’s impact on them.
 	2. EIS
 		1. It compares the pros and cons of the project’s impacts.
-		2. It states alternative solutions to the problem tackled by the proposed project.
+		2. It states alternatives to the proposed project.
 		3. It identifies other possible impacts to environmental receptors, and it also discusses how those possible impacts should be tackled.
 		4. It is a policy document and not a scientific research.
+		5. DENR 2003-30, policy to implement a systems-oriented and integrated approach to EIS system.
 	3. EMP
 		1. It shows the measures undertaken to minimize the environmental impact during and after the project’s implementation.
 		2. It shows how avoidable impacts, in parts like the construction and operation of the project, can be prevented by the implementers.
