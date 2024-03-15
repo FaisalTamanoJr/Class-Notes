@@ -45,7 +45,7 @@ tags:
 				- [[greenhouse effect|Greenhouse effect]] - [[global warming]].
 		3. [[nitrogen cycle|Nitrogen cycle]]
 			- Nitrogen is about 78% of the Earth’s atmosphere.
-			- All living things require nitrogen. Although most organisms cannot use it in gaseous form, combining it with other elements to form organic compounds or fixed nitrogen \[e.g. proteins and nucleic acids(DNA and RNA)\] can make it usable.
+			- All living things require nitrogen. Although most organisms cannot use it in gaseous form, combining it with other elements to form organic compounds or fixed nitrogen \[e.g., proteins and nucleic acids(DNA and RNA)\] can make it usable.
 			- Fixed nitrogen supply is limited; nonetheless, complex methods of recycling nitrogen already exists.
 			- Organisms that play a huge role in the nitrogen cycle
 				- [[Nitrogen-fixing bacteria]]
@@ -75,7 +75,7 @@ tags:
 				- [[Haber-Bosch process]]
 					- Artificial process that is used in manufacturing ammonium for fertilizers.
 				- [[Leaching]]
-					- Is the loss of nitrates from the soil due to heavy rain fall leaching into bodies of water (e.g. lakes).
+					- Is the loss of nitrates from the soil due to heavy rain fall leaching into bodies of water (e.g., lakes).
 					- Enrichment of lakes, causing [[algal bloom]] - [[eutrophication]].
 			- Disruptions in the $N_{2}$ cycle
 				- Some human activities can influence the nitrogen cycle, like human wastes in waterways, and agricultural runoff.

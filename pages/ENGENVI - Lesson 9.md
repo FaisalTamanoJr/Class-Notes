@@ -22,7 +22,7 @@ tags:
 				- $<12 \frac{GBq}{t}$ of beta-gamma activity
 			- They do not require shielding and handling during transport.
 			- They are suitable for disposal in near surface facilities.
-			- They are generated from hospitals and industries (e.g. rags, papers, tools, and other materials that only contain small traces of short-lived radioactivity).
+			- They are generated from hospitals and industries (e.g., rags, papers, tools, and other materials that only contain small traces of short-lived radioactivity).
 			- They take up 90% of the volume, but only account for 1% of all radioactive waste.
 		- [[Intermediate-Level Waste]] (ILW)
 			- They are more radioactive than LLW but do not produce enough heat to be considered in the design of storage and disposal facilities ($<2 \frac{kW}{m^3}$).

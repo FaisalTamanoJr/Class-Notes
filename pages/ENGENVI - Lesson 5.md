@@ -48,7 +48,7 @@ tags:
 				- Corrosion of man-made structures.
 		- [[global warming]] and [[climate change]]
 			- Global warming pertains to the temperature increase in Earth due to the trapped heat from the sun, which is caused by greenhouse gases.
-			- Its rapid escalation is a result of increased usage of $CO_{2}$ that produces a heat trapping blanket, which is known as the greenhouse effect. Moreover, the effect is also exacerbated by burning fossil fuels (e.g. coal and petroleum) and other greenhouse gases. Because the temperature rises, it results to the melting of glaciers or ice caps and the growth of sea levels.
+			- Its rapid escalation is a result of increased usage of $CO_{2}$ that produces a heat trapping blanket, which is known as the greenhouse effect. Moreover, the effect is also exacerbated by burning fossil fuels (e.g., coal and petroleum) and other greenhouse gases. Because the temperature rises, it results to the melting of glaciers or ice caps and the growth of sea levels.
 			- Greenhouse effect is just the concept of confining heat inside a greenhouse. Its primary source are the industrial sector, with some smaller contributing factors like deforestation and agriculture.
 			- Although global warming and climate change are used interchangeably, they are not the same; they are just related.
 		- [[carbon footprint]]
@@ -113,11 +113,11 @@ tags:
 						- events involving combustion
 					- Classifications
 						- PM10
-							- “Course particles”, comprise of particles that are smaller than 10 micrometers (in diameter) but bigger than 2.5 micrometers (e.g. dust).
+							- “Course particles”, comprise of particles that are smaller than 10 micrometers (in diameter) but bigger than 2.5 micrometers (e.g., dust).
 						- PM2.5
-							- “Fine particles”, comprise of particles smaller than or equal to 2.5 micrometers (in diameter) but bigger than 0.1 micrometers (e.g. exhaust).
+							- “Fine particles”, comprise of particles smaller than or equal to 2.5 micrometers (in diameter) but bigger than 0.1 micrometers (e.g., exhaust).
 						- PM0.1
-							- “Ultrafine particles”, comprise of particles smaller than 0.1 micrometers in diameter (e.g. metal vapors).
+							- “Ultrafine particles”, comprise of particles smaller than 0.1 micrometers in diameter (e.g., metal vapors).
 					- Effects
 						- respiratory and cardiovascular problems
 						- complications of respiratory and cardiovascular problems

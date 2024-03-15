@@ -3,7 +3,7 @@ Course: ENGENVI
 Topic: Noise Pollution
 Linked_Tests:
   - Quiz 3
-Status: Work in Progress
+Status: Done
 References used:
   - Student Presentation Materials
 tags:
@@ -11,4 +11,93 @@ tags:
 ---
 
 - [[noise pollution|Noise pollution]]
-	-
+	- [[noise|Noise]]
+		- Noise refers to unwanted or disturbing sound. It becomes unwanted when it interferes with normal activities (e.g., sleeping and conversations) or diminishes one’s quality of life.
+	- It is more than just an annoyance and can lead to the following:
+		- Lost productivity that may lead to economic losses.
+		- Sleep disruption, affecting cognitive function and overall well-being.
+		- Health issues
+			- stress-elevated illnesses
+			- elevated blood pressure
+			- speech difficulty
+			- hearing loss. ([[Noise Induced Hearing Loss]] \[NIHL\])
+	- Sources
+		- Transportation
+			- Road traffic
+			- Air traffic (from aircraft noise)
+			- Rail traffic (from the train)
+		- Industrial activities
+			- Factories and manufacturing plants
+			- Construction work
+		- Recreational activities
+			- Loud music
+			- Power tools and lawn equipment
+				- lawn mowers
+				- leaf blowers
+		- Natural sources
+			- Thunderstorms
+			- Animals and insects
+	- Effects
+		- Physical
+			- respiratory agitation
+			- racing pulse
+			- high blood pressure
+			- headaches
+			- colitis
+			- gastritis
+			- heart attacks
+		- Psychological
+			- fatigue
+			- depression
+			- stress
+			- anxiety
+			- hysteria
+			- sleep and behavioral disorders
+				- Noise above 45 dB stops you from falling asleep; the [[World Health Organization]] (WHO) states that it should be no more than 30 dB.
+				- It can cause aggressive behavior and irritability.
+			- memory and concentration
+				- It can harm focus and memory, which can lead to poor performance and can make studying less effective.
+				- The ears need to rest for 16 hours at most to make up for two hours of exposure to 100 dB.
+	- Technology to control noise pollution
+		- [[Active Noise Cancellation]] (ANC)
+			- Function
+				- It uses microphones to capture ambient noise and generates inverted sound waves to cancel it out.
+			- Application
+				- ANC headphones are widely used for creating quiet listening experiences in noisy environments.
+		- [[Passive Noise Reduction]] (PNR)
+			- Function
+				- It relies on physical barriers (e.g., soundproofing materials) to absorb or reflect sound waves.
+			- Application
+				- PNR is commonly used in soundproofed rooms, noise barriers along highways, and double-glazed windows in buildings.
+		- [[Electric Vehicle|Electric Vehicles]] (EVs)
+			- Function
+				- They produce significantly less noise than traditional gasoline-powered vehicles.
+			- Application
+				- The growing adoption of EVs offers a long-term solution to road traffic noise.
+		- Quieter engine design
+			- Function
+				- Advancements in engine design, such as the use of sound-absorbing materials and improved engine lubrication, can significantly reduce engine noise in various vehicles and machinery.
+			- Application
+				- This approach is continuously being applied in aircraft engine design, construction equipment, and other noise-emitting machinery.
+		- Urban planning and zoning regulations
+			- Function
+				- Implementing thoughtful urban planning practices can mitigate noise pollution. For instance, by placing noise-filled areas (e.g., airport and factories) away from residential areas and creating green spaces to act as natural sound barriers.
+			- Application
+				- Zoning regulations can limit noise in certain areas and set operation times for noisy activities.
+	- Regulations in the Philippines
+		- National regulations by the DENR
+			- [[DAO 2000-81]]
+				- Establishes nationally recognized noise standards, which defines acceptable noise levels, for various areas depending their primary usage.
+			- [[Memorandum Circular No. 002, Series of 1980]]
+				- Defines limits on noise levels for various sources, such as construction equipment and vehicle exhaust.
+				- Outlines specific prohibitions to prevent excessive noise pollution, such as unnecessary honking during specific times or in specific areas.
+		- [[Local Government Unit]] (LGU) Ordinances
+			- LGUs have the authority to enact their own noise ordinances to address their unique noise concerns.
+			- These ordinances can go beyond national regulations by:
+				- Defining additional noise sources.
+				- Setting specific curfews.
+				- Prescribing penalties for violation.
+		- Supporting Law: [[Clean Air Act]] ([[RA 8749]])
+			- It indirectly contributes to control of noise pollution through the following:
+				- Provisions regarding motor vehicle noise emissions.
+				- [[Department of Transportation]] (DOTr) are given the authority to set regulations and standards for acceptable noise levels emitted by vehicles.
