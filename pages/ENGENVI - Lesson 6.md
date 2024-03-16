@@ -10,7 +10,7 @@ tags:
   - lesson
 ---
 
-- Solid wastes
+- Solid waste
 	- Sources
 		- Residential waste (household)
 			- Residential waste pertains to the waste generated at home.
@@ -55,8 +55,8 @@ tags:
 			- Hazardous waste poses significant threats to public health or the environment because it includes waste materials that are toxic, corrosive, flammable, reactive, or contain infectious properties. As a result, it requires special handling, treatment, and disposal methods to mitigate its harmful effects.
 			- Common sources include industrial processes, medical facilities, and household hazardous waste (e.g., batteries, paint, and chemicals).
 	- Composition
-		- Organic waste
-			- Organic waste comprises waste materials that are biological in origin, includng food scraps, garden waste, and wood.
+		- [[organic waste|Organic waste]]
+			- Organic waste comprises waste materials that are biological in origin, including food scraps, garden waste, and wood.
 			- This type of waste is biodegradable and can be processed into compost or biogas through methods like [[composting]] or anaerobic digestion.
 		- Paper and cardboard
 			- These materials are recyclable and can be reprocessed into new paper products.
@@ -76,8 +76,8 @@ tags:
 			- Textile waste includes discarded clothing, fabrics, and other textile materials.
 			- It can originate from household, commercial, or industrial sources.
 			- It is difficult to recycle due to the variety of materials and dyes used.
-		- E-wastes (electronic wastes)
-			- E-wastes refers to discarded electronic devices and equipment, such as computers, smartphones, TVs, and appliances.
+		- E-waste ([[electronic waste]])
+			- E-waste refers to discarded electronic devices and equipment, such as computers, smartphones, TVs, and appliances.
 			- Proper recycling of e-waste can recover valuable materials (e.g., metals) and prevent environmental pollution from hazardous substances.
 	- Waste management
 		- Functional components
@@ -155,15 +155,15 @@ tags:
 					- recyclable
 					- special or hazardous waste
 				- It aims to facilitate efficient collection, recycling, and disposal.
-				- It is crucial for maximizing recovery of resources, improving recycling rates, and reducing potential [[incineration]] or landfill wastes.
+				- It is crucial for maximizing recovery of resources, improving recycling rates, and reducing potential [[incineration]] or landfill waste.
 			- Establishment of [[Materials Recovery Facilities]] (MRFs)
 				- MRFs are tasked to sort, clean, and process collected recyclable materials for recycling or [[composting]].
-				- It reduces wastes sent to landfills, supports local recycling industries, and contributes to resource recovery.
+				- It reduces waste sent to landfills, supports local recycling industries, and contributes to resource recovery.
 			- Collection and transport of solid waste
 				- This policy outlines the efficient collection and transport of waste from source to disposal facilities, recycling, centers, or MRFs.
 				- It requires coordination between local government units, waste collectors, and the community.
 			- Recycling and resource recovery
-				- This policy promotes recycling and reduces the reliances on landfill disposal.
+				- This policy promotes recycling and reduces the reliance on landfill disposal.
 				- It encompasses activities such as
 					- material recycling
 					- [[composting]] of organic waste

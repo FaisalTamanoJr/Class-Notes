@@ -3,190 +3,152 @@ Course: ENGENVI
 Topic: Hazardous Waste
 Linked_Tests:
   - Quiz 3
-Status: Planned
+Status: Done
 References used:
   - Student Presentation Materials
 tags:
   - lesson
 ---
 
-- Wastes
-	- Classifications
-		- Radioactive
-		- Akali
-		- Biochemical
-		- Household
-		- Electrical
-		- Acid
-		- Mixed
-	- Regulations and Legislations
-		- RA 6969
+- [[hazardous waste|Hazardous waste]]
+	- Hazardous waste refers to waste from different facilities that can harm humans and the environment.
+	- Sources
+		- Commercial facilities
+		- Industries
+		- Institutional facilities
+	- Effects
+		- Cancer
+		- Genetic mutation
+		- Kills organisms living underwater
+	- Characteristics
+		- [[ignitability|Ignitability]]
+			- Waste that are hazardous due to ignitability include the following:
+				- liquids with flashpoints below $60^\circ C$
+				- non-liquids that can cause fires given a specific condition
+				- ignitable compressed gas and oxidizers
+		- [[corrosivity|Corrosivity]]
+			- Corrosive waste refers to waste capable of eroding, corroding, or eating away other substances due to their aggressive properties. Examples include strong bases and acids.
+		- [[reactivity|Reactivity]]
+			- Reactive waste pertains to waste that react violently with a mixture of substances, potentially causing explosions or releasing toxic fumes, gases, or vapors.
+		- [[toxicity|Toxicity]]
+			- Toxic waste involves waste that consist of toxic components such as residues that may cause chronic or carcinogenic effects. Moreover, exposure with them can lead to adverse health effects, including poisoning and cancer.
+	- Classification
+		- [[radioactive waste|Radioactive/Nuclear waste]]
+			- Radioactive waste refers to waste that emit ionizing radiation and persist in the environment for a lengthy period.
+			- Characteristics
+				- [[toxicity]]
+				- [[corrosivity]]
+			- Examples
+				- plutonium from nuclear reactors
+				- uranium fuel
+		- [[alkali waste|Alkali waste]]
+			- They pertain to waste with $\geq 12.5$ pH level
+			- Characteristics
+				- [[corrosivity]]
+			- Examples
+				- alkaline cleaners
+				- [[ammonium hydroxide]]
+				- caustic soda
+		- [[biomedical waste|Biomedical/Hospital waste]]
+			- They refer to infectious waste originating from research facilities and the diagnosis and treatment of living beings.
+			- Characteristics
+				- [[toxicity]]
+		- [[household waste|Household waste]]
+			- Household waste comes from any unused or leftover portion of household products with toxic chemicals.
+			- Characteristics
+				- [[toxicity]]
+				- [[corrosivity]]
+				- [[ignitability]]
+				- [[reactivity]]
+			- Examples
+				- batteries
+				- motor oil
+				- Lysol
+		- [[electronic waste|E-waste]]
+			- E-waste describes used electronics that are nearing the end of their useful life, and are discarded, donated, or given to a recycler.
+			- Characteristics
+				- [[toxicity]]
+				- [[ignitability]]
+			- Examples
+				- cell phones
+				- chargers
+				- headphones
+		- [[acid waste|Acid waste]]
+			- They pertain to waste with $\leq 2.0$ pH level
+			- Characteristics
+				- [[corrosivity]]
+				- [[ignitability]] ([[sulfuric acid]])
+			- Examples
+				- [[sulfuric acid]]
+				- [[hydrochloric acid]]
+				- [[nitric acid]]
+		- [[mixed waste|Mixed waste]]
+			- They refer to waste with a toxic and radioactive component.
+			- Characteristics
+				- [[toxicity]]
+				- [[radioactivity]]
+			- Examples
+				- [[zinc bromide]]
+				- contaminated lead
+				- oils with mercury
+	- Directives and legislations
+		- [[RA 6969]]: [[Toxic Substances and Hazardous and Nuclear Waste Control Act of 1990]]
+			- Declaration of policy
+				- Provides for the regulation of toxic, hazardous, and nuclear substances.
+				- Provides for the advancement and facilitation of studies on toxic chemicals.
 			- Objectives
-				- Keep track of chemical uses, test data, and relevant information.
+				- Maintain an inventory of chemicals.
+				- Monitor and regulate hazardous chemicals.
+				- Educate the public about hazards related to toxic chemicals.
+				- Prevent entry and disposal of hazardous chemicals.
 			- Prohibited acts
-				- Intentional use of forbidden chemicals.
-				- Refusal to submit information for chemical inspection.
-			- Criminal offenses and penalties
-				- Violation of prohibited act (a) - (c):
-					- Imprisonment: Six months and one day to six years and one day.
-					- Fine: Six hundred pesos
-		- The Stockholm convention on persistent organic pollutants
-			- Characteristics of persistant organic pollutants (POPs)
-				- Toxic
-				- Capability to accumulate in harmful concentrations within both humans and animals
-			- Main provisions
-				- Production and use of intentionally produced POPs
-				- Restriction on intentionally produced POPs (Annex B)
-				- Unintentionally Produced POPs (Annex C)
-				- Management of stockpiles and wastes
-				- Listing of new POPs
-				- Other provisions
-					- Develop implementation plans
-					- Exchange information
-					- Promote public information, awareness, and education
-			- Chemical control order
-	- Hazardous wastes
-		- Wastes with properties that are harmful to humans or the environment
-	- Treatment technologies
-		- Biological
-			- Aerobic
-				- uses oxygen-feeding bacteria, protozoa, and other specialty microbes to clean the wastes.
-				- BOD
-					- amount of dissolved oxygen…
-			- Anaerobic
-				- does not rely on using oxygen
-				- direct and indirect symbiotic association between different groups of bacteria
-				- two steps
-					- initial acid-forming phase
-						- undergoes a phase to transform of higher molecular mass compounds into suitable compounds to use as a source of energy
-					- methane production phase
-						- acidogenesis
-							- bacterial conversion of compounds resulting from the first stage to identifiable lower molecular mass compounds
-						- methagenesis
-							- bacterial conversion of compounds to simpler end products
-			- Membrane bioreactor
-				- mostly used in municipal, industrial, and landfill
-				- combination of microfiltration membrane with a growth bioreactor
-				- bioreactor
-					- chamber that supports a biologically active environment consisting of bacteria and protozoa
-				- membrane
-					- solid liquid separation
-				- types
-					- sidestream (or external) in case of pressure driven
-			- Constructor wetlands
-				- use of naturall processes involving wetland vegetation
-				- free water surface constructed wetlands
-					- flooded planted channels or basin
-				- horizontal subsurface flow
-					- gravel
-			- Biomedication
-				- use of living organism to purge contaminants and toxins from soil and water
-				- bacteria bioremediation
-					- used in industrial hazardous waste
-				- fungal bioremediation
-			- Biofiltration
-				- treatment of contaminated air and water through biological filters
-				- biofilters: the microorganism attach themselves and purge the contaminants by capturing and degrading
-		- Physical
-			- physically alters the waste properties to make it safer for disposal
-			- aims to reduce wastes mobility volume or activity
-			- drawbacks
-				- limited treatment
-				- secondary waste streams
-				- significant energy consumption
-				- incomplete hazard elimination
-			- different physical treatment proccesses
-				- screening
-					- separating larger particles or objects from a mixture of waste materials
-					- achieved by passing the waste through a screen or mesh with openings of a specific size
-				- filtration
-					- passing a waste mixture through a porous material that would separate solids from liquid or gas
-					- different types of filtration
-						- gravity filtration
-						- pressur filtration
-						- vacuum filtration
-				- sedimentation
-					- removing suspended solid particles from a waste stream
-					- relies on the difference of density
-					- if certain particles are too small, flotation is used
-				- centrifugation
-					- separates solid and liquid components by rapidly rotating a mixture at high speeds in a centrifugal machine
-				- stripping
-					- widely used in removing volatile organic compounds (vocs) of a liquid mixture by passing streams of gas
-				- reverse osmosis
-					- pushses a solution through a semi permeable membrane under pressure, allowing water molecules to flow through but obstructing most other pollutants
-				- evaporation
-					- involves boiling off the liquid part of the waste stream in order to concentrate non volatile solids in a solution
-					- reduces the volume of hazardous substances
-				- incineration
-					- uses the combustion of waste materials at high temperatures in a controlled environment
-					- breaks down organic compounds
-				- distillation
-					- different boiling points are used to separate liquids
-					- involves heating the mixture to vaporize the more volatile components then cooling and condensing the vapor back into a liquid form
-		- Chemical
-			- reduce the hazardous nature of the waste by undergoing a chemical process using chemicals
-			- recovery of valuable products and reduce the overall cost of waste disposal
-			- different processes
-				- ion exchange
-					- exchanging with another non-objectionable ionic substance that will result in removing one or more of the contaminants
-					- must be dissolved and have the same type of electric charge
-					- drawbacks
-						- high operation costs over long-term
-						- regenerating the ion exchange bed dumps salt water into the environment
-				- chemical precipitation
-					- process of the contaminants dissolving or suspending in a solution to settle out
-					- filtered, centrifuged, or separated
-					- removal of metals and other inorganics, and organic substances that may be harmful
-					- assisted through using coagulants which are an agent that causes smaller particles suspended in solution to gather larger
-					- municipal and industrial wastewater
-					- drawbacks
-					- polymers used as coagulants can be expensive
-					- competing reactions
-				- redox
-					- oxidation and reduction
-					- convert of compounds to make it more stable, less mobile, or inert
-					- transfer of electrons wherein one reactant is oxidized and one is reduced
-					- oxidizing agents are most commonly used for the treatment of hazardous contaminants
-					- drawbacks
-						- incomplete oxidation of intermediate contaminants may occur
-						- process is not cost-effective
-				- neturilization
-					- adjusts the pH value of the waste
-					- crucial move in a conventional treatment process due to pH being a key element in this process
-				- chlorination
-					- usage of chlorine dioxide to treat hazardous wastes
-					- ensures the drinking water is safe to drink after the treatment
-				- ozonation
-					- widely considred for the treatment of wastewater by oxidation as ozone
-					- direct and indirect oxidation
-		- Land disposal
-			- involves dumping garbage into or onto the ground
-			- drawbacks
-				- significant environmental risks
-				- emissions of harmful gases
-				- long-term liabilities
-			- types
-				- surface impoundments
-					- temporary holds an accumulation of liquid hazardous waste
-				- waste piles
-			- types of secure landfilles
-				- are excavated locations where non liquid hazardous waste is dumped and covered for ultimate disposal
-				- most commonly used process
-			- critical design standards
-				- liners:protective barrier
-				- natural hydrogeologic setting: prevents waste from escaping
-				- double leachate collection system: designed to automatically pump the leachate to maintain compliance with the requirements.
-				- cover: layer of compressed soil laid on top of a deposition of waste
-				- implrmeable cap: designed to minimize migration of liquids through the closed landfill
-			- example facilities
-				- l2612-phi visayas base load pwoer project - secured landfill facility
-				- located in brgy tina an naga city
-				- aims to mitigate the indiscriminate dumping of coal ash
-		- bedrock disposal
-			- showcases a multi barrier design where the solid hazardous waste is sealed with dfferent materials to prevent leakage of groundwater
-		- deep well disposal
-			- uses injection wells to place treated or untreated waste into geological formations that have no possiblities of contamination to water aquifers
-	- facility in the philippines
-		- laguna technopark
-		- aglipay sewage treatment plant in the philippines
+				- a) Intentionally using prohibited chemical substances.
+				- b) Failure or refusal to submit reports required by this act.
+				- c) Failure or refusal to comply with the pre-manufacture and pre-importation requirements.
+				- d) Cause or assist, whether directly or indirectly, the entry of hazardous substances in the Philippines.
+			- Penalties for violating the prohibited acts from (a) - (c)
+				- imprisonment for 6 months
+				- fine ranging from 600 PHP to 400K PHP
+				- If the violator is a foreigner, they are deported and barred from any subsequent entry in the country after serving their sentence.
+				- If the violator is a government employee, they will also be automatically dismissed from office and permanently disqualified from holding any elective or appointive position.
+			- Penalties for violating the prohibited acts from (d)
+				- imprisonment for 12 years
+				- If the violator is a foreigner, they are deported and barred from any subsequent entry in the country after serving their sentence.
+				- If the violator is a government employee, they will also be automatically dismissed from office and permanently disqualified from holding any elective or appointive position.
+		- [[Stockholm Convention on Persistent Organic Pollutants]] (POPs)
+			- It was established in 2001 but enforced in May 17, 2004.
+			- It primarily aims to protect human health and the environment from the negative effects of [[Persistent Organic Pollutants|POPs]].
+			- They compel participating countries to adopt measures that reduce [[Persistent Organic Pollutants|POP]] releases as much as possible.
+			- One of their main provisions is safely managing stockpiles and waste.
+			- Annexes
+				- Annex A
+					- Annex A consists of chemicals whose production and use must be eliminated.
+				- Annex B
+					- Annex B consists of chemicals whose production and use must be restricted.
+				- Annex C
+					- Annex C consists of chemicals whose unintentional release must be minimized by taking measures.
+			- POPs
+				- Characteristics
+					- They are capable of dangerously accumulating in humans and animals (toxic).
+					- They can be transported over long distances through the atmosphere and oceans.
+					- They are resistant to natural decomposition.
+				- Effects on human health
+					- cancers
+					- birth defects
+					- reproductive disorders
+					- impaired immune, reproductive, and nervous (central and peripheral) systems.
+	- [[Chemical Control Orders]] (CCOs) for specific hazardous chemicals
+		- The [[Department of Environment and Natural Resources]] - [[Environmental Management Bureau]] (DENR-EMB)  issues CCOs to restrict and prohibit interacting with hazardous chemicals.
+		- Chemicals subject to CCOs
+			- Mercury and mercury compounds ([[DAO 2019-20]])
+			- Cyanide and cyanide compounds ([[DAO 1997-39]])
+			- Asbestos [[(DAO 2000-02)]]
+			- Polychlorinated biphenyls ([[DAO 2004-01]])
+			- Lead and lead compounds ([[DAO 2013-24]])
+			- Arsenic and arsenic compounds ([[DAO 2019-17]])
+			- Chromium (VI) ([[DAO 2021-09]])
+			- Cadmium and cadmium compounds ([[DAO 2021-08]])
+			- Ozone depleting substances ([[DAO 2004-08]] and [[DAO 2013-25]])
+			- Hydrofluorocarbons (HFCs) ([[DAO 2021-31]])
+			- Vinyl Chloride (draft)
+			- Benzene (draft)
