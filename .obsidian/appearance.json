@@ -9,6 +9,8 @@
   "showViewHeader": true,
   "enabledCssSnippets": [
     "bolder_bold",
-    "no_title_embed"
+    "no_title_embed",
+    "fonts",
+    "a"
   ]
 }
