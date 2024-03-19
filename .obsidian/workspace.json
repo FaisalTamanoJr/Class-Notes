@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ef77c59d3fb59f29",
+        "id": "0c858ed21613299c",
         "type": "tabs",
         "children": [
           {
-            "id": "edf7e32f67d3c961",
+            "id": "20f61d0ff1b18ced",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,11 +78,11 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": true,
+                  "collapse-display": false,
                   "showArrow": false,
-                  "textFadeMultiplier": 0,
+                  "textFadeMultiplier": -3,
                   "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1.26565743944637,
                   "collapse-forces": true,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
@@ -185,7 +185,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "edf7e32f67d3c961",
+  "active": "5d052f009b366736",
   "lastOpenFiles": [
     "pages/ENGENVI.md",
     "pages/contents.md",
