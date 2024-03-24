@@ -1,6 +1,6 @@
 {
-  "accentColor": "",
-  "cssTheme": "Minimal",
+  "accentColor": "#da7772",
+  "cssTheme": "AnuPpuccin",
   "theme": "moonstone",
   "interfaceFontFamily": "",
   "textFontFamily": "",
@@ -11,6 +11,8 @@
     "bolder_bold",
     "no_title_embed",
     "fonts",
-    "a"
+    "a",
+    "custom-rainbow-colors",
+    "extended-colorschemes"
   ]
 }

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0c858ed21613299c",
+        "id": "563749e573f84c5a",
         "type": "tabs",
         "children": [
           {
-            "id": "20f61d0ff1b18ced",
+            "id": "08ed873825987a11",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +32,7 @@
       {
         "id": "9732722e206e0aa9",
         "type": "tabs",
-        "dimension": 33.243060257278266,
+        "dimension": 32.800000000000004,
         "children": [
           {
             "id": "8c7234cc89361b8f",
@@ -45,16 +45,6 @@
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "5ad3b669f9bfa3c4",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
                 "sortOrder": "alphabetical"
               }
             }
@@ -95,12 +85,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "4f9f1cd6dad9bf0e",
         "type": "tabs",
-        "dimension": 30.67027758970887,
+        "dimension": 20.200000000000003,
         "children": [
           {
             "id": "e56c0733b51734b4",
@@ -115,7 +105,7 @@
       {
         "id": "9666c2656724c170",
         "type": "tabs",
-        "dimension": 36.08666215301287,
+        "dimension": 47,
         "children": [
           {
             "id": "4ac1bc66cfc78d07",
@@ -127,8 +117,19 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "5ad3b669f9bfa3c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,7 +186,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5d052f009b366736",
+  "active": "08ed873825987a11",
   "lastOpenFiles": [
     "pages/ENGENVI.md",
     "pages/contents.md",
