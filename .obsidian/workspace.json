@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "563749e573f84c5a",
+        "id": "b99f359ceb3c7ee4",
         "type": "tabs",
         "children": [
           {
-            "id": "08ed873825987a11",
+            "id": "16d4f17b62c68a6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "pages/CALENG3 - Lesson 5.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -55,7 +55,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "pages/CALENG3 - Lesson 5.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "pages/CALENG3 - Lesson 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,11 +186,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "08ed873825987a11",
+  "active": "16d4f17b62c68a6b",
   "lastOpenFiles": [
-    "pages/ENGENVI.md",
+    "pages/CALENG3.md",
     "pages/contents.md",
     "README.md",
+    "pages/ENGENVI.md",
     "pages/ENGENVI - Lesson 9.md",
     "pages/ENGENVI - Lesson 7.md",
     "pages/ENGENVI - Lesson 8.md",
@@ -213,7 +214,6 @@
     "pages/DAO 2004-01.md",
     "pages/(DAO 2000-02).md",
     "pages/DAO 1997-39.md",
-    "pages/DAO 2019-20.md",
     "assets/sampling distributions.pdf",
     "pages",
     "assets/line chart.png",
