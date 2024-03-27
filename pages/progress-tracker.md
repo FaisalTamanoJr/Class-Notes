@@ -19,3 +19,10 @@ FROM #lesson AND !"templates"
 WHERE Status = "Done"
 SORT file.name ASC
 ```
+
+```dataview
+TABLE WITHOUT ID file.link as "Abandoned", Topic
+FROM #lesson AND !"templates"
+WHERE Status = "Abandoned"
+SORT file.name ASC
+```
