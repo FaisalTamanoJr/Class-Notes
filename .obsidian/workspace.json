@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c5696068fc433c1a",
+        "id": "f23cfdf0aaed65c0",
         "type": "tabs",
         "children": [
           {
-            "id": "4c3ccb99bbe26aec",
+            "id": "31deff8ba25682fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -186,20 +186,25 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4c3ccb99bbe26aec",
+  "active": "31deff8ba25682fd",
   "lastOpenFiles": [
-    "pages/ENGDATA - Lesson 9.md",
-    "pages/ENGDATA.md",
-    "pages/contents.md",
+    "pages/progress-tracker.md",
+    "pages/SOFDESG - Lesson 10.md",
     "README.md",
+    "pages/contents.md",
+    "pages/ENGDATA.md",
+    "pages/ENGDATA - Lesson 9.md",
+    "pages/residual.md",
+    "pages/coefficient of determination.md",
+    "pages/ANOVA table.md",
+    "pages/ANOVA.md",
+    "pages/regression ANOVA.md",
     "assets/simple linear regression equations.webp",
     "pages/measures of variation.md",
-    "pages/progress-tracker.md",
     "pages/SOFDESG - Lesson 2.md",
     "pages/SOFDESG.md",
     "assets/simple linear regression.webp",
     "pages/simple linear regression.md",
-    "pages/SOFDESG - Lesson 10.md",
     "pages/ENGENVI.md",
     "pages/ENGDATA - Lesson 8.md",
     "pages/ENGENVI - Lesson 5.md",
@@ -211,10 +216,6 @@
     "pages/clean air act.md",
     "pages/ENGENVI - Lesson 10.md",
     "pages/SOFDESG - Lesson 1.md",
-    "pages/LBYCPD2.md",
-    "pages/DAO 2021-31.md",
-    "pages/DAO 2013-25.md",
-    "pages/DAO 2004-08.md",
     "assets/sampling distributions.pdf",
     "pages",
     "assets/line chart.png",

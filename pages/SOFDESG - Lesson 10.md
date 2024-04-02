@@ -3,7 +3,7 @@ Course: SOFDESG
 Topic: Data Mining and Data Representation
 Linked_Tests:
   - Quiz 3
-Status: Planned
+Status: Work in Progress
 References used:
   - Reference
 tags:
