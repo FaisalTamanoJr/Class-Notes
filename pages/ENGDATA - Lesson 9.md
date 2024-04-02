@@ -21,7 +21,7 @@ tags:
 			- This “least squares” line has the slope:
 				- $b=\frac{\sum x y - \frac{{\sum x \sum y}}{n}}{\sum x^{2} - \frac{\left( \sum x \right)^{2}}{n}} = \frac{SS(xy)}{SS(x)}$
 			- and the intercept:
-				- $a=\bar{y}-bx$
+				- $a=\bar{y}-b\bar{x}$
 	- [[measures of variation|Measures of variation]]
 		- $SST = SSR + SSE$
 			- $SST = \sum(Y_{i}-\bar{Y})^2$
