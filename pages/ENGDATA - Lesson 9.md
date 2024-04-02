@@ -70,10 +70,10 @@ tags:
 			- ![[ANOVA table]]
 		5. The rejection region:
 			- Reject $H_{0}:\beta=0$ if the value calculated for $F$ is greater than $F_{0.95}(1,n-2)$
-	- [[coefficient of determination|Coefficient of determination]]
-		- $R^2=\frac{SS(\text{Reg})}{SS(\text{Total})}$
-		- It is the total amount of variation in $y$ explained by its regression relationship with $x$.
-		- $0\leq R^2\leq 1$
+- [[coefficient of determination|Coefficient of determination]]
+	- $R^2=\frac{SS(\text{Reg})}{SS(\text{Total})}$
+	- It is the total amount of variation in $y$ explained by its regression relationship with $x$.
+	- $0\leq R^2\leq 1$
 - [[residual|Residual]]
 	- A residual is a measure of the vertical distance of a point from the regression line.
 	- It is the error between a predicted value and the observed actual value.
