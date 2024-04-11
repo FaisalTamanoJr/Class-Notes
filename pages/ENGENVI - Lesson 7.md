@@ -3,7 +3,7 @@ Course: ENGENVI
 Topic: Hazardous Waste
 Linked_Tests:
   - Quiz 3
-Status: Abandoned
+Status: Done
 References used:
   - Student Presentation Materials
 tags:
@@ -152,3 +152,96 @@ tags:
 			- Hydrofluorocarbons (HFCs) ([[DAO 2021-31]])
 			- Vinyl Chloride (draft)
 			- Benzene (draft)
+	- Treatment
+		- Treatment processes can neutralize the harmful effects of hazardous substances, protecting the ecosystems and the human population. Proper treatment minimizes environmental contamination.
+		- Different technologies
+			- Biological treatment processes
+				- [[aerobic treatment|Aerobic treatment]]
+					- Uses microbes to break down contaminants in waste.
+					- It involves the measurement of [[Biological Oxygen Demand]] (BOD).
+					- [[Membrane Bioreactor]] (MBR)
+						- It separates the solids from liquids.
+						- [[bioreactor|Bioreactor]] is a chamber that supports a biologically active environment.
+						- [[membrane|Membrane]] solid-liquid separation device that keeps the biomass within the bioreactor before discharging the treated waste back.
+				- [[anaerobic treatment|Anaerobic treatment]]
+					- A oxygen-free process that includes the symbiotic association between different groups of bacteria.
+					- Steps to convert organic matter
+						1. Initial acid-forming phase
+							- Transformation of compounds into sources of energy and volatile organic acids.
+						2. Methane production phase
+							- [[acidogenesis|Acidogenesis]]
+								- Bacterial conversion of compounds into lower molecular mass compounds.
+							- [[methanogenesis|Methanogenesis]]
+								- Bacterial conversion of compounds into simpler end products.
+				- [[constructed wetlands|Constructed wetlands]]
+					- It refers to engineered systems like wetland vegetation, soils, and microbial assemblages to treat hazardous waste.
+					- [[free water surface constructed wetlands|Free water surface constructed wetlands]]
+						- A series of flooded planted channels or basins.
+					- [[horizontal subsurface flow|Horizontal subsurface flow]]
+						- A large gravel and sand-filled channel that is planted with aquatic vegetation.
+				- [[bioremediation|Bioremediation]]
+					- It uses living organisms to purge contaminants and toxins from soil and water.
+					- Types
+						- [[bacteria bioremediation|Bacteria bioremediation]]
+						- [[fungal bioremediation|Fungal bioremediation]]
+				- [[biofiltration|Biofiltration]]
+					- A technique that uses biofilters to treat contaminated air and water.
+			- Chemical treatment processes
+				- [[ion exchange|Ion exchange]]
+					- A water treatment method that involves exchanging with another less objectionable ionic substance.
+					- It is efficient for removing toxic metals from water.
+					- Drawbacks
+						- High operation costs over long term.
+						- Regenerating the ion exchange beds dump salt water into the environment.
+				- [[chemical precipitation|Chemical precipitation]]
+					- It is the process of contaminants dissolving or suspending in a solution as a solid precipitate to be separated.
+					- Drawback: It can be expensive.
+				- [[oxidation and reduction|Oxidation and reduction]] (REDOX)
+					- Detoxifying contaminants using REDOX reactions.
+					- Drawbacks
+						- Incomplete oxidation may occur.
+						- Process is not cost effective for high contaminant concentrations.
+				- [[neutralization|Neutralization]]
+					- Neutralizes the pH value of the waste by either adding a basic or acidic chemical.
+				- [[chlorination|Chlorination]]
+					- It uses chlorine dioxide for treatment.
+				- [[ozonation|Ozonation]]
+					- Performed in direct and indirect oxidation using hydroxyl free radicals.
+			- Physical treatment processes
+				- [[screening|Screening]]
+					- The process of separating larger particles from a mixture of waste materials.
+				- [[filtration|Filtration]]
+					- A  process that involves passing waste mixture through a porous material to separate solids from liquids or gas.
+					- Types
+						- Gravity filtration
+						- Pressure filtration
+						- Vacuum filtration
+				- [[sedimentation|Sedimentation]]
+					- The process for removing suspended solid particles from a waste stream.
+					- Coagulating agents are often used to encourage the settling of fine particles.
+					- If certain particles are too small, the [[flotation]] process is used.
+						- Gas is infused into a mixture to cause lighter materials to rise to the surface.
+				- [[centrifugation|Centrifugation]]
+					- It separates solid and liquid components by rapidly rotating a mixture at high speeds in a centrifugal machine.
+				- [[stripping|Stripping]]
+					- Widely used in removing [[Volatile Organic Compounds]] (VOCs) of a liquid mixture by passing streams of gas.
+				- [[reverse osmosis|Reverse osmosis]]
+					- A process that pushes a solution through a semi-permeable membrane under pressure.
+				- [[evaporation|Evaporation]]
+					- It involves boiling off the liquid part of the waste stream in order to concentrate non-volatile solids in a solution.
+				- [[incineration|Incineration]]
+					- Uses the combustion of waste materials at high temperatures in a controlled environment; it converts the waste into ash, gas, and heat.
+				- [[distillation|Distillation]]
+					- A process where different boiling points are used to separate liquids.
+			- Land disposal treatment processes
+				- Involves dumping garbage into or onto the ground to isolate dangerous materials.
+				- Drawbacks
+					- It poses significant environmental risks due to the potential soil and groundwater contamination.
+					- Imposes long-term liabilities.
+					- Can cause emission of [[greenhouse gases]].
+				- [[secure landfills|Secure landfills]]
+					- Secure landfills are excavated locations where non-liquid hazardous waste is dumped and covered for disposal and prevention of waste leakage into the surrounding area.
+				- [[bedrock disposal|Bedrock disposal]]
+					- It is primarily used for solid hazardous waste.
+				- [[deep well disposal|Deep well disposal]]
+					- It uses injection wells to place waste into geological formations which cannot possibly contaminate to water aquifers.
