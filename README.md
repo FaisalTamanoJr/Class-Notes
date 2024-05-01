@@ -1,7 +1,7 @@
 # Class-notes
-
 Visit [[contents]] to view the contents of the vault.
 
+The flashcards I use are found in this [repository](https://github.com/FaisalTamanoJr/Anki-Class-Flashcards).
 ## How to access the notes
 
 1. Clone the repository.
