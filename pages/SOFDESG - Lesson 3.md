@@ -3,6 +3,7 @@ Course: SOFDESG
 Topic: SDLC Models, Prototyping, and Agile Modeling
 Linked_Tests:
   - Quiz 1
+  - Final Exam
 Status: Done
 References used:
   - SOFDESG Lecture 3 (Lecture Slides)

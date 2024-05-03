@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "be422fda359ea7e7",
+        "id": "dd61bf33252e040c",
         "type": "tabs",
         "children": [
           {
-            "id": "b331b99b4d7aaa66",
+            "id": "0f0708ba55c05632",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/GESPORT - Lesson 1.md",
+                "file": "README.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -55,7 +55,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/GESPORT - Lesson 1.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5069465637207,
-    "collapsed": true
+    "width": 376.5069465637207
   },
   "right": {
     "id": "eccee2bb78656ef6",
@@ -150,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/GESPORT - Lesson 1.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5,
-    "collapsed": true
+    "width": 391.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,35 +186,38 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b331b99b4d7aaa66",
+  "active": "0f0708ba55c05632",
   "lastOpenFiles": [
-    "pages/net.md",
-    "pages/GESPORT - Lesson 1.md",
-    "pages/GESPORT.md",
     "pages/contents.md",
     "README.md",
-    "pages/spiking.md",
-    "pages/blocking.md",
-    "pages/Untitled.md",
+    "pages/NUMMETS - Lesson 1.md",
+    "pages/NUMMETS.md",
+    "pages/GELITPH.md",
     "pages/GESPORT - Lesson 0.md",
-    "pages/SOFDESG - Lesson 1.md",
+    "pages/GESPORT.md",
+    "pages/CALENG3 - Lesson 2.md",
+    "pages/CALENG3.md",
+    "pages/CALENG3 - Lesson 5.md",
+    "pages/CALENG3 - Lesson 4.md",
+    "pages/CALENG3 - Lesson 3.md",
+    "pages/CALENG3 - Lesson 1.md",
+    "pages/ENGDATA.md",
+    "pages/ENGENVI.md",
     "pages/SOFDESG.md",
+    "pages/ENGDATA - Lesson 1.md",
+    "pages/ENGDATA - Lesson 9.md",
+    "pages/ENGDATA - Lesson 8.md",
+    "pages/ENGDATA - Lesson 7.md",
+    "pages/ENGDATA - Lesson 6.md",
+    "pages/ENGDATA - Lesson 5.md",
+    "pages/ENGDATA - Lesson 4.md",
+    "pages/ENGDATA - Lesson 3.md",
+    "pages/ENGDATA - Lesson 2.md",
+    "pages/ENGENVI - Lesson 6.md",
+    "assets/engineer problem solving process.png",
+    "assets/GELITPH guidelines.pdf",
+    "assets/GELITPH schedule.pdf",
     "assets/spikeball setup.png",
-    "pages/slice serve.md",
-    "pages/topspin serve.md",
-    "pages/float serve.md",
-    "pages/jump serve.md",
-    "pages/foul.md",
-    "pages/box out.md",
-    "pages/cover.md",
-    "pages/slice shot.md",
-    "pages/quick attack.md",
-    "pages/free ball.md",
-    "pages/setter dump.md",
-    "pages/dig.md",
-    "pages/passing.md",
-    "pages/roll shot.md",
-    "pages/cut shot.md",
     "assets/CALENG3 - Exact DE Practice.pdf",
     "assets/CALENG3 - Homogeneous DE Practice.pdf",
     "assets/CALENG3 - Variable Separable Practice.pdf",
@@ -230,12 +231,9 @@
     "assets/line chart.png",
     "assets/dot chart.png",
     "assets/column chart.png",
-    "assets/bar chart.png",
     "templates",
     "assets",
     "Templates",
-    "journals",
-    "Attachments",
     "1. Fleeting Notes/Todo List.canvas",
     "1. Fleeting Notes/Filipino Indolence Canvas.canvas",
     "1. Fleeting Notes/Filipino Indolence Essay Structure.canvas",

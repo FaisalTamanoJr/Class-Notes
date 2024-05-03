@@ -1,5 +1,5 @@
 ---
-Term: 5th Term
+Term: 6th Term
 tags:
   - course
 ---
@@ -8,5 +8,5 @@ tags:
 TABLE WITHOUT ID file.link as "File", Topic, Linked_Tests AS "Linked Tests", Status
 FROM #lesson 
 WHERE Course = this.file.name
-SORT number(split(file.name,"SOFDESG - Lesson")[1]) ASC
+SORT number(split(file.name,"NUMMETS - Lesson")[1]) ASC
 ```

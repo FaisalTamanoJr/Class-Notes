@@ -3,6 +3,7 @@ Course: CALENG3
 Topic: Solution of Some 1st Order Differential Equation
 Linked_Tests:
 - Quiz 1
+- Final Exam
 Status: Done
 References used:
   - 1.1 Variable Separable (Lecture Slides)

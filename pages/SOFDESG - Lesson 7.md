@@ -3,6 +3,7 @@ Course: SOFDESG
 Topic: Software Quality
 Linked_Tests:
   - Quiz 2
+  - Final Exam
 Status: Done
 References used:
   - SOFWENG Lecture 7 (Lecture Slides)

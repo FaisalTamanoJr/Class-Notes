@@ -3,6 +3,7 @@ Course: ENGDATA
 Topic: Sampling Distribution and Estimation
 Linked_Tests:
   - Quiz 2
+  - Final Exam
 Status: Done
 References used:
   - Sampling Distribution and Estimation (Lecture Slides)

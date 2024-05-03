@@ -3,6 +3,7 @@ Course: ENGDATA
 Topic: Random Variable
 Linked_Tests:
   - Quiz 1
+  - Final Exam
 Status: Done
 References used:
   - 3 Discrete Probability Distribution (Lecture Slides)

@@ -3,6 +3,7 @@ Course: CALENG3
 Topic: Applications of 1st ODEs
 Linked_Tests:
   - Quiz 2
+  - Final Exam
 Status: Done
 References used:
   - Decomposition and Growth (Lecture Slides)

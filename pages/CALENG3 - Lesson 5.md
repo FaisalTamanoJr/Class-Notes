@@ -3,6 +3,7 @@ Course: CALENG3
 Topic: Laplace Transform
 Linked_Tests:
   - Quiz 4
+  - Final Exam
 Status: Done
 References used:
   - IV.1 Laplace Transform (Lecture Slides)

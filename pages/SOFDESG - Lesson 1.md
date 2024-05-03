@@ -3,6 +3,7 @@ Course: SOFDESG
 Topic: Introduction to Software Engineering
 Linked_Tests:
 - Quiz 1
+- Final Exam
 Status: Done
 References used:
   - SOFWENG LECTURE 1 (Lecture Slides)
