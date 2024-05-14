@@ -5,7 +5,7 @@ Linked_Tests:
   - Quiz 1
 Status: Done
 References used:
-  - Part 2 - DC Circuits (Lecture Slides)
+  - DC Circuits 2 (Lecture Slides)
 tags:
   - lesson
 ---
