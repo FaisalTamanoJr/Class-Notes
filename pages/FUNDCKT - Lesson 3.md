@@ -1,6 +1,6 @@
 ---
 Course: FUNDCKT
-Topic: Series Resistors and Voltage Division, Parallel Resistors and CUrrent Division, and Wye-Delta Transformations
+Topic: Series Resistors and Voltage Division, Parallel Resistors and Current Division, and Wye-Delta Transformations
 Linked_Tests:
   - Quiz 1
 Status: Done
