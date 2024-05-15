@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6eccd6f6d15b6679",
+        "id": "3ee8430c56c4a369",
         "type": "tabs",
         "children": [
           {
-            "id": "3c0245f473c3e3d8",
+            "id": "0887292561687839",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/FUNDCKT - Lesson 3.md",
+                "file": "README.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -55,7 +55,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/FUNDCKT - Lesson 3.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/FUNDCKT - Lesson 3.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5
+    "width": 391.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,14 +187,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3c0245f473c3e3d8",
+  "active": "0887292561687839",
   "lastOpenFiles": [
-    "pages/FUNDCKT.md",
+    "pages/etiquette.md",
+    "pages/GEETHIC - Lesson 1.md",
+    "pages/GEETHIC.md",
     "pages/contents.md",
+    "README.md",
+    "pages/LBYME1C.md",
+    "pages/LBYME1C - Lesson 1.md",
+    "pages/FUNDCKT.md",
     "pages/progress-tracker.md",
     "pages/FUNDCKT - Lesson 3.md",
     "pages/FUNDCKT - Lesson 2.md",
-    "README.md",
     "assets/wye to delta.png",
     "assets/delta to wye.png",
     "assets/wye-delta circuit.png",
@@ -213,11 +219,6 @@
     "pages/series resistors.md",
     "pages/FUNDCKT - Lesson 1.md",
     "pages/factual judgement.md",
-    "pages/GEETHIC - Lesson 1.md",
-    "pages/value judgement.md",
-    "pages/moral statements.md",
-    "pages/descriptive ethics.md",
-    "pages/virtue ethics.md",
     "assets/floating point binary.png",
     "assets/floating point representation.png",
     "assets/common resistivities.png",

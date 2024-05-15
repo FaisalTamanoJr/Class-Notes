@@ -41,8 +41,17 @@ tags:
 		- A normative statement is a moral statement if it uses a moral standard as its basis for evaluation.
 		- Empirical data or facts can support a moral statement but it is not enough; a certain moral standard(s) or principle(s) is necessary to form a moral conclusion.
 	- ## Moral statements and [[moral standards]]
+		- Ethicists have identified characteristics that make a standard a moral one. Although these characteristics are not exclusive to a moral standard, if all characteristics are present in a particular standard, it is considered a moral standard. The characteristics are
+			- deals with matters that can seriously harm or benefit human beings (they have to be able to govern our conduct)
+			- have universal validity
+			- people should think that they should prevail over other values
+			- they are not established by decisions of authoritarian bodies nor appealing to the consensus/tradition.
 - # [[morality|Morality]] and other normative subjects
-	- ## Morality and etiquette
+	- ## Morality and [[etiquette]]
+		- Etiquette are customs that determine the accepted behaviors in a particular group; following them shows respect and courtesy to others.
+		- Etiquette differs from morality in a way that it is focused on proper behavior, while the latter is focused on correct conduct; therefore, etiquette is more culture-based and arbitrary.
+			- This entails that violating a rule in etiquette is not immoral and following the etiquette is also not morally good
+		- Etiquette can be rooted in something immoral or moral. Despite not being synonymous, they are related because they affect human action.
 	- ## Morality and law
 	- ## Morality and religion
 - # Ethical relativism
