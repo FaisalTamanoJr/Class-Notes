@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3ee8430c56c4a369",
+        "id": "e41a0f36440a435b",
         "type": "tabs",
         "children": [
           {
-            "id": "0887292561687839",
+            "id": "ea449386d1bc70c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5,
-    "collapsed": true
+    "width": 391.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,13 +186,22 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0887292561687839",
+  "active": "ea449386d1bc70c8",
   "lastOpenFiles": [
-    "pages/etiquette.md",
     "pages/GEETHIC - Lesson 1.md",
+    "pages/toleration argument.md",
+    "pages/dependency argument.md",
+    "pages/diversity argument.md",
+    "pages/individual ethical relativism.md",
+    "pages/ethical conventionalism.md",
+    "pages/cultural ethical relativism.md",
+    "pages/ethical objectivism.md",
+    "pages/ethical skepticism.md",
+    "pages/ethical relativism.md",
     "pages/GEETHIC.md",
     "pages/contents.md",
     "README.md",
+    "pages/etiquette.md",
     "pages/LBYME1C.md",
     "pages/LBYME1C - Lesson 1.md",
     "pages/FUNDCKT.md",
@@ -210,15 +218,6 @@
     "pages/principle of current division.md",
     "pages/principle of voltage division.md",
     "pages/voltage divider.md",
-    "pages/ENGDATA.md",
-    "pages/ENGDATA - Lesson 4.md",
-    "pages/wye-delta transformations.md",
-    "pages/parallel resistors.md",
-    "pages/current division.md",
-    "pages/voltage division.md",
-    "pages/series resistors.md",
-    "pages/FUNDCKT - Lesson 1.md",
-    "pages/factual judgement.md",
     "assets/floating point binary.png",
     "assets/floating point representation.png",
     "assets/common resistivities.png",

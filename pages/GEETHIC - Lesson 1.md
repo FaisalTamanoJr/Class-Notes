@@ -53,7 +53,35 @@ tags:
 			- This entails that violating a rule in etiquette is not immoral and following the etiquette is also not morally good
 		- Etiquette can be rooted in something immoral or moral. Despite not being synonymous, they are related because they affect human action.
 	- ## Morality and law
+		- Similar to etiquette, law frequently coincides with morality but should not be conflated together. There are cases where something is moral but is illegal and vice versa; hence, they should be distinguished from each other.
+		- Law relates to morality in a way that it uses moral principles as a foundation for its adoption
+		- Law is too blunt to provide moral guidance and too narrow to cover the various possible individual and group conduct. In addition, legislators may unfairly influence the law to protect their vested interest.
 	- ## Morality and religion
-- # Ethical relativism
+		- Religion, like law, is related with morality. However, unlike law, many people use religion as their basis for morality—because God is the source of goodness, so people adhere to God’s will.
+		- The issue with religion is whether something is moral because God says so or does God says so because it is moral. It becomes problematic when something is good only because God says so without any other moral justification/reasoning.
+			- Religion should not replace our faculty of reasoning for governing our morals. If it did, we would only need to know the opinion of the church (or mosque, etc. depending on your religion) and conform to it, instead of leading a rational life. For this reason, morality should transcend religion.
+		- Religion also provide moral directives that are too general and imprecise, where these directives can be tricky to apply in specific situations.
+		- Religion is also not universal
+- # [[ethical relativism|Ethical relativism]]
+	- Ethical relativism refers to the view that all moral principles are valid relative to the particular individual or society.
+		- It differs from [[ethical skepticism]] which states that there are no valid moral principles (or at least we cannot know if there are any)
+		- It also differs from [[ethical objectivism]] which states that there are universally valid principles
+	- ## Forms
+		- [[cultural ethical relativism|Cultural ethical relativism]] or [[ethical conventionalism]]
+			- It asserts that the rightness or wrongness of an action depends on the particular society’s norms
+			- It differs from individual ethical relativism in a way that it considers the social aspect of morality. Despite rejecting universal moral principles, it argues that the validity of a moral fact depends on the cultural/social norms.
+		- [[individual ethical relativism|Individual ethical relativism]]
+			- It asserts that one’s moral standards depends on their commitments, preferences, and approval
+			- Ethicists criticize this form of standard for rendering the concept of morality useless because no interpersonal criticism or judgement is possible. Therefore, there is no interpersonal basis to judge whether an action is morally good or bad.
 	- ## Attraction
+		- [[diversity argument|Diversity argument]]
+			- The diversity argument argues that moral beliefs and rules varies between different culture and time period
+		- [[dependency argument|Dependency argument]]
+			- It is derived from the diversity argument which states that morality is relative to time and culture.
+			- It argues that an individual’s values are a product of their social/cultural environment.
+				- My interpretation: It kinda justifies individual ethical relativism because nothing can be judged from an independent and non-cultural view point.
+				- The strongest version of its assertion is that all truths is relative to the conceptual framework and the culture in which it is situated in (even science)
+				- The moderate version asserts that the meaning of human behavior is always relative to the culture it occurs in. Consequently, the moral aspect of our actions is dependent on the cultural context for its meaning.
+		- [[toleration argument|Toleration argument]]
+			- This argument states the acknowledgement of different moral norms between various societies leads to respect, social harmony, and co-existence among different cultural and social groups
 	- ## Issues and Challenges
