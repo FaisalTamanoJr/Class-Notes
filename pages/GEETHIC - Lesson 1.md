@@ -1,8 +1,8 @@
 ---
 Course: GEETHIC
 Topic: Ethics - Basic Concepts and Issues
-Linked_Tests:
-Status: Work in Progress
+Linked_Tests: 
+Status: Done
 References used:
   - Ethics - Theories and Applications (Chapter 1)
 tags:
