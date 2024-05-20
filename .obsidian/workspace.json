@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "564767fd50b7840b",
+        "id": "c4b811dd1faaec4e",
         "type": "tabs",
         "children": [
           {
-            "id": "1eb87930b6534d7c",
+            "id": "53d986636441fa4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5,
-    "collapsed": true
+    "width": 391.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,7 +186,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1eb87930b6534d7c",
+  "active": "53d986636441fa4c",
   "lastOpenFiles": [
     "pages/GEETHIC.md",
     "pages/contents.md",
