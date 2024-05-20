@@ -1,7 +1,8 @@
 ---
 Course: GEETHIC
-Topic: Ethics - Basic Concepts and Issues
-Linked_Tests: 
+Topic: Ethics and the Moral Person
+Linked_Tests:
+- Quiz 1
 Status: Done
 References used:
   - Ethics - Theories and Applications (Chapter 1)
