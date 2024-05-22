@@ -80,14 +80,28 @@ tags:
 			- These deal with the attribution of accountability to a person for a certain action they committed. Under these are the following:
 				- [[incriminating conditions|Incriminating conditions]]
 					- Involves making an agent morally accountable for a certain action under consideration. If one of the conditions are not satisfied, then they are excused from moral accountability.
+					- If one of the conditions is invalid, they are excused from being held morally accountable for an action
+					- Agency condition, is satisfied when a person is the cause of the action
 					- [[knowledge condition|Knowledge condition]] is an incriminating condition that refers to the capacity of a person to know the moral quality of a certain action
 					- [[intentionality condition|Intentionality condition]] is an incriminating condition that refers to whether the action under consideration was intentional or unintentional
 				- [[excusing conditions|Excusing conditions]]
 					- Involves sparing an agent from being held morally accountable for a certain action.
-					- [[ignorance|Ignorance]] refers to the occurrence when the knowledge condition fails to be satisfied
-					- [[involuntariness|Involuntariness]] refers to the occurrence  when the intentionality condition fails to be satisfied
+					- If one of the conditions is valid, they are excused from being held morally accountable for an action
+					- [[non-agency condition|Non-agency condition]], is satisfied when a person is not the cause of the action
+					- [[ignorance condition|Ignorance condition]] refers to the occurrence when the knowledge condition fails to be satisfied
+						- [[blameless ignorance|Blameless ignorance]] - refers to the ignorance where the ignorant person could have not known better. In this case, the ignorance could be excused.
+						- [[blameful ignorance|Blameful ignorance]] (or [[blameworthy ignorance]]) - pertains to the type of ignorance where the ignorant person could have known better (but did not) because it is their duty to do. In this case, their ignorance cannot be excused.
+						- Considerations to determine if a person should have known better or not:
+							- Does the person have the capacity to know what they ought to know in a given situation?
+							- Given their role, is it their duty to know better?
+					- [[involuntariness condition|Involuntariness condition]] refers to the occurrence  when the intentionality condition fails to be satisfied
 		- ### The degree conditions
 			- These conditions deal with the degree of an agent’s accountability. Under these are the following:
+				- 4 conditions that determine the degree:
+					- [[degree of knowledge|Degree of knowledge]] - the greater the knowledge, the greater the moral accountability; the lesser the knowledge, the lesser the moral accountability.
+					- [[degree of pressure|Degree of pressure]] - refers to the difficulty in life that forces one to perform a wrongdoing. The greater the pressure, the lesser the moral accountability; the lesser the pressure, the greater the moral accountability.
+					- [[degree of intensity|Degree of intensity]] - the greater the intensity (or seriousness) of the injury, the greater the moral accountability; the lesser the intensity, the lesser the moral accountability.
+					- [[degree of involvement|Degree of involvement]] -  the greater the involvement, the greater the moral accountability; the lesser the involvement, the lesser the moral accountability.
 				- [[mitigating conditions|Mitigating conditions]]
 					- Conditions are classified as mitigating when they lessen the degree of one’s moral accountability
 				- [[aggravating condition|Aggravating conditions]]
