@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "596b3802a69219a5",
+        "id": "946d55c2e3864b7a",
         "type": "tabs",
         "children": [
           {
-            "id": "c68b06991cd22c6f",
+            "id": "8d746cfc1343e944",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 391.5,
-    "collapsed": true
+    "width": 391.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,7 +186,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c68b06991cd22c6f",
+  "active": "8d746cfc1343e944",
   "lastOpenFiles": [
     "pages/FUNDCKT - Lesson 4.md",
     "pages/FUNDCKT.md",
