@@ -3,7 +3,7 @@ Course: GEETHIC
 Topic: Moral Personhood and Accountability
 Linked_Tests:
   - Quiz 1
-Status: Work in Progress
+Status: Done
 References used:
   - Ethics - Theories and Applications (Chapter 2)
 tags:
