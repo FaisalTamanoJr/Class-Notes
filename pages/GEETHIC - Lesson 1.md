@@ -1,11 +1,11 @@
 ---
 Course: GEETHIC
-Topic: Ethics and the Moral Person
+Topic: Ethics - Basic Concepts and Issues
 Linked_Tests:
 - Quiz 1
 Status: Done
 References used:
-  - Ethics - Theories and Applications (Chapter 1)
+  - Ethics - Theories and Applications by Francis Evangelista and Napoleon Mabaquiao Jr. (Chapter 1)
 tags:
   - lesson
 ---

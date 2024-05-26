@@ -5,7 +5,7 @@ Linked_Tests:
   - Quiz 1
 Status: Done
 References used:
-  - Ethics - Theories and Applications (Chapter 2)
+  - Ethics - Theories and Applications by Francis Evangelista and Napoleon Mabaquiao Jr. (Chapter 2)
 tags:
   - lesson
 ---
