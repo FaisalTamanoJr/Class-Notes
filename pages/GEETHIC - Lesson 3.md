@@ -55,14 +55,49 @@ tags:
 				2. [[agent-neutral consequentialism|Agent-neutral]] [[hedonism]] - an action is morally good if it results in the maximum overall pleasure of everyone involved in an action
 				3. [[agent-relative consequentialism|Agent-relative]] [[non-hedonism]] - an action is morally good if it gives the maximum benefits to its agent
 				4. [[agent-neutral consequentialism|Agent-neutral]]  [[non-hedonism]] - an action is morally good if it results in the maximum overall benefits for everyone involved in the action
-			- Good ethical theories for agent-relative hedonism:
+			- Good ethical theories for [[agent-relative consequentialism|agent-relative]] [[hedonism]]:
 				- Pleasures are classified as either [[active pleasure|active]]—characterized by the gratification of a specific desire—or [[passive pleasure|passive]]—characterized by the absence of pain
 				- [[Cyrenaicism]] ([[active hedonism]]) - an ethical theory by [[Aristippus]] focusing on maximizing **short but intense** pleasure of an agent (sensory pleasures).
 					- Life’s uncertainty and shortness gives rise to the sense of urgency to exhaust all pleasures one can while they are still alive. Nevertheless, Aristippus also says that we should be in control of our pleasures and not the other way around (because excess pleasure leads to pain and the limitation of desires is a condition of their satisfaction).
 				- [[Epicureanism]] ([[passive hedonism]]) - an ethical theory by [[Epicurus]] focusing on maximizing **long but less intense** pleasure of an agent. It promotes freedom from pain in the mind and body.
+					- Epicurus states that it is much more difficult to sustain the gratification of desires than the absence of pain.
+					- He also states that it is useless to worry about divine future punishment because we will never know how God(s) thinks anyway.
+					- He says that we should not worry about death because we still exists and we no longer exist when we die (meaning that it does not concern both the living and the dead)
+			- Good ethical theories for [[agent-relative consequentialism|agent-relative]] [[non-hedonism]]:
+				- [[Friedrich Nietzsche]] ethical theory - an exclusive form of hedonism that believes that power—the control over things—is the only intrinsic good, while things like happiness or pleasure are good only in so far as they enhance our *will to power* or the will to overcome life’s challenges. On the other hand, intrinsic evil pertains to all things that gives rise to weakness.
+					- it is not entirely consequentialist but also contains some virtue ethics, as it also inspires us to develop our character to its noblest level (i.e., [[übermensch]], [[overman]], or [[superman]])
 	- ## [[utilitarianism|Utilitarianism]]
+		- The most influential [[agent-neutral consequentialism|agent-neutral]] form of consequentialism
 		- ### Basic elements
+			- #### Consequentialism
+				- Utilitarianism determines the morality of an action based on its consequences
+			- #### [[welfarism|Welfarism]]
+				- Utilitarianism only considers an action morally relevant if they affect the welfare (or well-being) of people (in terms of benefits)
+				- What welfare specifically refers to varies among proponents of utilitarianism, it can either be any of the following:
+					- experience of pleasure and/or beauty
+					- attainment of knowledge
+					- fulfillment of desires and satisfaction
+			- #### [[aggragationism|Aggragationism]]
+				- The only welfare that utilitarianism considers morally relevant are the overall welfare of all people affected by a particular action
+				- The action that yields the greatest net sum total of welfare is the morally good action
+				- [[greatest happiness principle|Greatest happiness principle]] - “The greatest happiness of the greatest number of people”. It is commonly misunderstood as the happiness of the greatest number of people: it focuses more on the action that maximizes the amount of aggregate happiness rather than number of happy people.
+				- It leads to impartiality because everyone’s pleasure is given equal consideration, including the agent
 		- ### [[hedonism|Hedonistic]] forms of utilitarianism
+			- This form of utilitarianism believes that pleasure is the only intrinsic good.
+			- Its best form is represented by the ethical views of [[Jeremy Bentham]] and [[John Stuart Mill]]
+				- Believes in the concept of utility, or the [[greatest happiness principle]], which sees the promotion of happiness (intended pleasure and absence of pain) as good and its opposition (pain and lack of pleasure) as bad.
+				- **Bentham’s** views emphasizes the **quantitative** differences among the types of pleasures; thus, it is called as [[quantitative hedonistic utilitarianism]] or [[quantitative utilitarianism]].
+					- It **does not** distinguish mental and physical pleasures
+					- Bentham came up with a set of criteria called the [[calculus of felicity]] or [[hedonistic calculus]] to compute which pleasure one ought to choose. These includes the following:
+						1. Intensity - the greater intensity of pleasure, the greater the value
+						2. Duration - the longer the experience of pleasure, the greater the value
+						3. Certainty - the greater the probability of the pleasure, the greater the value
+						4. Propinquity (or remoteness) - the shorter the temporal distance, the greater the value
+						5. Fecundity (the chance a sensation will be followed by sensations of the same kind) - the higher chances of pleasure being followed by another pleasure, the higher the value
+						6. Purity (the chance a sensation will not be followed by sensations of the opposite kind) - the higher the chances of pain not following after pleasure, the greater the value
+						7. Extent - the more people experiencing pleasure, the greater the value
+				- **Mill’s** views emphasizes the **qualitative** differences among the types of pleasure; thus, it is called as [[qualitative hedonistic utilitarianism]] or [[qualitative utilitarianism]].
+					- It distinguishes mental and physical pleasures
 		- ### [[non-hedonism|Non-hedonistic]] forms of utilitarianism
 		- ### [[act utilitarianism|Act utilitarianism]]
 		- ### [[rule utilitarianism|Rule utilitarianism]]
