@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "688c435a7ab32c21",
+        "id": "4f94ddc956438d99",
         "type": "tabs",
         "children": [
           {
-            "id": "88e4e175c9a6e01c",
+            "id": "f76866580dd0e2cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -186,9 +186,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "88e4e175c9a6e01c",
+  "active": "f76866580dd0e2cb",
   "lastOpenFiles": [
+    "pages/GEETHIC.md",
+    "pages/contents.md",
     "pages/GEETHIC - Lesson 3.md",
+    "pages/GEETHIC - Lesson 2.md",
+    "pages/GEETHIC - Lesson 1.md",
+    "pages/FUNDCKT - Lesson 1.md",
+    "pages/FUNDCKT.md",
+    "README.md",
     "pages/quality-adjusted life years analysis.md",
     "pages/subjective expected analysis.md",
     "pages/cost-effectiveness analysis.md",
@@ -198,12 +205,7 @@
     "pages/act hedonistic utilitarianism.md",
     "pages/rule hedonistic utilitarianism.md",
     "pages/act non-hedonistic utilitarianism.md",
-    "pages/GEETHIC.md",
-    "pages/contents.md",
-    "README.md",
     "pages/agent-relative consequentialism.md",
-    "pages/GEETHIC - Lesson 2.md",
-    "pages/GEETHIC - Lesson 1.md",
     "pages/moral considerations.md",
     "pages/optimfic rule.md",
     "pages/preference balancing.md",
@@ -212,8 +214,6 @@
     "pages/pluralistic utilitarianism.md",
     "pages/satisfaction utilitarianism.md",
     "pages/exclusive non-hedonistic utilitarianism.md",
-    "pages/preference utilitarianism.md",
-    "pages/sentience.md",
     "assets/wye to delta.png",
     "assets/delta to wye.png",
     "assets/wye-delta circuit.png",
