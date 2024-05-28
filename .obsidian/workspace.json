@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b953f7a7ff764d60",
+        "id": "578b065bd789e7b6",
         "type": "tabs",
         "children": [
           {
-            "id": "e9da051e520e60fe",
+            "id": "abdb96c12753e5ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -186,9 +186,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e9da051e520e60fe",
+  "active": "abdb96c12753e5ad",
   "lastOpenFiles": [
+    "pages/contents.md",
+    "pages/GEETHIC.md",
     "pages/GEETHIC - Lesson 3.md",
+    "pages/preference balancing.md",
+    "pages/inclusive non-hedonistic utilitarianism.md",
+    "pages/ideal utilitarianism.md",
+    "pages/pluralistic utilitarianism.md",
+    "pages/satisfaction utilitarianism.md",
+    "pages/exclusive non-hedonistic utilitarianism.md",
+    "pages/preference utilitarianism.md",
+    "pages/sentience.md",
+    "README.md",
     "pages/hedonistic calculus.md",
     "pages/calculus of felicity.md",
     "pages/qualitative utilitarianism.md",
@@ -203,17 +214,6 @@
     "pages/superman.md",
     "pages/overman.md",
     "pages/übermensch.md",
-    "pages/Friedrich Nietzsche.md",
-    "pages/GEETHIC.md",
-    "pages/contents.md",
-    "README.md",
-    "pages/FUNDCKT.md",
-    "pages/FUNDCKT - Lesson 2.md",
-    "pages/FUNDCKT - Lesson 1.md",
-    "pages/FUNDCKT - Lesson 4.md",
-    "pages/SOFDESG - Lesson 2.md",
-    "pages/SOFDESG.md",
-    "pages/SOFDESG - Lesson 1.md",
     "assets/wye to delta.png",
     "assets/delta to wye.png",
     "assets/wye-delta circuit.png",

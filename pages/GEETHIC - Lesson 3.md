@@ -85,7 +85,7 @@ tags:
 		- ### [[hedonism|Hedonistic]] forms of utilitarianism
 			- This form of utilitarianism believes that pleasure is the only intrinsic good.
 			- Its best form is represented by the ethical views of [[Jeremy Bentham]] and [[John Stuart Mill]]
-				- Believes in the concept of utility, or the [[greatest happiness principle]], which sees the promotion of happiness (intended pleasure and absence of pain) as good and its opposition (pain and lack of pleasure) as bad.
+				- Believes in the concept of utility, or the [[greatest happiness principle]], which sees the promotion of happiness (intended pleasure and absence of pain) as good and its opposition (pain and lack of pleasure) as bad. The morally good action is either the one that results to the greatest amount of pleasure or the one that results to the least amount of pain
 				- **Bentham’s** views emphasizes the **quantitative** differences among the types of pleasures; thus, it is called as [[quantitative hedonistic utilitarianism]] or [[quantitative utilitarianism]].
 					- It **does not** distinguish mental and physical pleasures
 					- Bentham came up with a set of criteria called the [[calculus of felicity]] or [[hedonistic calculus]] to compute which pleasure one ought to choose. These includes the following:
@@ -96,9 +96,27 @@ tags:
 						5. Fecundity (the chance a sensation will be followed by sensations of the same kind) - the higher chances of pleasure being followed by another pleasure, the higher the value
 						6. Purity (the chance a sensation will not be followed by sensations of the opposite kind) - the higher the chances of pain not following after pleasure, the greater the value
 						7. Extent - the more people experiencing pleasure, the greater the value
+					- Hedonistic calculus can also apply to pain; however, they are expressed as negative values. In addition, if an action results to both pleasurable and painful consequences, we can also find its net total through hedonistic calculus by subtracting the total amount of pain from the total amount of pleasure
 				- **Mill’s** views emphasizes the **qualitative** differences among the types of pleasure; thus, it is called as [[qualitative hedonistic utilitarianism]] or [[qualitative utilitarianism]].
 					- It distinguishes mental and physical pleasures
+					- Mill’s response to objections to utilitarianism
+						1. “Humans are no different from animals when they use pleasure and pain as a basis for their morality”. Mill responds to this objection by highlighting the distinction between mental and physical pleasure: [[rationality]] has a higher quality than [[sentience]]
+						2. “Utilitarianism is bound to fail because there is no objective way to decide which type of pleasure is superior than others”. Mill responds by suggesting to use competent judges—people who experienced the entire spectrum of pleasure/pain or any relevant pleasures involved in a particular action
+						3. “Utilitarianism cannot account for the moral goodness of acts of martyrdom/self-sacrifice”. Mill responds by pointing out that utilitarianism is agent-neutral. In addition, he argues that self-sacrifice is not always morally good
 		- ### [[non-hedonism|Non-hedonistic]] forms of utilitarianism
+			- Types:
+				- [[exclusive non-hedonism|exclusive non-hedonistic]] utilitarianism - pleasure and pain are not intrinsically good and bad
+				- [[inclusive non-hedonism|inclusive non-hedonistic]] utilitarianism - pleasure and pain are one of the things that are intrinsically good and bad
+			- [[preference utilitarianism|Preference utilitarianism]] or ([[satisfaction utilitarianism]]) - most influential representative of [[exclusive non-hedonistic utilitarianism]]
+				- It argues that we should maximize the satisfaction of our preferences (desires/interests) instead of pleasure/happiness; therefore, the morally good action is the one that results to the most satisfaction of preferences for the most number of people
+				- [[preference balancing]] - the weighing of the relative strengths of the preferences involved in a given situation. This can be done through empathetical reasoning
+			- [[pluralistic utilitarianism|Pluralistic utilitarianism]] or ([[ideal utilitarianism]]) - most influential representative of [[inclusive non-hedonistic utilitarianism]]
+				- Aside from pleasure, the other intrinsic goods include beauty, knowledge, power, and healthy social relationships; consequently, the morally good action is one that results to the maximization of any of these intrinsic goods for the most amount of people
+				- Cases that show how something can be desirable yet independent of pleasure:
+					- Attitude towards a person in misery—it is appropriate and should be desired to feel sorrow
+					- Beauty is desirable regardless of the pleasure one derives from contemplating it
 		- ### [[act utilitarianism|Act utilitarianism]]
+			- It contends that the principle of maximizing the aggregate good should be applied to the act itself
 		- ### [[rule utilitarianism|Rule utilitarianism]]
+			- It contends that the principle of maximizing the aggregate good should be applied to the rule governing the act
 		- ### Complex forms of utilitarianism
