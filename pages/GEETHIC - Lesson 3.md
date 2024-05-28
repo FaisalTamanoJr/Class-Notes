@@ -68,12 +68,15 @@ tags:
 					- it is not entirely consequentialist but also contains some virtue ethics, as it also inspires us to develop our character to its noblest level (i.e., [[übermensch]], [[overman]], or [[superman]])
 	- ## [[utilitarianism|Utilitarianism]]
 		- The most influential [[agent-neutral consequentialism|agent-neutral]] form of consequentialism
+		- It usually serves as a framework for decision making in economics, business, politics, and etc.
+		- It is the foundation for most of the strategic decision-making methods that include [[cost-benefit analysis]], [[cost-effectiveness analysis]], [[subjective expected analysis]], and [[quality-adjusted life years analysis]]
+		- Scholars criticize it for having the potential to justify injustices and rights violations when dealing with the maximization of aggregate good; however, proponents of this ethical theory argue that other moral concepts, like justice and rights, are only valuable in so far as they lead to the maximization of aggregate welfare ([[instrumental good]]).
 		- ### Basic elements
 			- #### Consequentialism
 				- Utilitarianism determines the morality of an action based on its consequences
 			- #### [[welfarism|Welfarism]]
 				- Utilitarianism only considers an action morally relevant if they affect the welfare (or well-being) of people (in terms of benefits)
-				- What welfare specifically refers to varies among proponents of utilitarianism, it can either be any of the following:
+				- What [[welfare]] specifically refers to varies among proponents of utilitarianism, it can either be any of the following:
 					- experience of pleasure and/or beauty
 					- attainment of knowledge
 					- fulfillment of desires and satisfaction
@@ -116,7 +119,20 @@ tags:
 					- Attitude towards a person in misery—it is appropriate and should be desired to feel sorrow
 					- Beauty is desirable regardless of the pleasure one derives from contemplating it
 		- ### [[act utilitarianism|Act utilitarianism]]
-			- It contends that the principle of maximizing the aggregate good should be applied to the act itself
+			- It contends that the principle of maximizing the aggregate good should be applied to the act itself; therefore, judging an action’s moral quality is dependent on the consequences of that action
+			- Criticisms by [[rule utilitarianism|rule utilitarians]]:
+				- Act utilitarians can justify not adhering to contracts by arguing that adherence to it does not serve the greatest good. For example, when you use the money for paying the barber who cut your hair to not pay them but instead donate to charity so that you can maximize goodness for the most amount of people
+					- Rule utilitarians have an [[optimfic rule]] to honor contracts so that they can avoid this issue
 		- ### [[rule utilitarianism|Rule utilitarianism]]
-			- It contends that the principle of maximizing the aggregate good should be applied to the rule governing the act
+			- It contends that the principle of maximizing the aggregate good should be applied to the rule governing the act; therefore, judging an action’s moral quality is dependent on which rule the action followed
+				- For this reason, some view this as the compromise between deontology and utilitarianism
+			- [[optimfic rule|Optimfic rule]] - a good rule, meaning that it generally produces the maximum aggregate good or welfare
+			- A good act is one that follows an optimfic rule. A bad one is one that does not.
+			- Criticisms by [[act utilitarianism|act utilitarians]]:
+				- Rule utilitarianism can lead to rule worship, in which a rule is followed for the sake of following it even if it will not lead to the best consequences
 		- ### Complex forms of utilitarianism
+			- The complex forms are combinations of the two general divisions of utilitarianism: [[hedonism]] and [[non-hedonism]], and [[act utilitarianism]] and [[rule utilitarianism]]. The combinations are the following:
+				1. [[hedonism|Act hedonistic]] [[act utilitarianism|utilitarianism]] ([[classical utilitarianism]]) - an action is morally good if it maximizes aggregate happiness
+				2. [[hedonism|Rule hedonistic]] [[rule utilitarianism|utilitarianism]] - an action is morally good if it follows a rule which generally results in the greatest amount of aggregate happiness
+				3. [[non-hedonism|Act non-hedonistic]] [[act utilitarianism|utilitarianism]] - an action is morally good if it maximizes aggregate [[welfare]]
+				4. [[non-hedonism|Rule non-hedonistic]] [[rule utilitarianism|utilitarianism]] - an action is morally good if it follows a rule which generally results in the greatest amount of aggregate [[welfare]]
