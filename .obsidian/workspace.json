@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "257085d0357dc833",
+        "id": "d49948059ff66a78",
         "type": "tabs",
         "children": [
           {
-            "id": "62bf1992255db0a3",
+            "id": "a4ecc29f9d909455",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,23 +32,8 @@
       {
         "id": "9732722e206e0aa9",
         "type": "tabs",
-        "dimension": 32.800000000000004,
+        "dimension": 35.15825491873395,
         "children": [
-          {
-            "id": "8c7234cc89361b8f",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:#course",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
           {
             "id": "5d052f009b366736",
             "type": "leaf",
@@ -84,13 +69,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4f9f1cd6dad9bf0e",
         "type": "tabs",
-        "dimension": 20.200000000000003,
+        "dimension": 30.71000855431993,
         "children": [
           {
             "id": "e56c0733b51734b4",
@@ -99,14 +83,7 @@
               "type": "bookmarks",
               "state": {}
             }
-          }
-        ]
-      },
-      {
-        "id": "9666c2656724c170",
-        "type": "tabs",
-        "dimension": 47,
-        "children": [
+          },
           {
             "id": "4ac1bc66cfc78d07",
             "type": "leaf",
@@ -117,7 +94,14 @@
                 "useHierarchy": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "ddb5d9d67dd99d37",
+        "type": "tabs",
+        "dimension": 34.13173652694611,
+        "children": [
           {
             "id": "5ad3b669f9bfa3c4",
             "type": "leaf",
@@ -128,8 +112,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -143,6 +126,21 @@
         "id": "f086715f359b9352",
         "type": "tabs",
         "children": [
+          {
+            "id": "8c7234cc89361b8f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
           {
             "id": "cf7dc2157d1e317b",
             "type": "leaf",
@@ -159,17 +157,8 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "ca2815a155c1646a",
-            "type": "leaf",
-            "state": {
-              "type": "dictionary-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,34 +175,35 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "62bf1992255db0a3",
+  "active": "a4ecc29f9d909455",
   "lastOpenFiles": [
     "pages/GEETHIC - Lesson 4.md",
+    "pages/GEETHIC - Lesson 2.md",
+    "pages/GEETHIC.md",
+    "pages/rationality.md",
+    "pages/messenger wind.md",
+    "pages/GEETHIC - Lesson 3.md",
+    "pages/GEETHIC - Lesson 5.md",
+    "pages/contents.md",
+    "README.md",
+    "pages/ENGDATA - Lesson 4.md",
+    "pages/progress-tracker.md",
+    "pages/ENGDATA - Lesson 8.md",
+    "pages/ENGDATA - Lesson 2.md",
+    "pages/ENGDATA.md",
+    "assets/statistical tables.pdf",
+    "pages/SOFDESG - Lesson 1.md",
+    "pages/SOFDESG.md",
+    "pages/GEETHIC - Lesson 1.md",
     "pages/teleological suspension of the ethical.md",
     "pages/moral nihilism.md",
     "pages/weak version of the divine command theory.md",
     "pages/strong version of the divine command theory.md",
     "pages/deon.md",
-    "pages/GEETHIC.md",
-    "pages/GEETHIC - Lesson 5.md",
     "pages/prima facie.md",
     "pages/conditional deontology.md",
     "pages/categorical imperative.md",
     "pages/moral absolutism.md",
-    "pages/natural law theory.md",
-    "pages/divine command theory.md",
-    "pages/GEETHIC - Lesson 2.md",
-    "pages/GEETHIC - Lesson 3.md",
-    "pages/contents.md",
-    "README.md",
-    "pages/FUNDCKT.md",
-    "pages/FUNDCKT - Lesson 2.md",
-    "pages/FUNDCKT - Lesson 1.md",
-    "pages/FUNDCKT - Lesson 4.md",
-    "pages/GEETHIC - Lesson 1.md",
-    "pages/quality-adjusted life years analysis.md",
-    "pages/subjective expected analysis.md",
-    "pages/cost-effectiveness analysis.md",
     "assets/wye to delta.png",
     "assets/delta to wye.png",
     "assets/wye-delta circuit.png",
@@ -233,7 +223,6 @@
     "pages",
     "templates",
     "assets",
-    "Templates",
     "1. Fleeting Notes/Todo List.canvas",
     "1. Fleeting Notes/Filipino Indolence Canvas.canvas",
     "1. Fleeting Notes/Filipino Indolence Essay Structure.canvas",

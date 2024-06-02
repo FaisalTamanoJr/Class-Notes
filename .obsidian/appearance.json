@@ -1,22 +1,22 @@
 {
-  "accentColor": "#da7772",
-  "cssTheme": "AnuPpuccin",
-  "theme": "system",
+  "accentColor": "",
+  "cssTheme": "",
+  "theme": "obsidian",
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "baseFontSize": 16,
   "monospaceFontFamily": "",
-  "showViewHeader": true,
+  "showViewHeader": false,
   "enabledCssSnippets": [
     "bolder_bold",
     "no_title_embed",
-    "fonts",
     "a",
     "custom-rainbow-colors",
     "extended-colorschemes",
     "drop_shadow_image",
     "bolder-bold",
     "drop-shadow-images",
-    "no-title-embed"
+    "no-title-embed",
+    "fonts"
   ]
 }

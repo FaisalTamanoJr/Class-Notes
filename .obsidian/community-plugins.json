@@ -2,7 +2,6 @@
   "obsidian-annotator",
   "obsidian-charts",
   "obsidian-spaced-repetition",
-  "obsidian-dictionary-plugin",
   "obsidian-smart-typography",
   "obsidian-day-planner",
   "obsidian-excalidraw-plugin",
@@ -13,8 +12,6 @@
   "obsidian-outliner",
   "homepage",
   "dataview",
-  "obsidian-hider",
-  "obsidian-style-settings",
   "obsidian-zoom",
   "obsidian-advanced-uri"
 ]
