@@ -104,7 +104,7 @@ The time progressed linearly but a flashback to six weeks before the present was
 3. A policeman informs Alfredo that the president found Brigada Samuy in San Antonio and took her to Santa Cruz. The policeman also invites him to his home.
 4. Alfredo strolls around the lake town cause he thought that it was too early to sleep yet
 ### Resolution
-- From pages 29 (4th paragraph) to the last paragraph of the same page
+- From page 29 (4th paragraph) to the last paragraph of the same page
 1. Alfredo finds Julia’s home and meets with her
 2. He realizes that his infatuation for Julia had disappeared
 
