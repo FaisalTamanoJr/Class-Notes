@@ -9,9 +9,10 @@
   "obsidian-image-toolkit",
   "obsidian-latex-suite",
   "obsidian-trim-whitespace",
-  "obsidian-outliner",
   "homepage",
   "dataview",
   "obsidian-zoom",
-  "obsidian-advanced-uri"
+  "obsidian-advanced-uri",
+  "obsidian-admonition",
+  "obsidian-outliner"
 ]
