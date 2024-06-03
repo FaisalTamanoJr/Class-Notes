@@ -6,17 +6,14 @@
   "textFontFamily": "",
   "baseFontSize": 16,
   "monospaceFontFamily": "",
-  "showViewHeader": false,
+  "showViewHeader": true,
   "enabledCssSnippets": [
     "bolder_bold",
     "no_title_embed",
     "a",
-    "custom-rainbow-colors",
-    "extended-colorschemes",
     "drop_shadow_image",
-    "bolder-bold",
-    "drop-shadow-images",
-    "no-title-embed",
-    "fonts"
-  ]
+    "fonts",
+    "no-title-embed"
+  ],
+  "nativeMenus": false
 }

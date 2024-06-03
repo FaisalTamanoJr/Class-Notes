@@ -1,8 +1,0 @@
-.markdown-source-view.mod-cm6 .internal-embed > img,
-.markdown-preview-view .internal-embed > img {
-    box-shadow: -1px 6px 27px 0px rgba(0,0,0,0.4);
-    webkit-box-shadow: -1px 6px 27px 0px rgba(0,0,0,0.4);
-    moz-box-shadow: -1px 6px 27px 0px rgba(0,0,0,0.4);
-    border:1px solid #ccc;
-    margin: 0.25rem 0.25rem 0.75rem 0.25rem;
-}
