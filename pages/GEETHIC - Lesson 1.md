@@ -38,7 +38,7 @@ tags:
 - # Nature of [[moral statements]]
 	- It is important to understand the nature of [[moral statements]], or claims related to morality, to also understand how they should be evaluated
 	- ## Moral statements as [[normative statements]]
-		- Moral statements are considered normative statements rather than factual ones because they express a [[value judgement]]—a judgement that claims that something is *ought* to be (as opposed to a [[factual judgement]] that claims that something *is* the case. As a result, normative statements are evaluated based on standards/norms instead of empirical data.
+		- Moral statements are considered normative statements rather than factual ones because they express a [[value judgment]]—a judgement that claims that something is *ought* to be (as opposed to a [[factual judgement]] that claims that something *is* the case. As a result, normative statements are evaluated based on standards/norms instead of empirical data.
 		- A normative statement is a moral statement if it uses a moral standard as its basis for evaluation.
 		- Empirical data or facts can support a moral statement but it is not enough; a certain moral standard(s) or principle(s) is necessary to form a moral conclusion.
 	- ## Moral statements and [[moral standards]]

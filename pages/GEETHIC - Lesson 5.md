@@ -1,6 +1,6 @@
 ---
 Course: GEETHIC
-Topic: Deontology II - Categorical Imperative and Conditional Deontology
+Topic: Deontology - Categorical Imperative and Conditional Deontology
 Linked_Tests:
   - Quiz 1
 Status: Planned

@@ -1,9 +1,9 @@
 ---
 Course: GEETHIC
-Topic: Deontology I - Divine Command and Natural Law
+Topic: Deontology - Divine Command and Natural Law
 Linked_Tests:
   - Quiz 1
-Status: Work in Progress
+Status: Done
 References used:
   - Ethics - Theories and Applications by Francis Evangelista and Napoleon Mabaquiao Jr. (Chapter 4)
 tags:
@@ -77,4 +77,9 @@ tags:
 					2. The [[Means-End Condition]] - the bad effect should not be the means to achieve the good effect
 					3. The [[Right-Intention Condition]] - the intention must only involve the good effect, the bad consequence can be foreseen but should be an unintended side effect. If there is an alternative action without the bad effect but it was not taken, it is assumed that the bad effect was intentional.
 					4. The [[Proportionality Condition]] - the good effect must at least be equal to the significance of the bad effect
+			- [[Harris]] disagrees with this notion and claims that consequences are part of moral evaluation but they must satisfy other conditions—referring to the conditions of the double effect principle besides proportionality—first before being considered.
 	- ## Issues challenging the natural law theory
+		- The distinction between unforeseen and unintentional (in the context of the [[right-intention condition]]) consequence can sometimes be unclear
+		- [[David Hume]] thinks that this theory conflates that which *is* the case (descriptive) with that which *ought* to be the case (normative), emphasizing the inadequacy of observing nature for making [[value judgment|value judgments]]. To illustrate, we can sometimes have natural tendencies which are considered unethical.
+		- This theory assumes that moral principles are written in laws of nature—just like the view of God’s plan, any deviation from the natural is deemed immoral.
+			- [[Pojman]] suggests that reason’s purpose may not be to apprehend our true nature or the natural laws, but, rather, to assist in our survival and contentment

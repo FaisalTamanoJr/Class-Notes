@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ece8de4656e85030",
+        "id": "6c8d1917102f147a",
         "type": "tabs",
         "children": [
           {
-            "id": "8994a8dc9f82b37d",
+            "id": "acf1223fc562ec81",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -175,19 +175,26 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8994a8dc9f82b37d",
+  "active": "acf1223fc562ec81",
   "lastOpenFiles": [
-    "pages/progress-tracker.md",
-    "pages/contents.md",
     "pages/GEETHIC.md",
+    "pages/game.md",
+    "pages/GEETHIC - Lesson 5.md",
     "pages/GEETHIC - Lesson 4.md",
+    "pages/Pojman.md",
+    "pages/value judgment.md",
+    "pages/GEETHIC - Lesson 1.md",
+    "pages/Harris.md",
+    "pages/David Hume.md",
+    "pages/contents.md",
+    "README.md",
+    "pages/progress-tracker.md",
     "pages/GELITPH.md",
     "pages/GELITPH - Lesson 1.md",
     "pages/SOFDESG.md",
     "pages/SOFDESG - Lesson 1.md",
     "pages/FUNDCKT.md",
     "pages/GELITPH - Lesson 2.md",
-    "README.md",
     "pages/Proportionality Condition.md",
     "pages/Right-Intention Condition.md",
     "pages/Means-End Condition.md",
@@ -196,13 +203,6 @@
     "pages/principle of forfeiture.md",
     "pages/moral absolutism.md",
     "pages/Aristotle.md",
-    "pages/Thomas Aquinas.md",
-    "pages/stoics.md",
-    "pages/cosmic nature.md",
-    "pages/pantheism.md",
-    "pages/natural law.md",
-    "pages/GEETHIC - Lesson 3.md",
-    "pages/GEETHIC - Lesson 5.md",
     "assets/GELITPH guidelines.pdf",
     "assets/GELITPH schedule.pdf",
     "assets/statistical tables.pdf",
