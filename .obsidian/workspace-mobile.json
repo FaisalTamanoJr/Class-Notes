@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b571391447269564",
+        "id": "c2a5fa2e6a254377",
         "type": "tabs",
         "children": [
           {
-            "id": "68e0c20ef42512e6",
+            "id": "14e7d5c90c4b6b86",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -81,24 +81,6 @@
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "d13fada8d17a46c1",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "README.md"
-          }
-        }
-      },
-      {
-        "id": "265e45896e0d0729",
-        "type": "leaf",
-        "state": {
-          "type": "dictionary-view",
-          "state": {}
-        }
-      },
-      {
         "id": "f8b365c9c44178ca",
         "type": "leaf",
         "state": {
@@ -115,8 +97,7 @@
           }
         }
       }
-    ],
-    "currentTab": 1
+    ]
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -129,7 +110,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "68e0c20ef42512e6",
+  "active": "14e7d5c90c4b6b86",
   "lastOpenFiles": [
     "pages/contents.md",
     "pages/ENGENVI.md",
