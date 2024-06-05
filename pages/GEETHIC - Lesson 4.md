@@ -26,7 +26,11 @@ tags:
 						2. Moral rightness means “willed by God” while moral wrongness means “forbidden by God”
 						3. Because morality is based on divine will, other forms of reasoning are unnecessary
 				- The **weak version**, or as Soren Kierkegaard calls it, the [[teleological suspension of the ethical]], omits/qualifies one or two of the three theses of the divine command theory’s strong version. Despite it maintaining that ethics has an independent foundation (i.e., reason), God’s commands still supersede it when they are conflicting with each other.
-					- This implies that the absence of God does not entail the absence of morality
+					- This implies that morality still exists even if God did not
+					- This was further elaborated in Kierkegaard’s *three stages of life*:
+						1. Aesthetic stage - life of pleasure
+						2. Ethical stage - life of reason
+						3. Religious stage - life of faith
 	- ## Criticism
 		1. How can we know of God’s will if there are too much people that have different ideas of it
 			- It is irrational to believe that one group knows God’s genuine commands better than any other group
