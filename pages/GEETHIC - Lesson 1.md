@@ -86,7 +86,7 @@ tags:
 		- [[toleration argument|Toleration argument]]
 			- This argument states the acknowledgement of different moral norms between various societies leads to respect, social harmony, and co-existence among different cultural and social groups
 	- ## Criticisms
-		- ==Diversity of moral beliefs between different people does not prove that morality is relative.== Similarly, the disagreements in the past about the earth revolving around the sun did not prove that the truth was relative: the objective truth is that the earth is revolving around the sun, regardless of what people thought at that time.
+		- Diversity of moral beliefs between different people does not prove that morality is relative. Similarly, the disagreements in the past about the earth revolving around the sun did not prove that the truth was relative: the objective truth is that the earth is revolving around the sun, regardless of what people thought at that time.
 		- [[ethical conventionalism|Ethical conventionalism]] implies that we cannot criticize a particular culture’s belief or practice no matter how abhorrent or inhumane it is.
 		- [[ethical conventionalism|Ethical conventionalism]] also implies that being moral is when one conforms to society’s standards and being immoral is one does not. Hence, I should accept the practices and beliefs of the society I inhabit regardless if I feel like it is wrong.
 			- Similar to religion, it can discourage us from needing moral reasoning and justification
