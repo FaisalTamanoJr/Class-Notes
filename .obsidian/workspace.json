@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2358f74ca533501f",
+        "id": "262e40f37b5922a9",
         "type": "tabs",
         "children": [
           {
-            "id": "a24ddcb17adb20f4",
+            "id": "2a3feecb84e5cd6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -185,9 +185,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a24ddcb17adb20f4",
+  "active": "2a3feecb84e5cd6c",
   "lastOpenFiles": [
     "pages/contents.md",
+    "pages/GEETHIC - Lesson 2.md",
+    "pages/GEETHIC.md",
+    "README.md",
     "pages/FUNDCKT.md",
     "pages/progress-tracker.md",
     "pages/FUNDCKT - Lesson 5.md",
@@ -198,12 +201,10 @@
     "pages/ENGDATA.md",
     "pages/ENGDATA - Lesson 3.md",
     "assets/Pasted image 20240608135228.png",
-    "README.md",
     "pages/ENGENVI.md",
     "pages/LBYCPD2.md",
     "pages/GESPORT.md",
     "pages/CALENG3.md",
-    "pages/GEETHIC.md",
     "pages/GELITPH.md",
     "pages/LBYME1C.md",
     "pages/GESPORT - Lesson 1.md",
@@ -214,7 +215,6 @@
     "pages/ENGDATA - Lesson 1.md",
     "pages/ENGENVI - Lesson 1.md",
     "pages/SOFDESG.md",
-    "pages/open circuit.md",
     "assets/GELITPH schedule.pdf",
     "assets/Pasted image 20240605125512.png",
     "assets/independent source transformation.webp",
