@@ -1,14 +1,10 @@
 ---
 Course: ENGENVI
 Topic: Hazardous Waste
-Linked_Tests:
-  - Quiz 3
-  - Final Exam
+Linked_Tests: [Quiz 3, Final Exam]
 Status: Done
-References used:
-  - Student Presentation Materials
-tags:
-  - lesson
+References used: [Student Presentation Materials]
+tags: [lesson]
 ---
 
 - [[hazardous waste|Hazardous waste]]
@@ -139,7 +135,7 @@ tags:
 					- reproductive disorders
 					- impaired immune, reproductive, and nervous (central and peripheral) systems.
 	- [[Chemical Control Orders]] (CCOs) for specific hazardous chemicals
-		- The [[Department of Environment and Natural Resources]] - [[Environmental Management Bureau]] (DENR-EMB)  issues CCOs to restrict and prohibit interacting with hazardous chemicals.
+		- The [[Department of Environment and Natural Resources]] - [[Environmental Management Bureau]] (DENR-EMB) issues CCOs to restrict and prohibit interacting with hazardous chemicals.
 		- Chemicals subject to CCOs
 			- Mercury and mercury compounds ([[DAO 2019-20]])
 			- Cyanide and cyanide compounds ([[DAO 1997-39]])
@@ -212,7 +208,7 @@ tags:
 				- [[screening|Screening]]
 					- The process of separating larger particles from a mixture of waste materials.
 				- [[filtration|Filtration]]
-					- A  process that involves passing waste mixture through a porous material to separate solids from liquids or gas.
+					- A process that involves passing waste mixture through a porous material to separate solids from liquids or gas.
 					- Types
 						- Gravity filtration
 						- Pressure filtration

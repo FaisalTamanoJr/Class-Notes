@@ -1,14 +1,10 @@
 ---
 Course: ENGENVI
 Topic: Noise Pollution
-Linked_Tests:
-  - Quiz 3
-  - Final Exam
+Linked_Tests: [Quiz 3, Final Exam]
 Status: Done
-References used:
-  - Student Presentation Materials
-tags:
-  - lesson
+References used: [Student Presentation Materials]
+tags: [lesson]
 ---
 
 - [[noise pollution|Noise pollution]]

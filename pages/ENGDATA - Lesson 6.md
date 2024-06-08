@@ -1,14 +1,10 @@
 ---
 Course: ENGDATA
 Topic: Joint Probability Distribution
-Linked_Tests:
-  - Quiz 2
-  - Final Exam
+Linked_Tests: [Quiz 2, Final Exam]
 Status: Done
-References used:
-  - 5 Joint Probability Distribution (Lecture Slides)
-tags:
-  - lesson
+References used: [5 Joint Probability Distribution (Lecture Slides)]
+tags: [lesson]
 ---
 
 - [[joint probability distribution|Joint Probability Distribution]]

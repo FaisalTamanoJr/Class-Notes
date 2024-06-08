@@ -3,12 +3,8 @@ Course: ENGDATA
 Topic: Obtaining Data
 Linked_Tests:
 Status: Done
-References used:
-  - 1 Graphical Data Presentation (Lecture Slides)
-  - https://www.questionpro.com/blog/types-of-sampling-for-social-research
-  - https://www.storyboardthat.com/articles/e/experimental-design
-Tags:
-- lesson
+References used: [1 Graphical Data Presentation (Lecture Slides), https://www.questionpro.com/blog/types-of-sampling-for-social-research, https://www.storyboardthat.com/articles/e/experimental-design]
+Tags: [lesson]
 ---
 
 - [[data|Data]]

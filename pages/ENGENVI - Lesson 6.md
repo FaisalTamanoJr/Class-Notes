@@ -1,14 +1,10 @@
 ---
 Course: ENGENVI
 Topic: Solid Environment
-Linked_Tests:
-  - Quiz 2
-  - Final Exam
+Linked_Tests: [Quiz 2, Final Exam]
 Status: Done
-References used:
-  - Student Presentation Materials
-tags:
-  - lesson
+References used: [Student Presentation Materials]
+tags: [lesson]
 ---
 
 - Solid waste

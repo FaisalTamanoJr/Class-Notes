@@ -1,14 +1,10 @@
 ---
 Course: ENGENVI
 Topic: Radioactive waste
-Linked_Tests:
-  - Quiz 3
-  - Final Exam
+Linked_Tests: [Quiz 3, Final Exam]
 Status: Done
-References used:
-  - Student Presentation Materials
-tags:
-  - lesson
+References used: [Student Presentation Materials]
+tags: [lesson]
 ---
 
 - [[radioactive waste|Radioactive waste]]
@@ -19,7 +15,7 @@ tags:
 	- Types
 		- [[Low-Level Waste]] (LLW)
 			- Radioactive content
-				-  $<4 \frac{GBq}{t}$  of alpha activity
+				- $<4 \frac{GBq}{t}$ of alpha activity
 				- $<12 \frac{GBq}{t}$ of beta-gamma activity
 			- They do not require shielding and handling during transport.
 			- They are suitable for disposal in near surface facilities.

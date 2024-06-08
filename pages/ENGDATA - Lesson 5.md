@@ -1,14 +1,10 @@
 ---
 Course: ENGDATA
 Topic: Continuous Probability Distributions
-Linked_Tests:
-  - Quiz 1
-  - Final Exam
+Linked_Tests: [Quiz 1, Final Exam]
 Status: Done
-References used:
-  - 4 Continuous Probability Distribution (Lecture Slides)
-tags:
-  - lesson
+References used: [4 Continuous Probability Distribution (Lecture Slides)]
+tags: [lesson]
 ---
 
 - [[continuous probability distribution|Continuous probability distribution]]

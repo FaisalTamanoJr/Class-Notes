@@ -1,13 +1,10 @@
 ---
 Course: CALENG3
 Topic: Introduction to Differential Equations
-Linked_Tests:
-- Quiz 1
+Linked_Tests: [Quiz 1]
 Status: Done
-References used:
-  - 1. Introduction (Lecture Slides)
-tags:
-  - lesson
+References used: [1. Introduction (Lecture Slides)]
+tags: [lesson]
 ---
 
 - [[differential equations|Differential Equations]]

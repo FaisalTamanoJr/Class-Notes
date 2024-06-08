@@ -1,13 +1,10 @@
 ---
 Course: NUMMETS
 Topic: Mathematical Modeling, Engineering Problem Solving, and Programming
-Linked_Tests:
-- Quiz 1
+Linked_Tests: [Quiz 1]
 Status: Done
-References used:
-  - 1 Introduction (Lecture Slides)
-tags:
-  - lesson
+References used: [1 Introduction (Lecture Slides)]
+tags: [lesson]
 ---
 
 - # Introduction
@@ -17,7 +14,7 @@ tags:
 		- Before computers, analytical or exact methods were used to solve problems. Graphical solutions, without the aid of computers, were also used; however, they were slow, tedious, and imprecise.
 	- ## [[numerical methods|Numerical methods]]
 		- Numerical methods formulate problems solvable by arithmetic operations to approximate solutions (iterative calculations); as a result, it can be easier than analytical methods.
-		- They, alongside computers, provided an alternative to complicated calculations. 
+		- They, alongside computers, provided an alternative to complicated calculations.
 - # Mathematical modeling and engineering problem solving
 	- Mathematical modeling and engineering problem solving requires an understanding of engineering systems through observations, experiments, theoretical analyses, and generalizations. For this reason, computers can only be useful when users have a fundamental understanding of engineering problems.
 	- ## Simple mathematical model

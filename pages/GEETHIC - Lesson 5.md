@@ -1,13 +1,10 @@
 ---
 Course: GEETHIC
 Topic: Deontology - Categorical Imperative and Conditional Deontology
-Linked_Tests:
-  - Quiz 1
+Linked_Tests: [Quiz 1]
 Status: Planned
-References used:
-  - Ethics - Theories and Applications by Francis Evangelista and Napoleon Mabaquiao Jr. (Chapter 4)
-tags:
-  - lesson
+References used: [Ethics - Theories and Applications by Francis Evangelista and Napoleon Mabaquiao Jr. (Chapter 4)]
+tags: [lesson]
 ---
 
 - # [[categorical imperative|Categorical imperative]]

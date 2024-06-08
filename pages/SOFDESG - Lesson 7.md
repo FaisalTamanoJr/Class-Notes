@@ -1,14 +1,10 @@
 ---
 Course: SOFDESG
 Topic: Software Quality
-Linked_Tests:
-  - Quiz 2
-  - Final Exam
+Linked_Tests: [Quiz 2, Final Exam]
 Status: Done
-References used:
-  - SOFWENG Lecture 7 (Lecture Slides)
-tags:
-  - lesson
+References used: [SOFWENG Lecture 7 (Lecture Slides)]
+tags: [lesson]
 ---
 
 - Software
@@ -69,7 +65,7 @@ tags:
 			- Non-compliance with coding standards (attribute names)
 			- Standards and integration branch
 				- Size of program;
-					- Other  programs must be able to run in environment.
+					- Other programs must be able to run in environment.
 					- Data Elements and Codes: AFM 300-4;
 					- Required documentation manuals and operating instructions; AFDSDCM 300-8, etc.
 			- SQA Team

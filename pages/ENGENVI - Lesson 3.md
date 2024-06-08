@@ -1,14 +1,10 @@
 ---
 Course: ENGENVI
 Topic: Biogeochemical Cycles
-Linked_Tests:
-  - Quiz 1
-  - Final Exam
+Linked_Tests: [Quiz 1, Final Exam]
 Status: Done
-References used:
-  - Biogeochemical Cycles (Lecture Slides)
-tags:
-  - lesson
+References used: [Biogeochemical Cycles (Lecture Slides)]
+tags: [lesson]
 ---
 
 - [[matter cycles|Material cycles]]

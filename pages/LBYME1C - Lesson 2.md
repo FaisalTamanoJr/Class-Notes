@@ -3,10 +3,8 @@ Course: LBYME1C
 Topic: CAD in Engineering and CAD Software Principles
 Linked_Tests:
 Status: Done
-References used:
-  - CAD in Engineering and CAD Software Principles (Lecture Slides)
-tags:
-  - lesson
+References used: [CAD in Engineering and CAD Software Principles (Lecture Slides)]
+tags: [lesson]
 ---
 
 - # [[CAD]]

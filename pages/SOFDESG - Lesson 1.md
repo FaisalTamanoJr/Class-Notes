@@ -1,14 +1,10 @@
 ---
 Course: SOFDESG
 Topic: Introduction to Software Engineering
-Linked_Tests:
-- Quiz 1
-- Final Exam
+Linked_Tests: [Quiz 1, Final Exam]
 Status: Done
-References used:
-  - SOFWENG LECTURE 1 (Lecture Slides)
-tags:
-  - lesson
+References used: [SOFWENG LECTURE 1 (Lecture Slides)]
+tags: [lesson]
 ---
 
 - [[software engineering]]
@@ -36,7 +32,7 @@ tags:
 		- [[abstraction|Abstraction]]
 			- The process of reducing the complexity of a problem by omitting irrelevant details.
 		- [[decomposition|Decomposition]]
-			- The process of dividing problems into smaller problems, and solving the smaller problems independently.  The smaller components are then combined to form the complete solution.
+			- The process of dividing problems into smaller problems, and solving the smaller problems independently. The smaller components are then combined to form the complete solution.
 			- A good decomposition minimizes interactions between components.
 			- If the subcomponents are interrelated, then the complexity of the problem would not be reduced.
 	- Reasons to study

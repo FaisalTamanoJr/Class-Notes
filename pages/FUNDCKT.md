@@ -1,7 +1,6 @@
 ---
 Term: 6th Term
-tags:
-  - course
+tags: [course]
 ---
 
 ```dataview

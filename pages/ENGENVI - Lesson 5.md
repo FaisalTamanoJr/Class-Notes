@@ -1,14 +1,10 @@
 ---
 Course: ENGENVI
 Topic: Air Environment
-Linked_Tests:
-  - Quiz 2
-  - Final Exam
+Linked_Tests: [Quiz 2, Final Exam]
 Status: Done
-References used:
-  - Student Presentation Materials
-tags:
-  - lesson
+References used: [Student Presentation Materials]
+tags: [lesson]
 ---
 
 - Air environment
@@ -26,7 +22,7 @@ tags:
 							- [[Chlorofluorocarbons]] ($CFC$s) were first synthesized in 1928 by [[Thomas Midgley Jr.]], as safer chemicals for refrigerators (coolants) in commercial applications.
 							- After [[World War II]], $CFC$s were used as propellants for bug sprays, paints, hair conditioner, and many other healthcare products.
 							- In 1974, [[Mario Molina]] and [[Sherwood Rowland]] discovered and detailed the threats $CFC$s pose against the ozone layer. They found that the chlorine released from $CFCs$ destroys ozone in catalytic reactions, where 100,000 ozone molecules can be destroyed per chlorine atom.
-							- [[Mario Molina]] and [[Sherwood Rowland]]'s study was validated in 1985, when a hole in the ozone layer was observed over Antartica.
+							- [[Mario Molina]] and [[Sherwood Rowland]]‘s study was validated in 1985, when a hole in the ozone layer was observed over Antartica.
 							- The [[Montreal protocol]] was signed in 1987 to reduce ozone-depleting substances.
 					- [[carbon tetrachloride]]
 					- [[hydrochlorofluorocarbons]] ($HCFC$s)

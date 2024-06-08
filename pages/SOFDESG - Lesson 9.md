@@ -1,14 +1,10 @@
 ---
 Course: SOFDESG
 Topic: Documentation
-Linked_Tests:
-  - Quiz 3
-  - Final Exam
+Linked_Tests: [Quiz 3, Final Exam]
 Status: Done
-References used:
-  - SOFWENG Lecture 9 (Lecture Slides)
-tags:
-  - lesson
+References used: [SOFWENG Lecture 9 (Lecture Slides)]
+tags: [lesson]
 ---
 
 - [[documentation|Documentation]]

@@ -1,11 +1,8 @@
 ---
 Course: Course
 Topic: Topic
-Linked_Tests:
-- Test
+Linked_Tests: [Test]
 Status: Work in Progress
-References used:
-- Reference
-Tags:
-- lesson
+References used: [Reference]
+Tags: [lesson]
 ---

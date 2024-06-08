@@ -1,18 +1,10 @@
 ---
 Course: CALENG3
 Topic: Solution of Some 1st Order Differential Equation
-Linked_Tests:
-- Quiz 1
-- Final Exam
+Linked_Tests: [Quiz 1, Final Exam]
 Status: Done
-References used:
-  - 1.1 Variable Separable (Lecture Slides)
-  - 1.5 Homogeneous de (Lecture Slides)
-  - 1.3 Linear de (Lecture Slides)
-  - 1.4 Bernouilli's equation (Lecture Slides)
-  - Class lecture
-tags:
-  - lesson
+References used: [1.1 Variable Separable (Lecture Slides), 1.5 Homogeneous de (Lecture Slides), 1.3 Linear de (Lecture Slides), 1.4 Bernouilli's equation (Lecture Slides), Class lecture]
+tags: [lesson]
 ---
 
 - My solutions to examples
@@ -23,8 +15,8 @@ tags:
 	- [[CALENG3 - Bernouilli's Equation Practice.pdf]]
 - Before solving
 	1. Check if its variable separable.
-	2. Check if it's a homogeneous DE.
-	3. Check if it's an exact DE.
+	2. Check if it’s a homogeneous DE.
+	3. Check if it’s an exact DE.
 - [[variable separable|Variable Separable]]
 	- General Form
 		- $M(x,y)dx+N(x,y)dy=0$
@@ -42,7 +34,7 @@ tags:
 	- Homogeneous function
 		1. A function is said to be homogeneous of [[degree]] $n$ if and only if
 			- $f(tx,ty)=t^nf(x,y)$
-			- You can draw out the original function multiplied by  $t^n$ when substituting $tx$ to $x$ and $ty$ to $y$ in the function.
+			- You can draw out the original function multiplied by $t^n$ when substituting $tx$ to $x$ and $ty$ to $y$ in the function.
 		2. The DE $M(x,y)dx+N(x,y)dy=0$ is only homogeneous when both $M(x,y)$ and $N(x,y)$ are homogeneous, and are of the same [[degree]].
 			- Standard form
 				- $M(x,y)dx+N(x,y)dy=0$

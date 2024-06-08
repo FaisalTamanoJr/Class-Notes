@@ -1,13 +1,10 @@
 ---
 Course: GEETHIC
 Topic: Ethics - Basic Concepts and Issues
-Linked_Tests:
-- Quiz 1
+Linked_Tests: [Quiz 1]
 Status: Done
-References used:
-  - Ethics - Theories and Applications by Francis Evangelista and Napoleon Mabaquiao Jr. (Chapter 1)
-tags:
-  - lesson
+References used: [Ethics - Theories and Applications by Francis Evangelista and Napoleon Mabaquiao Jr. (Chapter 1)]
+tags: [lesson]
 ---
 
 - # [[ethics|Ethics]]
@@ -22,17 +19,17 @@ tags:
 		- ### [[metaethics|Metaethics]]
 			- Metaethics, also known as [[analytic ethics]], looks into the nature, meaning, scope, and foundations of moral values and discourses
 			- It attempts to understand the basic ideas, concepts, and assumptions that underlie our moral beliefs
-			- It is occasionally  referred to as “second-order” moral theorizing, to distinguish it from the “first-order” level of normative theory
+			- It is occasionally referred to as “second-order” moral theorizing, to distinguish it from the “first-order” level of normative theory
 		- ### [[normative ethics|Normative ethics]]
 			- Normative ethics is concerned with the moral standards to determine right from wrong conduct
 			- It involves the formulation of moral norms/rules that can serve as the foundation for determining what actions are right and wrong
 			- #### Theories on moral standards
-				- [[consequentialism|Consequentialism]]  - focuses on consequences
+				- [[consequentialism|Consequentialism]] - focuses on consequences
 				- [[deontology|Deontology]] - focuses on rules being followed/violated
 				- [[virtue ethics|Virtue ethics]] - focuses on the character of the person performing the action
 		- ### [[applied ethics|Applied ethics]]
 			- Applied ethics deals with the practical concerns of ethics
-			-  Using [[metaethics|metaethical]] and [[normative ethics|normative ethical]]  tools, applied ethics aims to analyze and clarify various ethical issues to guide our moral judgement
+			- Using [[metaethics|metaethical]] and [[normative ethics|normative ethical]] tools, applied ethics aims to analyze and clarify various ethical issues to guide our moral judgement
 	- ## [[descriptive ethics|Descriptive ethics]]
 		- Descriptive ethics is not an area of moral philosophy; it endeavors to present the moral norms that people believe in—not what people ought to do.
 - # Nature of [[moral statements]]

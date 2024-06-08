@@ -3,10 +3,8 @@ Course: GESPORT
 Topic: Spikeball
 Linked_Tests:
 Status: Done
-References used:
-  - Canvas Module
-tags:
-  - lesson
+References used: [Canvas Module]
+tags: [lesson]
 ---
 
 - # [[spikeball|Spikeball]]

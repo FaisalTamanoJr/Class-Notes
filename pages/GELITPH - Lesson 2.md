@@ -1,54 +1,78 @@
 ---
 Course: GELITPH
 Topic: Children of the Ash-Covered Loam
-Linked_Tests:
-  - Quiz 1
+Linked_Tests: [Quiz 1]
 Status: Done
-References used:
-  - Reference
-tags:
-  - lesson
+References used: [Reference]
+tags: [lesson]
 ---
 
 # Elements
+
 ***
+
 ## Characters
+
 ### Tarang
+
 - He is seven years old
 - He is the brother of Cris
+
 ### Tatay
+
 - He is the father of Tarang and Cris
 - The archetype for the traditional masculine Filipino father—is the leader of the family, confident, independent, and is very assertive
+
 ### Nanay
+
 - She is the mother of Tarang and Cris
 - The traditional archetype for Filipino mother (she takes care of the children and cooks for the family); however, she has shown independence and strength at times.
+
 ### Cris
+
 - She is Tarang’s little sister who could barely walk
+
 ### Paula
+
 - She was the person who gave the pig to Tarang’s family
+
 ### Tia Orang
+
 - The midwife who assisted Nanay
+
 ### Tio Longinos
+
 - He lives at a clearing which he owns
 - He owns Bokal
 - He gave a pullet to Tatay for Nanay’s camisa
+
 ### Tia Pulin
+
 - She is Tarang’s aunt
 - She helped during the offering with Tarang’s family
+
 ### Tia Adang
+
 - She is Tarang’s aunt
 - She helped during the offering with Tarang’s family
+
 ### Bokal
+
 - The carabao of Tio longinos
 - Tatay used him for transportation
-### Tarang’s pig
+
+### Tarang’s Pig
+
 - The pig given by Paula to Tarang for him to take care of
 
 ## Setting
+
 ### Time
+
 Time moves fast in the story. It was also revealed that it was around June based on the approaching rainstorms (wet season)
 
 ### Place
+
 - Malig
 - Tarang’s hut
 - Tatay’s kaingin
@@ -58,6 +82,7 @@ Time moves fast in the story. It was also revealed that it was around June based
 ## Parts of the Plot
 
 ### Exposition
+
 - From pages 201 (1st paragraph) to 203 (7th paragraph)
 1. Tatay comes home with a pig for Tarang to take care of
 2. Tarang is playing alone in the yard at afternoon instead of with his little sister Cris
@@ -66,6 +91,7 @@ Time moves fast in the story. It was also revealed that it was around June based
 4. The reason the family harvests is to pay those they owe
 
 ### Rising action
+
 - From pages 203 (8th paragraph) to 204 (before the last paragraph)
 1. Tarang takes care of the pig
 2. Tarang would independently take care of himself because his parents were often busy working at the kaingin
@@ -74,6 +100,7 @@ Time moves fast in the story. It was also revealed that it was around June based
 5. Tatay sold Paula’s gift to Nanay (a camisa) for a pullet that he believes will give them luck
 
 ### Climax
+
 - From pages 204 (last paragraph) to 207 (4th paragraph)
 1. Tarang follows Tatay to the middle of the kaingin
 2. Tatay beheads the pullet in front of Tarang and lets it blood coat the ground to mark ownership of the land
@@ -87,6 +114,7 @@ Time moves fast in the story. It was also revealed that it was around June based
 10. Tarang has became more observant and aware; for instance, he starts to become curious about the nature of mushrooms.
 
 ### Falling action
+
 - From pages 207 (5th paragraph) to 209 (2nd paragraph)
 1. Tia Orang visits the family
 2. Nanay and Tia Orang talk about Nanay’s potentially new child
@@ -95,7 +123,9 @@ Time moves fast in the story. It was also revealed that it was around June based
 5. Tia Orang starts telling stories about curses
 6. During sleeping time, Tarang kept distance away from Nanay because he feels that he is a man now
 7. Tarang could hear Tia Orang speaking words that did not belong to men or women during her sleep
+
 ### Resolution
+
 - From page 209 (3rd paragraph) to the last paragraph of the same page
 1. Tarang could hear music produced by the rain
 2. Tarang hears his dad wake up
@@ -103,22 +133,29 @@ Time moves fast in the story. It was also revealed that it was around June based
 4. Tarang went to see what is happening outside and discovers that the rice grain grow from the ash-covered loam
 
 # Analysis
+
 ***
+
 ## Style of writing
+
 - From a third person point of view
 - Uses a lot of indigenous terminologies
 - Very straightforward but detailed
 
 ## Conflict
+
 The story possesses a man vs himself conflict since it deals with Tarang growing and becoming mature and independent
 
 It also has a man vs nature conflict because it involves the characters trying to deal with the nature of their environment
 
 ## Character development
+
 ### Tarang
+
 Tarang grows from being ignorant and not curious to someone who is more aware, mature, and independent
 
 ## Themes
+
 - The cycle of life where life emerges from death
 	- How the seeds grew from the ash-covered loam or the kaingin
 	- How the family owns the land by killing the pullet

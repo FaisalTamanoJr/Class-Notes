@@ -1,14 +1,10 @@
 ---
 Course: CALENG3
 Topic: Laplace Transform
-Linked_Tests:
-  - Quiz 4
-  - Final Exam
+Linked_Tests: [Quiz 4, Final Exam]
 Status: Done
-References used:
-  - IV.1 Laplace Transform (Lecture Slides)
-tags:
-  - lesson
+References used: [IV.1 Laplace Transform (Lecture Slides)]
+tags: [lesson]
 ---
 
 - [[laplace transform|Laplace transform]]

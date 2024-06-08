@@ -1,16 +1,14 @@
 ---
 Course: GEETHIC
 Topic: Moral Personhood and Accountability
-Linked_Tests:
-  - Quiz 1
+Linked_Tests: [Quiz 1]
 Status: Done
-References used:
-  - Ethics - Theories and Applications by Francis Evangelista and Napoleon Mabaquiao Jr. (Chapter 2)
-tags:
-  - lesson
+References used: [Ethics - Theories and Applications by Francis Evangelista and Napoleon Mabaquiao Jr. (Chapter 2)]
+tags: [lesson]
 ---
 
 # Introduction
+
 - The actions that we morally judge are those that involve [[moral person|moral persons]]—both doers and receivers of these actions
 - A defining characteristic of a moral person is that they are held morally accountable for their actions
 - # [[moral personhood|Moral personhood]]
@@ -94,14 +92,14 @@ tags:
 						- Considerations to determine if a person should have known better or not:
 							- Does the person have the capacity to know what they ought to know in a given situation?
 							- Given their role, is it their duty to know better?
-					- [[involuntariness condition|Involuntariness condition]] refers to the occurrence  when the intentionality condition fails to be satisfied
+					- [[involuntariness condition|Involuntariness condition]] refers to the occurrence when the intentionality condition fails to be satisfied
 		- ### The degree conditions
 			- These conditions deal with the degree of an agent’s accountability. Under these are the following:
 				- 4 conditions that determine the degree:
 					- [[degree of knowledge|Degree of knowledge]] - the greater the knowledge, the greater the moral accountability; the lesser the knowledge, the lesser the moral accountability.
 					- [[degree of pressure|Degree of pressure]] - refers to the difficulty in life that forces one to perform a wrongdoing. The greater the pressure, the lesser the moral accountability; the lesser the pressure, the greater the moral accountability.
 					- [[degree of intensity|Degree of intensity]] - the greater the intensity (or seriousness) of the injury, the greater the moral accountability; the lesser the intensity, the lesser the moral accountability.
-					- [[degree of involvement|Degree of involvement]] -  the greater the involvement, the greater the moral accountability; the lesser the involvement, the lesser the moral accountability.
+					- [[degree of involvement|Degree of involvement]] - the greater the involvement, the greater the moral accountability; the lesser the involvement, the lesser the moral accountability.
 				- [[mitigating conditions|Mitigating conditions]]
 					- Conditions are classified as mitigating when they lessen the degree of one’s moral accountability
 				- [[aggravating condition|Aggravating conditions]]

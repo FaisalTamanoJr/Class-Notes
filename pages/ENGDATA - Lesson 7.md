@@ -1,14 +1,10 @@
 ---
 Course: ENGDATA
 Topic: Sampling Distribution and Estimation
-Linked_Tests:
-  - Quiz 2
-  - Final Exam
+Linked_Tests: [Quiz 2, Final Exam]
 Status: Done
-References used:
-  - Sampling Distribution and Estimation (Lecture Slides)
-tags:
-  - lesson
+References used: [Sampling Distribution and Estimation (Lecture Slides)]
+tags: [lesson]
 ---
 
 - [[point estimate|Point estimate]]
@@ -32,7 +28,9 @@ tags:
 				- single observation is $\sigma^2$
 				- since $\frac{\sigma^2}{n} \leq \sigma^2$, the sample mean is preferred.
 		- [[standard error|Standard error]] of an estimator
+
 			- The standard error of an estimator $\Theta$ is its standard deviation, given by $$\sigma_{\Theta}=\sqrt{ V(\Theta) }$$
+
 			- If the standard error involves unknown parameters that can be estimated, substitution of these values into $\sigma_\Theta$ produces an [[estimated standard error]], denoted by $\sigma_{\Theta}$.
 				- Equivalent notation: $\sigma_{\Theta}=s_{\Theta}=se(\Theta)$.
 			- If the $X_{i}$ are $\tilde{} N(\mu,\sigma)$, then $\bar{X}$ is normally distributed, and $\sigma_{\bar{X}}= \frac{\sigma}{\sqrt{ N }}$. If $\sigma$ is not known, then $\sigma_{\bar{X}}=\frac{s}{\sqrt{ n }}$.
@@ -75,7 +73,9 @@ tags:
 			- with mean $\mu_{\bar{x}}=\frac{\mu+\mu+\dots+\mu}{n}=\mu$.
 			- and variance $\sigma^2_{\bar{x}}=\frac{\sigma^2+\sigma^2+\dots+\sigma^2}{n^2}$.
 - [[central limit theorem|Central limit theorem]]
+
 	- If $X_{1},X_{2},\dots,X_{n}$ is a random sample of size $n$ is taken from a population (either finite or infinite) with mean $\mu$ and finite variance $\sigma^2$, and if $\bar{X}$ is the sample mean, then the limiting form of the distribution of $$Z=\frac{\bar{X}-\mu}{\frac{\sigma}{\sqrt{ n }}}$$
+
 		- as $n\to \infty$, is the [[standard normal distribution]].
 - Two independent normal populations
 	- Sampling distribution of $\bar{X}_{1}-\bar{X}_{2}$

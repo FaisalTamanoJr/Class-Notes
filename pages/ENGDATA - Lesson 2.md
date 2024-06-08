@@ -1,14 +1,10 @@
 ---
 Course: ENGDATA
 Topic: Probability
-Linked_Tests:
-- Quiz 1
-- Final Exam
+Linked_Tests: [Quiz 1, Final Exam]
 Status: Done
-References used:
-  - 2 Introduction to Probability (Lecture Slides)
-Tags:
-- lesson
+References used: [2 Introduction to Probability (Lecture Slides)]
+Tags: [lesson]
 ---
 
 - [[probability|Probability]]
@@ -120,7 +116,7 @@ Tags:
 - [[simple premutation|Simple permutation]]
 	- The ordered arrangement of distinct objects.
 	- Symbol
-		-  $_nP_r$
+		- $_nP_r$
 			- $n = \text{The total number of distinct objects to be arranged.}$
 			- $r = \text{The number of objects to be taken from } n \text{.}$
 	- Formula

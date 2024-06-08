@@ -1,14 +1,10 @@
 ---
 Course: SOFDESG
 Topic: SDLC Models, Prototyping, and Agile Modeling
-Linked_Tests:
-  - Quiz 1
-  - Final Exam
+Linked_Tests: [Quiz 1, Final Exam]
 Status: Done
-References used:
-  - SOFDESG Lecture 3 (Lecture Slides)
-tags:
-  - lesson
+References used: [SOFDESG Lecture 3 (Lecture Slides)]
+tags: [lesson]
 ---
 
 - [[waterfall model|Iterative waterfall model]]

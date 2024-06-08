@@ -1,13 +1,10 @@
 ---
 Course: NUMMETS
 Topic: Approximations and Round-Off Errors
-Linked_Tests:
-- Quiz 1
+Linked_Tests: [Quiz 1]
 Status: Done
-References used:
-  - 2 Approximations and Round-Off Errors (Lecture Slides)
-tags:
-  - lesson
+References used: [2 Approximations and Round-Off Errors (Lecture Slides)]
+tags: [lesson]
 ---
 
 - # Introduction
@@ -27,9 +24,13 @@ tags:
 		- $\varepsilon_{a}=\frac{\text{Approximate error}}{\text{Approximation}}\times100\%$
 	- Iterative approach, example [[Maclaurin series]]
 		- $\varepsilon_{a}=\frac{\text{current approximation}-\text{previous approximation}}{\text{current approximation}}\times100\%$
+
 	- Use the absolute value. Computations are repeated until stopping is satisfied $$|\varepsilon_{a}|<\varepsilon_{s}$$
+
 		- $\varepsilon_{s}$ pre-specified % tolerance based on the knowledge of your solution
+
 		- To ensure that the result is correct to at least $n$ significant figures, the following criterion should be met $$\varepsilon_{s}=(0.5\times10^{(2-n)})\%$$
+
 - # [[round-off error|Round-off errors]]
 	- Numbers like $\pi$, $e$ or $\sqrt{7}$ cannot be expressed by a fixed number of significant figures and causes a discrepancy called *round-off error*
 	- Computers use a base-2 representation; they cannot precisely represent certain exact base-10 numbers.
@@ -40,10 +41,15 @@ tags:
 			- ![[floating point binary.png]]
 		- ### [[normalization|Normalization]]
 			- Normalization allows for the removal of leading zeroes by multiplying the mantissa by 10 and lowering the exponent by 1
+
 			- Its consequence is that the absolute value of $m$ is limited, that is $$\frac{1}{b}\leq m<1$$
+
 			- Therefore,
+
 				- For a base-10 system $$0.1\leq m<1$$
+
 				- For a base-2 system $$0.5\leq m < 1$$
+
 		- Floating point representation allows both fractions and very large numbers to be expressed on the computer.
 			- Limitations
 				- Floating point numbers take up more room

@@ -1,5 +1,7 @@
 # Elements
+
 ***
+
 ## Characters
 
 ## Setting
@@ -21,7 +23,9 @@
 ### Resolution
 
 # Analysis
+
 ***
+
 ## Style of writing
 
 ## Conflict

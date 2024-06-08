@@ -1,14 +1,10 @@
 ---
 Course: ENGENVI
 Topic: Sustainable Management
-Linked_Tests:
-  - Quiz 3
-  - Final Exam
+Linked_Tests: [Quiz 3, Final Exam]
 Status: Done
-References used:
-  - Student Presentation Materials
-tags:
-  - lesson
+References used: [Student Presentation Materials]
+tags: [lesson]
 ---
 
 - [[sustainable management|Sustainable management]]

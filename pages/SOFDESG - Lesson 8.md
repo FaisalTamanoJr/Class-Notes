@@ -1,14 +1,10 @@
 ---
 Course: SOFDESG
 Topic: File Processing and Databases
-Linked_Tests:
-  - Quiz 2
-  - Final Exam
+Linked_Tests: [Quiz 2, Final Exam]
 Status: Done
-References used:
-  - SOFWENG Lecture 8 (Lecture Slides)
-tags:
-  - lesson
+References used: [SOFWENG Lecture 8 (Lecture Slides)]
+tags: [lesson]
 ---
 
 - [[file processing|File processing]]

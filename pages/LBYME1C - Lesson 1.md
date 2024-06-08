@@ -3,10 +3,8 @@ Course: LBYME1C
 Topic: Engineering Design Process
 Linked_Tests:
 Status: Done
-References used:
-  - Engineering Design Process (Lecture Slides)
-tags:
-  - lesson
+References used: [Engineering Design Process (Lecture Slides)]
+tags: [lesson]
 ---
 
 - # [[Engineering Design Process]]

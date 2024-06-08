@@ -3,11 +3,8 @@ Course: ENGENVI
 Topic: Introduction to Environmental Engineering
 Linked_Tests:
 Status: Done
-References used:
-  - Introduction to Environmental Engineering (Lecture Slides)
-  - https://www.onlineengineeringprograms.com/faq/environmental-engineering-vs-science
-tags:
-  - lesson
+References used: [Introduction to Environmental Engineering (Lecture Slides), https://www.onlineengineeringprograms.com/faq/environmental-engineering-vs-science]
+tags: [lesson]
 ---
 
 - Differences between [[environmental science]] and [[environmental engineering]]

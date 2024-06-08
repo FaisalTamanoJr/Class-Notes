@@ -1,14 +1,10 @@
 ---
 Course: SOFDESG
 Topic: Testing
-Linked_Tests:
-  - Quiz 2
-  - Final Exam
+Linked_Tests: [Quiz 2, Final Exam]
 Status: Done
-References used:
-  - SOFWENG Lecture 6 (Lecture Slides)
-tags:
-  - lesson
+References used: [SOFWENG Lecture 6 (Lecture Slides)]
+tags: [lesson]
 ---
 
 - [[testing|Testing]]

@@ -1,17 +1,10 @@
 ---
 Course: CALENG3
 Topic: Applications of 1st ODEs
-Linked_Tests:
-  - Quiz 2
-  - Final Exam
+Linked_Tests: [Quiz 2, Final Exam]
 Status: Done
-References used:
-  - Decomposition and Growth (Lecture Slides)
-  - Newton's Law of Cooling (Lecture Slides)
-  - Chemical Solutions (Lecture Slides)
-  - Electrical Circuits (Lectrue Slides)
-tags:
-  - lesson
+References used: [Decomposition and Growth (Lecture Slides), Newton's Law of Cooling (Lecture Slides), Chemical Solutions (Lecture Slides), Electrical Circuits (Lectrue Slides)]
+tags: [lesson]
 ---
 
 - [[decomposition and growth|Decomposition and growth]]

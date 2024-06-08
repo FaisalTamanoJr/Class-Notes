@@ -1,14 +1,10 @@
 ---
 Course: SOFDESG
 Topic: Systems Development Life Cycle (SDLC)
-Linked_Tests:
-  - Quiz 1
-  - Final Exam
+Linked_Tests: [Quiz 1, Final Exam]
 Status: Done
-References used:
-  - SOFDESG LECTURE 2 (Lecture Slides)
-tags:
-  - lesson
+References used: [SOFDESG LECTURE 2 (Lecture Slides)]
+tags: [lesson]
 ---
 
 - [[Software Development Life Cycle|Systems Development Life Cycle]]

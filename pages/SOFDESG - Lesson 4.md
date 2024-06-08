@@ -1,14 +1,10 @@
 ---
 Course: SOFDESG
 Topic: Systems Development Methodologies
-Linked_Tests:
-  - Quiz 1
-  - Final Exam
+Linked_Tests: [Quiz 1, Final Exam]
 Status: Done
-References used:
-  - SOFDESG Lecture 4 (Lecture Slides)
-tags:
-  - lesson
+References used: [SOFDESG Lecture 4 (Lecture Slides)]
+tags: [lesson]
 ---
 
 - [[methodologies|Systems development methodologies]]

@@ -1,4 +1,3 @@
-
 | Parameter         | Measure                                      | Statistic                 |
 | ----------------- | -------------------------------------------- | ------------------------- |
 | $\mu$             | Mean of a single population                  | $\bar{x}$                 |

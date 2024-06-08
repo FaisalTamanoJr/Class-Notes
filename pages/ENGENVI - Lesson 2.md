@@ -1,14 +1,10 @@
 ---
 Course: ENGENVI
 Topic: Ecological Concepts
-Linked_Tests:
-- Quiz 1
-- Final Exam
+Linked_Tests: [Quiz 1, Final Exam]
 Status: Done
-References used:
-- Ecological Concept (Lecture Slides)
-tags:
-  - lesson
+References used: [Ecological Concept (Lecture Slides)]
+tags: [lesson]
 ---
 
 - [[ecology|Ecology]]
