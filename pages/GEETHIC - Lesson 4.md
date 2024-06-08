@@ -1,19 +1,15 @@
 ---
 Course: GEETHIC
 Topic: Deontology - Divine Command and Natural Law
-Linked_Tests:
-  - Quiz 1
+Linked_Tests: [Quiz 1]
 Status: Done
-References used:
-  - Ethics - Theories and Applications by Francis Evangelista and Napoleon Mabaquiao Jr. (Chapter 4)
-  - PPT Presentation 4 (Lecture Slides)
-tags:
-  - lesson
+References used: [Ethics - Theories and Applications by Francis Evangelista and Napoleon Mabaquiao Jr. (Chapter 4), PPT Presentation 4 (Lecture Slides)]
+tags: [lesson]
 ---
 
-# Introduction
-- The term [[deontology]] is derived from the Greek word [[deon]], which means duty
-- This ethical theory emphasizes the relationship between duty and the morality of an action, thereby not using the action’s consequences as its moral basis
+- # Introduction
+	- The term [[deontology]] is derived from the Greek word [[deon]], which means duty
+	- This ethical theory emphasizes the relationship between duty and the morality of an action, thereby not using the action’s consequences as its moral basis
 - # [[divine command theory|Divine command theory]]
 	- This theory contends that religion should be used as the basis for morality
 	- It is not recommended for polytheistic religions because their Gods do not always agree with each other (conflicting divine wills) and because they (some polytheistic religions) consider some of their Gods evil

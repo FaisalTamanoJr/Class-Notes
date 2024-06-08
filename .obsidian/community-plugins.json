@@ -8,11 +8,10 @@
   "obsidian-timeline",
   "obsidian-image-toolkit",
   "obsidian-latex-suite",
-  "obsidian-trim-whitespace",
   "homepage",
   "dataview",
   "obsidian-zoom",
   "obsidian-advanced-uri",
   "obsidian-admonition",
-  "obsidian-outliner"
+  "obsidian-linter"
 ]

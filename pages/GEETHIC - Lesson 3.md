@@ -1,13 +1,10 @@
 ---
 Course: GEETHIC
 Topic: Consequentialism
-Linked_Tests:
-  - Quiz 1
+Linked_Tests: [Quiz 1]
 Status: Done
-References used:
-  - Ethics - Theories and Applications by Francis Evangelista and Napoleon Mabaquiao Jr. (Chapter 3)
-tags:
-  - lesson
+References used: [Ethics - Theories and Applications by Francis Evangelista and Napoleon Mabaquiao Jr. (Chapter 3)]
+tags: [lesson]
 ---
 
 - # Theory of ethics
@@ -54,7 +51,7 @@ tags:
 				1. [[agent-relative consequentialism|Agent-relative]] [[hedonism]] - an action is morally good if it gives the maximum pleasure to its agent
 				2. [[agent-neutral consequentialism|Agent-neutral]] [[hedonism]] - an action is morally good if it results in the maximum overall pleasure of everyone involved in an action
 				3. [[agent-relative consequentialism|Agent-relative]] [[non-hedonism]] - an action is morally good if it gives the maximum benefits to its agent
-				4. [[agent-neutral consequentialism|Agent-neutral]]  [[non-hedonism]] - an action is morally good if it results in the maximum overall benefits for everyone involved in the action
+				4. [[agent-neutral consequentialism|Agent-neutral]] [[non-hedonism]] - an action is morally good if it results in the maximum overall benefits for everyone involved in the action
 			- Good ethical theories for [[agent-relative consequentialism|agent-relative]] [[hedonism]]:
 				- Pleasures are classified as either [[active pleasure|active]]—characterized by the gratification of a specific desire—or [[passive pleasure|passive]]—characterized by the absence of pain
 				- [[Cyrenaicism]] ([[active hedonism]]) - an ethical theory by [[Aristippus]] focusing on maximizing **short but intense** pleasure of an agent (sensory pleasures).
