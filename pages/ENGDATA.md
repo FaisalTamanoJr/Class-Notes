@@ -10,6 +10,7 @@ WHERE Course = this.file.name
 SORT number(split(file.name,"ENGDATA - Lesson")[1]) ASC
 ```
 
+```ad-tip
 - Helpful materials
 	- [[ENGDATA estimation.pdf|Estimation]]
 	- [[statistical tables.pdf|Statistical tables]]
@@ -24,3 +25,4 @@ SORT number(split(file.name,"ENGDATA - Lesson")[1]) ASC
 		6. Shift Stat
 		7. Var
 		8. Choose either $\bar{x}$ or $sx$ based on desired output.
+```

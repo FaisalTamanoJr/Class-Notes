@@ -1,7 +1,7 @@
 ---
 Course: GESPORT
 Topic: Introduction and Orientation
-Linked_Tests:
+Linked_Tests: [None]
 Status: Done
 References used: [Class Orientation on Policy, Requirements, and Grading Distribution (Canvas Module), Some Popular Stretches to Prevent Injuries (Canvas Module), Warm-Up & Conditioning/Cooldown Routine (Canvas Module)]
 tags: [lesson]
