@@ -13,7 +13,7 @@ tags: [lesson]
 		- Materials are cycled from the reservoir to the sink and from the sink to the reservoir.
 - [[matter cycles]] in ecosystems
 	- General phases
-		- ![[matter cycles phases.jpeg|400]]
+		- ![[matter cycles phases.webp|400]]
 	- Types
 		1. [[water cycle|Water (Hydrologic) cycle]]
 			- Processes involved

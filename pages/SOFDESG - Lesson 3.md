@@ -8,7 +8,7 @@ tags: [lesson]
 ---
 
 - [[waterfall model|Iterative waterfall model]]
-	- ![[iterative waterfall model.jpg|400]]
+	- ![[iterative waterfall model.webp|400]]
 	- Provides feedback paths to correct errors when they are detected later in a phase. It is preferred that these errors are detected in the same phase in which they occur.
 	- Advantages
 		- Produces a working model of the system that shows the design flaws at a very early stage of development, enabling you to take corrective measures in a limited budget.
@@ -16,7 +16,7 @@ tags: [lesson]
 		- This model applies only to large software development projects.
 		- It is hard to break a small software system into smaller but useful increments or modules.
 - [[evolutionary model|Evolutionary model]] (also called the successive versions model or the incremental model)
-	- ![[evolutionary model.jpg|400]]
+	- ![[evolutionary model.webp|400]]
 	- A simple working model is built first, then enhancements and new features are incrementally introduced over time until the desired system is achieved. This process suggests breaking the work into smaller chunks, prioritizing more important chunks over less important ones, then individually delivering the chunks to the customer.
 	- Applications
 		- Useful for large projects where you can easily find modules for incremental implementation.
@@ -28,8 +28,8 @@ tags: [lesson]
 	- Disadvantages
 		- It is difficult to divide the problem into several versions that are incrementally implemented and delivered, while also being acceptable for the customer.
 - [[spiral model|Spiral model]]
-	- ![[spiral model.jpg|300]]
-	- ![[spiral model example.jpg|300]]
+	- ![[spiral model.webp|300]]
+	- ![[spiral model example.webp|300]]
 	- It is also called a meta model since it encompasses all other life cycle models.
 	- It is a model that inherently provides support for [[risk handling]]. The loops of the spiral, also known as the phases of the software development process, have varying numbers depending on the project’s risks.
 	- The radius at any point of the spiral represents the expenses, while the angular dimension represents the progress of the current phase.
@@ -69,7 +69,7 @@ tags: [lesson]
 		- Extended time required to go through the development life cycle.
 		- User requirements change over time.
 	- Kinds of prototypes
-		- ![[kinds of prototype.jpg|300]]
+		- ![[kinds of prototype.webp|300]]
 		- Patched-up prototype
 			- A system that works and has all the features, but is also patched up and inefficient (the retrieval and storage of information may be inefficient).
 			- Users can interact with the system.
@@ -131,7 +131,7 @@ tags: [lesson]
 	- Writing user stories
 		- Are gathered through conversations between developers and users, where they seek to identify valuable business requirements.
 		- It aims to prevent misunderstandings about the user requirements.
-		- ![[user stories card.jpg|400]]
+		- ![[user stories card.webp|400]]
 			- User stories can be recorded on cards. It should be brief enough for an analyst to determine what systems features are needed.
 	- Development tools
 		- Tools that facilitate collaboration.

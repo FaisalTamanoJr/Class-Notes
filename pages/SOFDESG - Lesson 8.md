@@ -96,7 +96,7 @@ tags: [lesson]
 			- [[associative entity|Associative entity]] is the event or third entity that links two entities that are under a M:N relationship.
 	- [[cardinality|Cardinality]]
 		- [[cardinality notation|Cardinality notation]]
-			- ![[cardinality notation.jpg|250]]
+			- ![[cardinality notation.webp|250]]
 			- Cardinality notation serves as the notation to show the relationships between entities
 		- [[crow’s foot notation|Crow’s foot notation]]
 			- Crow’s foot notation is a common type of cardinality notation that is referred to as the “Crow’s foot notation” because of the shapes.

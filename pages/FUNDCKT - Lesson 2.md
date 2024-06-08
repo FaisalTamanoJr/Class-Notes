@@ -23,11 +23,11 @@ tags: [lesson]
 		- An ideal current source will generate enough voltage needed to sustain the specified current flow
 		- In theory, an ideal source could provide an unlimited amount of energy
 		- [[independent electrical source|Independent source]]
-			- ![[independent voltage source symbols.png|400]]
+			- ![[independent voltage source symbols.webp|400]]
 			- An ideal independent source is an active element that provides a specified voltage or current that is independent of other circuit elements
 			- Physical sources such as batteries and generators are approximations of the ideal voltage sources
 		- [[dependent electrical source|Dependent source]]
-			- ![[dependent voltage source symbols.png|200]]
+			- ![[dependent voltage source symbols.webp|200]]
 			- An ideal dependent/controlled source is an active element in which its voltage/current depends on another voltage/current
 			- It can be classified into 4 types:
 				1. Voltage-controlled voltage source ([[VCVS]])
@@ -44,7 +44,7 @@ tags: [lesson]
 		- If the current flows from a lower potential to a higher potential, $v=-iR$
 	- A resistor obeying the Ohm’s law, or has constant resistance, is known as a linear resistor; hence, a nonlinear resistor does not follow the Ohm’s law.
 	- ## [[resistance|Resistance]]
-		- ![[common resistivities.png|400]]
+		- ![[common resistivities.webp|400]]
 
 		- The property of materials to resist the flow of electric charge ([[current]]). It denotes the resistance $R$ of an element (measured in $\Omega$) $$R=\frac{v}{i}$$
 

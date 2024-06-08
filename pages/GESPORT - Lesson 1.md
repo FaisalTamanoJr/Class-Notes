@@ -23,7 +23,7 @@ tags: [lesson]
 		- Roundnet set
 		- Court dimensions - 6 feet service line, no boundaries.
 	- ## Basic rules
-		- ![[spikeball setup.png|200]]
+		- ![[spikeball setup.webp|200]]
 		- Receivers can stand at any chosen distance.
 		- Players can move wherever they want once the ball is served.
 		- Possession changes when the ball contacts the net.

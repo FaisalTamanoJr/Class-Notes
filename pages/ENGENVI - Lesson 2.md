@@ -113,7 +113,7 @@ tags: [lesson]
 	- All energy in an ecosystem comes from the sun, which is constantly transferred from one trophic level to another.
 	- Energy passes from the producers, to the consumers, and back to the producers.
 	- At each trophic level
-		- ![[energy flow.jpg|250]]
+		- ![[energy flow.webp|250]]
 		- Net production is much lesser than gross production because organisms use some of the energy to stay alive. For this reason, the difference in net production and gross production for animals is much greater than for plants.
 		- Much of the energy stored in the net production was lost to the system by decay, being carried downstream.
 		- Substantial losses in net production as energy passes from one trophic level to the next. For instance, only 1-2% of energy is captured by plants and stored as chemical bonds, and only 1-20% is consumed by herbivores.

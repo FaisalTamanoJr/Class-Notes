@@ -25,12 +25,12 @@ tags: [lesson]
 		4. Operation, security, and support
 	- Models
 		- [[waterfall model|Waterfall model]]
-			- ![[SDLC waterfall model.jpg|300]]
+			- ![[SDLC waterfall model.webp|300]]
 				- Is the traditional way of representing an SDLC.
 				- The result of each phase, referred to as the end product, flows sequentially into the next phase.
 				- The adjacent phases interact, as shown by the dotted lines.
 		- [[alternative model of an SDLC|Alternative model]]
-			- ![[SDLC alternative model.jpg|300]]
+			- ![[SDLC alternative model.webp|300]]
 				- In this model, the planning, analysis, and design interact continuously, followed by implementation and operation and support.
 				- It depicts the real world practice, and the constant dialog among users, managers, and systems developers.
 	- It includes the following steps

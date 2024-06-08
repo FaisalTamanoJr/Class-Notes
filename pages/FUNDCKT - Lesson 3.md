@@ -32,13 +32,13 @@ tags: [lesson]
 
 		- [[principle of current division|Principle of current division]] states that the total current is shared by the resistors in inverse proportion to their [[resistance|resistances]]; the circuit is known as a [[current divider]].
 - # [[wye-delta transformations|Wye-delta transformations]]
-	- ![[wye-delta transformations.png|500]]
+	- ![[wye-delta transformations.webp|500]]
 	- These networks occur by themselves or as part of a larger network
 	- They are used in three-phase networks, electrical filters, and matching networks
-	- ![[wye-delta circuit.png]]
+	- ![[wye-delta circuit.webp]]
 		- ### [[delta|Delta]] to [[wye]] conversion
-			- ![[delta to wye.png|200]]
+			- ![[delta to wye.webp|200]]
 			- Each resistor in the $Y$ network is the product of the resistor in the two $\Delta$ adjacent branches, divided by the sum of the three resistors
 		- ### [[wye|Wye]] to [[delta]] conversion
-			- ![[wye to delta.png|200]]
+			- ![[wye to delta.webp|200]]
 			- Each resistor in the $\Delta$ network is the sum of all possible products of $Y$ resistors taken two at a time, divided by the opposite $Y$ resistor

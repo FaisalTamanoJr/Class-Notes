@@ -126,15 +126,15 @@ tags: [lesson]
 - [[graphical charts|Graphical charts]]
 	- Main types
 		1. Pie chart
-			- ![[pie chart.png|100]]
+			- ![[pie chart.webp|100]]
 		2. Bar chart
-			- ![[bar chart.png|100]]
+			- ![[bar chart.webp|100]]
 		3. Column chart
-			- ![[column chart.png|100]]
+			- ![[column chart.webp|100]]
 		4. Line chart
-			- ![[line chart.png|100]]
+			- ![[line chart.webp|100]]
 		5. Dot chart
-			- ![[dot chart.png|100]]
+			- ![[dot chart.webp|100]]
 	- Steps to choosing
 		1. Determine the message you want to make.
 		2. Identify the comparison (component, item, time series, frequency distribution, correlation).

@@ -24,7 +24,7 @@ tags: [lesson]
 				- $\text{Independent variables}$: Dimensions which determines the system’s behavior.
 				- $\text{Parameters}$: Reflects the system’s properties.
 				- $\text{Forcing functions}$: External influences that affect the system.
-		- ![[engineer problem solving process.png|250]]
+		- ![[engineer problem solving process.webp|250]]
 - # Programming and software
 	- ## Packages and programming
 		- You can use [[Excel]] or [[MATLAB]] to perform numerical methods in problem solving.

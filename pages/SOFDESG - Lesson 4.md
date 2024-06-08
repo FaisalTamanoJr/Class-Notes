@@ -32,7 +32,7 @@ tags: [lesson]
 		- There is a lot of time between the completion of the system proposal in the analysis phase and the delivery of the system.
 		- Accommodating changes is expensive.
 - [[Parallel development|Parallel development]]
-	- ![[parallel development.jpg|400]]
+	- ![[parallel development.webp|400]]
 	- Attempts to address the waterfall development problem, where there is a long time interval between the analysis phase and the delivery of the system.
 - [[Rapid Application Development]] (RAD)
 	- A general strategy to adjust the SDLC phases and deliver the system quickly to the users. For this reason, phases are combined even though the traditional steps are followed.

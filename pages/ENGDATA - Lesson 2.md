@@ -104,7 +104,7 @@ Tags: [lesson]
 - [[Venn diagram]]
 	- A Venn diagram is a diagram that contains sets that are usually represented by regions (usually circular), and are labelled using symbols. It was first employed by Leonhard Euler, but was named after John Venn.
 	- Venn diagram representations of event/set operations
-		- ![[set operations.jpg|400]]
+		- ![[set operations.webp|400]]
 - Counting principles and techniques
 	- [[counting theory|Counting theory]]
 		- Definition

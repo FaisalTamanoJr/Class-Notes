@@ -30,7 +30,7 @@ tags: [lesson]
 	- General solution
 		- $T=T_{0}+ce^{kt}$
 - [[chemical solution|Chemical solution]]
-	- ![[chemical solutions first order ode.jpg|300]]
+	- ![[chemical solutions first order ode.webp|300]]
 		- $Q_{0}=$ initial amount of salt (lb).
 		- $V_{0}=$ initial volume of the solution in the tank (gal).
 		- $m_{1}=$ initial concentration of the incoming solution (lb/gal).
@@ -47,7 +47,7 @@ tags: [lesson]
 				- $V=V_{0}+(q_{1}-q_{2})t$
 				- $m=\frac{Q}{V}$
 - [[electric circuit|Electric circuit]]
-	- ![[rcl series.jpg|100]]
+	- ![[rcl series.webp|100]]
 	- Electric circuits are treated as a network containing only one closed path
 	- Elements
 		1. Electromotive force (EMF) or Voltage ($E$ or $V$), which acts as a source of energy (volts).

@@ -36,9 +36,9 @@ tags: [lesson]
 	- Computers use a base-2 representation; they cannot precisely represent certain exact base-10 numbers.
 	- ## Floating point representation
 		- Fractional quantities are typically represented using floating point form
-			- ![[floating point representation.png]]
+			- ![[floating point representation.webp]]
 		- One way that a floating-point number could be stored in a word
-			- ![[floating point binary.png]]
+			- ![[floating point binary.webp]]
 		- ### [[normalization|Normalization]]
 			- Normalization allows for the removal of leading zeroes by multiplying the mantissa by 10 and lowering the exponent by 1
 
