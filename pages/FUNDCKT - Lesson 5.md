@@ -88,6 +88,28 @@ $R_{Th}$ usually takes a negative value since the circuit is supplying power—w
 
 # [[Norton’s theorem]]
 
+![[Norton's theorem.webp|300]]
+
+- **Norton’s theorem** says that we can replace a linear two-terminal circuit with an equivalent circuit that consists of a current source $I_{N}$ in parallel with a resistor $R_{N}$
+	- $I_{N}$ is the short-circuit current at the terminals
+	- $R_{N}$ is the equivalent resistance or input resistance at the terminals when the [[independent electrical source|independent sources]] are turned off
+
+- The Norton resistance $R_{N}$ is equivalent to the Thevenin resistance $R_{Th}$ $$R_{N}=R_{Th}$$
+
+- The Norton current $I_{N}$ pertains to the current flowing from terminal $a$ to $b$ (in reference to both the original and Norton equivalent circuit found in the image above), and, as such, the Norton current is also equivalent to the short-circuit current $i_{sc}$. Thus: $$I_{N}=i_{sc}$$
+
+- Norton’s theorem treats their independent and dependent sources similar to Thevenin’s theorem—only the independent sources are turned off because the dependent ones are controlled by the circuit variables.
+
+# Relationship between Thevenin’s theorem and Norton’s theorem
+
+Knowing that the Norton and Thevenin resistance are equal, the relationship between Norton’s and Thevenin’s equivalent circuit is described in the equation below $$I_{N}=\frac{V_{Th}}{R_{Th}}$$
+
+- The relationship between the two equivalent circuits can be explained through source transformation; as a result, source transformation is also referred to as the [[Thevenin-Norton transformation]].
+- Since these three elements are related, we can find the Thevenin or Norton equivalent circuit by determining two of the three elements (the third element can be computed through [[Ohm’s law]]):
+	- The open-circuit voltage $v_{oc}$ across terminals $a$ and $b$
+	- The short-circuit current $i_{sc}$ at terminals $a$ and $b$
+	- The equivalent or input resistance $R_{in}$ at terminals $a$ and $b$ when all independent sources are turned off
+
 [^homogeneity]: For example, because [[Ohm’s law]] states that $v=iR$, the voltage increases by constant $k$ if the current is increased by a constant $k$; thus, $kiR=kv$.
 [^additivity]: if $v_{1}=i_{1}R$ and $v_{2}=i_{2}R$, then applying $i_{1}+i_{2}$ gives $v=i_{1}R+i_{2}R=v_{1}+v_{2}$
 [^open_circuit_elements]: The $oc$ in $v_{oc}$ pertains to open circuit, while the $in$ in $R_{in}$ pertains to input
