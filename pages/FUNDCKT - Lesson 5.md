@@ -2,7 +2,7 @@
 Course: FUNDCKT
 Topic: Source Transformation, Thevenin's Theorem, and Norton's Theorem
 Linked_Tests: [None]
-Status: Work in Progress
+Status: Done
 References used: [Fundamentals of Electric Circuits by Charles Alexander and Matthew Sadiku (Chapter 4)]
 tags: [lesson]
 ---
