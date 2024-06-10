@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "603bf0b2f8cc1d27",
+        "id": "4c68c4108efe6f6d",
         "type": "tabs",
         "children": [
           {
-            "id": "0a87f500fb623631",
+            "id": "51697d653d49d0f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/contents.md",
+                "file": "README.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -40,7 +40,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/contents.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/contents.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/contents.md"
+                "file": "README.md"
               }
             }
           }
@@ -185,34 +185,34 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0a87f500fb623631",
+  "active": "51697d653d49d0f9",
   "lastOpenFiles": [
+    "pages/GEETHIC - Lesson 5.md",
+    "pages/Kant.md",
+    "pages/GEETHIC.md",
     "pages/contents.md",
     "pages/FUNDCKT - Lesson 5.md",
     "pages/FUNDCKT.md",
-    "README.md",
+    "pages/GELITPH.md",
     "pages/progress-tracker.md",
-    "pages/GEETHIC.md",
     "pages/FUNDCKT - Lesson 6.md",
     "pages/FUNDCKT - Lesson 4.md",
+    "README.md",
+    "pages/GEETHIC - Lesson 3.md",
+    "pages/ENGENVI - Lesson 3.md",
+    "pages/ENGENVI.md",
+    "pages/ENGENVI - Lesson 5.md",
     "pages/FUNDCKT - Lesson 3.md",
     "pages/FUNDCKT - Lesson 2.md",
     "pages/FUNDCKT - Lesson 1.md",
-    "pages/GEETHIC - Lesson 3.md",
     "pages/GEETHIC - Lesson 2.md",
     "pages/GEETHIC - Lesson 1.md",
-    "pages/GELITPH.md",
     "pages/GELITPH - Lesson 3.md",
     "pages/GELITPH - Lesson 1.md",
     "pages/GESPORT.md",
     "pages/GESPORT - Lesson 1.md",
     "pages/GESPORT - Lesson 0.md",
     "pages/CALENG3.md",
-    "pages/CALENG3 - Lesson 3.md",
-    "pages/ENGENVI.md",
-    "pages/ENGENVI - Lesson 5.md",
-    "pages/ENGENVI - Lesson 4.md",
-    "pages/ENGENVI - Lesson 3.md",
     "assets/Norton's theorem.webp",
     "assets/Thevenin's theorem.webp",
     "assets/Pasted image 20240608135228.png",
