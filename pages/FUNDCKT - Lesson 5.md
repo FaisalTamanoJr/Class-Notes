@@ -15,8 +15,8 @@ Because of the increasing complexity of electric circuits, engineers devised the
 
 - [[linearity|Linearity]] is an element’s property that describes the directly proportional relationship between cause and effect; consequently, a linear circuit is one whose output is linearly related to its input
 - It is a combination of both the [[homogeneity]] property and the [[additivity]] property
-	- If an input (also known as [[excitation]]) is multiplied by a constant, the homogeneity property requires the output (also known as [[response]]) to be multiplied by the same constant. [^homogeneity]
-	- The additivity property requires that the response to a sum of inputs is the sum of the responses to each input applied separately. [^additivity]
+	- If an input (also known as [[excitation]]) is multiplied by a constant, the homogeneity property requires the output (also known as [[response]]) to be multiplied by the same constant.[^homogeneity]
+	- The additivity property requires that the response to a sum of inputs is the sum of the responses to each input applied separately.[^additivity]
 
 ## Superposition
 
@@ -61,9 +61,7 @@ In practice, it is usually the case that a particular element in a circuit is va
 	- $R_{Th}$ is the equivalent resistance or input resistance at the terminals when the [[independent electrical source|independent sources]] are turned off
 - Circuits are said to be *equivalent* when they have the same voltage-current relation at their terminals
 
-	- Because no current is flowing at the terminals when the load is removed, the open-circuit and Thevenin circuit becomes the same; as a result, open-circuit elements ($v_{oc}$ and $R_{in}$) also become equivalent to the Thevenin circuit elements ($V_{Th}$ and $R_{Th}$) $$\begin{align}V_{Th}=v_{oc} &&;&& R_{Th}=R_{in}\end{align}$$
-
- [^open_circuit_elements]
+	- Because no current is flowing at the terminals when the load is removed, the open-circuit and Thevenin circuit becomes the same; as a result, open-circuit elements ($v_{oc}$ and $R_{in}$) also become equivalent to the Thevenin circuit elements ($V_{Th}$ and $R_{Th}$).[^open_circuit_elements] $$\begin{align}V_{Th}=v_{oc} &&;&& R_{Th}=R_{in}\end{align}$$
 
 - We can obtain the **load elements** through the following formulas: $$\begin{equation}\begin{split} I_{L}&=\frac{V_{Th}}{R_{Th}+R_{L}} \\ V_{L}&=R_{L}I_{L}=R_{L}\left(\frac{V_{Th}}{R_{Th}+R_{L}}\right)\end{split}\end{equation}$$
 

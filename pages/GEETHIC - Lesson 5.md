@@ -20,7 +20,7 @@ It claims that generous actions with moral worth are not prompted by natural inc
 
 Kant contends that our rational will (or reason) solely underlies morality, independent of empirical observation. Consequently, he claims that our moral knowledge comes before human experience, and as such, moral reasoning is based on reason alone—even without even the aid of human experience.
 
-## The good will
+## The [[good will]]
 
 Kant believes that morality is necessary, absolute, and universal; therefore, its value is not [[instrumental good|derived]] from nonmoral goods like happiness (it is [[intrinsic good|inherently valuable]]).
 
@@ -29,7 +29,15 @@ Kant believes that morality is necessary, absolute, and universal; therefore, it
 — Kant, 1965
 ```
 
+For Kant, the highest good is one that is intrinsically valuable—which he referred to as *moral good*—as opposed to the derived *nonmoral good* found in [[utilitarianism]].
+
+Besides this, he also claimed that *good will* is the only thing good in itself.[^will] For this reason, he argued that the only good actions are the ones performed with a good will: if a person does a generous action for a motive besides moral duty, they are acting with the wrong motive.
+
+The idea that good will is the only thing good in itself implies that other virtues—such as happiness, knowledge, and power (nonmoral goods)—are only [[instrumental good|instrumental goods]], thereby having the potential to be evil when used by an *evil will*. As a result, only good will is essential in determining whether a particular action is morally valuable or not.
+
 ## Acting from duty
+
+According to Kant, for an action to be good, it has to come with a good will; in other words, it is done for the right reason. This means that a *good person* is one whose actions are motivated by their duties or their respect for the moral law itself. Good people act *from duty* and not *in accord with duty*; they do not do good because it is convenient to do so, rather, they do it because it is their duty.
 
 ## The categorical imperative
 
@@ -46,3 +54,5 @@ Kant believes that morality is necessary, absolute, and universal; therefore, it
 ## Distinguishing between [[prima facie]] and actual duties
 
 ## Determining prima facie and actual duties
+
+[^will]: Will, in this context, pertains to intention or motive.
