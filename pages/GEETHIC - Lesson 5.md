@@ -39,7 +39,20 @@ The idea that good will is the only thing good in itself implies that other virt
 
 According to Kant, for an action to be good, it has to come with a good will; in other words, it is done for the right reason. This means that a *good person* is one whose actions are motivated by their duties or their respect for the moral law itself. Good people act *from duty* and not *in accord with duty*; they do not do good because it is convenient to do so, rather, they do it because it is their duty.
 
+Acting from duty implies that it is not done due to desires, feelings, or natural inclinations. As such, good deeds instigated by feelings of pity will grant no moral points. Kant stresses that if the feelings or desire disappear, the actions will as well; thus, if we govern ourselves through our reason, we control our desires and foster the nobler parts of ourselves.
+
+In order to determine what our moral duties are, Kant formulated the *categorical imperative*.
+
 ## The categorical imperative
+
+Through nonempirical reasoning, we can arrive at absolute moral truth and discover our moral duties. Hence, we do not need to use empirical data to determine which actions are right and which ones are not.
+
+Moral duties can be translated into the language of imperatives or commands; as a consequence, we can say that they have imperative force. Kant categorized these imperatives into two types:
+
+1. [[hypothetical imperative|Hypothetical imperative]] - possesses the formula:
+	- If you want $X$, then do $Y$
+2. [[categorical imperative|Categorical imperative]] - possesses the formula:
+	- Do $Y$
 
 ## Treating persons as ends
 

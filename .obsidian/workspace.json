@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7e284ebce357220a",
+        "id": "0eb6b7c20b55b910",
         "type": "tabs",
         "children": [
           {
-            "id": "2afe770e815bcbe0",
+            "id": "f4ed942cddc75fa1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,7 +168,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -184,13 +185,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2afe770e815bcbe0",
+  "active": "f4ed942cddc75fa1",
   "lastOpenFiles": [
     "pages/GEETHIC - Lesson 5.md",
+    "pages/hypothetical imperative.md",
     "pages/GEETHIC.md",
     "pages/contents.md",
-    "README.md",
     "pages/FUNDCKT.md",
+    "README.md",
     "pages/GEETHIC - Lesson 4.md",
     "pages/GEETHIC - Lesson 3.md",
     "pages/GEETHIC - Lesson 2.md",
@@ -211,7 +213,6 @@
     "pages/FUNDCKT - Lesson 2.md",
     "pages/FUNDCKT - Lesson 1.md",
     "pages/GELITPH - Lesson 3.md",
-    "pages/GELITPH - Lesson 1.md",
     "assets/Norton's theorem.webp",
     "assets/Thevenin's theorem.webp",
     "assets/Pasted image 20240608135228.png",
