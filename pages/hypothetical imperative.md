@@ -1,1 +1,3 @@
-
+---
+alias: [conditional imperative]
+---

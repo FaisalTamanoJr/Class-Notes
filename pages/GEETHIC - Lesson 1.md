@@ -77,7 +77,6 @@ tags: [lesson]
 		- [[dependency argument|Dependency argument]]
 			- It is derived from the diversity argument which states that morality is relative to time and culture.
 			- It argues that an individual’s values are a product of their social/cultural environment.
-				- My interpretation: It kinda justifies individual ethical relativism because nothing can be judged from an independent and non-cultural view point.
 				- The strongest version of its assertion is that all truths is relative to the conceptual framework and the culture in which it is situated in (even science)
 				- The moderate version asserts that the meaning of human behavior is always relative to the culture it occurs in. Consequently, the moral aspect of our actions is dependent on the cultural context for its meaning.
 		- [[toleration argument|Toleration argument]]

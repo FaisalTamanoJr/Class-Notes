@@ -49,16 +49,77 @@ Through nonempirical reasoning, we can arrive at absolute moral truth and discov
 
 Moral duties can be translated into the language of imperatives or commands; as a consequence, we can say that they have imperative force. Kant categorized these imperatives into two types:
 
-1. [[hypothetical imperative|Hypothetical imperative]] - possesses the formula:
+1. [[hypothetical imperative|Hypothetical imperative]] (or conditional imperative) - possesses the formula:
 	- If you want $X$, then do $Y$
-2. [[categorical imperative|Categorical imperative]] - possesses the formula:
+2. [[categorical imperative|Categorical imperative]] (or unconditional imperative) - possesses the formula:
 	- Do $Y$
+
+Our moral duties are categorized as *categorical imperatives*; hence, we are required to accomplish them regardless of the consequences or its effects on our desires.
+
+```ad-info
+title: Three ways in which the categorical imperative may be formulated
+
+There are three different *general* [[principles]] that explain the conditions an acceptable moral rule should meet:
+
+1. [[Principle of Universal Law]]
+2. [[Principle of Ends]]
+3. [[Principle of Autonomy]]
+
+```
+
+## Rules must be universal
+
+> Act only on that maxim whereby thou canst at the same time will that it should become a universal law.
+
+The [[Principle of Universal Law]] contends that moral rules should be impartial and universal. Therefore, a valid [[maxim]] (or general rule of conduct) is suitable for everyone to live by.
+
+This principle highlights the importance of acting rationally; instead of just focusing on one’s own self-interest, they also view it from the perspectives of others. If a rule is not consistent—like when it does not equally apply to everyone or when it can be broken when it suits our immediate interests—it is meaningless.
+
+Besides this, Kant believed that moral judgments should be logically consistent and free from internal contradictions.
+
+```ad-summary
+Three important things to note in this principle according to Wall (2003):
+
+1. The categorical imperative does not provide us with a list of concrete rules, instead it provides us conditions that any rule must satisfy. In terms of form, all moral rules should be universalizable.
+2. Morality should be impartial, meaning that it treats everyone equally.
+3. No exceptions can be applied to the universalizable moral maxims (to prevent any contradictions).
+```
 
 ## Treating persons as ends
 
+> So act as to treat humanity, whether in your person or in that of any other, in every case as an end and never as merely a means.
+
+The [[Principle of Ends]], also known as the [[Principle of Ends|Principle of Respect for Person]], is the second formulation of the categorical imperative. This formulation emphasizes *humanity’s* inherent value due to their sheer possession of [[rationality]]. Even those who do not act rationally are still unconditionally valuable because of their capacity of achieving a good moral character. [^rationality]
+
+Because rational beings are intrinsically valuable, Kant believes that it is immoral to use them as merely means to an end—it violates their inherent worth. Even if using them will benefit society, it is still not morally permissible to do so because it disrespects their dignity, rights, and autonomy—we are treating them like objects (things that only have [[instrumental good|instrumental worth]]).
+
+```ad-note
+Kant is not necessarily saying that treating people as means is wrong, but that we should we value people's consent or autonomy. Thus, we can use others as means if they permit it.
+
+Besides treating them as means, we ought to also treat them as an end; this entails that we respect their autonomy, rights, and dignity.
+
+```
+
+This principle does not only apply to others but also ourselves. Kant stresses the moral significance of respecting one’s own rights and dignity. For this reason, one cannot justify being a slave by stating that they consented to it because it violates their dignity.
+
 ## The will as universal lawgiver
 
-## Evaluating Kant’s ethics
+> So act as if you were always through your maxims a law-making member of the kingdom of ends [^kingdom_of_ends]
+
+The third formulation, also known as the [[Principle of Autonomy]], claims that we only act in good will when we have convinced ourselves that the moral law that governs us are our duties. It implies that we follow a rule not because of any external authority but because our reasoning ability tells us to. Nonetheless, we should ensure that the personal [[maxim|maxims]] we legislate are both universalizable and respectful towards people’s dignity and rights.
+
+This principle underscores the value of choosing our own moral rules—we live by our moral laws because of our sheer respect for them. Doing so will allow us to live true to our nature as rational beings. [^natural_law]
+
+The opposite of this principle is [[heteronomy]]; it characterizes actions which are motivated by external authority (e.g., religion, the state, and culture).
+
+Following this principle entails that we cannot impose our morals into others because we have to recognize their autonomy as rational persons.
+
+## Criticisms
+
+1. **It cannot resolve moral dilemmas**. It is incapable of determining which duty should override the other because it views moral rules as absolute and exceptionless.
+2. **It is too strict and unrealistic**. The theory does not see the moral worth in actions not motivated by duty but feelings or natural inclinations.
+3. **It has an incomplete view of humans**. Critics say that humans are not purely composed of reason, but also consists of emotions and desires; thus, it should not be ignored when discussing our nature.
+4. **Its view on [[moral personhood]] is biased towards mentally-healthy humans**. It only considers a being as a person when they are capable of rational judgment and have a will to adhere to moral principles. This implies that mentally-impaired people have no moral standing, and thereby have no [[moral right|moral rights]]. In addition, it can disregard the moral rights of some animals.
 
 # [[conditional deontology|Conditional deontology]]
 
@@ -69,3 +130,6 @@ Moral duties can be translated into the language of imperatives or commands; as 
 ## Determining prima facie and actual duties
 
 [^will]: Will, in this context, pertains to intention or motive.
+[^rationality]: Rationality is valuable because it underlies morality
+[^kingdom_of_ends]: The kingdom of ends pertains to the web of all rational beings that are tied by shared moral maxims.
+[^natural_law]: Didn’t Aquinas said the same thing—rationality is both in our nature and purpose as humans, that’s why we follow moral principles.
