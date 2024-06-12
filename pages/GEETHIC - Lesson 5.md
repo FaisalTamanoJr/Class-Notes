@@ -130,6 +130,6 @@ Following this principle entails that we cannot impose our morals into others be
 ## Determining prima facie and actual duties
 
 [^will]: Will, in this context, pertains to intention or motive.
-[^rationality]: Rationality is valuable because it underlies morality
+[^rationality]: Rationality is valuable because it underlies morality.
 [^kingdom_of_ends]: The kingdom of ends pertains to the web of all rational beings that are tied by shared moral maxims.
-[^natural_law]: Didn’t Aquinas said the same thing—rationality is both in our nature and purpose as humans, that’s why we follow moral principles.
+[^natural_law]: Didn’t Aquinas said the same thing? (rationality is both in our nature and purpose as humans, that’s why we follow moral principles)
