@@ -70,15 +70,15 @@ tags: [lesson]
 			- Responsibility can also refer to the possession duties or obligations that gives rise to accountability. This is also known as [[prospective responsibility]], referring to the responsibility directed towards actions that will or may happen.
 			- On the other hand, [[retrospective responsibility]] deals with responsibility directed towards actions that had already happened, which people often interchange with accountability.
 	- ## Moral and legal accountability
-		- There are different types of accountability; one way of distinguishing them is by focusing on the standards used to evaluate the quality (rightness or wrongness) of an action—moral accountability uses moral standards while legal accountability uses legal standards..
+		- There are different types of accountability; one way of distinguishing them is by focusing on the standards used to evaluate the quality (rightness or wrongness) of an action—moral accountability uses moral standards while legal accountability uses legal standards.
 		- Legal sanctions involve external (physical) forms of punishment while moral sanctions involve internal (or mental) forms of punishment.
 	- ## Conditions for moral accountability
 		- The conditions for moral accountability can be classified into [[attribution conditions]] (also known as [[assignment conditions]]) or [[degree conditions]].
 		- ### The attribution conditions
 			- These deal with the attribution of accountability to a person for a certain action they committed. Under these are the following:
 				- [[incriminating conditions|Incriminating conditions]]
-					- Involves making an agent morally accountable for a certain action under consideration. If one of the conditions are not satisfied, then they are excused from moral accountability.
-					- If one of the conditions is invalid, they are excused from being held morally accountable for an action
+					- Involves making an agent morally accountable for a certain action under consideration.
+					- If one of the conditions are not satisfied, then they are excused from moral accountability.
 					- Agency condition, is satisfied when a person is the cause of the action
 					- [[knowledge condition|Knowledge condition]] is an incriminating condition that refers to the capacity of a person to know the moral quality of a certain action
 					- [[intentionality condition|Intentionality condition]] is an incriminating condition that refers to whether the action under consideration was intentional or unintentional

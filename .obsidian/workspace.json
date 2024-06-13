@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "804814b2b0c4b213",
+        "id": "140f7f3ab5f7cd35",
         "type": "tabs",
         "children": [
           {
-            "id": "aa7616799bc4998a",
+            "id": "e12f668142be70dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/contents.md",
+                "file": "README.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -40,7 +40,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pages/contents.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -137,7 +137,7 @@
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/contents.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/contents.md"
+                "file": "README.md"
               }
             }
           }
@@ -185,14 +185,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "aa7616799bc4998a",
+  "active": "40f39a781f3e414b",
   "lastOpenFiles": [
+    "pages/GEETHIC - Lesson 3.md",
+    "pages/GEETHIC.md",
+    "pages/GEETHIC - Lesson 4.md",
+    "pages/GEETHIC - Lesson 2.md",
+    "pages/GEETHIC - Lesson 1.md",
+    "pages/contents.md",
+    "README.md",
     "pages/FUNDCKT.md",
     "pages/FUNDCKT - Lesson 6.md",
-    "pages/contents.md",
-    "pages/GEETHIC.md",
     "pages/progress-tracker.md",
-    "README.md",
     "pages/permeability.md",
     "assets/characteristics of resistor capacitor and inductor.webp",
     "pages/inductor.md",
@@ -207,13 +211,9 @@
     "pages/electrical element.md",
     "pages/capacitor.md",
     "pages/GEETHIC - Lesson 5.md",
-    "pages/GEETHIC - Lesson 3.md",
-    "pages/GEETHIC - Lesson 4.md",
     "pages/moral right.md",
     "pages/principles.md",
     "pages/Jeremy Bentham.md",
-    "pages/heteronomy.md",
-    "pages/GEETHIC - Lesson 1.md",
     "assets/Norton's theorem.webp",
     "assets/Thevenin's theorem.webp",
     "assets/Pasted image 20240608135228.png",
