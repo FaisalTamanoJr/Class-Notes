@@ -44,7 +44,7 @@ An [[inductor]] is a passive element that stores energy in its *magnetic field* 
 
 The voltage across the inductor is directly proportional to the time rate of change of the current when that current is allowed to pass through an inductor.
 
-The inductor’s inductance, measured in henry’s ($H$), refers to the property in which the inductor resists the change of current flowing through it:
+The inductor’s [[inductance]], measured in henry’s ($H$), refers to the property in which the inductor resists the change of current flowing through it:
 
 $$v=L \frac{di}{dt}$$
 

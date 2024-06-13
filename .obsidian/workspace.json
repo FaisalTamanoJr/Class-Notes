@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "140f7f3ab5f7cd35",
+        "id": "8629dc5d928d8a9b",
         "type": "tabs",
         "children": [
           {
-            "id": "e12f668142be70dc",
+            "id": "f4d2a8e6bce1b383",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -185,17 +185,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "40f39a781f3e414b",
+  "active": "f4d2a8e6bce1b383",
   "lastOpenFiles": [
+    "pages/FUNDCKT - Lesson 6.md",
+    "pages/inductance.md",
+    "pages/FUNDCKT.md",
+    "pages/contents.md",
+    "README.md",
     "pages/GEETHIC - Lesson 3.md",
     "pages/GEETHIC.md",
     "pages/GEETHIC - Lesson 4.md",
     "pages/GEETHIC - Lesson 2.md",
     "pages/GEETHIC - Lesson 1.md",
-    "pages/contents.md",
-    "README.md",
-    "pages/FUNDCKT.md",
-    "pages/FUNDCKT - Lesson 6.md",
     "pages/progress-tracker.md",
     "pages/permeability.md",
     "assets/characteristics of resistor capacitor and inductor.webp",
@@ -213,7 +214,6 @@
     "pages/GEETHIC - Lesson 5.md",
     "pages/moral right.md",
     "pages/principles.md",
-    "pages/Jeremy Bentham.md",
     "assets/Norton's theorem.webp",
     "assets/Thevenin's theorem.webp",
     "assets/Pasted image 20240608135228.png",
