@@ -2,7 +2,7 @@
 Course: GEETHIC
 Topic: Deontology - Categorical Imperative and Conditional Deontology
 Linked_Tests: [Quiz 1]
-Status: Work in Progress
+Status: Done
 References used: [Ethics - Theories and Applications by Francis Evangelista and Napoleon Mabaquiao Jr. (Chapter 4)]
 tags: [lesson]
 ---
@@ -123,13 +123,52 @@ Following this principle entails that we cannot impose our morals into others be
 
 # [[conditional deontology|Conditional deontology]]
 
-## Situating Rossian ethical theory
+An issue that the [[categorical imperative]] faces is that it is unconditional: it does not consider the consequences and does not accept any exceptions. While it makes morality impartial, it becomes problematic in situations where following a maxim results into great harm.
+
+On the other hand, [[utilitarianism]] addresses this issue by focusing on the consequences instead of the rules followed; hence, generating the maximum amount of aggregate welfare. Nevertheless, it still faces a concerning problem: it permits the violation of moral rights for the maximum aggregate welfare.
+
+[[W.D. Ross|William David Ross]] attempts to resolve the issues both the categorical imperative and utilitarianism have by developing *conditional deontology*. This ethical theory holds that we should mainly focus on the performance of a moral duty when morally evaluating an act; however, unlike *Kantian deontology*, it also considers the act’s consequences. Furthermore, it also takes into account the relationships between people, actions a person has done to others, and actions others have done to a person.
+
+In relation to utilitarianism, utilitarians think that relationships are only morally relevant when it involves a provider and recipient of benefits; however, W.D. Ross contends that there are other relationships that are also important. [^relationships] These relationships serve as a basis for our moral duties.
+
+In relation to the Kantian deontology, one way this theory differs is that the importance of a moral duty changes depending on the circumstance; one moral duty might prevail over another moral duty because their moral significance are relative and dependent on the factors of the situation.
 
 ## Distinguishing between [[prima facie]] and actual duties
 
+Ross claims that there are two types of duties: *prima facie* and *actual* (or *concrete*). The former pertains to the duties we immediately recognize as actions we are have to do—for example, if we hurt someone, we immediately think that it is our duty to make reparations or apologize to them. These type of duties, however, serve as a general guide and not necessarily the actions we should take.
+
+An action becomes an *actual* duty when there are no conflicting *prima facie* duties. If, however, there are competing *prima facie* duties, we determine the actual duty by deducing which one is the most important or *incumbent* to us.
+
+```ad-note
+Despite being relative to the circumstance, *prima facie* duties are not arbitrary. Each one of them are based on morally relevant factors of a particular situation. Ross categorized *prima facie* duties into different types:
+1. [[Duty of Fidelity]] - involves fulfilling contracts and promises, and avoiding deception.
+2. [[Duty of Reparation]] - involves making up for wrongdoings.
+3. [[Duty of Gratitude]] - involves repaying others for the benefits received from them.
+4. [[Duty of Justice]] - involves holding people [[accountability|morally accountable]].
+5. [[Duty of Beneficience]] - involves improving the conditions of others or doing good to them.
+6. [[Duty of Self-Improvement]] - involves improving one's conditions.
+7. [[Duty of Non-Maleficence]] - involves protecting others.
+```
+
+```ad-note
+Just because a *prima facie* duty overrides another and becomes the *actual* duty, it does not mean that the other *prima facie* duty ceases to be a duty. It only ceases to be the actual duty in this particular situation; given a different situation, the other duty could become the actual duty.
+
+```
+
 ## Determining prima facie and actual duties
+
+Ross maintains that, in a particular situation, our *prima facie* duties are immediately clear and self-evident. Therefore, it does not need any justification or proof. Nonetheless, he still emphasizes the role of *sufficient mental maturity* in allowing us to do this—referring to the age where we already understand the nature of our actions.
+
+Despite easily being able to identify *prima facie* duties, we still need to carefully examine the situation to accurately determine our actual duties. However, this can be difficult because Ross states that every moral situation is different; as a result, he cannot provide any guiding principle to properly weigh *prima facie* duties.
+
+```ad-summary
+title: Conclusion
+Although we can easily identify our *prima facie* duties, we still cannot resolve every problem with only a single principle; hence, we need to carefully analyze and consider the morally relevant factors of a particular situation to determine the actual duty.
+
+```
 
 [^will]: Will, in this context, pertains to intention or motive.
 [^rationality]: Rationality is valuable because it underlies morality.
 [^kingdom_of_ends]: The kingdom of ends pertains to the web of all rational beings that are tied by shared moral maxims.
 [^natural_law]: Didn’t Aquinas said the same thing? (rationality is both in our nature and purpose as humans, that’s why we follow moral principles)
+[^relationships]: For example, the relationship between a child to a parent, wife to a husband, and friend to another friend.
