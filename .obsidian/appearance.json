@@ -1,7 +1,7 @@
 {
   "accentColor": "",
-  "cssTheme": "",
-  "theme": "system",
+  "cssTheme": "Minimal",
+  "theme": "moonstone",
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "baseFontSize": 16,
@@ -12,8 +12,8 @@
     "no_title_embed",
     "a",
     "drop_shadow_image",
-    "fonts",
     "no-title-embed"
   ],
-  "nativeMenus": false
+  "nativeMenus": false,
+  "baseFontSizeAction": true
 }

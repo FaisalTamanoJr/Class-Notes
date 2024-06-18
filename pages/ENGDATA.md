@@ -10,19 +10,18 @@ WHERE Course = this.file.name
 SORT number(split(file.name,"ENGDATA - Lesson")[1]) ASC
 ```
 
-```ad-tip
-- Helpful materials
-	- [[ENGDATA estimation.pdf|Estimation]]
-	- [[statistical tables.pdf|Statistical tables]]
-	- [[sampling distributions.pdf|Sampling Distributions]]
-- Calculator techniques (CASIO fx-991ES PLUS)
-	- Steps to compute for $\bar{x}$ and $sx$
-		1. Mode setup
-		2. Stat
-		3. 1-VAR
-		4. Input Data
-		5. AC
-		6. Shift Stat
-		7. Var
-		8. Choose either $\bar{x}$ or $sx$ based on desired output.
-```
+> [!tip]
+> - Helpful materials
+> 	- [[ENGDATA estimation.pdf|Estimation]]
+> 	- [[statistical tables.pdf|Statistical tables]]
+> 	- [[sampling distributions.pdf|Sampling Distributions]]
+> - Calculator techniques (CASIO fx-991ES PLUS)
+> 	- Steps to compute for $\bar{x}$ and $sx$
+> 		1. Mode setup
+> 		2. Stat
+> 		3. 1-VAR
+> 		4. Input Data
+> 		5. AC
+> 		6. Shift Stat
+> 		7. Var
+> 		8. Choose either $\bar{x}$ or $sx$ based on desired output.

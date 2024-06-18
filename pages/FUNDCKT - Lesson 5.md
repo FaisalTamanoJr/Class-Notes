@@ -23,15 +23,13 @@ Because of the increasing complexity of electric circuits, engineers devised the
 - The [[superposition principle]] asserts that, in a linear circuit, because [[independent electrical source|independent sources]] act alone, their voltage across (or current through) is equivalent to the algebraic sum of the voltage across (or current) that element
 - Since the resistor’s power depends on the square of a voltage/current, **we cannot use it for computing an element’s power**—it is nonlinear and superposition relies on the linearity property.
 
-```ad-example
-title: Steps to apply the superposition principle
-1. Turn off all independent sources except for one
-	1. To turn off a voltage source, [[short circuit]] it
-	2. To turn off a current source, [[open circuit]] it
-2. Find the active source's voltage/current output using techniques discussed in [[FUNDCKT|lessons 2 to 4]]
-3. Repeat steps 1 and 2 for each of the other independent sources
-4. Find the total contribution by algebraically adding all contributions due to the independent sources
-```
+> [!example] Steps to apply the superposition principle
+> 1. Turn off all independent sources except for one
+> 	1. To turn off a voltage source, [[short circuit]] it
+> 	2. To turn off a current source, [[open circuit]] it
+> 2. Find the active source’s voltage/current output using techniques discussed in [[FUNDCKT|lessons 2 to 4]]
+> 3. Repeat steps 1 and 2 for each of the other independent sources
+> 4. Find the total contribution by algebraically adding all contributions due to the independent sources
 
 ## [[source transformation|Source transformation]]
 
@@ -80,9 +78,8 @@ If the network has no dependent sources, we turn off all independent sources. $R
 
 2. $v_{o}$ is applied at the terminals to determine the resulting current $i_{o}$ (or vice versa since it yields the same result)$$R_{Th}=\frac{v_{o}}{i_{o}}$$
 
-```ad-note
-$R_{Th}$ usually takes a negative value since the circuit is supplying power—which happens in circuits with dependent sources
-```
+> [!NOTE]
+> $R_{Th}$ usually takes a negative value since the circuit is supplying power—which happens in circuits with dependent sources
 
 # [[Norton’s theorem]]
 

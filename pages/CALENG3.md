@@ -10,10 +10,9 @@ WHERE Course = this.file.name
 SORT number(split(file.name,"CALENG3 - Lesson")[1]) ASC
 ```
 
-```ad-tip
-- Helpful materials for solving
-	- [Algebra](http://tutorial.math.lamar.edu/getfile.aspx?file=B,31,N)
-	- [Trigonometry](http://tutorial.math.lamar.edu/getfile.aspx?file=B,33,N)
-	- [Derivatives](http://tutorial.math.lamar.edu/getfile.aspx?file=B,45,N)
-	- [Integrals](http://tutorial.math.lamar.edu/getfile.aspx?file=B,47,N)
-```
+> [!tip]
+> - Helpful materials for solving
+> 	- [Algebra](http://tutorial.math.lamar.edu/getfile.aspx?file=B,31,N)
+> 	- [Trigonometry](http://tutorial.math.lamar.edu/getfile.aspx?file=B,33,N)
+> 	- [Derivatives](http://tutorial.math.lamar.edu/getfile.aspx?file=B,45,N)
+> 	- [Integrals](http://tutorial.math.lamar.edu/getfile.aspx?file=B,47,N)
