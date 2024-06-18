@@ -23,4 +23,4 @@ The flashcards I use are found in this [repository](https://github.com/FaisalTam
 
 ## Video demo
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/II93g5EP7ZY" title="Class-Notes Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![[assets/demo.gif]]

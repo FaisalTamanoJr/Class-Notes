@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "658364ac9e9981f0",
+        "id": "06a554684138cacd",
         "type": "tabs",
         "children": [
           {
-            "id": "c9a26bfb9d95551b",
+            "id": "2f34de5ae5f6b5ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,7 +159,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c9a26bfb9d95551b",
+  "active": "2f34de5ae5f6b5ce",
   "lastOpenFiles": [
     "pages/GEETHIC - Lesson 5.md",
     "pages/GEETHIC - Lesson 3.md",
