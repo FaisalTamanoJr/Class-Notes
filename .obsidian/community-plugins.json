@@ -5,15 +5,13 @@
   "obsidian-day-planner",
   "obsidian-excalidraw-plugin",
   "obsidian-timeline",
-  "obsidian-admonition",
   "obsidian-advanced-uri",
   "dataview",
   "homepage",
   "image-converter",
-  "obsidian-image-toolkit",
   "obsidian-latex-suite",
   "obsidian-linter",
   "obsidian-smart-typography",
-  "obsidian-zoom",
-  "obsidian-minimal-settings"
+  "obsidian-minimal-settings",
+  "obsidian-outliner"
 ]
