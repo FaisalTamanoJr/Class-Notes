@@ -23,4 +23,4 @@ The flashcards I use are found in this [repository](https://github.com/FaisalTam
 
 ## Video demo
 
-![[assets/demo.gif]]
+![](assets/demo.gif)
