@@ -12,7 +12,8 @@
     "no_title_embed",
     "a",
     "drop_shadow_image",
-    "no-title-embed"
+    "no-title-embed",
+    "printing_padding"
   ],
   "nativeMenus": false,
   "baseFontSizeAction": true

@@ -45,8 +45,8 @@ $$x_{3}=x_{2}+{\frac{-2c}{b\pm{\sqrt{b^{2}-4a c}}}}$$
 
 > [!NOTE]
 > - Before using this formula, take the value of the discriminant $\sqrt{ b^2-4ac }$ to determine whether to use $+$ or $-$
-> 	- If $\left|b+\sqrt{ b^2-4c }\right| > \left|b-\sqrt{ b^2-4c }\right|$, then use a **positive** sign
-> 	- If $\left|b+\sqrt{ b^2-4c }\right| < \left|b-\sqrt{ b^2-4c }\right|$, then use a **negative** sign
+> 	- If $\left|b+\sqrt{ b^2-4ac }\right| > \left|b-\sqrt{ b^2-4ac }\right|$, then use a **positive** sign
+> 	- If $\left|b+\sqrt{ b^2-4ac }\right| < \left|b-\sqrt{ b^2-4ac }\right|$, then use a **negative** sign
 
 Hence, the final error is
 
