@@ -11,7 +11,7 @@ tags: [formulaSheet]
 
 ## Naive Gauss elimination
 
-> [!example] Summarized steps
+> [!EXAMPLE] Summarized steps
 > 1. Keep eliminating the unknowns until there is one equation with only one unknown; thus, the value of that single unknown is obtained.
 > 2. Using the previously solved unknown, use back-substitution to solve for the values of the other unknowns
 
@@ -21,21 +21,57 @@ Suppose we are a given an equation:
 
 $$\begin{align}a_{11}x_{1}\,+\,a_{12}x_{2}\,+\,a_{13}x_{3}\,+\,\cdots\,+\,a_{1n}x_{n}&=\,b_{1}\\a_{21}x_{1}+\,a_{22}x_{2}\,+\,a_{23}x_{3}\,+\,\cdots\,+\,a_{2n}x_{n}&=\,b_{2}\\&\vdotswithin{=} \notag \\a_{n1}x_{1}\,+\,a_{n2}x_{2}\,+\,a_{n3}x_{3}\,+\,\cdots\,+\,a_{n n}x_{n}&=\,b_{n}\end{align}$$
 
-If we would want to get $a'_{n1},a'_{n2},\dots a'_{nn}$—the coefficients of equation $n$ after the first variable has been eliminated—each one of these coefficients would be solved using a formula like:
+If we want to get $a'_{n1},a'_{n2},\dots a'_{nn}$—the coefficients of equation $n$ after the first variable has been eliminated—we could solve each one of these coefficients using a formula like:
 
 $$a'_{nm}=a_{nm}-\left(\frac{a_{n1}}{a_{11}}\right)(a_{1m})$$
 
-In order to get $a^{i}$ equations, one must already have the $a^{i-1}$ equation to use it as a basis for eliminating $i^{th}$ variable (just like how $a'$ uses $a$ as a basis).[^i]
+In order to get $a^{i}$ equations, we should already have the $a^{i-1}$ equation to use it as a basis for eliminating $i^{th}$ variable (just like how we use $a'$ as a basis for $a$).[^i]
 
-The other elimination pattern is similar to the equation mentioned earlier, and, as such:
+Eliminating other variables just follow a similar pattern, and, as such:
 
 $$a^{i}_{nm}=a^{i-1}_{nm}-\left(\frac{a^{i-1}_{ni}}{a^{i-1}_{ii}}\right)(a_{im})$$
 
-We use this technique and incrementally eliminate downwards until we are left with an equation with only a single variable. Afterwards, we solve for the single variable’s value, then use it to perform backward substitution to obtain the values of other variables.
+We use this technique and incrementally eliminate downwards until we are left with an equation with only a single variable. Afterwards, we solve for the single variable’s value, then use it to perform backward substitution to get the values of other variables.
 
 ## Gauss-Jordan method
 
+This is a variation of Gauss elimination where the elimination step results in an identity matrix instead of a triangular one. For this reason, we aim to make the matrix look like
+
+$$\left[\begin{matrix} 1&0&0 \\ 0&1&0 \\ 0&0&1 \end{matrix}\right]$$
+
+To do this, we perform something similar to the following steps:
+
+(These steps can only be applied for a 3 by 3 matrix)
+
+1. $R_{1}=\frac{1}{a_{11}}r_{1}$
+2. $R_{2}=r_{2}-a_{21}r_{1}'$ and $R_{3}=r_{3}-a_{31}r'_{1}$
+3. $R_{2}=\frac{1}{a'_{22}}r'_{2}$
+4. $R_{1}=r'_{1}-a'_{{12}}r''_{2}$ and $R_{3}=r'_{3}-a'_{{32}}r''_{2}$
+5. $R_{3}=\frac{1}{a''_{33}}r''_{3}$
+
+Using the vectors (the last column), we can obtain the values of the variables (with the top being $x_{1}$ and the bottom being $x_{n}$).
+
 ## LU decomposition
+
+$\begin{align} [A]\{X\}&=\{B\} \\ [U][L]&=[A] \\ [L]\{D\}&=\{B\} \\ [U]\{X\}&=\{D\} \end{align}$
+
+- Where $[A]$ is the original matrix of coefficients;
+- $\{X\}$ is the $x$ variables;
+- $\{B\}$ is the vectors;
+- $\{D\}$ is equivalent to:
+	- $\left\{\begin{matrix} d_{1} \\ d_{2} \\ d_{3} \end{matrix}\right\}$
+- $[U]$ is equivalent to:
+	- $\left[\begin{matrix} a_{11}&a_{12}&a_{13} \\ 0&a'_{22}&a'_{23} \\ 0&0&a''_{33} \end{matrix}\right]$
+- $[L]$ is equivalent to:
+	- $\left[\begin{matrix} 1&0&0 \\ f_{21}&1&0 \\ f_{31}&f_{32}&1 \end{matrix}\right]$
+		- $f_{21}=\frac{a_{21}}{a_{11}}$
+		- $f_{31}=\frac{a_{31}}{a_{11}}$
+		- $f_{32}=\frac{a'_{32}}{a'_{22}}$
+
+> [!EXAMPLE] Steps
+> 1. Perform LU decomposition (get the values of $[L]$ and $[U]$)
+> 2. Use forward substitution to get $\{D\}$
+> 3. Use backward substitution to get $\{X\}$
 
 ## The matrix inverse
 
