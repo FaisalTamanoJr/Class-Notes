@@ -13,7 +13,7 @@
   "attachmentFolderPath": "assets",
   "showUnsupportedFiles": false,
   "spellcheck": true,
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "propertiesInDocument": "source",
   "spellcheckDictionary": [
     "Incrementality",

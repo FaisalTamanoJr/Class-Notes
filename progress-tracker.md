@@ -1,3 +1,6 @@
+# Progress tracker
+
+## Lessons
 
 ```dataview
 TABLE WITHOUT ID file.link as "Backlog", Topic
