@@ -2,7 +2,7 @@
 Course: NUMMETS
 Topic: Systems of Linear Equations
 Linked_Tests: [Quiz 2]
-Status: Work in Progress
+Status: Done
 References used: [5 Systems of Linear Equations (Lecture Slides)]
 tags: [formulaSheet]
 ---
@@ -75,6 +75,36 @@ $\begin{align} [A]\{X\}&=\{B\} \\ [U][L]&=[A] \\ [L]\{D\}&=\{B\} \\ [U]\{X\}&=\{
 
 ## The matrix inverse
 
+$[A][A]^{-1}=I$
+
+To obtain the first column of the inverse matrix:
+
+${b}=\left\{ \begin{align} 1\\0\\0 \end{align} \right\}$
+
+To obtain the second column of the inverse matrix:
+
+${b}=\left\{ \begin{align} 0\\1\\0 \end{align} \right\}$
+
+To obtain the third column of the inverse matrix:
+
+${b}=\left\{ \begin{align} 0\\0\\1 \end{align} \right\}$
+
+Employ LU decomposition to find the inverse matrix. To obtain the inverse matrix, solve for $x$ using the LU decomposition equations, but changing the $b$ columns.
+
+1. Solve for $[U]$ and $[L]$
+2. $[L]\{D\}=\{B\}$ (use forward substitution)
+3. $[U]\{X\}=\{D\}$ (use backward substitution)
+
 ## Gauss-Seidel method
+
+$$\begin{align} x_{1}&=\frac{b_{1}-a_{12}x_{2}-a_{13}x_{3}}{a_{11}} \\ x_{2}&=\frac{b_{2}-a_{21}x_{1}-a_{23}x_{3}}{a_{22}}  \\ x_{3}&=\frac{b_{3}-a_{31}x_{1}-a_{32}x_{2}}{a_{33}} \end{align}$$
+
+> [!tip]
+> - You can start the solution process with the initial guesses being $0$
+> - Use previous/latest values to substitute for the variables
+
+To obtain the percent relative error:
+
+$$|\epsilon_{a,i}|=\left| \frac{x_{i}^j-x_{i}^{j-1}}{x_{i}^j} \right|\times{100}\%$$
 
 [^i]: $i$ is referring to the order and not the exponent
