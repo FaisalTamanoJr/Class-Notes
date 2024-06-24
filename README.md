@@ -21,6 +21,16 @@ The flashcards I use are found in this [repository](https://github.com/FaisalTam
 		1. `git fetch origin master`
 		2. `git reset --hard origin/master`
 
-## Video demo
+## Demo
 
 ![](assets/demo.gif)
+
+## Limitations
+
+- Inconsistent point-of-view
+	- Fluctuations between the use of first, second, and third person point-of-view occur
+- Inconsistent use of grammatical tenses
+	- Fluctuations between the use of past, present, and future tense occur
+- Inconsistent styling/formatting
+	- Over time, there have been changes in the ways the notes have been written; however, those changes were not applied to older notes.
+- Vulnerability to misinterpretations

@@ -89,7 +89,7 @@ To obtain the third column of the inverse matrix:
 
 ${b}=\left\{ \begin{align} 0\\0\\1 \end{align} \right\}$
 
-Employ LU decomposition to find the inverse matrix. To obtain the inverse matrix, solve for $x$ using the LU decomposition equations, but changing the $b$ columns.
+Employ LU decomposition to find the inverse matrix: solve for $x$ using the LU decomposition equations and keep changing the $b$ for each computation to find the values of each column.
 
 1. Solve for $[U]$ and $[L]$
 2. $[L]\{D\}=\{B\}$ (use forward substitution)
