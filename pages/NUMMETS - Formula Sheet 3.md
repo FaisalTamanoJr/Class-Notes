@@ -48,6 +48,7 @@ To do this, we perform something similar to the following steps:
 3. $R''_{2}=\frac{1}{a'_{22}}r'_{2}$
 4. $R''_{1}=r'_{1}-a'_{{12}}r''_{2}$ and $R''_{3}=r'_{3}-a'_{{32}}r''_{2}$
 5. $R'''_{3}=\frac{1}{a''_{33}}r''_{3}$
+6. $R'''_{1}=r''_{1}-a''_{{13}}r'''_{3}$ and $R'''_{2}=r''_{2}-a''_{{23}}r'''_{3}$
 
 Using the vectors (the last column), we can obtain the values of the variables (with the top being $x_{1}$ and the bottom being $x_{n}$).
 
