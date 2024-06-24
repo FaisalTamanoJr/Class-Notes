@@ -43,11 +43,11 @@ To do this, we perform something similar to the following steps:
 
 (These steps can only be applied for a 3 by 3 matrix)
 
-1. $R_{1}=\frac{1}{a_{11}}r_{1}$
-2. $R_{2}=r_{2}-a_{21}r_{1}'$ and $R_{3}=r_{3}-a_{31}r'_{1}$
-3. $R_{2}=\frac{1}{a'_{22}}r'_{2}$
-4. $R_{1}=r'_{1}-a'_{{12}}r''_{2}$ and $R_{3}=r'_{3}-a'_{{32}}r''_{2}$
-5. $R_{3}=\frac{1}{a''_{33}}r''_{3}$
+1. $R'_{1}=\frac{1}{a_{11}}r_{1}$
+2. $R'_{2}=r_{2}-a_{21}r_{1}'$ and $R'_{3}=r_{3}-a_{31}r'_{1}$
+3. $R''_{2}=\frac{1}{a'_{22}}r'_{2}$
+4. $R''_{1}=r'_{1}-a'_{{12}}r''_{2}$ and $R''_{3}=r'_{3}-a'_{{32}}r''_{2}$
+5. $R'''_{3}=\frac{1}{a''_{33}}r''_{3}$
 
 Using the vectors (the last column), we can obtain the values of the variables (with the top being $x_{1}$ and the bottom being $x_{n}$).
 
