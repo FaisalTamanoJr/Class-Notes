@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bb4568da9ccf537a",
+        "id": "800d72eddfe6bc49",
         "type": "tabs",
         "children": [
           {
-            "id": "eb669428773eca1d",
+            "id": "0ef7d9f3cd9682e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 344.5
   },
   "right": {
     "id": "eccee2bb78656ef6",
@@ -147,7 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 301.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,7 +159,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "eb669428773eca1d",
+  "active": "40f39a781f3e414b",
   "lastOpenFiles": [
     "pages/NUMMETS.md",
     "contents.md",
