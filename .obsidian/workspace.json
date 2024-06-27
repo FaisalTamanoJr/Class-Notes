@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b1eb21c7db34f5f3",
+        "id": "7b461687f6d2fdc8",
         "type": "tabs",
         "children": [
           {
-            "id": "20ba640c9d0dcf56",
+            "id": "ded3ccff8013ee2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,7 +159,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "20ba640c9d0dcf56",
+  "active": "ded3ccff8013ee2d",
   "lastOpenFiles": [
     "assets/sampling distributions.pdf",
     "assets/ENGDATA estimation.pdf",
