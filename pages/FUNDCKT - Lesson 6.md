@@ -2,7 +2,7 @@
 Course: FUNDCKT
 Topic: Transient Response 1
 Linked_Tests: [Quiz 2]
-Status: Work in Progress
+Status: Done
 References used: [Transient Response_1 (Lecture Slides), Fundamentals of Electric Circuits by Charles K. Alexander and Matthew N.O. Sadiku (Chapter 6)]
 tags: [lesson]
 ---
@@ -61,7 +61,7 @@ $$v(t)=\frac{1}{C}\int_{t_{0}}^{t}i(\tau)\,d\tau+\,v(t_{0})$$
 
 To obtain the instantaneous [[power]] stored at the capacitor:
 
-$$p=vi=Cv \frac{dv}{dt}$$
+$$p=Cv \frac{dv}{dt}$$
 
 Therefore, the energy stored in the capacitor’s electric field is
 
@@ -72,8 +72,8 @@ $$\begin{align} w&={\frac{1}{2}}Cv^{2}\Bigr|_{v(-\infty)}^{v(t)} \\ &={\frac{1}{
 
 ### Important properties of a capacitor
 
-1. The current through the capacitor is zero when the voltage across it is not changing with time; therefore, a capacitor is an open circuit to dc. If, however, a battery (dc voltage) is connected across it, it charges.
-2. The capacitor’s voltage cannot change abruptly (continuous) because it requires an infinite current—which is realistically impossible. Nonetheless, the current can change abruptly.
+1. The current through the capacitor is zero when the voltage across it is constant; therefore, a capacitor is an open circuit to [[direct current|dc]]. If, however, a battery (dc voltage) is connected across it, it charges.
+2. The capacitor’s voltage cannot change abruptly (or be discontinuous) because it requires an infinite current—which is realistically impossible. Nonetheless, its current can change abruptly.
 3. The ideal capacitor takes power from the circuit when storing energy but returns it when delivering it back; as a result, it does not dissipate energy.
 4. Although, realistically, capacitors have a parallel-model leakage resistance, it can still be ignored for most practical applications.
 
@@ -103,4 +103,56 @@ $$v=L \frac{di}{dt}$$
 > - $L =$ the constant of proportionality or the inductor’s *inductance* (in henrys or $H$)
 > - $\frac{di}{dt} =$ the time rate of change of the current
 
-[[inductance|Inductance]] measures the inductor’s capacity to resist the change of current flowing through it.
+[[inductance|Inductance]] measures the inductor’s capacity to resist the change of current flowing through it. Similar to [[capacitance]], it depends on the physical dimensions.
+
+Formulae for calculating the inductance vary depending on the shape of the inductor. An example formula is shown in the following equation:
+
+$$L={\frac{N^{2}\mu A}{\ell}}$$
+
+> [!NOTE]
+> - $L =$ is the constant of proportionality or the inductance
+> - $N =$ the number of turns
+> - $\mu =$ the [[permeability]] of the core
+> - $A =$ the cross-sectional area
+> - $\ell =$ the length
+
+An inductor exhibits a *linear* [[voltage]]-[[current]] relationship when its inductance is independent of current; otherwise, it is a *nonlinear* inductor with inductance that varies with current.
+
+To solve for the current using the inductance:
+
+$$i=\frac{1}{L}\int_{t_{0}}^{t}v(\tau)d\tau+i(t_{0})$$
+
+> [!NOTE]
+> - $i(t_{0})$ is the total current for $-\infty < t < t_{0}$ and $i(-\infty)=0$
+
+To solve for the power delivered to the inductor:
+
+$$p=L i \frac{di}{dt}$$
+
+To solve for the energy stored in the inductor:
+
+$$w=\frac{1}{2}Li^2$$
+
+### Important properties of an inductor
+
+1. If the current is constant, the voltage across an inductor is zero; as a result, the inductor acts like a short circuit to [[direct current|dc]].
+2. The inductor’s current cannot change abruptly (or be discontinuous) because it requires an infinite voltage—which is realistically impossible. Nonetheless, its voltage can change abruptly.
+3. Ideally, the inductor does not dissipate energy; thus, it would deliver back all the power it takes and stores from the circuit after a period of time.
+4. The nonideal inductor has a resistive component known as the [[winding resistance]] $R_{w}$. For this reason, it is both an energy storing and energy dissipating device. Nevertheless, it is ignored in most cases because it is usually very small. In addition, it also has a [[winding capacitance]] $C_{w}$ that, similarly, is usually ignored because of how minuscule it is.
+
+### Series and parallel inductors
+
+The equivalent inductor $L_{eq}$ of inductors following a series connection are solved using the following equation:
+
+$$L_{eq}=L_{1}+L_{2}+\dots+L_{N}$$
+
+On the other hand, to obtain the equivalent inductor $L_{eq}$ of a number of parallel inductors, use the following equation:
+
+$$L_{eq}=\left(\frac{1}{L_{1}}+\frac{1}{L_{2}}+\dots+\frac{1}{L_{N}}\right)^{-1}$$
+
+Similar to [[parallel resistors]], two inductors can be combined in parallel with the equation
+
+$$L_{eq}=\frac{L_{1}L_{2}}{L_{1}+L_{2}}$$
+
+> [!TIP]
+> The [[wye-delta transformations]] can be extended to both inductors and capacitors as long as they are of the same type
