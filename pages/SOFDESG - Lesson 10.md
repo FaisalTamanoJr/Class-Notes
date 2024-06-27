@@ -46,7 +46,7 @@ tags: [lesson]
 		- Stream data mining
 		- Bioinformatics and bio-data analysis
 	- Typical data mining system architecture
-		- ![[typical data mining architecture.webp|400]]
+		- ![[typical data mining architecture]]
 	- Functionalities
 		- Concept description: characterization and discrimination.
 			- Generalize, summarize, and contrast data characteristics.

@@ -10,8 +10,8 @@ tags: [lesson]
 - # [[electrical engineering|Electrical Engineering]]
 	- Electrical engineering focuses on the transfer of energy between points using the interconnection of electrical devices, also known as an [[electrical circuit]]. Components of an electrical circuit are referred to as an [[electrical element]].
 	- ## [[International System of Units (SI)]]
-		- ![[SI electrical units.webp|400]]
-		- ![[SI prefixes.webp|200]]
+		- ![[SI electrical units]]
+		- ![[SI prefixes]]
 	- ## [[charge|Charge]]
 		- Charge is the most basic quantity in an electrical circuit, measured in [[coulombs]] ($C$).
 			- 1 coulomb (C) of charge is equal to $\left( \frac{1}{1.602\times{10}^{-19}} \right)=6.24\times{10^{18}}$ electrons.

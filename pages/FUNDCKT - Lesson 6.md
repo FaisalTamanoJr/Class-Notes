@@ -11,7 +11,7 @@ tags: [lesson]
 
 ## Summary of formulae and characteristics
 
-![[characteristics of resistor capacitor and inductor.webp|600]]
+![[characteristics of resistor capacitor and inductor]]
 
 ## Introduction
 

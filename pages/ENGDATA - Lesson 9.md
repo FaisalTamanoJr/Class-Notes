@@ -34,7 +34,18 @@ tags: [lesson]
 				- $\bar{Y}=\text{Average value of the dependent variable}$
 				- $Y_{i}=\text{Observed values of the dependent variable}$
 				- $\hat{Y}_{i}=\text{Predicted value of Y for the given } X_i \text{ value}$
-	- ![[simple linear regression equations.webp|500]]
+	- Summary of equations
+		- $\hat{y}=a+bx$
+		- $\displaystyle a=\frac{\displaystyle\sum_{i=1}^{n}y_{i}-b\sum_{i=1}^nx_{i}}{n}$
+		- $b=\frac{\displaystyle n\sum_{i=1}^{n}x_{i}y_{i}-\left(\sum_{i=1}^nx_{i}\right)\left(\sum_{i=1}^ny_{i}\right)}{\displaystyle n\sum_{i=1}^nx_{i}^2-\left(\sum_{i=1}^nx_{i}\right)^2}$
+		- $\displaystyle r=b\sqrt{ \frac{S_{x x}}{S_{y y}} }=\frac{S_{xy}}{\sqrt{ S_{xx}S_{Syy} }}$
+			- Correlation ($r$) is defined as the statistical association between two variables
+		- $\displaystyle S_{xx}=\sum^n_{i=1}x_{i}^2-\frac{\displaystyle \left( \sum^n_{i=1} x_{i}\right)^2}{n}$
+		- $\displaystyle S_{yy}=\sum^n_{i=1}y_{i}^2-\frac{\displaystyle \left( \sum^n_{i=1} y_{i}\right)^2}{n}$
+		- $\displaystyle S_{xy}=\sum^n_{i=1}x_{i}y_{i}-\frac{\displaystyle \left( \sum^n_{i=1} x_{i}\right)\left( \sum^n_{i=1} y_{i}\right)}{n}$
+		- $SST=S_{yy}$
+		- $SSR=bS_{xy}$
+		- $SSE=SST-SSR$
 - Regression t-test
 	- T-test for a population slope
 		- Is there a linear relationship between $X$ and $Y$

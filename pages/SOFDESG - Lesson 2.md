@@ -25,7 +25,7 @@ tags: [lesson]
 		4. Operation, security, and support
 	- Models
 		- [[waterfall model|Waterfall model]]
-			- ![[SDLC waterfall model.webp|300]]
+			- ![[SDLC waterfall model]]
 				- Is the traditional way of representing an SDLC.
 				- The result of each phase, referred to as the end product, flows sequentially into the next phase.
 				- The adjacent phases interact, as shown by the dotted lines.

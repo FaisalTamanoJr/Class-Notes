@@ -44,7 +44,7 @@ tags: [lesson]
 		- If the current flows from a lower potential to a higher potential, $v=-iR$
 	- A resistor obeying the Ohm’s law, or has constant resistance, is known as a linear resistor; hence, a nonlinear resistor does not follow the Ohm’s law.
 	- ## [[resistance|Resistance]]
-		- ![[common resistivities.webp|400]]
+		- ![[common resistivities]]
 
 		- The property of materials to resist the flow of electric charge ([[current]]). It denotes the resistance $R$ of an element (measured in $\Omega$) $$R=\frac{v}{i}$$
 

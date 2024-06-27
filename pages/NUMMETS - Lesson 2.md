@@ -36,7 +36,11 @@ tags: [lesson]
 	- Computers use a base-2 representation; they cannot precisely represent certain exact base-10 numbers.
 	- ## Floating point representation
 		- Fractional quantities are typically represented using floating point form
-			- ![[floating point representation.webp]]
+			- $m \cdot b^e$
+				- $m$ is the mantissa
+				- Integer part
+					- $b$ is the base of the number system used
+					- $e$ is the exponent
 		- One way that a floating-point number could be stored in a word
 			- ![[floating point binary.webp]]
 		- ### [[normalization|Normalization]]

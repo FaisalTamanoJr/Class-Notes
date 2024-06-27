@@ -19,6 +19,7 @@ tags: [lesson]
 	- **T**hreats
 		- Questions include, what major threats do we face, and what can we do about them? How do we deal with potential threats to success?
 - From strategic plans to business results
+	- ![[strategic plans to business results]]
 	- ![[strategic plans to business results.webp|300]]
 	- [[mission statement|Mission statement]]
 		- It is based on the firm’s purpose, vision, and values; it describes a company for its stakeholders and briefly states the company’s purpose, products, services, and values.

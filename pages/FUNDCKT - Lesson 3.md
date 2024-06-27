@@ -37,8 +37,8 @@ tags: [lesson]
 	- They are used in three-phase networks, electrical filters, and matching networks
 	- ![[wye-delta circuit.webp]]
 		- ### [[delta|Delta]] to [[wye]] conversion
-			- ![[delta to wye.webp|200]]
+			- $\begin{align} R_{1}=\frac{R_{b}R_{c}}{R_{a}+R_{b}+R_{c}} \\ R_{2}=\frac{R_{c}R_{a}}{R_{a}+R_{b}+R_{c}} \\ R_{3}=\frac{R_{a}R_{b}}{R_{a}+R_{b}+R_{c}} \end{align}$
 			- Each resistor in the $Y$ network is the product of the resistor in the two $\Delta$ adjacent branches, divided by the sum of the three resistors
 		- ### [[wye|Wye]] to [[delta]] conversion
-			- ![[wye to delta.webp|200]]
+			- $\begin{align} R_{a} = \frac{R_{1}R_{2}+R_{2}R_{3}+R_{3}R_{1}}{R_{1}} \\ R_{b} = \frac{R_{1}R_{2}+R_{2}R_{3}+R_{3}R_{1}}{R_{2}} \\ R_{c} = \frac{R_{1}R_{2}+R_{2}R_{3}+R_{3}R_{1}}{R_{3}} \end{align}$
 			- Each resistor in the $\Delta$ network is the sum of all possible products of $Y$ resistors taken two at a time, divided by the opposite $Y$ resistor

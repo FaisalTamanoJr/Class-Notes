@@ -8,7 +8,7 @@ tags: [lesson]
 ---
 
 - [[waterfall model|Iterative waterfall model]]
-	- ![[iterative waterfall model.webp|400]]
+	- ![[iterative waterfall model]]
 	- Provides feedback paths to correct errors when they are detected later in a phase. It is preferred that these errors are detected in the same phase in which they occur.
 	- Advantages
 		- Produces a working model of the system that shows the design flaws at a very early stage of development, enabling you to take corrective measures in a limited budget.
@@ -16,7 +16,7 @@ tags: [lesson]
 		- This model applies only to large software development projects.
 		- It is hard to break a small software system into smaller but useful increments or modules.
 - [[evolutionary model|Evolutionary model]] (also called the successive versions model or the incremental model)
-	- ![[evolutionary model.webp|400]]
+	- ![[evolutionary model illustration]]
 	- A simple working model is built first, then enhancements and new features are incrementally introduced over time until the desired system is achieved. This process suggests breaking the work into smaller chunks, prioritizing more important chunks over less important ones, then individually delivering the chunks to the customer.
 	- Applications
 		- Useful for large projects where you can easily find modules for incremental implementation.
