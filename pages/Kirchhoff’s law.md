@@ -1,0 +1,3 @@
+---
+alias: ["Kirchhoff's laws"]
+---

@@ -59,7 +59,7 @@ tags: [lesson]
 			1. Charge ($Q$) is the quantity of electricity (coulombs).
 			2. Current ($I$) is the time rate of flow of electricity (amperes).
 	- $\frac{dQ}{dt}=I$
-	- [[Kirchoff’s law]]
+	- [[Kirchhoff’s law]]
 		- The algebraic sum of the voltage drops around a loop or electric circuit is 0.
 		- Voltage supplied = sum of voltage drops.
 	- Contribution of each of the idealized elements in the simple network
