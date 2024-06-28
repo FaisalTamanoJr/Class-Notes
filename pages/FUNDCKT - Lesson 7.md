@@ -26,7 +26,7 @@ As time increases the voltage decreases towards 0; the rate in which it decrease
 
 $$\tau=RC$$
 
-$$v(t)=V_{0}e^{-t\tau}$$
+$$v(t)=V_{0}e^{-t/\tau}$$
 
 After five times the time constant ($5\tau$), we can observe that the voltage’s magnitude decreases to less than $1\%$ ($0.00674\%$), thereby making it safe to assume that the capacitor is fully discharged after that point—[[steady state response]] that is guaranteed after $5\tau$.
 
