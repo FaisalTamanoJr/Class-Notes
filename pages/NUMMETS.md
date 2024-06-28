@@ -1,5 +1,5 @@
 ---
-Term: nth Term
+Term: 6th Term
 tags: [course]
 ---
 
