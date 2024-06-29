@@ -1,0 +1,3 @@
+---
+alias: ["Singularity functions"]
+---

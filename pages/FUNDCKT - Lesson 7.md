@@ -44,9 +44,9 @@ $$\displaystyle w_{R}(t)=\frac{1}{2}CV_{0}^2(1-e^{-2t/\tau})$$
 
 > [!TIP]
 > You should find the initial voltage across the capacitor $v(0)$ and the time constant $\tau$ first because it allows you to obtain the response or capacitor voltage $v_{C}(t)$, which then allows you to determine the following:
-> - capacitor current $i_{c}$
-> - resistor voltage $v_{R}$
-> - resistor current $i_{{R}}$
+> - capacitor current $i_{c}$;
+> - resistor voltage $v_{R}$; and
+> - resistor current $i_{{R}}$.
 
 > [!TIP]
 > You can use [[Thevenin’s theorem]] when you have a single capacitor—or combined capacitors using an equivalent capacitor—and some resistors and dependent sources. This is done by using the capacitor’s terminals to create a simple $RC$ circuit.
@@ -75,14 +75,45 @@ $$\displaystyle w_{R}(t)=\frac{1}{2}LI_{0}^2(1-e^{-2t/\tau})$$
 
 > [!TIP]
 > You should find the initial current across the inductor $i(0)$ and the time constant $\tau$ first because it allows you to obtain the response or inductor current $i_{L}(t)$, which then allows you to determine the following:
-> - inductor voltage $v_{L}$
-> - resistor voltage $v_{R}$
-> - resistor current $i_{{R}}$
+> - inductor voltage $v_{L}$;
+> - resistor voltage $v_{R}$; and
+> - resistor current $i_{{R}}$.
 
 > [!TIP]
 > You can use [[Thevenin’s theorem]] when you have a single inductor—or combined inductors using an equivalent inductor—and some resistors and dependent sources. This is done by using the inductor’s terminals to create a simple $RL$ circuit.
 
 ## Singularity functions
+
+Learning singularity functions aid in understanding the first order circuits’ response to sudden application of an independent [[direct current|dc]] source; they can approximate the switching signals found in circuits with switching operations.
+
+> [!info] Definition
+> [[singularity functions|Singularity functions]] (or [[switching functions]]) are either discontinuous functions or functions with discontinuous derivatives
+
+The commonly used types of singularity functions are
+
+- unit step;
+- unit impulse; and
+- unit ramp.
+
+### Unit step function
+
+The [[unit step function]] is $0$ when $t$ is negative and $1$ when it is positive. The table below illustrates its nature.
+
+| Function                                                                              | Graph                          | Description                                                                                                                          |
+| ------------------------------------------------------------------------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| $u(t)={\left\{\begin{array}{l l}{0,}&{t\lt 0}\\ {1,}&{t\gt 0}\end{array}\right.}$     | ![[unit step function.webp]]   | The function is undefined at $t=0$; as a result, we see the function suddenly shift from 0 to 1.                                     |
+| $u(t-1)={\left\{\begin{array}{l l}{0,}&{t\lt 1}\\ {1,}&{t\gt 1}\end{array}\right.}$   | ![[unit step function 2.webp]] | The graph shifts to the right because $t=1$ instead of $t=0$. This implies that $u(t)$ is delayed by 1 second.                       |
+| $u(t+1)={\left\{\begin{array}{l l}{0,}&{t\lt -1}\\ {1,}&{t\gt -1}\end{array}\right.}$ | ![[unit step function 3.webp]] | As seen in the graph, it shifts to the left because $t$ is now equal to $-1$. Contrary to $t=1$, $u(t)$ is now advanced by 1 second. |
+
+We can use this function to model the behavior of circuits during a sudden change in voltage or current. The equation below illustrates how we can express the voltage in terms of a unit step function.
+
+$$\begin{align} v(t)={\left\{\begin{array}{l l}{0,}&{t\lt t_{0}}\\ {V_{0},}&{t\gt t_{0}}\end{array}\right.} &&\longrightarrow&& v(t)=V_{0}u(t-t_{0})\end{align}$$
+
+If $t_{0}$ is equal to $0$, then $v(t)$ is the step voltage $V_{0}(t)$.
+
+### Unit impulse function
+
+### Unit ramp function
 
 ## Step response of RC
 
