@@ -21,6 +21,8 @@ The flashcards I use are found in this [repository](https://github.com/FaisalTam
 		1. `git fetch origin master`
 		2. `git reset --hard origin/master`
 
+Note: This only works if you cloned the repository with git to download the files. Although you get a much smaller file size when downloading through zip, you can only update it by downloading the zip file again.
+
 ## Demo
 
 ![](assets/demo.gif)

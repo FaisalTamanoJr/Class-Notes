@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "15f0b9a96ffd4c0d",
+        "id": "5cd66ebe4582da34",
         "type": "tabs",
         "children": [
           {
-            "id": "e8387a78d3637395",
+            "id": "7452b7cf0d0d8967",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -137,7 +137,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.29629629629629634,
+                  "scale": 0.2962962962962963,
                   "close": true
                 }
               }
@@ -159,11 +159,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e8387a78d3637395",
+  "active": "7452b7cf0d0d8967",
   "lastOpenFiles": [
+    "pages/intrinsic good.md",
+    "pages/GEETHIC - Lesson 5.md",
+    "pages/GEETHIC.md",
+    "contents.md",
     "pages/estimation formulas.md",
     "pages/ENGDATA.md",
-    "contents.md",
     "README.md",
     "assets/ENGDATA estimation.pdf",
     "assets/sampling distributions.pdf",
@@ -194,8 +197,6 @@
     "pages/NUMMETS - Lesson 1.md",
     "pages/engineering problem solving process.md",
     "pages/evolutionary model.md",
-    "pages/SOFDESG - Lesson 10.md",
-    "pages/typical data mining architecture.md",
     "assets/iterative waterfall model.webp",
     "assets/SDLC alternative model.webp",
     "assets/statistical tables.pdf",
