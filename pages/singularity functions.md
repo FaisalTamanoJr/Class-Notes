@@ -1,3 +1,3 @@
 ---
-alias: ["Singularity functions"]
+alias: ["Singularity functions", "switching functions"]
 ---

@@ -87,7 +87,7 @@ $$\displaystyle w_{R}(t)=\frac{1}{2}LI_{0}^2(1-e^{-2t/\tau})$$
 Learning singularity functions aid in understanding the first order circuits’ response to sudden application of an independent [[direct current|dc]] source; they can approximate the switching signals found in circuits with switching operations.
 
 > [!info] Definition
-> [[singularity functions|Singularity functions]] (or [[switching functions]]) are either discontinuous functions or functions with discontinuous derivatives
+> [[singularity functions|Singularity functions]] are either discontinuous functions or functions with discontinuous derivatives
 
 The commonly used types of singularity functions are
 
@@ -101,7 +101,7 @@ The [[unit step function]] is $0$ when $t$ is negative and $1$ when it is positi
 
 | Function                                                                              | Graph                          | Description                                                                                                                          |
 | ------------------------------------------------------------------------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
-| $u(t)={\left\{\begin{array}{l l}{0,}&{t\lt 0}\\ {1,}&{t\gt 0}\end{array}\right.}$     | ![[unit step function.webp]]   | The function is undefined at $t=0$; as a result, we see the function suddenly shift from 0 to 1.                                     |
+| $u(t)={\left\{\begin{array}{l l}{0,}&{t\lt 0}\\ {1,}&{t\gt 0}\end{array}\right.}$     | ![[unit step function.webp]]   | The function is undefined at $t=0$; as a result, we see the function suddenly shift from 0 to 1 at $t=0$.                            |
 | $u(t-1)={\left\{\begin{array}{l l}{0,}&{t\lt 1}\\ {1,}&{t\gt 1}\end{array}\right.}$   | ![[unit step function 2.webp]] | The graph shifts to the right because $t=1$ instead of $t=0$. This implies that $u(t)$ is delayed by 1 second.                       |
 | $u(t+1)={\left\{\begin{array}{l l}{0,}&{t\lt -1}\\ {1,}&{t\gt -1}\end{array}\right.}$ | ![[unit step function 3.webp]] | As seen in the graph, it shifts to the left because $t$ is now equal to $-1$. Contrary to $t=1$, $u(t)$ is now advanced by 1 second. |
 
@@ -109,11 +109,46 @@ We can use this function to model the behavior of circuits during a sudden chang
 
 $$\begin{align} v(t)={\left\{\begin{array}{l l}{0,}&{t\lt t_{0}}\\ {V_{0},}&{t\gt t_{0}}\end{array}\right.} &&\longrightarrow&& v(t)=V_{0}u(t-t_{0})\end{align}$$
 
-If $t_{0}$ is equal to $0$, then $v(t)$ is the step voltage $V_{0}(t)$.
+If $t_{0}$ is equal to $0$, then $v(t)$ is the step voltage $V_{0}u(t)$. The circuit below portrays how the unit step function can model the its behavior.
+
+| Circuit                     | Circuit Equivalent                             | Description                                                  |
+| --------------------------- | ---------------------------------------------- | ------------------------------------------------------------ |
+| ![[unit step circuit.webp]] | ![[unit step circuit 2.webp]] | $v=0$ when $t<0$ (short-circuited), but $v=V_{0}$ when $t>0$ |
 
 ### Unit impulse function
 
+| Function                                                                                                                             | Graph                           |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------- |
+| $\delta(t)=\frac{d}{dt}u(t)={\left\{\begin{array}{l l}{0,}&&{t\lt 0}\\ {\text{Undefined},}&&{t=0}\\{0,}&&{t\gt0}\end{array}\right.}$ | ![[unit impulse function.webp]] |
+
+The derivative of a unit step function, a [[unit impulse function]] $\delta(t)$, is undefined at $t=0$ but is $0$ at any other values of $t$. The unit impulse is considered as either an applied or resulting shock. It is expressed as
+
+$$\int ^{0^{+}}_{0^{-}} \delta(t)\, dt = 1 $$
+
+> [!NOTE]
+> - $t=0^{-}$ is the time before $t=0$
+> - $t=0^{+}$ is the time after $t=0$
+
+Either switching operations or impulsive sources give rise to impulsive currents and voltages in circuits.
+
+The unit area of the function is known as its *strength*. When this strength is composed of things other than unity, the impulse’s area becomes equal to its strength.
+
+We can find the value of a function where the impulse occurs by integrating it with the impulse function—a property of the impulse function referred to as the [[sampling property]]. This is mathematically expressed as
+
+$$\int_{a}^{b}f(t)\delta(t-t_{0})\,d t=f(t_{0})$$
+
 ### Unit ramp function
+
+| Function                                                                         | Graph                                          |
+| -------------------------------------------------------------------------------- | ---------------------------------------------- |
+| $r(t)={\left\{\begin{array}{l l}{0,}&{t\leq0}\\{t,}&{t\geq0}\end{array}\right.}$ | ![[unit ramp function.webp]] |
+
+The unit step function’s integral, the [[unit ramp function]], has a unit slope for $t>0$ but is $0$ when $t<0$
+
+Other characteristics:
+
+- It can be advanced or delayed (like when $t=t_{0}$ or $t=-t_{0}$ instead of $t=0$)
+- It changes with a constant rate
 
 ## Step response of RC
 
