@@ -97,7 +97,7 @@ The commonly used types of singularity functions are
 
 ### Unit step function
 
-The [[unit step function]] is $0$ when $t$ is negative and $1$ when it is positive. The table below illustrates its nature.
+The [[unit step function]] is $0$ when $t$ is negative, $1$ when it is positive, and *undefined* when it $t=0$. The table below illustrates its nature.
 
 | Function                                                                              | Graph                          | Description                                                                                                                          |
 | ------------------------------------------------------------------------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -151,5 +151,35 @@ Other characteristics:
 - It changes with a constant rate
 
 ## Step response of RC
+
+The [[step response]] is the response of a suddenly applied dc source that is modeled as a [[step function]]. The equation for its [[complete response]] is (assuming that the capacitor is initially charged)
+
+$$v(t)={\left\{\begin{array}{l l}{V_{0},}&&{t\lt 0}\\ {V_{s}+(V_{0}-V_{s})\,e^{-t/\tau},}&&{t>0}\end{array}\right.}$$
+
+> [!NOTE]
+> - $v(t)=$ the voltage across the capacitor
+> - $V_{0}=$ the initial voltage
+> - $V_{s}=$ the constant dc voltage source
+
+If the capacitor is initially uncharged ($V_{0}=0$), the complete step response, current, and time constant can be obtained using
+
+$$\begin{align}v(t)&=V_{s}(1-e^{-t/\tau})u(t)\\i(t)&=\frac{V_{s}}{R}e^{-t/\tau}u(t)&\tau=RC,&& t>0\end{align}$$
+
+We can also decompose $v(t)$ into two components with two methods:
+
+1. Complete response = natural response (stored energy) + forced response (independent source)
+2. Complete response = transient response (temporary part) + steady-state response (permanent part)
+
+### Natural and forced response
+
+It can be written as
+
+$$v=v_{n}+v_{f}$$
+
+Where
+
+$$\begin{align} v_{n}=V_{0}e^{-t/\tau} &&;&& v_{f}=V_{s}(1-e^{-t/\tau})\end{align}$$
+
+### Steady-state response
 
 ## Step response of RL
