@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7b461687f6d2fdc8",
+        "id": "15f0b9a96ffd4c0d",
         "type": "tabs",
         "children": [
           {
-            "id": "ded3ccff8013ee2d",
+            "id": "e8387a78d3637395",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,10 +159,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ded3ccff8013ee2d",
+  "active": "e8387a78d3637395",
   "lastOpenFiles": [
-    "assets/sampling distributions.pdf",
+    "pages/estimation formulas.md",
+    "pages/ENGDATA.md",
+    "contents.md",
+    "README.md",
     "assets/ENGDATA estimation.pdf",
+    "assets/sampling distributions.pdf",
     "pages/FUNDCKT - Lesson 6.md",
     "pages/characteristics of resistor capacitor and inductor.md",
     "assets/characteristics of resistor capacitor and inductor.webp",
@@ -192,12 +196,8 @@
     "pages/evolutionary model.md",
     "pages/SOFDESG - Lesson 10.md",
     "pages/typical data mining architecture.md",
-    "pages/iterative waterfall model.md",
     "assets/iterative waterfall model.webp",
-    "pages/SOFDESG - Lesson 2.md",
-    "pages/SDLC waterfall model.md",
     "assets/SDLC alternative model.webp",
-    "pages/waterfall model.md",
     "assets/statistical tables.pdf",
     "assets/GELITPH guidelines.pdf",
     "assets/GELITPH schedule.pdf",

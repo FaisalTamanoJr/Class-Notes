@@ -12,7 +12,7 @@ SORT number(split(file.name,"ENGDATA - Lesson")[1]) ASC
 
 > [!tip]
 > - Helpful materials
-> 	- [[ENGDATA estimation.pdf|Estimation]]
+> 	- [[estimation formulas|Estimation formulas]]
 > 	- [[statistical tables.pdf|Statistical tables]]
 > 	- [[sampling distributions.pdf|Sampling Distributions]]
 > - Calculator techniques (CASIO fx-991ES PLUS)
