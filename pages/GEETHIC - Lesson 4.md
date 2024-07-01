@@ -54,7 +54,7 @@ tags: [lesson]
 		- They assume that humans can find these laws through reason. As a result, these views overcome the criticisms against the [[divine command theory]] by relying on a rational foundation for morality.
 	- ## Basis of morality
 		- This theory maintains that morality is part of the natural order of things; consequently, reason can find valid moral principles by examining the **nature** of humans and society.
-			- What is morally right is strongly related to what feels *natural*; whereas, what is morally wrong is strongly related to what feels *unnatural*. This argues that ethics regulate human conduct for the good of humanity, in which that good is governed by human nature; therefore, human nature should underlie ethics.
+			- What is morally right is strongly related to what feels *natural*, whereas what is morally wrong is strongly related to what feels *unnatural*. This argues that ethics regulate human conduct for the good of humanity, in which that good is governed by human nature; therefore, human nature should underlie ethics.
 	- ## Notion of nature
 		- The stoics, the first people who used the natural law as a basis for morality, viewed nature as identical to the natural order as a whole ([[cosmic nature]]). They believe that the world is essentially rational because it is governed by a cosmic principle that unifies everything.
 			- As a result, being and acting reasonably is in harmony with the universe; conversely, violence and vice (consequences of irrationality) are incongruent with the universal laws.

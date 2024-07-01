@@ -28,7 +28,7 @@ $$\tau=RC$$
 
 $$v(t)=V_{0}e^{-t/\tau}$$
 
-After five times the time constant ($5\tau$), we can observe that the voltage’s magnitude decreases to less than $1\%$ ($0.00674\%$), thereby making it safe to assume that the capacitor is fully discharged after that point—[[steady state response]] that is guaranteed after $5\tau$.
+After five times the time constant ($5\tau$), we can observe that the voltage’s magnitude decreases to less than $1\%$ ($0.00674\%$)—thereby making it safe to assume that, after $5\tau$, the circuit reaches steady/final state and the capacitor is fully discharged.
 
 Using the previous equation for voltage, we can derive the equation for the current of a source-free RC circuit:
 
@@ -152,7 +152,7 @@ Other characteristics:
 
 ## Step response of RC
 
-The [[step response]] is the response of a suddenly applied dc source that is modeled as a [[step function]]. The equation for its [[complete response]] is (assuming that the capacitor is initially charged)
+The [[step response]] is the circuit’s response to a suddenly applied dc source that is modeled as a [[step function]]. The equation for its [[complete response]] is (assuming that the capacitor is initially charged)
 
 $$v(t)={\left\{\begin{array}{l l}{V_{0},}&&{t\lt 0}\\ {V_{s}+(V_{0}-V_{s})\,e^{-t/\tau},}&&{t>0}\end{array}\right.}$$
 
@@ -165,7 +165,7 @@ If the capacitor is initially uncharged ($V_{0}=0$), the complete step response,
 
 $$\begin{align}v(t)&=V_{s}(1-e^{-t/\tau})u(t)\\i(t)&=\frac{V_{s}}{R}e^{-t/\tau}u(t)&\tau=RC,&& t>0\end{align}$$
 
-We can also decompose $v(t)$ into two components with two methods:
+We can also decompose $v(t)$ into two components with two different ways:
 
 1. Complete response = natural response (stored energy) + forced response (independent source)
 2. Complete response = transient response (temporary part) + steady-state response (permanent part)
@@ -176,10 +176,135 @@ It can be written as
 
 $$v=v_{n}+v_{f}$$
 
-Where
+where
 
 $$\begin{align} v_{n}=V_{0}e^{-t/\tau} &&;&& v_{f}=V_{s}(1-e^{-t/\tau})\end{align}$$
 
-### Steady-state response
+> [!NOTE]
+> - $v_{n} =$ the circuit’s natural response
+> - $v_{f} =$ the circuit’s [[forced response]]—the response the circuit generates after an external force (voltage/current source) is applied
+
+The natural response and the temporary portion of the forced response eventually disappears; as a result, only the permanent portion of the forced response is left.
+
+### Transient and steady-state response
+
+It can be written as
+
+$$ v=v_{t}+v_{ss} $$
+
+where
+
+$$
+\begin{align}
+v_{t}=(V_{0}-V_{s})e^{-t/\tau} &&;&& v_{ss}=Vs
+\end{align}
+$$
+
+The [[transient response]] $v_{t}$ is the temporary component of the complete response (it decays to zero over time), whereas the [[steady-state response]] $v_{ss}$ still remains even long after an external excitation is applied (it is permanent).
+
+Decomposition first starts in terms of the *source* of the responses, then its *permanency*. Furthermore, under specific conditions, we can equate the natural response with the transient response, and the forced response with the steady-state response.
+
+Because the complete response is the sum of the transient and steady-state response, we can say that
+
+$$
+v(t) = v(\infty) + [v(0)-v(\infty)]e^{-t/\tau}
+$$
+
+> [!NOTE]
+> - $v(\infty)=$ the steady state response
+> - $v(0)=$ the initial voltage at $t=0^{+}$
+
+### Finding the step response
+
+To find the step response of an RC circuit, we need the
+
+1. initial capacitor voltage $v(0)$;
+2. final capacitor voltage $v(\infty)$; and
+3. time constant $\tau$
+
+We get $v(0)$ for $t<0$, while getting $v(\infty)$ and $\tau$ for $t>0$. Afterwards, we use
+
+$$v(t)=v(\infty)+[v(0)-v(\infty)]e^{-t/\tau}$$
+
+to determine the response. If the switch, however, moves at time $t=t_{0}$ instead of $t=0$, the equation changes to the following because of the delay in the response:
+
+$$
+v(t)=v(\infty)+[v(t_{0})-v(\infty)]e^{-(t-t_{0})/\tau}
+$$
+
+> [!NOTE]
+> - $v(t_{0})=$ the initial value at $t=t_{0}^+$
+
+> [!WARNING]
+> Both formulae shown only work when the input excitation is constant
 
 ## Step response of RL
+
+Similar to the step response of an RC circuit, we can find the RL circuit’s step response through the sum of the steady-state and the transient response,
+
+$$
+i=i_{t}+i_{ss}
+$$
+
+where
+
+$$
+\begin{align}
+i_{t}&=Ae^{-t/\tau} && ; && \tau=\frac{L}{R} \\
+i_{ss}&= \frac{V_{s}}{R}
+\end{align}
+$$
+
+> [!NOTE]
+> - $i_{t}=$ the transient response
+> - $i_{ss}=$ the steady-state response
+> - $A=$ the constant to be determined in a decaying exponential
+> - $V_{s}=$ independent dc voltage source
+
+The transient response decays after $5\tau$, in which the inductor becomes a short circuit with the voltage across it being zero.
+
+The complete response of the $RL$ circuit, after numerous derivations, gives us
+
+$$
+i(t) = i(\infty) + [i(0)-i(\infty)]e^{-t/\tau}
+$$
+
+> [!NOTE]
+> - $i(0)=$ the initial values of $i$
+> - $i(\infty)=$ the final values of $i$
+
+### Finding the step response
+
+To find the step response of an $RL$ circuit, we need the
+
+1. initial inductor current $i(0)$ at $t=0$;
+2. final inductor current $i(\infty)$; and
+3. time constant $\tau$
+
+We get $i(0)$ for $t<0$, while getting $i(\infty)$ and $\tau$ for $t>0$. Afterwards, we use
+
+$$i(t)=i(\infty)+[i(0)-i(\infty)]e^{-t/\tau}$$
+
+to determine the response. If the switch, however, moves at time $t=t_{0}$ instead of $t=0$, the equation changes to the following because of the delay in the response:
+
+$$
+i(t)=i(\infty)+[i(t_{0})-i(\infty)]e^{-(t-t_{0})/\tau}
+$$
+
+> [!NOTE]
+> - $v(t_{0})=$ the initial value at $t=t_{0}^+$
+
+> [!WARNING]
+> Both formulae shown only work when the input excitation is constant
+
+If there is no initial inductor current, we get
+
+$$
+i(t)=\frac{V_{s}}{R}(1-e^{-t/\tau})u(t)
+$$
+
+and the voltage across the inductor is
+
+$$
+v(t) = V_{s}e^{-t/\tau}u(t)
+$$
