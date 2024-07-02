@@ -2,8 +2,8 @@
 Course: FUNDCKT
 Topic: Transient Response Part 2
 Linked_Tests: [Quiz 2]
-Status: Work in Progress
-References used: ["Transient Response_1 (Lecture Slides)", "Fundamentals of Electric Circuits by Charles K. Alexander and Matthew N.O. Sadiku (Chapter 7.1, 7.2, 7.3, 7.4, 7.5, 7.6)"]
+Status: Done
+References used: ["Transient Response_2 (Lecture Slides)", "Fundamentals of Electric Circuits by Charles K. Alexander and Matthew N.O. Sadiku (Chapter 7.1, 7.2, 7.3, 7.4, 7.5, 7.6)"]
 tags: [lesson]
 ---
 
