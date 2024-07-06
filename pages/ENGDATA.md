@@ -14,7 +14,7 @@ SORT number(split(file.name,"ENGDATA - Lesson")[1]) ASC
 > - Helpful materials
 > 	- [[estimation formulas|Estimation formulas]]
 > 	- [[statistical tables.pdf|Statistical tables]]
-> 	- [[sampling distributions.pdf|Sampling Distributions]]
+> 	- [[sampling distributions formulae|Sampling distributions formulae]]
 > - Calculator techniques (CASIO fx-991ES PLUS)
 > 	- Steps to compute for $\bar{x}$ and $sx$
 > 		1. Mode setup
