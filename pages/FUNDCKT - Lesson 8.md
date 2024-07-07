@@ -18,7 +18,15 @@ $v(0^+)=v(0^-)$
 - [[Inductor]] [[current]] is always continuous
 $i(0^+)=i(0^-)$
 
-$$ \begin{align} s_{1}&=-\alpha+\sqrt{ \alpha^2 -\omega^2_{0}}, && \alpha=\frac{R}{2L}, && \omega_{0}=\frac{1}{\sqrt{ LC }}\\ s_{2}&=-\alpha-\sqrt{ \alpha^2-\omega^2_{0} } \end{align} $$
+$$
+\begin{align}
+s_{1}&=-\alpha+\sqrt{ \alpha^2 -\omega^2_{0}},
+&& \alpha=\frac{R}{2L},
+&& \omega_{0}=\frac{1}{\sqrt{ LC }} \\
+s_{2}&=-\alpha-\sqrt{ \alpha^2-\omega^2_{0} } 
+&& \frac{di(0)}{dt}=-\frac{1}{L}(RI_{0}+V_{0})
+\end{align} 
+$$
 
 1. If $\alpha>w_{0}$, we have the [[overdamped case]]
 	- $i(t)=A_{1}e^{s_{1}t}+A_{2}e^{s_{2}t}$
