@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5cd66ebe4582da34",
+        "id": "54268fa612f8cb29",
         "type": "tabs",
         "children": [
           {
-            "id": "7452b7cf0d0d8967",
+            "id": "72414eaeaa373635",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,7 +159,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7452b7cf0d0d8967",
+  "active": "72414eaeaa373635",
   "lastOpenFiles": [
     "pages/intrinsic good.md",
     "pages/GEETHIC - Lesson 5.md",
