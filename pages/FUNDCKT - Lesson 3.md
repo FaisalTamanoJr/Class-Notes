@@ -9,26 +9,46 @@ tags: [lesson]
 
 - # [[series resistors|Series resistors]] and [[voltage division]]
 	- Series resistors refer to [[resistor|resistors]] that have the same [[current]] flowing in both of them
+	- The equivalent [[resistance]] of any number of resistors connected in series is the sum of the individual resistances
 
-	- The equivalent [[resistance]] of any number of resistors connected in series is the sum of the individual resistances $$R_{eq}=R_{1}+R_{2}+\dots+R_{N}= \sum_{n=1}^N R_{n}$$
+$$
+R_{eq}=R_{1}+R_{2}+\dots+R_{N}= \sum_{n=1}^N R_{n}
+$$
 
-	- To determine the voltage across each resistor $$v_{n}=\frac{R_{n}}{R_{1}+R_{2}+\dots+R_{n}}v$$
+	- To determine the voltage across each resistor
+
+$$
+v_{n}=\frac{R_{n}}{R_{1}+R_{2}+\dots+R_{n}}v
+$$
 
 		- The source [[voltage]] v is divided among the resistors in direct proportion to their resistances.
 		- [[principle of voltage division|Principle of voltage division]] states that the larger the resistance, the larger the voltage drop; the [[electrical circuit|circuit]] is called a [[voltage divider]]
+	- The equivalent conductance in series:
 
-	- The equivalent conductance in series: $$\frac{1}{G_{eq}}=\frac{1}{G_{1}}+\frac{1}{G_{2}}+\frac{1}{G_{3}}+\dots+\frac{1}{G_{N}}$$
+$$
+\frac{1}{G_{eq}}=\frac{1}{G_{1}}+\frac{1}{G_{2}}+\frac{1}{G_{3}}+\dots+\frac{1}{G_{N}}
+$$
 
 - # [[parallel resistors|Parallel resistors]] and [[current division]]
 	- [[resistor|Resistors]] connected in parallel have the same voltage across them
+	- For 2 resistors in parallel:
 
-	- For 2 resistors in parallel: $$R_{eq}=\frac{{R_{1}R_{2}}}{R_{1}+R_{2}}$$
+$$
+R_{eq}=\frac{{R_{1}R_{2}}}{R_{1}+R_{2}}
+$$
 
 	- For $N$ resistors in parallel: $\frac{1}{R_{eq}}=\frac{1}{R_{1}}+\frac{1}{R_{2}}+\dots+\frac{1}{R_{N}}$
+	- It is often more convenient to use [[conductance]] rather than [[resistance]] when dealing with resistors in parallel. The equivalent conductance for N resistors in parallel:
 
-	- It is often more convenient to use [[conductance]] rather than [[resistance]] when dealing with resistors in parallel. The equivalent conductance for N resistors in parallel: $$G_{eq}=G_{1}+G_{2}+G_{3}+\dots+G_{N}$$
+$$
+G_{eq}=G_{1}+G_{2}+G_{3}+\dots+G_{N}
+$$
 
-	- To determine the [[current]] across a parallel resistor: $$i_{n}=\frac{G_{n}}{G_{1}+G_{2}+\dots+G_{3}}i$$
+	- To determine the [[current]] across a parallel resistor:
+
+$$
+i_{n}=\frac{G_{n}}{G_{1}+G_{2}+\dots+G_{3}}i
+$$
 
 		- [[principle of current division|Principle of current division]] states that the total current is shared by the resistors in inverse proportion to their [[resistance|resistances]]; the circuit is known as a [[current divider]].
 - # [[wye-delta transformations|Wye-delta transformations]]

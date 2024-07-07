@@ -42,7 +42,6 @@ Roots may be written as:
 
 - $s_{1}=-\alpha+\sqrt{ -(w_{0}^2-\alpha^2) }=-\alpha+j\omega_{d}$
 - $s_{2}=-\alpha+\sqrt{ -(w_{0}^2-\alpha^2) }=-\alpha-j\omega_{d}$
-
 - $j=\sqrt{ -1 }$ and $w_{d}=\sqrt{ w_{0}^2+\alpha^2 }$ which is called the [[damping frequency]]
 - Both $w_{d}$ and $w_{0}$ are [[natural frequencies]] because they help determine the [[natural response]]; while $w_{0}$ is often called the [[undamped natural frequency]], $w_{d}$ is called the [[damped natural frequency]]
 
@@ -61,7 +60,6 @@ Roots may be written as:
 ## Step response of series RLC circuits
 
 - It is obtained after the sudden application of a [[direct current|dc]] source
-
 - Overdamped
 	- $v(t)=V_{s}+A_{1}e^{s_{1}t}+A_{2}e^{s_{2}t}$
 - Critically damped

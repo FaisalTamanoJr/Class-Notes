@@ -19,17 +19,23 @@ tags: [formulaSheet]
 
 Suppose we are a given an equation:
 
-$$\begin{align}a_{11}x_{1}\,+\,a_{12}x_{2}\,+\,a_{13}x_{3}\,+\,\cdots\,+\,a_{1n}x_{n}&=\,b_{1}\\a_{21}x_{1}+\,a_{22}x_{2}\,+\,a_{23}x_{3}\,+\,\cdots\,+\,a_{2n}x_{n}&=\,b_{2}\\&\vdotswithin{=} \notag \\a_{n1}x_{1}\,+\,a_{n2}x_{2}\,+\,a_{n3}x_{3}\,+\,\cdots\,+\,a_{n n}x_{n}&=\,b_{n}\end{align}$$
+$$
+\begin{align}a_{11}x_{1}\,+\,a_{12}x_{2}\,+\,a_{13}x_{3}\,+\,\cdots\,+\,a_{1n}x_{n}&=\,b_{1}\\a_{21}x_{1}+\,a_{22}x_{2}\,+\,a_{23}x_{3}\,+\,\cdots\,+\,a_{2n}x_{n}&=\,b_{2}\\&\vdotswithin{=} \notag \\a_{n1}x_{1}\,+\,a_{n2}x_{2}\,+\,a_{n3}x_{3}\,+\,\cdots\,+\,a_{n n}x_{n}&=\,b_{n}\end{align}
+$$
 
 If we want to get $a'_{n1},a'_{n2},\dots a'_{nn}$—the coefficients of equation $n$ after the first variable has been eliminated—we could solve each one of these coefficients using a formula like:
 
-$$a'_{nm}=a_{nm}-\left(\frac{a_{n1}}{a_{11}}\right)(a_{1m})$$
+$$
+a'_{nm}=a_{nm}-\left(\frac{a_{n1}}{a_{11}}\right)(a_{1m})
+$$
 
 In order to get $a^{i}$ equations, we should already have the $a^{i-1}$ equation to use it as a basis for eliminating $i^{th}$ variable (just like how we use $a'$ as a basis for $a$).[^i]
 
 Eliminating other variables just follow a similar pattern, and, as such:
 
-$$a^{i}_{nm}=a^{i-1}_{nm}-\left(\frac{a^{i-1}_{ni}}{a^{i-1}_{ii}}\right)(a_{im})$$
+$$
+a^{i}_{nm}=a^{i-1}_{nm}-\left(\frac{a^{i-1}_{ni}}{a^{i-1}_{ii}}\right)(a_{im})
+$$
 
 We use this technique and incrementally eliminate downwards until we are left with an equation with only a single variable. Afterwards, we solve for the single variable’s value, then use it to perform backward substitution to get the values of other variables.
 
@@ -37,7 +43,9 @@ We use this technique and incrementally eliminate downwards until we are left wi
 
 This is a variation of Gauss elimination where the elimination step results in an identity matrix instead of a triangular one. For this reason, we aim to make the matrix look like
 
-$$\left[\begin{matrix} 1&0&0 \\ 0&1&0 \\ 0&0&1 \end{matrix}\right]$$
+$$
+\left[\begin{matrix} 1&0&0 \\ 0&1&0 \\ 0&0&1 \end{matrix}\right]
+$$
 
 To do this, we perform something similar to the following steps:
 
@@ -98,7 +106,9 @@ Employ LU decomposition to find the inverse matrix: solve for $x$ using the LU d
 
 ## Gauss-Seidel method
 
-$$\begin{align} x_{1}&=\frac{b_{1}-a_{12}x_{2}-a_{13}x_{3}}{a_{11}} \\ x_{2}&=\frac{b_{2}-a_{21}x_{1}-a_{23}x_{3}}{a_{22}}  \\ x_{3}&=\frac{b_{3}-a_{31}x_{1}-a_{32}x_{2}}{a_{33}} \end{align}$$
+$$
+\begin{align} x_{1}&=\frac{b_{1}-a_{12}x_{2}-a_{13}x_{3}}{a_{11}} \\ x_{2}&=\frac{b_{2}-a_{21}x_{1}-a_{23}x_{3}}{a_{22}}  \\ x_{3}&=\frac{b_{3}-a_{31}x_{1}-a_{32}x_{2}}{a_{33}} \end{align}
+$$
 
 > [!tip]
 > - You can start the solution process with the initial guesses being $0$
@@ -106,6 +116,8 @@ $$\begin{align} x_{1}&=\frac{b_{1}-a_{12}x_{2}-a_{13}x_{3}}{a_{11}} \\ x_{2}&=\f
 
 To obtain the percent relative error:
 
-$$|\epsilon_{a,i}|=\left| \frac{x_{i}^j-x_{i}^{j-1}}{x_{i}^j} \right|\times{100}\%$$
+$$
+|\epsilon_{a,i}|=\left| \frac{x_{i}^j-x_{i}^{j-1}}{x_{i}^j} \right|\times{100}\%
+$$
 
 [^i]: $i$ is referring to the order and not the exponent

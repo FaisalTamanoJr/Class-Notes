@@ -1,7 +1,7 @@
 ---
 Course: SOFDESG
 Topic: Introduction to Software Engineering
-Linked_Tests: [Quiz 1, Final Exam]
+Linked_Tests: [Final Exam, Quiz 1]
 Status: Done
 References used: [SOFWENG LECTURE 1 (Lecture Slides)]
 tags: [lesson]

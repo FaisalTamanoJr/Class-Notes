@@ -1,7 +1,7 @@
 ---
 Course: ENGDATA
 Topic: Simple Linear Regression and Correlation
-Linked_Tests: [Quiz 3, Final Exam]
+Linked_Tests: [Final Exam, Quiz 3]
 Status: Done
 References used: [Simple Linear Regression and Correlation (Lecture Slides)]
 tags: [lesson]

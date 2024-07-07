@@ -1,7 +1,7 @@
 ---
 Course: CALENG3
 Topic: Homogenous Linear DE of Order n
-Linked_Tests: [Quiz 3, Final Exam]
+Linked_Tests: [Final Exam, Quiz 3]
 Status: Done
 References used: [Homogenous linear d.e. of order n (Lecture Slides), Non-homogenous linear d.e. of order n (Lecture Slides)]
 tags: [lesson]

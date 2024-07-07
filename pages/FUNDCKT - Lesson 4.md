@@ -15,8 +15,11 @@ tags: [lesson]
 	- ## Steps
 		1. Select a reference node
 		2. Assign voltages $v_{1},v_{2},\dots,v_{n-1}$ to the $n-1$ remaining nodes with respect to the reference node
+		3. Apply [[Kirchoff’s Current Law|KCL]] to each of the non-reference nodes
 
-		3. Apply [[Kirchoff’s Current Law|KCL]] to each of the non-reference nodes $$i=\frac{v_{\text{higher}}-v_{\text{lower}}}{R}$$
+$$
+i=\frac{v_{\text{higher}}-v_{\text{lower}}}{R}
+$$
 
 		4. Solve the resulting simultaneous equations to obtain the unknown node voltages
 - # Nodal analysis with [[voltage]] sources

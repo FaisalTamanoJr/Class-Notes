@@ -1,7 +1,7 @@
 ---
 Course: ENGDATA
 Topic: Sampling Distribution and Estimation
-Linked_Tests: [Quiz 2, Final Exam]
+Linked_Tests: [Final Exam, Quiz 2]
 Status: Done
 References used: [Sampling Distribution and Estimation (Lecture Slides)]
 tags: [lesson]
@@ -28,8 +28,11 @@ tags: [lesson]
 				- single observation is $\sigma^2$
 				- since $\frac{\sigma^2}{n} \leq \sigma^2$, the sample mean is preferred.
 		- [[standard error|Standard error]] of an estimator
+			- The standard error of an estimator $\Theta$ is its standard deviation, given by
 
-			- The standard error of an estimator $\Theta$ is its standard deviation, given by $$\sigma_{\Theta}=\sqrt{ V(\Theta) }$$
+$$
+\sigma_{\Theta}=\sqrt{ V(\Theta) }
+$$
 
 			- If the standard error involves unknown parameters that can be estimated, substitution of these values into $\sigma_\Theta$ produces an [[estimated standard error]], denoted by $\sigma_{\Theta}$.
 				- Equivalent notation: $\sigma_{\Theta}=s_{\Theta}=se(\Theta)$.
@@ -73,8 +76,11 @@ tags: [lesson]
 			- with mean $\mu_{\bar{x}}=\frac{\mu+\mu+\dots+\mu}{n}=\mu$.
 			- and variance $\sigma^2_{\bar{x}}=\frac{\sigma^2+\sigma^2+\dots+\sigma^2}{n^2}$.
 - [[central limit theorem|Central limit theorem]]
+	- If $X_{1},X_{2},\dots,X_{n}$ is a random sample of size $n$ is taken from a population (either finite or infinite) with mean $\mu$ and finite variance $\sigma^2$, and if $\bar{X}$ is the sample mean, then the limiting form of the distribution of
 
-	- If $X_{1},X_{2},\dots,X_{n}$ is a random sample of size $n$ is taken from a population (either finite or infinite) with mean $\mu$ and finite variance $\sigma^2$, and if $\bar{X}$ is the sample mean, then the limiting form of the distribution of $$Z=\frac{\bar{X}-\mu}{\frac{\sigma}{\sqrt{ n }}}$$
+$$
+Z=\frac{\bar{X}-\mu}{\frac{\sigma}{\sqrt{ n }}}
+$$
 
 		- as $n\to \infty$, is the [[standard normal distribution]].
 - Two independent normal populations

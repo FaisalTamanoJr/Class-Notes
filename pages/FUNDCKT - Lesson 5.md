@@ -37,7 +37,11 @@ Source transformations can help simplify circuits by allowing us to substitute a
 
 ![[independent source transformation.webp|400]]
 
-- These two circuits are equivalent and have equal resistance $$\begin{align}v_{s}=i_{s}R && ; && i_{s}=\frac{v_{s}}{R}\end{align}$$
+- These two circuits are equivalent and have equal resistance
+
+$$
+\begin{align}v_{s}=i_{s}R && ; && i_{s}=\frac{v_{s}}{R}\end{align}
+$$
 
 - This process is applicable to both independent and dependent sources
 - It does not affect the remaining part of the circuit
@@ -58,16 +62,27 @@ In practice, it is usually the case that a particular element in a circuit is va
 	- $V_{Th}$ is the open-circuit voltage at the terminals
 	- $R_{Th}$ is the equivalent resistance or input resistance at the terminals when the [[independent electrical source|independent sources]] are turned off
 - Circuits are said to be *equivalent* when they have the same voltage-current relation at their terminals
+	- Because no current is flowing at the terminals when the load is removed, the open-circuit and Thevenin circuit becomes the same; as a result, open-circuit elements ($v_{oc}$ and $R_{in}$) also become equivalent to the Thevenin circuit elements ($V_{Th}$ and $R_{Th}$).[^open_circuit_elements]
 
-	- Because no current is flowing at the terminals when the load is removed, the open-circuit and Thevenin circuit becomes the same; as a result, open-circuit elements ($v_{oc}$ and $R_{in}$) also become equivalent to the Thevenin circuit elements ($V_{Th}$ and $R_{Th}$).[^open_circuit_elements] $$\begin{align}V_{Th}=v_{oc} &&;&& R_{Th}=R_{in}\end{align}$$
+$$
+\begin{align}V_{Th}=v_{oc} &&;&& R_{Th}=R_{in}\end{align}
+$$
 
-- We can obtain the **load elements** through the following formulas: $$\begin{equation}\begin{split} I_{L}&=\frac{V_{Th}}{R_{Th}+R_{L}} \\ V_{L}&=R_{L}I_{L}=R_{L}\left(\frac{V_{Th}}{R_{Th}+R_{L}}\right)\end{split}\end{equation}$$
+- We can obtain the **load elements** through the following formulas:
+
+$$
+\begin{equation}\begin{split} I_{L}&=\frac{V_{Th}}{R_{Th}+R_{L}} \\ V_{L}&=R_{L}I_{L}=R_{L}\left(\frac{V_{Th}}{R_{Th}+R_{L}}\right)\end{split}\end{equation}
+$$
 
 ## Application of Thevenin’s theorem
 
 ### Case 1
 
-If the network has no dependent sources, we turn off all independent sources. $R_{Th}$ will be its input resistance at the terminals. $$R_{Th}=\frac{v_{o}}{i_{o}}$$
+If the network has no dependent sources, we turn off all independent sources. $R_{Th}$ will be its input resistance at the terminals.
+
+$$
+R_{Th}=\frac{v_{o}}{i_{o}}
+$$
 
 - $v_{o}$ is the voltage found at the terminals
 - $i_{o}$ is the current found at the terminals
@@ -75,8 +90,11 @@ If the network has no dependent sources, we turn off all independent sources. $R
 ### Case 2
 
 1. If the network has dependent sources, we only turn off the independent sources because the dependent sources are controlled by the circuit variables.
+2. $v_{o}$ is applied at the terminals to determine the resulting current $i_{o}$ (or vice versa since it yields the same result)
 
-2. $v_{o}$ is applied at the terminals to determine the resulting current $i_{o}$ (or vice versa since it yields the same result)$$R_{Th}=\frac{v_{o}}{i_{o}}$$
+$$
+R_{Th}=\frac{v_{o}}{i_{o}}
+$$
 
 > [!NOTE]
 > $R_{Th}$ usually takes a negative value since the circuit is supplying power—which happens in circuits with dependent sources
@@ -88,16 +106,27 @@ If the network has no dependent sources, we turn off all independent sources. $R
 - **Norton’s theorem** says that we can replace a linear two-terminal circuit with an equivalent circuit that consists of a current source $I_{N}$ in parallel with a resistor $R_{N}$
 	- $I_{N}$ is the short-circuit current at the terminals
 	- $R_{N}$ is the equivalent resistance or input resistance at the terminals when the [[independent electrical source|independent sources]] are turned off
+- The Norton resistance $R_{N}$ is equivalent to the Thevenin resistance $R_{Th}$
 
-- The Norton resistance $R_{N}$ is equivalent to the Thevenin resistance $R_{Th}$ $$R_{N}=R_{Th}$$
+$$
+R_{N}=R_{Th}
+$$
 
-- The Norton current $I_{N}$ pertains to the current flowing from terminal $a$ to $b$ (in reference to both the original and Norton equivalent circuit found in the image above), and, as such, the Norton current is also equivalent to the short-circuit current $i_{sc}$. Thus: $$I_{N}=i_{sc}$$
+- The Norton current $I_{N}$ pertains to the current flowing from terminal $a$ to $b$ (in reference to both the original and Norton equivalent circuit found in the image above), and, as such, the Norton current is also equivalent to the short-circuit current $i_{sc}$. Thus:
+
+$$
+I_{N}=i_{sc}
+$$
 
 - Norton’s theorem treats their independent and dependent sources similar to Thevenin’s theorem—only the independent sources are turned off because the dependent ones are controlled by the circuit variables.
 
 # Relationship between Thevenin’s theorem and Norton’s theorem
 
-Knowing that the Norton and Thevenin resistance are equal, the relationship between Norton’s and Thevenin’s equivalent circuit is described in the equation below $$I_{N}=\frac{V_{Th}}{R_{Th}}$$
+Knowing that the Norton and Thevenin resistance are equal, the relationship between Norton’s and Thevenin’s equivalent circuit is described in the equation below
+
+$$
+I_{N}=\frac{V_{Th}}{R_{Th}}
+$$
 
 - The relationship between the two equivalent circuits can be explained through source transformation; as a result, source transformation is also referred to as the [[Thevenin-Norton transformation]].
 - Since these three elements are related, we can find the Thevenin or Norton equivalent circuit by determining two of the three elements (the third element can be computed through [[Ohm’s law]]):

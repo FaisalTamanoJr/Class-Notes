@@ -1,7 +1,7 @@
 ---
 Course: ENGDATA
 Topic: Probability
-Linked_Tests: [Quiz 1, Final Exam]
+Linked_Tests: [Final Exam, Quiz 1]
 Status: Done
 References used: [2 Introduction to Probability (Lecture Slides)]
 Tags: [lesson]

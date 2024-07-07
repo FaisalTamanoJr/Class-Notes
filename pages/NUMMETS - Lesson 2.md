@@ -24,12 +24,18 @@ tags: [lesson]
 		- $\varepsilon_{a}=\frac{\text{Approximate error}}{\text{Approximation}}\times100\%$
 	- Iterative approach, example [[Maclaurin series]]
 		- $\varepsilon_{a}=\frac{\text{current approximation}-\text{previous approximation}}{\text{current approximation}}\times100\%$
+	- Use the absolute value. Computations are repeated until stopping is satisfied
 
-	- Use the absolute value. Computations are repeated until stopping is satisfied $$|\varepsilon_{a}|<\varepsilon_{s}$$
+$$
+|\varepsilon_{a}|<\varepsilon_{s}
+$$
 
 		- $\varepsilon_{s}$ pre-specified % tolerance based on the knowledge of your solution
+		- To ensure that the result is correct to at least $n$ significant figures, the following criterion should be met
 
-		- To ensure that the result is correct to at least $n$ significant figures, the following criterion should be met $$\varepsilon_{s}=(0.5\times10^{(2-n)})\%$$
+$$
+\varepsilon_{s}=(0.5\times10^{(2-n)})\%
+$$
 
 - # [[round-off error|Round-off errors]]
 	- Numbers like $\pi$, $e$ or $\sqrt{7}$ cannot be expressed by a fixed number of significant figures and causes a discrepancy called *round-off error*
@@ -45,14 +51,24 @@ tags: [lesson]
 			- ![[floating point binary.webp]]
 		- ### [[normalization|Normalization]]
 			- Normalization allows for the removal of leading zeroes by multiplying the mantissa by 10 and lowering the exponent by 1
+			- Its consequence is that the absolute value of $m$ is limited, that is
 
-			- Its consequence is that the absolute value of $m$ is limited, that is $$\frac{1}{b}\leq m<1$$
+$$
+\frac{1}{b}\leq m<1
+$$
 
 			- Therefore,
+				- For a base-10 system
 
-				- For a base-10 system $$0.1\leq m<1$$
+$$
+0.1\leq m<1
+$$
 
-				- For a base-2 system $$0.5\leq m < 1$$
+				- For a base-2 system
+
+$$
+0.5\leq m < 1
+$$
 
 		- Floating point representation allows both fractions and very large numbers to be expressed on the computer.
 			- Limitations

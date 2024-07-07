@@ -3,7 +3,7 @@ Course: FUNDCKT
 Topic: Transient Response Part 2
 Linked_Tests: [Quiz 2]
 Status: Done
-References used: ["Transient Response_2 (Lecture Slides)", "Fundamentals of Electric Circuits by Charles K. Alexander and Matthew N.O. Sadiku (Chapter 7.1, 7.2, 7.3, 7.4, 7.5, 7.6)"]
+References used: ["Fundamentals of Electric Circuits by Charles K. Alexander and Matthew N.O. Sadiku (Chapter 7.1, 7.2, 7.3, 7.4, 7.5, 7.6)", "Transient Response_2 (Lecture Slides)"]
 tags: [lesson]
 ---
 
@@ -24,23 +24,33 @@ This circuit occurs when a [[direct current|dc]] source is disconnected but the 
 
 As time increases the voltage decreases towards 0; the rate in which it decreases is expressed in terms of the [[time constant]] $\tau$ (or the time needed for the response to decay to $\displaystyle \frac{1}{e}$ or $36.8 \%$ of its initial value). Using this information, we can derive the two following equations:
 
-$$\tau=RC$$
+$$
+\tau=RC
+$$
 
-$$v(t)=V_{0}e^{-t/\tau}$$
+$$
+v(t)=V_{0}e^{-t/\tau}
+$$
 
 After five times the time constant ($5\tau$), we can observe that the voltage’s magnitude decreases to less than $1\%$ ($0.00674\%$)—thereby making it safe to assume that, after $5\tau$, the circuit reaches steady/final state and the capacitor is fully discharged.
 
 Using the previous equation for voltage, we can derive the equation for the current of a source-free RC circuit:
 
-$$\displaystyle i_{R}(t)=\frac{V_{0}}{R}e^{-t/\tau}$$
+$$
+\displaystyle i_{R}(t)=\frac{V_{0}}{R}e^{-t/\tau}
+$$
 
 On the other hand, the power dissipated in the resistor is
 
-$$\displaystyle p(t)=\frac{V^2_{0}}{R}e^{-2t/\tau}$$
+$$
+\displaystyle p(t)=\frac{V^2_{0}}{R}e^{-2t/\tau}
+$$
 
 While the energy absorbed by the resistor up to time $t$ is
 
-$$\displaystyle w_{R}(t)=\frac{1}{2}CV_{0}^2(1-e^{-2t/\tau})$$
+$$
+\displaystyle w_{R}(t)=\frac{1}{2}CV_{0}^2(1-e^{-2t/\tau})
+$$
 
 > [!TIP]
 > You should find the initial voltage across the capacitor $v(0)$ and the time constant $\tau$ first because it allows you to obtain the response or capacitor voltage $v_{C}(t)$, which then allows you to determine the following:
@@ -57,21 +67,31 @@ Similar to RC circuits, RL circuits show a [[natural response]] after a [[curren
 
 The time constant of its decay is
 
-$$\tau=\frac{L}{R}$$
+$$
+\tau=\frac{L}{R}
+$$
 
 While the current at time $t$ is
 
-$$i(t)=I_{0}e^{-t/\tau}$$
+$$
+i(t)=I_{0}e^{-t/\tau}
+$$
 
 From these equations, we can derive the voltage across the resistor and the power dissipated in it.
 
-$$v_{R}(t)=I_{0}Re^{-t/\tau}$$
+$$
+v_{R}(t)=I_{0}Re^{-t/\tau}
+$$
 
-$$p=I^2_{0}Re^{-2t/\tau}$$
+$$
+p=I^2_{0}Re^{-2t/\tau}
+$$
 
 While the energy that the resistor absorbed is
 
-$$\displaystyle w_{R}(t)=\frac{1}{2}LI_{0}^2(1-e^{-2t/\tau})$$
+$$
+\displaystyle w_{R}(t)=\frac{1}{2}LI_{0}^2(1-e^{-2t/\tau})
+$$
 
 > [!TIP]
 > You should find the initial current across the inductor $i(0)$ and the time constant $\tau$ first because it allows you to obtain the response or inductor current $i_{L}(t)$, which then allows you to determine the following:
@@ -107,7 +127,9 @@ The [[unit step function]] is $0$ when $t$ is negative, $1$ when it is positive,
 
 We can use this function to model the behavior of circuits during a sudden change in voltage or current. The equation below illustrates how we can express the voltage in terms of a unit step function.
 
-$$\begin{align} v(t)={\left\{\begin{array}{l l}{0,}&{t\lt t_{0}}\\ {V_{0},}&{t\gt t_{0}}\end{array}\right.} &&\longrightarrow&& v(t)=V_{0}u(t-t_{0})\end{align}$$
+$$
+\begin{align} v(t)={\left\{\begin{array}{l l}{0,}&{t\lt t_{0}}\\ {V_{0},}&{t\gt t_{0}}\end{array}\right.} &&\longrightarrow&& v(t)=V_{0}u(t-t_{0})\end{align}
+$$
 
 If $t_{0}$ is equal to $0$, then $v(t)$ is the step voltage $V_{0}u(t)$. The circuit below portrays how the unit step function can model the its behavior.
 
@@ -123,7 +145,9 @@ If $t_{0}$ is equal to $0$, then $v(t)$ is the step voltage $V_{0}u(t)$. The cir
 
 The derivative of a unit step function, a [[unit impulse function]] $\delta(t)$, is undefined at $t=0$ but is $0$ at any other values of $t$. The unit impulse is considered as either an applied or resulting shock. It is expressed as
 
-$$\int ^{0^{+}}_{0^{-}} \delta(t)\, dt = 1 $$
+$$
+\int ^{0^{+}}_{0^{-}} \delta(t)\, dt = 1 
+$$
 
 > [!NOTE]
 > - $t=0^{-}$ is the time before $t=0$
@@ -135,7 +159,9 @@ The unit area of the function is known as its *strength*. When this strength is 
 
 We can find the value of a function where the impulse occurs by integrating it with the impulse function—a property of the impulse function referred to as the [[sampling property]]. This is mathematically expressed as
 
-$$\int_{a}^{b}f(t)\delta(t-t_{0})\,d t=f(t_{0})$$
+$$
+\int_{a}^{b}f(t)\delta(t-t_{0})\,d t=f(t_{0})
+$$
 
 ### Unit ramp function
 
@@ -154,7 +180,9 @@ Other characteristics:
 
 The [[step response]] is the circuit’s response to a suddenly applied dc source that is modeled as a [[step function]]. The equation for its [[complete response]] is (assuming that the capacitor is initially charged)
 
-$$v(t)={\left\{\begin{array}{l l}{V_{0},}&&{t\lt 0}\\ {V_{s}+(V_{0}-V_{s})\,e^{-t/\tau},}&&{t>0}\end{array}\right.}$$
+$$
+v(t)={\left\{\begin{array}{l l}{V_{0},}&&{t\lt 0}\\ {V_{s}+(V_{0}-V_{s})\,e^{-t/\tau},}&&{t>0}\end{array}\right.}
+$$
 
 > [!NOTE]
 > - $v(t)=$ the voltage across the capacitor
@@ -163,7 +191,9 @@ $$v(t)={\left\{\begin{array}{l l}{V_{0},}&&{t\lt 0}\\ {V_{s}+(V_{0}-V_{s})\,e^{-
 
 If the capacitor is initially uncharged ($V_{0}=0$), the complete step response, current, and time constant can be obtained using
 
-$$\begin{align}v(t)&=V_{s}(1-e^{-t/\tau})u(t)\\i(t)&=\frac{V_{s}}{R}e^{-t/\tau}u(t)&\tau=RC,&& t>0\end{align}$$
+$$
+\begin{align}v(t)&=V_{s}(1-e^{-t/\tau})u(t)\\i(t)&=\frac{V_{s}}{R}e^{-t/\tau}u(t)&\tau=RC,&& t>0\end{align}
+$$
 
 We can also decompose $v(t)$ into two components with two different ways:
 
@@ -174,11 +204,15 @@ We can also decompose $v(t)$ into two components with two different ways:
 
 It can be written as
 
-$$v=v_{n}+v_{f}$$
+$$
+v=v_{n}+v_{f}
+$$
 
 where
 
-$$\begin{align} v_{n}=V_{0}e^{-t/\tau} &&;&& v_{f}=V_{s}(1-e^{-t/\tau})\end{align}$$
+$$
+\begin{align} v_{n}=V_{0}e^{-t/\tau} &&;&& v_{f}=V_{s}(1-e^{-t/\tau})\end{align}
+$$
 
 > [!NOTE]
 > - $v_{n} =$ the circuit’s natural response
@@ -190,7 +224,9 @@ The natural response and the temporary portion of the forced response eventually
 
 It can be written as
 
-$$ v=v_{t}+v_{ss} $$
+$$
+ v=v_{t}+v_{ss} 
+$$
 
 where
 
@@ -224,7 +260,9 @@ To find the step response of an RC circuit, we need the
 
 We get $v(0)$ for $t<0$, while getting $v(\infty)$ and $\tau$ for $t>0$. Afterwards, we use
 
-$$v(t)=v(\infty)+[v(0)-v(\infty)]e^{-t/\tau}$$
+$$
+v(t)=v(\infty)+[v(0)-v(\infty)]e^{-t/\tau}
+$$
 
 to determine the response. If the switch, however, moves at time $t=t_{0}$ instead of $t=0$, the equation changes to the following because of the delay in the response:
 
@@ -283,7 +321,9 @@ To find the step response of an $RL$ circuit, we need the
 
 We get $i(0)$ for $t<0$, while getting $i(\infty)$ and $\tau$ for $t>0$. Afterwards, we use
 
-$$i(t)=i(\infty)+[i(0)-i(\infty)]e^{-t/\tau}$$
+$$
+i(t)=i(\infty)+[i(0)-i(\infty)]e^{-t/\tau}
+$$
 
 to determine the response. If the switch, however, moves at time $t=t_{0}$ instead of $t=0$, the equation changes to the following because of the delay in the response:
 

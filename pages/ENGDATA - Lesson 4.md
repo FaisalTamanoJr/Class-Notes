@@ -1,7 +1,7 @@
 ---
 Course: ENGDATA
 Topic: Discrete Probability Distributions
-Linked_Tests: [Quiz 1, Final Exam]
+Linked_Tests: [Final Exam, Quiz 1]
 Status: Done
 References used: [3 Discrete Probability Distribution (Lecture Slides)]
 tags: [lesson]

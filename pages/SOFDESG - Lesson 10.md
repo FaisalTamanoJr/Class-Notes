@@ -1,7 +1,7 @@
 ---
 Course: SOFDESG
 Topic: Data Mining and Data Representation
-Linked_Tests: [Quiz 3, Final Exam]
+Linked_Tests: [Final Exam, Quiz 3]
 Status: Done
 References used: [Reference]
 tags: [lesson]
