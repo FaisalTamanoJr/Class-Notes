@@ -132,15 +132,5 @@ $$
 
 > [!EXAMPLE] Three possibilities after doing the steps above:
 > 1. **Quotient is a third order polynomial or greater** - apply Bairstow’s method to the quotient and solve for new values of $r$ and $s$. Use the previous $r$ and $s$ as starting guesses.
->
-> 2. **Quotient is a quadratic** - evaluate the remaining two roots using
->
-> $$
-> x={\frac{r\,\pm\,{\sqrt{r^{2}+4s}}}{2}}
-> $$
->
-> 3. **Quotient is a first-order polynomial** - evaluate the remaining root using
->
-> $$
-> x=-\frac{s}{r}
-> $$
+> 2. **Quotient is a quadratic** - evaluate the remaining two roots using $x={\frac{r\,\pm\,{\sqrt{r^{2}+4s}}}{2}}$
+> 3. **Quotient is a first-order polynomial** - evaluate the remaining root using $x=-\frac{s}{r}$

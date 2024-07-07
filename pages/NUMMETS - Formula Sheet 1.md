@@ -17,12 +17,7 @@ tags: [formulaSheet]
 ## Bisection and false-position method
 
 1. Choose lower $x_{l}$ and upper $x_{u}$ for the root such that the function changes signs over the interval. This can be checked by ensuring that $f(x_{l})f(x_{u})$ < 0.
-2. An estimate of the root $x_{r}$ is determined by
-
-$$
-\begin{align}\text{bisection method} &&x_{r} = \frac{x_{l}+x_{u}}{2} \\ \text{false-position method} &&x_{r}=x_{u}-{\frac{f(x_{u})(x_{l}-x_{u})}{f(x_{l})-f(x_{u})}} \end{align}
-$$
-
+2. An estimate of the root $x_{r}$ is determined by $\begin{align}\text{bisection method} &&x_{r} = \frac{x_{l}+x_{u}}{2} \\ \text{false-position method} &&x_{r}=x_{u}-{\frac{f(x_{u})(x_{l}-x_{u})}{f(x_{l})-f(x_{u})}} \end{align}$
 3. Make the following evaluations to determine in which subinterval the root lies:
 	1. if $f(x_{l})f(x_{r}) < 0$, the root lies in the lower subinterval. Therefore, set $x_{u} = x_{r}$ and repeat step 2.
 	2. if $f(x_{l})f(x_{r}) > 0$, the root lies in the upper subinterval. Therefore, set $x_{l}=x_{r}$, and repeat step 2.
