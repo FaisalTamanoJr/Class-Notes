@@ -34,5 +34,5 @@
   "defaultViewMode": "preview",
   "livePreview": true,
   "rightToLeft": false,
-  "showRibbon": true
+  "showRibbon": false
 }
