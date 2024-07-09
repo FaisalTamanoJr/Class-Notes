@@ -1,7 +1,7 @@
 ---
 Course: GEETHIC
 Topic: Deontology - Divine Command and Natural Law
-Linked_Tests: [Quiz 1]
+Linked_Tests: [Quiz 2]
 Status: Done
 References used: [Ethics - Theories and Applications by Francis Evangelista and Napoleon Mabaquiao Jr. (Chapter 4), PPT Presentation 4 (Lecture Slides)]
 tags: [lesson]

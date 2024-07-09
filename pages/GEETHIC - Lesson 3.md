@@ -1,7 +1,7 @@
 ---
 Course: GEETHIC
 Topic: Consequentialism
-Linked_Tests: [Quiz 1]
+Linked_Tests: [Quiz 2]
 Status: Done
 References used: [Ethics - Theories and Applications by Francis Evangelista and Napoleon Mabaquiao Jr. (Chapter 3)]
 tags: [lesson]
