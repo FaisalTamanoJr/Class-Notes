@@ -1,6 +1,6 @@
-# Sampling distributions
+# Sampling Distributions
 
-## Sampling distributions appropriate for $\bar{x}$
+## Sampling Distributions Appropriate for $\bar{x}$
 
 ### Case 1
 
@@ -37,7 +37,7 @@ t=\frac{\bar{x}-\mu}{\displaystyle \frac{S}{\sqrt{ n }}} && \text{with } v = n -
 \end{align}
 $$
 
-## Sampling distributions appropriate for $\bar{x}_{1}-\bar{x}_{2}$
+## Sampling Distributions Appropriate for $\bar{x}_{1}-\bar{x}_{2}$
 
 ### Case 1
 
@@ -88,7 +88,7 @@ v&=\frac{\displaystyle \left[\frac{s_{1}^2}{n_{1}}+\frac{s_{2}^2}{n_{2}} \right]
 \end{align}
 $$
 
-## Sampling distribution appropriate for $S^2$
+## Sampling Distribution Appropriate for $S^2$
 
 ### Case 1
 
@@ -110,7 +110,7 @@ $$
 z=\frac{S-\sigma}{\displaystyle \frac{\sigma}{\sqrt{ 2n }}}
 $$
 
-## Sampling distribution for the ratio of two variances $S_{1}^2/S_{2}^2$
+## Sampling Distribution for the Ratio of Two Variances $S_{1}^2/S_{2}^2$
 
 $$
 \begin{align}
@@ -120,7 +120,7 @@ F_{1-\alpha(v_{1},v_{2})}&=\displaystyle \frac{1}{F_{\alpha(v_{2}-v_{1})}}
 \end{align}
 $$
 
-## Sampling distribution appropriate for $\hat{p}$
+## Sampling Distribution Appropriate for $\hat{p}$
 
 ### Case 1
 
@@ -138,7 +138,7 @@ $$
 z=\frac{\hat{p}-p}{\sqrt{\displaystyle \frac{pq}{n} }}
 $$
 
-## Sampling distribution appropriate for $\hat{p}_{1}-\hat{p}_{2}$
+## Sampling Distribution Appropriate for $\hat{p}_{1}-\hat{p}_{2}$
 
 $$
 \begin{align}

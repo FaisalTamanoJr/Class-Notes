@@ -7,37 +7,37 @@ References used: [4.2 Iterative Non-Bracketing Methods]
 tags: [formulaSheet]
 ---
 
-# Iterative non-bracketing methods
+# Iterative Non-bracketing Methods
 
-## Newton-Raphson method
+## Newton-Raphson Method
 
-### Newton-Raphson method
+### Newton-Raphson Method
 
 $$
 x_{i+1}=x_{i}-{\frac{f(x_{i})}{f^{\prime}(x_{i})}}
 $$
 
-### Secant method
+### Secant Method
 
 $$
 x_{i+1}=x_{i}-{\frac{f(x_{i})(x_{i-1}-x_{i})}{f(x_{i-1})-f(x_{i})}}
 $$
 
-### Modified-secant method
+### Modified-secant Method
 
 $$
 x_{i+1}=x_{i}-{\frac{\delta x_{i}f(x_{i})}{f(x_{i}+\delta x_{i})-f(x_{i})}}
 $$
 
-## Multiple roots
+## Multiple Roots
 
-### Multiple roots
+### Multiple Roots
 
 $$
 x_{i+1}=x_{i}-{\frac{f(x_{i})f^{\prime}(x_{i})}{[f^{\prime}(x_{i})]^{2}-f(x_{i})f^{\prime\prime}(x_{i})}}
 $$
 
-### Newton-Raphson for systems of nonlinear equations
+### Newton-Raphson for Systems of Nonlinear Equations
 
 $$
 \text{Two Equation Version of the Newton-Raphson Method}
@@ -47,7 +47,7 @@ $$
 \begin{align}\displaystyle{\mathrm{x}}_{i+1}=\mathrm{x}_{i}-{\frac{u_{i}{\frac{\partial v_{i}}{\partial y}}-v_{i}{\frac{\partial u_{i}}{\partial y}}}{{\frac{\partial u_{i}}{\partial x}}{\frac{\partial v_{i}}{\partial y}}-{\frac{\partial u_{i}}{\partial y}}{\frac{\partial v_{i}}{\partial x}}}}\\\displaystyle{\mathrm{y}}_{i+1}=\mathrm{y}_{i}-{\frac{v_{i}{\frac{\partial u_{i}}{\partial x}}-u_{i}{\frac{\partial v_{i}}{\partial x}}}{{\frac{\partial u_{i}}{\partial x}}{\frac{\partial v_{i}}{\partial y}}-{\frac{\partial u_{i}}{\partial y}}{\frac{\partial v_{i}}{\partial x}}}}   \\\end{align}
 $$
 
-## Iterative polynomial function techniques
+## Iterative Polynomial Function Techniques
 
 ### Müller’s Method
 

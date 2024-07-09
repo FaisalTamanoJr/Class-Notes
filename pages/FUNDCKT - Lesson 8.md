@@ -1,15 +1,15 @@
 ---
 Course: FUNDCKT
-Topic: Transient Response Part 3
+Topic: Transient Response part 3
 Linked_Tests: ["Quiz 2"]
 Status: Done
 References used: ["Transient Response_3 (Lecture Slides)"]
 tags: [lesson]
 ---
 
-# Transient response part 3
+# Transient Response part 3
 
-## Source-free series RLC circuit
+## Source-free Series RLC Circuit
 
 [[RLC circuits]] or [[second-order circuit]] is characterized by a second-order differential equations. They consist of resistors and the equivalent of two energy storage elements.
 
@@ -45,7 +45,7 @@ Roots may be written as:
 - $j=\sqrt{ -1 }$ and $w_{d}=\sqrt{ w_{0}^2+\alpha^2 }$ which is called the [[damping frequency]]
 - Both $w_{d}$ and $w_{0}$ are [[natural frequencies]] because they help determine the [[natural response]]; while $w_{0}$ is often called the [[undamped natural frequency]], $w_{d}$ is called the [[damped natural frequency]]
 
-## Source-free parallel RLC circuit
+## Source-free Parallel RLC Circuit
 
 - [[overdamped case|Overdamped case]]
 	- The roots of the characteristic equation are real and negative
@@ -57,7 +57,7 @@ Roots may be written as:
 	- The roots are complex
 	- $v(t)=e^{-\alpha t}(A_{1}\cos\omega_{d}t+A_{2}\sin\omega_{d}t)$
 
-## Step response of series RLC circuits
+## Step Response of Series RLC Circuits
 
 - It is obtained after the sudden application of a [[direct current|dc]] source
 - Overdamped
@@ -67,7 +67,7 @@ Roots may be written as:
 - Underdamped
 	- $v(t)=V_{s}+(A_{1}\cos\omega_{d}t+A_{2}\sin\omega_{d}t)e^{-\alpha t}$
 
-## Step response of parallel RLC circuits
+## Step Response of Parallel RLC Circuits
 
 - Overdamped
 	- $i(t)=I_{s}+A_{1}e^{s_{1}t}+A_{2}e^{s_{2}t}$

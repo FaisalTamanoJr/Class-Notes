@@ -119,7 +119,7 @@ The time progressed linearly but a flashback to six weeks before the present was
 1. Alfredo regretting his decisions and missing Julia Salas. He thinks about the nature of love.
 2. Carmen and Don Julian discussing why Alfredo has not married Esperanza yet. Carmen also wonders why Alfredo was enthusiastic at the start but seemed increasingly indifferent to Esperanza over time.
 
-### Rising action
+### Rising Action
 
 - From pages 20 (9th paragraph) to 26 (18th paragraph)
 1. Flashback to 6 weeks ago, when Judge Del Valle’s family stayed at Martinez house
@@ -133,7 +133,7 @@ The time progressed linearly but a flashback to six weeks before the present was
 1. Alfredo meets with Esperanza at her place.
 2. Esperanza complains to Alfredo about Calixta’s unmarried relationship. Alfredo and Esperanza gets into a heated argument which eventually leads to Esperanza questioning Alfredo’s interest in maintaining their relationship.
 
-### Falling action
+### Falling Action
 
 - From pages 27 (19th paragraph) to 29 (3rd paragraph)
 1. 8 years later, Alfredo was sent to find Brigada Samuy in a laketown for his defense case
@@ -151,7 +151,7 @@ The time progressed linearly but a flashback to six weeks before the present was
 
 ***
 
-## Style of writing
+## Style of Writing
 
 - It is written in third person but mostly from the perspective of Alfredo Salazar
 - It is creative with its description of the environment, the characters’ feelings, and the characters’ appearance
@@ -160,7 +160,7 @@ The time progressed linearly but a flashback to six weeks before the present was
 
 The story possesses a man vs. himself conflict where the protagonist have a [[Cyrenaicism|cyrenaicist]] perspective of love—focusing more on short but intense pleasure. He is a slave to new experiences, as seen with his behavior towards Esperanza and Julia at the start. Once he exhausts all of love’s fuel for a short moment, his interests for the person he’s in love with disappears—just like a star that uses all its fuel and loses its ability to produce energy.
 
-## Character development
+## Character Development
 
 ### Alfredo Salazar
 

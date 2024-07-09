@@ -1,15 +1,15 @@
 ---
 Course: FUNDCKT
-Topic: Transient Response Part 1
+Topic: Transient Response part 1
 Linked_Tests: [Quiz 2]
 Status: Done
 References used: ["Fundamentals of Electric Circuits by Charles K. Alexander and Matthew N.O. Sadiku (Chapter 6.1, 6.2, 6.3, 6.4, 6.5)", "Transient Response_1 (Lecture Slides)"]
 tags: [lesson]
 ---
 
-# Transient Response
+# Transient Response part 1
 
-## Summary of formulae and characteristics
+## Summary of Formulae and Characteristics
 
 ![[characteristics of resistor capacitor and inductor]]
 
@@ -82,14 +82,14 @@ $$
 > [!NOTE]
 > $v(-\infty) = 0$, because the capacitor is not charged at $t = -\infty$
 
-### Important properties of a capacitor
+### Important Properties of a Capacitor
 
 1. The current through the capacitor is zero when the voltage across it is constant; therefore, a capacitor is an open circuit to [[direct current|dc]]. If, however, a battery (dc voltage) is connected across it, it charges.
 2. The capacitor’s voltage cannot change abruptly (or be discontinuous) because it requires an infinite current—which is realistically impossible. Nonetheless, its current can change abruptly.
 3. The ideal capacitor takes power from the circuit when storing energy but returns it when delivering it back; as a result, it does not dissipate energy.
 4. Although, realistically, capacitors have a parallel-model leakage resistance, it can still be ignored for most practical applications.
 
-### Series and parallel capacitors
+### Series and Parallel Capacitors
 
 In order to obtain the equivalent capacitor $C_{eq}$ of a number of capacitors in parallel, use the following equation:
 
@@ -161,14 +161,14 @@ $$
 w=\frac{1}{2}Li^2
 $$
 
-### Important properties of an inductor
+### Important Properties of an Inductor
 
 1. If the current is constant, the voltage across an inductor is zero; as a result, the inductor acts like a short circuit to [[direct current|dc]].
 2. The inductor’s current cannot change abruptly (or be discontinuous) because it requires an infinite voltage—which is realistically impossible. Nonetheless, its voltage can change abruptly.
 3. Ideally, the inductor does not dissipate energy; thus, it would deliver back all the power it takes and stores from the circuit after a period of time.
 4. The nonideal inductor has a resistive component known as the [[winding resistance]] $R_{w}$. For this reason, it is both an energy storing and energy dissipating device. Nevertheless, it is ignored in most cases because it is usually very small. In addition, it also has a [[winding capacitance]] $C_{w}$ that, similarly, is usually ignored because of how minuscule it is.
 
-### Series and parallel inductors
+### Series and Parallel Inductors
 
 The equivalent inductor $L_{eq}$ of inductors following a series connection are solved using the following equation:
 

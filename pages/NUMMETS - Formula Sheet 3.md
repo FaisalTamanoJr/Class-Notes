@@ -7,15 +7,15 @@ References used: [5 Systems of Linear Equations (Lecture Slides)]
 tags: [formulaSheet]
 ---
 
-# Systems of linear equations
+# Systems of Linear Equations
 
-## Naive Gauss elimination
+## Naive Gauss Elimination
 
 > [!EXAMPLE] Summarized steps
 > 1. Keep eliminating the unknowns until there is one equation with only one unknown; thus, the value of that single unknown is obtained.
 > 2. Using the previously solved unknown, use back-substitution to solve for the values of the other unknowns
 
-### Forward elimination of unknowns
+### Forward Elimination of Unknowns
 
 Suppose we are a given an equation:
 
@@ -39,7 +39,7 @@ $$
 
 We use this technique and incrementally eliminate downwards until we are left with an equation with only a single variable. Afterwards, we solve for the single variable’s value, then use it to perform backward substitution to get the values of other variables.
 
-## Gauss-Jordan method
+## Gauss-Jordan Method
 
 This is a variation of Gauss elimination where the elimination step results in an identity matrix instead of a triangular one. For this reason, we aim to make the matrix look like
 
@@ -60,7 +60,7 @@ To do this, we perform something similar to the following steps:
 
 Using the vectors (the last column), we can obtain the values of the variables (with the top being $x_{1}$ and the bottom being $x_{n}$).
 
-## LU decomposition
+## LU Decomposition
 
 $\begin{align} [A]\{X\}&=\{B\} \\ [U][L]&=[A] \\ [L]\{D\}&=\{B\} \\ [U]\{X\}&=\{D\} \end{align}$
 
@@ -82,7 +82,7 @@ $\begin{align} [A]\{X\}&=\{B\} \\ [U][L]&=[A] \\ [L]\{D\}&=\{B\} \\ [U]\{X\}&=\{
 > 2. Use forward substitution to get $\{D\}$
 > 3. Use backward substitution to get $\{X\}$
 
-## The matrix inverse
+## The Matrix Inverse
 
 $[A][A]^{-1}=I$
 
@@ -104,7 +104,7 @@ Employ LU decomposition to find the inverse matrix: solve for $x$ using the LU d
 2. $[L]\{D\}=\{B\}$ (use forward substitution)
 3. $[U]\{X\}=\{D\}$ (use backward substitution)
 
-## Gauss-Seidel method
+## Gauss-Seidel Method
 
 $$
 \begin{align} x_{1}&=\frac{b_{1}-a_{12}x_{2}-a_{13}x_{3}}{a_{11}} \\ x_{2}&=\frac{b_{2}-a_{21}x_{1}-a_{23}x_{3}}{a_{22}}  \\ x_{3}&=\frac{b_{3}-a_{31}x_{1}-a_{32}x_{2}}{a_{33}} \end{align}

@@ -1,4 +1,4 @@
-# Resistivities of common materials
+# Resistivities of Common Materials
 
 | Material  | Resistivity $(\Omega \cdot m)$ | Usage         |
 | --------- | ------------------------------ | ------------- |

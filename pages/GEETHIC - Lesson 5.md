@@ -33,7 +33,7 @@ Besides this, he also claimed that *good will* is the only thing good in itself.
 
 The idea that good will is the only thing good in itself implies that other virtues—such as happiness, knowledge, and power (nonmoral goods)—are only [[instrumental good|instrumental goods]], thereby having the potential to be evil when used by an *evil will*. As a result, only good will is essential in determining whether a particular action is morally valuable or not.
 
-## Acting from duty
+## Acting from Duty
 
 According to Kant, for an action to be good, it has to come with a good will; in other words, it is done for the right reason. This means that a *good person* is one whose actions are motivated by their duties or their respect for the moral law itself. Good people act *from duty* and not *in accord with duty*; they do not do good because it is convenient to do so, rather, they do it because it is their duty.
 
@@ -41,7 +41,7 @@ Acting from duty implies that it is not done due to desires, feelings, or natura
 
 In order to determine what our moral duties are, Kant formulated the *categorical imperative*.
 
-## The categorical imperative
+## The Categorical Imperative
 
 Through nonempirical reasoning, we can arrive at absolute moral truth and discover our moral duties. Hence, we do not need to use empirical data to determine which actions are right and which ones are not.
 
@@ -60,7 +60,7 @@ There are three different *general* [[principles]] that explain the conditions a
 > 2. [[Principle of Ends]]
 > 3. [[Principle of Autonomy]]
 
-## Rules must be universal
+## Rules Must Be Universal
 
 > Act only on that maxim whereby thou canst at the same time will that it should become a universal law.
 
@@ -76,7 +76,7 @@ Three important things to note in this principle according to Wall (2003):
 > 2. Morality should be impartial, meaning that it treats everyone equally.
 > 3. No exceptions can be applied to the universalizable moral maxims (to prevent any contradictions).
 
-## Treating persons as ends
+## Treating Persons as Ends
 
 > So act as to treat humanity, whether in your person or in that of any other, in every case as an end and never as merely a means.
 
@@ -90,7 +90,7 @@ Because rational beings are intrinsically valuable, Kant believes that it is imm
 
 This principle does not only apply to others but also ourselves. Kant stresses the moral significance of respecting one’s own rights and dignity. For this reason, one cannot justify being a slave by stating that they consented to it because it violates their dignity.
 
-## The will as universal lawgiver
+## The Will as Universal Lawgiver
 
 > So act as if you were always through your maxims a law-making member of the kingdom of ends [^kingdom_of_ends]
 
@@ -121,7 +121,7 @@ In relation to utilitarianism, utilitarians think that relationships are only mo
 
 In relation to the Kantian deontology, one way this theory differs is that the importance of a moral duty changes depending on the circumstance; one moral duty might prevail over another moral duty because their moral significance are relative and dependent on the factors of the situation.
 
-## Distinguishing between [[prima facie]] and actual duties
+## Distinguishing between [[prima facie]] and Actual Duties
 
 Ross claims that there are two types of duties: *prima facie* and *actual* (or *concrete*). The former pertains to the duties we immediately recognize as actions we are have to do—for example, if we hurt someone, we immediately think that it is our duty to make reparations or apologize to them. These type of duties, however, serve as a general guide and not necessarily the actions we should take.
 
@@ -140,7 +140,7 @@ An action becomes an *actual* duty when there are no conflicting *prima facie* d
 > [!NOTE]
 > Just because a *prima facie* duty overrides another and becomes the *actual* duty, it does not mean that the other *prima facie* duty ceases to be a duty. It only ceases to be the actual duty in this particular situation; given a different situation, the other duty could become the actual duty.
 
-## Determining prima facie and actual duties
+## Determining Prima Facie and Actual Duties
 
 Ross maintains that, in a particular situation, our *prima facie* duties are immediately clear and self-evident. Therefore, it does not need any justification or proof. Nonetheless, he still emphasizes the role of *sufficient mental maturity* in allowing us to do this—referring to the age where we already understand the nature of our actions.
 

@@ -1,4 +1,4 @@
-# Progress tracker
+# Progress Tracker
 
 ## Lessons
 

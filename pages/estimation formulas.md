@@ -1,6 +1,6 @@
-# Estimation formulas
+# Estimation Formulas
 
-## Estimating the mean
+## Estimating the Mean
 
 ### $\sigma^2_{x}$ Known
 
@@ -8,21 +8,21 @@ $$
 \bar{X}\pm Z_{\frac{\alpha}{2}} \frac{\sigma_{x}}{\sqrt{n}}
 $$
 
-### $\sigma^2_{x}$ Not known
+### $\sigma^2_{x}$ Not Known
 
 $$
 \begin{align}\bar{X}\pm t_{\frac{\alpha}{2}} \frac{s}{\sqrt{n}}&&(v=n-1)\end{align}
 $$
 
-## Estimating the difference between two means $(\mu_{1}-\mu_{2})$
+## Estimating the Difference between Two means $(\mu_{1}-\mu_{2})$
 
-### Large independent samples
+### Large Independent Samples
 
 $$
 (\bar{x_{1}}-\bar{x_{2}})\pm Z_{\frac{a}{2}}\sqrt{ \frac{\sigma_{1}^2}{n_{1}}+ \frac{\sigma_{2}^2}{n_{2}} }
 $$
 
-### Small independent samples with equal variances
+### Small Independent Samples with Equal Variances
 
 $$
 \begin{align} (\bar{x_{1}}-\bar{x_{2}})\pm t_{\frac{a}{2}}S_{p}\sqrt{ \left(\frac{1}{n_{1}}+\frac{1}{n_{2}}\right) } && \text{where} && S_{p}=\sqrt{ \frac{(n_{1}-1)S_{1}^2+(n_{2}-1)S_{2}^2}{n_{1}+n_{2}-2} } \end{align}
@@ -30,7 +30,7 @@ $$
 
 value of $t_{\frac{a}{2}}$ is based on $(n_{1}+n_{2}-2)$ degrees of freedom
 
-### Small independent samples with unequal variances
+### Small Independent Samples with Unequal Variances
 
 $$
 (\bar{x_{1}}-\bar{x_{2}})\pm t_{\frac{a}{2}}\sqrt{ \frac{s_{1}^2}{n_{1}}+ \frac{s_{2}^2}{n_{2}} }
@@ -44,7 +44,7 @@ $$
 
 The value of $\nu$ should be rounded *down* to nearest integer.
 
-### Matched pairs (dependent samples)
+### Matched Pairs (dependent samples)
 
 Let $d_{1},d_{2}\dots d_{n}$ represent the differences between pairwise observations in a random sample of $n$ matched pairs. Then the small sample confidence interval for $\mu_{d}=(\mu_{1}-\mu_{2})$ is $\bar{d}\pm t_{\frac{a}{2}}\left( \frac{S_{d}}{\sqrt{n}} \right)$ where $\bar{d}$ and $S_{d}$ are the mean and standard deviation of the $n$ sample differences.
 
@@ -54,7 +54,7 @@ $$
 \frac{(n-1)s^2}{\chi_{\frac{a}{2}}^2}\leq\sigma^2\leq \frac{(n-1)s^2}{\chi_{\left(1-\frac{a}{2}\right)}^2} 
 $$
 
-## Estimating the ratio of two variances
+## Estimating the Ratio of Two Variances
 
 $$
 {\frac{s_{1}^{2}}{s_{2}^{2}}}\cdot{\frac{1}{F_{\frac{a}{2}}(\nu_{1,}\nu_{2})}}\leq\left[{\frac{\sigma_{1}^{2}}{\sigma_{2}^{2}}}\right]\leq{\frac{s_{1}^{2}}{s_{2}^{2}}}\cdot{\frac{1}{F_{\left( 1-\frac{a}{2} \right)}\left(\nu_{1,}\nu_{2}\right)}}
@@ -68,25 +68,25 @@ $$
 {\frac{s_{1}^{2}}{s_{2}^{2}}}\cdot{\frac{1}{F_{\frac{\alpha}{2}}(\nu_{1,}\nu_{2})}}\leq\left[{\frac{\sigma_{1}^{2}}{\sigma_{2}^{2}}}\right]\leq{\frac{s_{1}^{2}}{s_{2}^{2}}}\cdot F_{\frac{\alpha}{2}}\left(\nu_{2,}\nu_{1}\right)
 $$
 
-## Estimating a proportion
+## Estimating a Proportion
 
 $$
 \bar{p}\pm Z_{\frac{a}{2}}\sqrt{ \frac{\bar{p}\cdot \bar{q}}{n} }
 $$
 
-## Estimating the difference between two proportions
+## Estimating the Difference between Two Proportions
 
 $$
  (\bar{p}_{1}-\bar{p}_{2})\pm Z_{\frac{a}{2}}\sqrt{ \frac{\bar{p}_{1}\cdot \bar{q}_{1}}{n_{1}} + \frac{\bar{p}_{2}\cdot \bar{q}_{2}}{n_{2}} } 
 $$
 
-## Test for goodness of fit between a hypothesized distribution and actual data
+## Test for Goodness of Fit between a Hypothesized Distribution and Actual Data
 
 ### Hypothesis
 
 Data follows the hypothesized value
 
-### Test statistic formula
+### Test Statistic Formula
 
 Where
 

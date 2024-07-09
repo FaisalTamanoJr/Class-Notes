@@ -4,7 +4,7 @@ Visit [[contents]] to view the contents of the vault.
 
 The flashcards I use are found in this [repository](https://github.com/FaisalTamanoJr/Anki-Class-Flashcards).
 
-## How to access the notes
+## How to Access the Notes
 
 1. Clone the repository.
 2. Download [Obsidian](https://obsidian.md/download).
@@ -12,7 +12,7 @@ The flashcards I use are found in this [repository](https://github.com/FaisalTam
 4. Select the cloned repository directory.
 5. Trust the author of the vault, and enable the community plugins.
 
-## Updating the notes
+## Updating the Notes
 
 1. Open the terminal/PowerShell at the cloned repository’s folder.
 	- In windows, you can do this by opening the folder in file explorer, right clicking, and clicking “open PowerShell/terminal window here”.

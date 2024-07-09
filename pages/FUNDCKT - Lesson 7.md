@@ -1,13 +1,13 @@
 ---
 Course: FUNDCKT
-Topic: Transient Response Part 2
+Topic: Transient Response part 2
 Linked_Tests: [Quiz 2]
 Status: Done
 References used: ["Fundamentals of Electric Circuits by Charles K. Alexander and Matthew N.O. Sadiku (Chapter 7.1, 7.2, 7.3, 7.4, 7.5, 7.6)", "Transient Response_2 (Lecture Slides)"]
 tags: [lesson]
 ---
 
-# Transient response part 2
+# Transient Response part 2
 
 ## Introduction
 
@@ -18,7 +18,7 @@ Besides the types of first-order circuits, there are also two ways of exciting t
 1. ==Through the initial conditions of storage elements (capacitors and/or inductors).== This way assumes that energy is initially stored in the storage elements and, thus, it does not use any [[independent electrical source|independent sources]] ([[source-free circuits]]).
 2. ==Through independent sources.==
 
-## Source-free RC circuit
+## Source-free RC Circuit
 
 This circuit occurs when a [[direct current|dc]] source is disconnected but the capacitor has already stored and released some of the source’s energy to the resistors. For this reason, the circuit response is an exponential decay of the initial energy stored—also called as the circuit’s [[natural response]] because it is independent of any external voltage/current source.
 
@@ -61,7 +61,7 @@ $$
 > [!TIP]
 > You can use [[Thevenin’s theorem]] when you have a single capacitor—or combined capacitors using an equivalent capacitor—and some resistors and dependent sources. This is done by using the capacitor’s terminals to create a simple $RC$ circuit.
 
-## Source-free RL circuit
+## Source-free RL Circuit
 
 Similar to RC circuits, RL circuits show a [[natural response]] after a [[current]] source is disconnected: the inductor has already stored some of the [[direct current|dc]] source’s current and will exhibit an exponential decay of the initial current.
 
@@ -102,7 +102,7 @@ $$
 > [!TIP]
 > You can use [[Thevenin’s theorem]] when you have a single inductor—or combined inductors using an equivalent inductor—and some resistors and dependent sources. This is done by using the inductor’s terminals to create a simple $RL$ circuit.
 
-## Singularity functions
+## Singularity Functions
 
 Learning singularity functions aid in understanding the first order circuits’ response to sudden application of an independent [[direct current|dc]] source; they can approximate the switching signals found in circuits with switching operations.
 
@@ -115,7 +115,7 @@ The commonly used types of singularity functions are
 - unit impulse; and
 - unit ramp.
 
-### Unit step function
+### Unit step Function
 
 The [[unit step function]] is $0$ when $t$ is negative, $1$ when it is positive, and *undefined* when it $t=0$. The table below illustrates its nature.
 
@@ -137,7 +137,7 @@ If $t_{0}$ is equal to $0$, then $v(t)$ is the step voltage $V_{0}u(t)$. The cir
 | --------------------------- | ---------------------------------------------- | ------------------------------------------------------------ |
 | ![[unit step circuit.webp]] | ![[unit step circuit 2.webp]] | $v=0$ when $t<0$ (short-circuited), but $v=V_{0}$ when $t>0$ |
 
-### Unit impulse function
+### Unit Impulse Function
 
 | Function                                                                                                                             | Graph                           |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------- |
@@ -163,7 +163,7 @@ $$
 \int_{a}^{b}f(t)\delta(t-t_{0})\,d t=f(t_{0})
 $$
 
-### Unit ramp function
+### Unit Ramp Function
 
 | Function                                                                         | Graph                                          |
 | -------------------------------------------------------------------------------- | ---------------------------------------------- |
@@ -176,7 +176,7 @@ Other characteristics:
 - It can be advanced or delayed (like when $t=t_{0}$ or $t=-t_{0}$ instead of $t=0$)
 - It changes with a constant rate
 
-## Step response of RC
+## Step Response of RC
 
 The [[step response]] is the circuit’s response to a suddenly applied dc source that is modeled as a [[step function]]. The equation for its [[complete response]] is (assuming that the capacitor is initially charged)
 
@@ -200,7 +200,7 @@ We can also decompose $v(t)$ into two components with two different ways:
 1. Complete response = natural response (stored energy) + forced response (independent source)
 2. Complete response = transient response (temporary part) + steady-state response (permanent part)
 
-### Natural and forced response
+### Natural and Forced Response
 
 It can be written as
 
@@ -220,7 +220,7 @@ $$
 
 The natural response and the temporary portion of the forced response eventually disappears; as a result, only the permanent portion of the forced response is left.
 
-### Transient and steady-state response
+### Transient and Steady-state Response
 
 It can be written as
 
@@ -250,7 +250,7 @@ $$
 > - $v(\infty)=$ the steady state response
 > - $v(0)=$ the initial voltage at $t=0^{+}$
 
-### Finding the step response
+### Finding the step Response
 
 To find the step response of an RC circuit, we need the
 
@@ -276,7 +276,7 @@ $$
 > [!WARNING]
 > Both formulae shown only work when the input excitation is constant
 
-## Step response of RL
+## Step Response of RL
 
 Similar to the step response of an RC circuit, we can find the RL circuit’s step response through the sum of the steady-state and the transient response,
 
@@ -311,7 +311,7 @@ $$
 > - $i(0)=$ the initial values of $i$
 > - $i(\infty)=$ the final values of $i$
 
-### Finding the step response
+### Finding the step Response
 
 To find the step response of an $RL$ circuit, we need the
 

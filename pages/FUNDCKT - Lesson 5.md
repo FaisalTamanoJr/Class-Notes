@@ -11,7 +11,7 @@ tags: [lesson]
 
 Because of the increasing complexity of electric circuits, engineers devised theorems to simplify circuit analysis, such as [[Thevenin’s theorem|Thevenin's]] and [[Norton’s theorem]]. Before learning these theorems, we would need to first understand circuit linearity and the concept of superposition because these are pertinent to the topic.
 
-## Linearity property
+## Linearity Property
 
 - [[linearity|Linearity]] is an element’s property that describes the directly proportional relationship between cause and effect; consequently, a linear circuit is one whose output is linearly related to its input
 - It is a combination of both the [[homogeneity]] property and the [[additivity]] property
@@ -47,7 +47,7 @@ $$
 - It does not affect the remaining part of the circuit
 - The arrow of the current source is directed to the positive terminal of the voltage source
 
-### Cases when source transformation is not possible:
+### Cases when Source Transformation is not Possible:
 
 1. Replacing an ideal voltage source ($R=0$)
 2. Replacing an ideal current source ($R=\infty$)
@@ -74,7 +74,7 @@ $$
 \begin{equation}\begin{split} I_{L}&=\frac{V_{Th}}{R_{Th}+R_{L}} \\ V_{L}&=R_{L}I_{L}=R_{L}\left(\frac{V_{Th}}{R_{Th}+R_{L}}\right)\end{split}\end{equation}
 $$
 
-## Application of Thevenin’s theorem
+## Application of Thevenin’s Theorem
 
 ### Case 1
 
@@ -120,7 +120,7 @@ $$
 
 - Norton’s theorem treats their independent and dependent sources similar to Thevenin’s theorem—only the independent sources are turned off because the dependent ones are controlled by the circuit variables.
 
-# Relationship between Thevenin’s theorem and Norton’s theorem
+# Relationship between Thevenin’s Theorem and Norton’s Theorem
 
 Knowing that the Norton and Thevenin resistance are equal, the relationship between Norton’s and Thevenin’s equivalent circuit is described in the equation below
 

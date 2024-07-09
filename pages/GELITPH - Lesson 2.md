@@ -90,7 +90,7 @@ Time moves fast in the story. It was also revealed that it was around June based
 	1. Tarang was not able to understand what Tatay and Nanay were talking about during this moment
 4. The reason the family harvests is to pay those they owe
 
-### Rising action
+### Rising Action
 
 - From pages 203 (8th paragraph) to 204 (before the last paragraph)
 1. Tarang takes care of the pig
@@ -113,7 +113,7 @@ Time moves fast in the story. It was also revealed that it was around June based
 9. Thunderstorms forces the family to stay at home
 10. Tarang has became more observant and aware; for instance, he starts to become curious about the nature of mushrooms.
 
-### Falling action
+### Falling Action
 
 - From pages 207 (5th paragraph) to 209 (2nd paragraph)
 1. Tia Orang visits the family
@@ -136,7 +136,7 @@ Time moves fast in the story. It was also revealed that it was around June based
 
 ***
 
-## Style of writing
+## Style of Writing
 
 - From a third person point of view
 - Uses a lot of indigenous terminologies
@@ -148,7 +148,7 @@ The story possesses a man vs himself conflict since it deals with Tarang growing
 
 It also has a man vs nature conflict because it involves the characters trying to deal with the nature of their environment
 
-## Character development
+## Character Development
 
 ### Tarang
 
