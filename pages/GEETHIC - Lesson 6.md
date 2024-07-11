@@ -1,6 +1,6 @@
 ---
 Course: GEETHIC
-Topic: Virtue Ethics - Aristotelian, Confucian and Buddhist Ethics
+Topic: Virtue Ethics - Aristotelian, Confucian, and Buddhist Ethics
 Linked_Tests: [Quiz 2]
 Status: Done
 References used: [Module 6 Presentation (Lecture Slides)]
