@@ -2,7 +2,7 @@
 Course: GEETHIC
 Topic: Virtue Ethics - Distributive Justice and Care Ethics
 Linked_Tests: [Quiz 2]
-Status: Work in Progress
+Status: Done
 References used: [Module 7 Presentation (Lecture Slides)]
 tags: [lesson]
 ---
@@ -43,7 +43,7 @@ tags: [lesson]
 
 Distributive justice is the most fundamental kind of justice that underlies many of the other kinds; for example, punishments and compensations are forms of benefits and burdens, and a due process is just a standard for distribution/allocation.
 
-When is the a distribution just?
+When is a distribution just?
 
 | Distribution Basis                  | Theory of Justice                       |
 | ----------------------------------- | --------------------------------------- |
@@ -93,9 +93,45 @@ There are plenty of contributors to care ethics; two of the earlier contributors
 
 ### Views Advanced by Gilligan
 
+Gilligan asserts that men and women have dissimilar conceptions of morality: men’s conception focuses on resolving conflicting moral rights (since they tend to adopt an individualistic perspective of the self); and women’s conception underscores the importance of care in morality (since they typically adopt an interdependent and connected view of the self).
+
+Besides this, she also claims that men and women go through different stages of morality: men follows the stages according to [[Kohlberg's theory]]; whereas, women follow the stages specified by Gilligan.
+
+ The Female Stages of Moral Development (according to Gilligan):
+
+ 1. Level One: Individual Survival Orientation
+	 - Transitions from selfishness to responsibility
+ 2. Level Two: Goodness as Self-sacrifice
+	 - Transitions from goodness to truth
+ 3. Level Three: The Morality of Nonviolence
+
+> [!Example]- Kohlberg’s stages of moral development
+> 1. Pre-Conventional Stage: the right action only concerns to what brings pleasure
+> 2. Conventional Stage: the right action involves loyalty to others and respecting the law and social customs
+> 3. Post-Conventional Stage: the right action follows abstract/universal moral principles
+
 ### Views Advanced by Noddings
+
+Noddings view on morality follows the idea of Hume, wherein morality is founded on our feelings; therefore, our moral duties or [[ethical care]] is derived from our [[natural care]] (what we *want* to do). As humans, it is inherent to help and care for others; when we care, we follow the impulses that tell us to act on behalf of another.
+
+She described the caring-relationship structure to be composed of one-caring and another one-cared for, where they both must reciprocally care for each other.
+
+Two key features of the masculine/traditional ethical view that this view oppose:
+
+1. Impartiality
+	- Evaluating a situation using impartial principles are insufficient because they may remove morally relevant details.
+2. Universality
+	- Noddings believe that each situation should be examined from a case-to-case basis because universalizing it will diminish the factors that give rise to the moral question(s).
+	- Furthermore, because each situation and person involved differs, general rules should not be applicable.
+
+This view suggests that we primarily make moral judgments to amplify our moral awareness and sensitivity. Its goal is to consider them under the light of care; this is because we can never separate ourselves from caring relationships with others.
 
 ## Some Criticisms
 
+1. Some claim that care ethics projects a kind of [[slave morality]] that ascribes value to the oppression of women.[^nietzche]
+2. Care ethics reinforces oppression of women by restricting them to caring gender roles. Justice, self-development, and autonomy is necessary to truly promote gender equality and liberate women from oppression.
+3. Care ethics is criticized for being parochial—placing greater value on the needs of people one is closer to.
+
 [^harmony]: When effective and in harmony, one element can result in a virtue; whereas, if all elements were effective and in harmony, it results in justice.
 [^fairness]: i.e., not biased to one’s situation
+[^nietzche]: [[Friedrich Nietzsche]] uses the term *slave morality* to refer to the oppressed people’s tendency to develop moral theories that reaffirm their subservient traits as virtues.
