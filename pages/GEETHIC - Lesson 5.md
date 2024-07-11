@@ -13,7 +13,7 @@ tags: [lesson]
 
 It claims that generous actions with moral worth are not prompted by natural inclinations. Moral principles would not be consistent if it was founded on human inclinations, desires, or nature—because these things vary for each person; thus, would entail that moral standards would also be different per individual. Moreover, the theory views morality as a necessity that does not require other things for it to exist; in other words, it is not *contingent*.
 
-> [!quote]
+> [!QUOTE]-
 *We cannot too much or too often repeat our warning against this lax and even mean habit of thought which seeks for its principle amongst empirical motives and laws; for human reason in its weariness is glad to rest on this pillow and in a dream of sweet illusions it substitutes for morality a bastard patched up from limbs of various derivation, which looks like anything one chooses to see in it; only not like a virtue to one who has once beheld her in her true form*
 — Kant, 1965
 
@@ -23,7 +23,7 @@ Kant contends that our rational will (or reason) solely underlies morality, inde
 
 Kant believes that morality is necessary, absolute, and universal; therefore, its value is not [[instrumental good|derived]] from nonmoral goods like happiness (it is [[intrinsic good|inherently valuable]]).
 
-> [!quote]
+> [!QUOTE]-
 *…this Good will should wholly lack power to accomplish its purpose, if with its greatest efforts it should yet achieve nothing, and there should remain only the Good Will,… then, like a jewel, it would still shine by its own light, as a thing which has its whole value in itself. Its usefulness or fruitfulness can neither add to nor take away anything from this value*
 — Kant, 1965
 

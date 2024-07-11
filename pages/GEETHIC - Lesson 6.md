@@ -5,11 +5,12 @@ Linked_Tests: [Quiz 2]
 Status: Done
 References used: [Module 6 Presentation (Lecture Slides)]
 tags: [lesson]
+aliases: [Aristotelian virtue ethics]
 ---
 
 # Aristotelian Ethics
 
-According to Aristotle, the good life is one which is happy or [[fluorishing]],[^1] and for that to occur, one must live in accordance to their reason. A human’s unique essence is to live in accordance to their reason; thus, they must do so to become happy.
+According to [[Aristotle]], the good life is one which is happy or [[fluorishing]],[^1] and for that to occur, one must live in accordance to their reason. A human’s unique essence is to live in accordance to their reason; thus, they must do so to become happy.
 
 ## Happiness and Virtues
 
@@ -42,7 +43,7 @@ Moral virtues lie between [[excessive]] and [[deficient]] forms. The table below
 
 ## The Noble Person
 
-Originally, the noble/superior person referred to individuals born in an aristocratic family. In addition, non-noble people could never obtain nobility, while noble people could never lose their nobility. Confucius, however, altered the concept to only focus on an individual’s morality.
+Originally, the noble/superior person referred to individuals born in an aristocratic family. In addition, non-noble people could never obtain nobility, while noble people could never lose their nobility. [[Confucius]], however, altered the concept to only focus on an individual’s morality.
 
 The more recent concept provides everyone the capacity to become noble solely by their character/conduct. In particular, one must do the following to acquire nobility:
 
@@ -121,7 +122,7 @@ To live the Middle Path, one must accomplish all of the following:
 3. cultivate certain virtues through specific [[moral precepts]].
 
 > [!INFO]
-> After living a life of self-indulgence (as a prince) and self-denial (as an ascetic in the forest), Siddhartha Gautama achieved enlightenment by meditating under a bodhi tree for several days. This allowed him to end his suffering and become the [[Buddha]] or *The Enlightened One*.
+> After living a life of self-indulgence (as a prince) and self-denial (as an ascetic in the forest), [[Siddhartha Gautama]] achieved enlightenment by meditating under a bodhi tree for several days. This allowed him to end his suffering and become the [[Buddha]] or *The Enlightened One*.
 
 ## The Moral Teachings
 
