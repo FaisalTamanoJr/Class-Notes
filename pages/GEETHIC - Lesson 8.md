@@ -2,7 +2,7 @@
 Course: GEETHIC
 Topic: Business Ethics
 Linked_Tests: [Quiz 2]
-Status: Work in Progress
+Status: Done
 References used: [Module 6 Presentation (Lecture Slides)]
 tags: [lesson]
 ---
@@ -117,20 +117,95 @@ The general kinds of issues in business ethics include the following:
 
 ### Corporate Moral Responsibilities
 
+The primary moral obligations of a corporation from two points of view:
+
+1. Shareholder View: To promote the interests of the shareholder.
+2. Stakeholder View: To promote the best balance among the interests of various stakeholders.
+
 ### Advertising
+
+Business ads are usually persuasive rather than informative. They are unethical when they are being deceptive because they are undermining human autonomy/[[rationality]].
+
+Kinds of business advertising:
+
+- [[associative advertising]];
+- [[puffery]];
+- [[mass advertising]]; and
+- [[subliminal advertising]].
 
 ### Discrimination (in the workplace)
 
+Discrimination in the workplace occurs when job-irrelevant traits are used as basis for making decisions against employees or prospective employees. This can be done on an isolated case—done by an individual—or on an institutionalized case—done by an institutionalized group. Examples of the types of discrimination:
+
+- age;
+- gender;
+- religious; and
+- disability discrimination.
+
 ### Employee Privacy
 
+The [[right to privacy]] concerns the right of employees to determine the type and extent of information they share to a company. There are three factors we can consider if these rights were violated:
+
+1. Job relevance of the information collected.
+2. Employee’s consent.
+3. Appropriateness of data collection method.
+
 ### Anti-competitive Practices of Corporations
+
+Anti-competitive practices involves companies agreeing to control the prices through monopolies/oligopolies. Examples of anti-competitive practices in oligopoly markets:
+
+- price-fixing
+- supply manipulation
+- market allocation
+- exclusive dealing arrangements
+- tying arrangements
+- pricing discrimination
 
 ## Individual Issues
 
 ### Conflict of Interest
 
+[[conflict of interest|Conflict of interest]] happens when an employee makes decisions motivated by their self-interest—this may not serve the interests of the whole company. This can occur because of special situations (e.g., special relations) or activities (e.g., bribery).
+
 ### Employee Theft
+
+Employee thefts pertains to employees stealing resources from the company. It usually involves [[trade secrets]] and *inside information*.
 
 ### Whistleblowing
 
+[[whistleblowing|Whistleblowing]] is the act of exposing the wrongdoings of a company to the authorities or the public. There are two extreme views concerning this act:
+
+1. It is immoral because it violates commitments to loyalty.
+2. It is moral because it exercises the right to freedom of speech.
+
+The issue with this is that, firstly, loyalty may be misplaced, and secondly, the right to freedom of speech may be misused/abused. According to [[De George]] (1993), the moral conditions can be morally permissible and morally obligatory:
+
+1. Morally permissible:
+	1. The wrongdoing may result in serious injuries;
+	2. the wrongdoing has been reported to one’s immediate superiors; and
+	3. no appropriate action was done.
+2. Morally obligatory (in addition to the conditions mentioned earlier):
+	1. There is sufficient evidence for the wrongdoing.
+	2. There are good reasons to believe that exposing the wrongdoing will prevent the negative consequences.
+
 ### Sexual Harassment
+
+Harassment is considered sexual when in comes in the form of unwelcome sexual advances, requests for sexual favors, and other verbal or physical contact of a sexual nature. It is a degrading coercion exerted on employees who are vulnerable and defenseless. There are two types of sexual harassment:
+
+1. [[quid pro quo harassment|Quid Pro Quo Harassment]]:
+	- Occurs when unwelcome sexual conduct is explicitly a condition in the individual’s employment
+2. [[hostile environment harassment|Hostile Environment Harassment]]:
+	- Occurs when sexual conduct is unreasonably interfering with the employee’s job performance or creates an hostile working environment.
+
+### Political Tactics
+
+[[political tactics|Political tactics]] are ways in which individuals or groups, within an organization, use informally-sanctioned power to advance their self-interest. This includes the following actions:
+
+1. blaming others;
+2. controlling information;
+3. developing a base support for one’s ideas;
+4. image building;
+5. ingratiation;
+6. forming power coalitions and developing strong allies;
+7. getting control over scarce resources; and
+8. establishing favorable relationships.
