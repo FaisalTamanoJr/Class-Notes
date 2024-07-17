@@ -32,7 +32,7 @@
   ],
   "newFileFolderPath": "pages",
   "defaultViewMode": "preview",
-  "livePreview": true,
+  "livePreview": false,
   "rightToLeft": false,
   "showRibbon": false
 }
