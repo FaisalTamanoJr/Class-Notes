@@ -8,7 +8,7 @@ tags: [lesson]
 ---
 
 > [!Info]- Keywords
-[[least square regression]], [[linear regression]], [[maximum likelihood principle]], [[standard error of the estimate]], [[standard deviation]], [[total sum of the squares]], [[unexplained sum of the squares]], [[correlation coefficient]], [[coefficient of determination]]
+[[least square regression]], [[linear regression]], [[maximum likelihood principle]], [[standard error of the estimate]], [[standard deviation]], [[total sum of the squares]], [[unexplained sum of the squares]], [[correlation coefficient]], [[coefficient of determination]], [[polynomial regression]]
 
 # Least Square Regression
 
@@ -27,7 +27,10 @@ $$
 where $a_{0}$ and $a_{1}$ are coefficients characterizing the slope and intercept.[^res_errors] Consequently, we can find the line that best fit the given data points using a specific criteria: the line with the smallest sum of squares of residual errors is the best fit (least-squares fit). We can determine this sum using the expression
 
 $$
-S_{r} = \sum^n_{i=1}e_{i}^2
+\begin{align}
+S_{r} &= \sum^n_{i=1}e_{i}^2 \\ \\
+&= \sum^n_{i=1}(y-a_{0}-a_{1}x)^2 \\
+\end{align}
 $$
 
 where $n$ is the total number of points.
@@ -83,7 +86,7 @@ The coefficient of determination can mathematically be expressed as
 
 $$
 \begin{align}
-r^2 = \frac{S_{t}-S_{r}}{S_{t}} &&;&&S_{t}=\sum^n_{i=1}(y_{i}-\bar{y})
+r^2 = \frac{S_{t}-S_{r}}{S_{t}} &&;&&S_{t}=\sum^n_{i=1}(y_{i}-\bar{y})^2
 \end{align}
 $$
 
@@ -98,6 +101,46 @@ $$
 
 > [!TIP]
 > If $S_{y/x} < S_{y}$ , then the linear regression model has merit; else, it does not.
+
+## Polynomial Regression
+
+Besides linear regression, we could also apply the least-square procedure to polynomial regression—which can be handy for trends in data that a straight line cannot acceptably represent. For example, we can extend the least-square formula to handle quadratic polynomial using the following equation:
+
+$$
+S_{r} = \sum^n_{i=1}(y_{i}-a_{0}-a_{1}x_{i}-a_{2}x_{i}^2)^2
+$$
+
+To compute for the three unknowns (i.e., $a_{0},a_{1},$ and $a_{2}$), we need to solve the following system of three linear equations
+
+$$
+\begin{align}
+
+(n)a_{0}+\left(\sum x_{i}\right)a_{1}+\left(\sum x_{i}^{2}\right)a_{2}&=\sum y_{i} \\
+\left(\sum x_{i}\right)a_{0}\,+\,\left(\sum x_{i}^{2}\right)a_{1}\,+\,\left(\sum x_{i}^{3}\right)a_{2}\,&=\,\sum x_{i}y_{i} \\
+\left(\sum{x_{i}^{2}}\right)a_{0}\,+\,\left(\sum{x_{i}^{3}}\right)a_{1}\,+\,\left(\sum{x_{i}^{4}}\right)a_{2}\,&=\,\sum{x_{i}^{2}}y_{i}\,
+\end{align}
+$$
+
+For an $m^{th}$-order polynomial
+
+$$
+y=a_{0}+a_{1}x+a_{2}x^2+\dots+a_{m}x^m+e
+$$
+
+we can express its standard error of the estimate as
+
+$$
+s_{y/x}=\sqrt{ \frac{S_{r}}{n-(m+1)} }
+$$
+
+Similar to a linear regression, the coefficient of determination is
+
+$$
+\begin{align}
+r^2=\frac{S_{t}-S_{r}}{S_{t}} &&;&& S_{t}&=\sum^n_{i=1}(y_{i}-\bar{y})^2 \\
+&&&& S_{r} &= \sum^n_{i=1}e_{i}^2
+\end{align}
+$$
 
 [^res_errors]: Residual error is the difference between the true value and approximated value.
 [^normal]: [[normal distribution]]
