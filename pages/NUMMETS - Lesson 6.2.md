@@ -113,3 +113,19 @@ $$
 The issue with higher-order interpolating polynomials, however, is that they are highly sensitive to data errors. When interpolation is applied, they often yield inaccurate predictions. For this reason, they are better suited for exploratory data analysis.
 
 ## Lagrange Interpolating Polynomials
+
+The *Lagrange interpolating polynomial* is a reformulation of the Newton’s polynomial that avoids divided differences, thus
+
+$$
+f_{n}(x)=\sum^n_{i=0}L_{i}(x)f(x_{i})
+$$
+
+where
+
+$$
+L_{i}(x)\,=\,\prod_{\substack{\displaystyle j=0\\ \displaystyle j\neq1}}^{\displaystyle n}{\frac{\,x\,-\,x_{\displaystyle j}\,}{x_{\displaystyle i}\,-\,x_{\displaystyle j}\,}}
+$$
+
+where $\prod$ refers to the *product*.
+
+$L_{i}(x)$ will be $1$ at $x=x_{i}$ and $0$ at any other points; as a result, $L_{i}(x)f(x_{i})$ takes on the value of $f(x_{i})$ at $x_{i}$.
