@@ -25,6 +25,8 @@ z &= \frac{\bar{x}-\mu}{\displaystyle\frac{S}{\sqrt{ n }}} && \text{if } \sigma 
 \end{align}
 $$
 
+^2cb390
+
 ### Case 3
 
 1. Sampling from normal population

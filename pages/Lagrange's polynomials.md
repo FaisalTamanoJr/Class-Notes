@@ -1,0 +1,3 @@
+---
+aliases: [Lagrange interpolating polynomials]
+---

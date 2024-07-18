@@ -2,7 +2,7 @@
 Course: NUMMETS
 Topic: Least Square Regression
 Linked_Tests: [Quiz 3]
-Status: Work in Progress
+Status: Abandoned
 References used: [Numerical Methods for Engineers by Steven Chapra and Raymond Canale (Chapter 17)]
 tags: [lesson]
 ---
@@ -139,6 +139,68 @@ $$
 \begin{align}
 r^2=\frac{S_{t}-S_{r}}{S_{t}} &&;&& S_{t}&=\sum^n_{i=1}(y_{i}-\bar{y})^2 \\
 &&&& S_{r} &= \sum^n_{i=1}e_{i}^2
+\end{align}
+$$
+
+## Multiple Linear Regression
+
+In a case where there are two independent variables and only a single dependent variable, the regression line becomes a regression *plane*. For example, the following function:
+
+$$
+y=a_{0}+a_{1}x_{1}+a_{2}x_{2}+e
+$$
+
+As with previous cases, we can obtain the best values by taking advantage of the sum of the squares of the residuals,
+
+$$
+S_{r} = \sum^n_{i=1}(y_{i}-a_{0}-a_{1}x_{1i}-a_{2}x_{2i})^2
+$$
+
+To obtain the coefficients for the minimum sum of the squares of the residuals, we can use the following equation
+
+$$
+\left[
+\begin{matrix}
+n & \sum x_{1i} & \sum x_{2i}  \\
+\sum x_{1i} & \sum x_{1i}^2 & \sum x_{1i}x_{2i} \\
+\sum x_{2i} & \sum x_{1i}x_{2i} & \sum x^2_{2i}
+\end{matrix}
+\right]
+=
+\left\{ 
+\begin{matrix}
+a_{0} \\
+a_{1} \\
+a_{2}
+\end{matrix}
+\right\}
+=
+\left\{ 
+\begin{matrix}
+\sum y_{i} \\
+\sum x_{1i}y_{i} \\
+\sum x_{2i}y_{i}
+\end{matrix}
+\right\}
+$$
+
+It should be noted that it’s not limited to two variables, multiple linear regression can be extended to $m$ dimensions, as in
+
+$$
+y=a_{0}+a_{1}x_{1}+a_{2}x_{2}+\dots+a_{m}x_{m}+e
+$$
+
+where the standard error is
+
+$$
+s_{y/x} = \sqrt{ \frac{S_{r}}{n-(m+1)} }
+$$
+
+and the coefficient of determination is
+
+$$
+\begin{align}
+r^2=\frac{S_{t}-S_{r}}{S_{t}} &&;&& S_{t}&=\sum^n_{i=1}(y_{i}-\bar{y})^2
 \end{align}
 $$
 
