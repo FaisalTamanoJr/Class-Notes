@@ -2,7 +2,7 @@
 Course: NUMMETS
 Topic: Interpolation
 Linked_Tests: [Quiz 3]
-Status: Work in Progress
+Status: Done
 References used: [Numerical Methods for Engineers by Steven Chapra and Raymond Canale (Chapter 18)]
 tags: [lesson]
 ---
@@ -61,7 +61,7 @@ $$
 
 The term $b_{1}$ represents the slope of the line connecting the points $x_{0}$ and $x_{1}$, and, as such, is equivalent to the linear interpolation from $x_{0}$ to $x_{1}$. On the other hand, the $b_{2}(x-x_{0})(x-x_{1})$ introduces the second-order curvature.
 
-### General Form of Newton’s Interpolating Polynomials
+### General Form
 
 The general form for an $n$th-order polynomial (or *Newton’s divided-difference interpolating polynomial*) is
 
@@ -129,3 +129,15 @@ $$
 where $\prod$ refers to the *product*.
 
 $L_{i}(x)$ will be $1$ at $x=x_{i}$ and $0$ at any other points; as a result, $L_{i}(x)f(x_{i})$ takes on the value of $f(x_{i})$ at $x_{i}$.
+
+The error estimate can be computed with
+
+$$
+R_{n}= f[x,x_{n},x_{n-1},\dots,x_{0}] \prod^n_{i=0}(x-x_{i})
+$$
+
+## Newton or Lagrange?
+
+For exploratory computations, Newton’s method is preferred because it gives insight to the different-order formulas’ behavior; it is suited for cases where the polynomial’s order is unknown. Furthermore, because Newton’s method employs a finite difference, we can easily integrate the error estimate to it.
+
+Lagrange is preferred over Newton in cases where only one interpolation is to be performed because it is easier to program—it does not depend on divided differences, but the polynomial’s order must be known beforehand.

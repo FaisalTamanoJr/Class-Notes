@@ -2,7 +2,7 @@
 Course: NUMMETS
 Topic: Least Square Regression
 Linked_Tests: [Quiz 3]
-Status: Abandoned
+Status: Work in Progress
 References used: [Numerical Methods for Engineers by Steven Chapra and Raymond Canale (Chapter 17)]
 tags: [lesson]
 ---
@@ -203,6 +203,14 @@ $$
 r^2=\frac{S_{t}-S_{r}}{S_{t}} &&;&& S_{t}&=\sum^n_{i=1}(y_{i}-\bar{y})^2
 \end{align}
 $$
+
+## Nonlinear Regression
+
+![TODO](https://bartonfamilylaw.com.au/wp-content/uploads/2018/05/to-do.jpg)
+
+### Gauss-Newton Method
+
+![TODO](https://bartonfamilylaw.com.au/wp-content/uploads/2018/05/to-do.jpg)
 
 [^res_errors]: Residual error is the difference between the true value and approximated value.
 [^normal]: [[normal distribution]]
