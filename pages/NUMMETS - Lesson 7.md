@@ -90,7 +90,7 @@ $$
 I \cong \underbrace{(b-a)_{}}_{\text{Width}} \underbrace{\frac{f(x_{0})+4f(x_{1})+f(x_{2})}{6}}_{\text{Average height}}
 $$
 
-The Simpson’s 1/3 rule has a truncation error of
+The Simpson’s 1/3 rule has a error estimate of
 
 $$
 E_{t}=-\frac{1}{90}h^5\bar{f}^{(4)}(\xi)
@@ -126,7 +126,7 @@ $$
 I \cong \underbrace{(b-a)_{}}_{\text{Width}} \underbrace{\frac{f(x_{0})+3f(x_{1})+3f(x_{2})+f(x_{3})}{8}}_{\text{Average height}}
 $$
 
-It has an error of
+It has an error estimate of
 
 $$
 E_{t}=- \frac{(b-a)^5}{6480}f^{(4)}(\xi)
