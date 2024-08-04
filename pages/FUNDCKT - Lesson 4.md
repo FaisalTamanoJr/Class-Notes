@@ -15,7 +15,7 @@ tags: [lesson]
 	- ## Steps
 		1. Select a reference node
 		2. Assign voltages $v_{1},v_{2},\dots,v_{n-1}$ to the $n-1$ remaining nodes with respect to the reference node
-		3. Apply [[Kirchoff’s Current Law|KCL]] to each of the non-reference nodes $i=\frac{v_{\text{higher}}-v_{\text{lower}}}{R}$
+		3. Apply [[Kirchhoff’s Current Law|KCL]] to each of the non-reference nodes $i=\frac{v_{\text{higher}}-v_{\text{lower}}}{R}$
 		4. Solve the resulting simultaneous equations to obtain the unknown node voltages
 - # Nodal analysis with [[voltage]] sources
 	- If a voltage source is connected between the [[reference node]] and a non-reference node, we set the voltage at the non-reference node equal to the voltage of the voltage source
@@ -28,7 +28,7 @@ tags: [lesson]
 			- A circuit may have crossing branches and still be planar if it can be redrawn such that it has no crossing branches
 	- ## Steps
 		1. Assign voltages $i_{1}, i_{2}, \dots, i_{n-1}$ to the $n$ meshes
-		2. Apply [[Kirchoff’s Voltage Law|KVL]] to each of the $n$ meshes
+		2. Apply [[Kirchhoff’s Voltage Law|KVL]] to each of the $n$ meshes
 		3. Solve the resulting $n$ simultaneous equations to get the mesh currents
 - # Mesh analysis with [[current]] sources
 	- When a current source exists between two [[mesh|meshes]], a [[supermesh]] is formed by excluding the current source and any [[electrical element|elements]] connected in [[series resistors|series]] with it

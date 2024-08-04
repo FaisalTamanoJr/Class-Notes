@@ -68,5 +68,5 @@ tags: [lesson]
 		- It must not pass through a node more than once
 		- It is independent if it contains one branch which is not a part of any other independent loop.
 - # Kirchoff’s Laws
-	- [[Kirchoff’s Current Law]] ([[KCL]]) states that the algebraic sum of [[current|currents]] entering a [[node]] (or a closed boundary) is zero; as a result, the sum of currents entering a node must be equal to the sum of the currents leaving the node.
-	- [[Kirchoff’s Voltage Law]] ([[KVL]]) states that the algebraic sum of all [[voltage|voltages]] around a closed path (or [[loop]]) is zero; therefore, the the sum of voltage drops is equal to the sum of voltage rises.
+	- [[Kirchhoff’s Current Law]] ([[KCL]]) states that the algebraic sum of [[current|currents]] entering a [[node]] (or a closed boundary) is zero; as a result, the sum of currents entering a node must be equal to the sum of the currents leaving the node.
+	- [[Kirchhoff’s Voltage Law]] ([[KVL]]) states that the algebraic sum of all [[voltage|voltages]] around a closed path (or [[loop]]) is zero; therefore, the the sum of voltage drops is equal to the sum of voltage rises.
