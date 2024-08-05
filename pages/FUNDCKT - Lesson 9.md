@@ -11,7 +11,7 @@ tags: [lesson]
 > [[period]], [[phase]], [[cyclic frequency]], [[out of phase]], [[in phase]], [[phasor]], [[complex number]], [[rectangular form]], [[polar form]], [[instantaneous domain representation]], [[time domain representation]], [[phasor domain representation]], [[frequency domain representation]], [[impedance]], [[reactance]], [[admittance]], [[susceptance]], [[siemens]]
 
 > [!INFO]- Related Concepts
-> [[conductance]], [[sinusoidal|sinusoid]], [[alternating current]], [[wye-delta transformations]], [[Kirchhoff’s law]], [[Kirchhoff’s Voltage Law]], [[Kirchhoff’s Current Law]], [[resistance]], [[series resistors]], [[parallel resistors]]
+> [[conductance]], [[sinusoidal|sinusoid]], [[alternating current]], [[wye-delta transformations]], [[Kirchhoff’s law]], [[Kirchhoff’s Voltage Law]], [[Kirchhoff’s Current Law]], [[resistance]], [[series resistors]], [[parallel resistors]], [[alternating current]]
 
 # Sinusoids and Phasors
 
