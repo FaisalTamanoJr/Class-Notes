@@ -2,7 +2,7 @@
 Course: FUNDCKT
 Topic: AC Circuits Part 2
 Linked_Tests: [Final Exam, Long Quiz 3]
-Status: Work in Progress
+Status: Done
 References used: ["Fundamentals of Electric Circuits by Charles K. Alexander and Matthew N.O. Sadiku (Chapter 11)"]
 tags: [lesson]
 ---
@@ -37,7 +37,7 @@ P=\frac{1}{2}\mathrm{Re}[\boldsymbol{VI}^{\displaystyle*}]=\frac{1}{2}V_{m}I_{m}
 $$
 
 > [!INFO]
-> A resistive load ($R$) absorbs power at all times, while a reactive load ($L$ or $C$) absorbs none.
+> A resistive load ($R$) absorbs power at all times, while a reactive load ($L$ or $C$) absorbs no average power.
 
 ## Maximum Average Power Transfer
 
@@ -169,4 +169,4 @@ Power factor correction on an inductive load results in a lesser current drawn; 
 > 1. If we have an inductive load with the apparent power $S_{1}$, then our real power is $P=S_{1}\cos \theta_{1}$ and our reactive power is $P=S_{1}\sin \theta_{1}=P\tan \theta_{2}$.
 > 2. If we desire converting the power factor from $\cos \theta_{1}$ to $\cos \theta_{2}$ without altering the real power, we alter the reactive power into $Q_{2}=P\tan \theta_{2}$ by using a shunt capacitor, which is equivalent to $Q_{C}=Q_{1}-Q_{2}=P(\tan \theta_{1}-\tan \theta_{2})$.
 > 3. The formula for the *shunt capacitance* is $C=\displaystyle \frac{Q_{C}}{\omega V^2_{\text{rms}}}=\frac{P(\tan \theta_{1}-\tan \theta_{2})}{\omega V^2_{\text{rms}}}$
-> 	- If a shunt inductance is needed instead, we use the formula $Q_{L}=\displaystyle \frac{V^2_{\text{rms}}}{X_{L}}=\frac{V^2_{\text{rms}}}{\omega L} \Rightarrow L=\frac{V^2_{\text{rms}}}{\omega Q_{L}}$
+> 	- If a *shunt inductance* is needed instead, we use the formula $Q_{L}=\displaystyle \frac{V^2_{\text{rms}}}{X_{L}}=\frac{V^2_{\text{rms}}}{\omega L} \Rightarrow L=\frac{V^2_{\text{rms}}}{\omega Q_{L}}$
