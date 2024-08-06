@@ -2,7 +2,7 @@
 Course: FUNDCKT
 Topic: AC Circuits Part 3
 Linked_Tests: [Final Exam, Long Quiz 3]
-Status: Work in Progress
+Status: Done
 References used: ["Fundamentals of Electric Circuits by Charles K. Alexander and Matthew N.O. Sadiku (Chapter 12)"]
 tags: [lesson]
 ---
