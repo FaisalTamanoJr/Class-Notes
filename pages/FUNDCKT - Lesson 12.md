@@ -8,10 +8,10 @@ tags: [lesson]
 ---
 
 > [!INFO]- Keywords
-> [[electric generator]], [[motor]], [[transformer]], [[mutual inductance]], [[electric machine]], [[magnetic coupling]], [[mutual voltage]], [[coupling coefficient]]
+> [[electric generator]], [[motor]], [[transformer]], [[mutual inductance]], [[electric machine]], [[magnetic coupling]], [[mutual voltage]], [[coupling coefficient]], [[ideal transformer]], [[autotransformer]], [[step-down transformer]], [[step-up transformer]]
 
 > [!INFO]- Related Concepts
-> [[energy]]
+> [[energy]], [[complex power]]
 
 # Electrical Machines
 
