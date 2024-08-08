@@ -177,5 +177,13 @@
       ],
       "key": "E"
     }
+  ],
+  "obsidian-outliner:outdent-list": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Tab"
+    }
   ]
 }

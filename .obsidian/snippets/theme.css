@@ -1,0 +1,13 @@
+body, .theme-light {
+  --bold-color: #8a5cf5;
+  --italic-color: #5fb816;
+  --table-background: #ffffff;
+}
+
+body, .theme-dark {
+  --bold-color: #a882ff;
+  --italic: #a882ff;
+  --italic-color: #8bd450;
+  --table-background: #1e1e1e;
+}
+
