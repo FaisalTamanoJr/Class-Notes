@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+  --font-text-theme: "Noto Sans", sans-serif;
+  --font-interface-theme: "Noto Sans", sans-serif;
+  --h1-font: "Noto Serif", serif;
+  --h2-font: "Noto Serif", serif;
+  --h1-weight: 400;
+  --h2-weight: 400;
+  --h3-weight: 800;
+  --bold-modifier: 400;
+}
+
+.theme-light {
+  --background-primary: #ffffff;
+  --background-secondary: #fafafa;
+  --table-background: #ffffff;
+  --table-border-color: #222222;
+  --h5-color: #8a5cf5;
+}
+
+.theme-dark {
+  --background-primary: #1e1e1e;
+  --background-secondary: #262626;
+  --table-background: #1e1e1e;
+  --table-border-color: #dadada;
+  --h5-color: #a68af9;
+}
+
+.theme-dark .HyperMD-header-1::after, h1 {
+    display: block;
+    content: "";
+    padding-bottom: 15px;  
+    border-bottom: 2px solid #555555;
+}
+
+.theme-dark h1 {
+    display: block;
+    content: "";
+    padding-bottom: 15px;  
+    border-bottom: 2px solid #555555;
+}
+
+.theme-light .HyperMD-header-1::after, h1 {
+    display: block;
+    content: "";
+    padding-bottom: 15px;  
+    border-bottom: 2px solid #bdbdbd;
+}
+
+.theme-light h1 {
+    display: block;
+    content: "";
+    padding-bottom: 15px;  
+    border-bottom: 2px solid #bdbdbd;
+}
+
+.theme-dark .HyperMD-header-2::after, h2 {
+    display: block;
+    content: "";
+    padding-bottom: 15px;  
+    border-bottom: 2px solid #363636;
+}
+
+.theme-dark h2 {
+    display: block;
+    content: "";
+    padding-bottom: 15px;  
+    border-bottom: 2px solid #363636;
+}
+
+.theme-light .HyperMD-header-2::after, h2 {
+    display: block;
+    content: "";
+    padding-bottom: 15px;  
+    border-bottom: 2px solid #e0e0e0;
+}
+
+.theme-light h2 {
+    display: block;
+    content: "";
+    padding-bottom: 15px;  
+    border-bottom: 2px solid #e0e0e0;
+}
