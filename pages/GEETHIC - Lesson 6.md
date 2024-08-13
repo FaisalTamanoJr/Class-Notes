@@ -2,178 +2,97 @@
 Course: GEETHIC
 Topic: Virtue Ethics - Aristotelian, Confucian, and Buddhist Ethics
 Linked_Tests: [Quiz 2]
-Status: Done
-References used: [Module 6 Presentation (Lecture Slides)]
+Status: Work in Progress
+References used: [Ethics - Theories and Applications by Francis Evangelista and Napoleon Mabaquiao Jr. (Chapter 5)]
 tags: [lesson]
-aliases: [Aristotelian virtue ethics]
+aliases: []
 ---
 
-# Aristotelian Ethics
+# Classical Virtue Ethics
 
-According to [[Aristotle]], the good life is one which is happy or [[fluorishing]],[^1] and for that to occur, one must live in accordance to their reason. A human’s unique essence is to live in accordance to their reason; thus, they must do so to become happy.
+Unlike [[consequentialism]] and [[deontology]], [[virtue ethics]] is primarily concerned with the character of a person instead of their actions. It focuses more on “What type of person I should be?” Rather than “What is the right decision?” Hence, motives behind an action is instrumental in assessing the *moral quality* of an act. The combination of **right action** and **right intention** is what makes a person virtuous.
 
-## Happiness and Virtues
+## Aristotelian Ethics
 
-Aristotle claims that happiness is each human’s ultimate goal because of its unique features:
+[[Aristotelian ethics]] was taken from *Nicomachean Ethics*, which was written by Aristotle’s son, Nicomachus.[^a_ethics] For Aristotle, the good actions are ones that lead to *eudaimonia*—a virtue that is wanted for its own sake.
 
-- self-sufficient (i.e., it completes an individual’s life once it is satisfied)
-- final (i.e., it is intrinsically good)
-- attainable
+### Eudaimonia
 
-To achieve happiness, one must exercise [[virtue]] by being good at serving their purpose. For example, a good workout routine ensures that their users reliably improve their physical, and/or physiological characteristics. For this reason, humans ought to exhibit excellence of reason (as beings whose proper functions consists of their capacities of reason and will).
+[[Eudaimonia]] roughly translates to **happiness**, **well-being**, or **flourishing**. It is the end goal for all our actions. For us to attain it, we must fulfill our essence/nature by accomplishing our proper function.[^function] Because humans distinctly have the capacity to reason and act based on it, Aristotle believed that living in accordance with reason was our proper function. Therefore, we should let our rational faculty prevail over lower faculties (i.e., desire and passion) because we need it to achieve eudaimonia. Moreover, we ought to nurture our reasoning skills for the same reason.
 
-The excellence of reason requires [[intellectual virtues]], while the excellence of will requires [[moral virtues]]. Intellectual virtues are acquired through studying and is manifested through knowledge. On the other hand, moral virtues are acquired through the formation and practice of habits, and is manifested through practical actions.
+### Concept of Virtue
 
-## The Golden Mean
+[[virtue|Virtues]] enables us to fulfill our proper function, and, as such, Aristotle maintains that they are necessary for us to live a happy life. He categorized virtues into two types: *intellectual virtues* and *moral virtues*. The former allows us to reasonably think, while the latter enables us to rationally manage our emotions and desires.
 
-Moral virtues lie between [[excessive]] and [[deficient]] forms. The table below sheds light on the excess, mean, and deficiency,
+Virtues are either learned through experience or acquired through habits. For instance, *practical wisdom* (an intellectual virtue) is learned through experience. On the other hand, justice, prudence, fortitude, and temperance are developed through habitual actions. This implies that moral virtues are not inherent in our nature, but it is formed through constant practice. For this reason, Aristotle referred to things which are intrinsic to our nature (e.g., our ability to see and hear) as *endowments*—to distinguish them from virtues.
 
-| Context                    | Excess       | Mean         | Deficiency     |
-| -------------------------- | ------------ | ------------ | -------------- |
-| Feeling of Confidence      | Rash         | Courage      | Cowardice      |
-| Giving and Taking of Money | Prodigality  | Liberality   | Meanness       |
-| Honor and Dishonor         | Empty Vanity | Proper Pride | Undue Humility |
+Aristotle states that virtue comes from repeatedly doing the right thing; thus, it is internal process since it underscores the importance of building the right character. In contrast, *moral action* is an external exercise since it only focuses on the right decision. Although they are related, they are still different: one can do a good action while not necessarily being virtuous, and one can be virtuous and give in to performing an immoral act.
 
-> [!NOTE]
-> There is no mean for an excess or a deficiency; for example:
-> - There is no mean for cowardice.
-> - There is no mean for greed.
+> [!QUOTE]- Quote Illustrating the Distinction Between Virtue and Moral Action
+> A man who steals is not necessarily a thief; he stole, to be sure, and committed a misdeed, but a thief steals because it is his nature to do so. If an honest man steals, it is usually out of dire necessity, such as the avoidance of starvation, because everything is in him rebels against stealing. The same holds true of a good man who kills; he is not a murderer unless he murders by nature, that is, becomes a killer, but the person who by nature is not a killer may commit an isolated act of homicide purely in self-defence.
 
-# Confucian Ethics
+A virtuous person is one which enjoys doing virtuous actions because it became natural to them after constantly practicing. As Aristotle says, “A man who abstains from bodily pleasures and enjoys doing so is self-controlled; if he finds it troublesome, he is self-indulgent; a man who endures danger with joy, or at least without pain, is courageous; if he endures it with pain, he is a coward.” Aristotle believed that, in order to become virtuous, one must engage in moral actions with pleasure and contentment.[^eudaimonia]
 
-## The Noble Person
+### The Doctrine of the Mean
 
-Originally, the noble/superior person referred to individuals born in an aristocratic family. In addition, non-noble people could never obtain nobility, while noble people could never lose their nobility. [[Confucius]], however, altered the concept to only focus on an individual’s morality.
+Although vice and virtue are similar (i.e., vice is also a product of habit and is enjoyable), Aristotle states that [[vice]] is either the *extreme of excess* or *extreme of deficiency* (with respect to character traits). On the other hand, virtue is the balance between either extremes. Aristotle sheds light on the positive effects of acting in accordance to the median, by comparing it to food—too much or too little will damage our health, while only consuming a proportionate amount will strengthen it.
 
-The more recent concept provides everyone the capacity to become noble solely by their character/conduct. In particular, one must do the following to acquire nobility:
+### Evaluating Aristotle’s virtue Ethics
 
-1. act in harmony with the [[Mandate of Heaven]];
-2. know his/her duties in their relationships and act accordingly; and
-3. practice the cardinal/Confucian virtues.
+## Confucian Ethics
 
-### The Mandate of Heaven
+### Highlights of Confucius’ Life
 
-Although both Confucians and Taoists believe in the Tao—the ultimate principle that governs the universe and should guide every human’s actions—they disagree with how we could learn it. Taoists think that we can never completely understand it but only go with its flow. In contrary, Cofucians think that we could fully learn it through the *Mandate of Heaven*.
+### Overview of Confucianism
 
-Confucians believe that we should aspire to educate ourselves about the *Way of Heaven* and conduct our lives accordingly. These mandate or way is independent of a God or gods for justification.
+### Key Elements of Confucian Ethics
 
-### The Basic Relationships
+#### The *Junzi*
 
-Reciprocal responsibilities between parties underlie a harmonious relationship. If we assume that society consists of various relationships, then it is only in harmony when each relationship within it is also in harmony.
+#### The Mandate of Heaven
 
-5 basic relationships from which other forms of relationships develop:
+#### The Five Basic Relations
 
-1. parent-child;
-2. elder sibling-younger sibling;
-3. husband-wife;
-4. elder friend-younger friend; and
-5. ruler-subject.
+#### The Confucian Virtues
 
-### Rectification of Names
+## Buddhist Ethics
 
-Rectification of names concerns the clarification of assigned duties based on the role an individual assumes in society. These roles are defined by a person’s name/designations (e.g., father, son, elder, and ruler). Disharmony arises when we we do not know and do our expected duties.
+### Highlights of Buddha’s Life
 
-## The Confucian Virtues
+### Overview of Buddhism
 
-1. **[[ren|Ren]] or benevolence or humaneness:** concerns selflessness; thus, a person practicing *ren* is compassionate.
-2. **[[li|Li]] or propriety:** concerns proper conduct relative to a given situation. When it is internalized, it results to [[yi]].[^2]
-3. **[[shu|Shu]] or reciprocity:** deals with acting in accordance to [[The Golden Rule]]: “Do not do unto others what you do not want others to do unto you.”
-4. **[[xiao|Xiao]] or filial piety:** involves actions that display love, respect, and devotion to one’s family members, especially respecting and caring for one’s parents.
-5. **[[wen|Wen]] or culture:** covers actions that foster one’s cultural appreciation.
+### Key Elements of Buddhist Ethics
 
-> [!INFO]-
-> Some scholars believe that the Confucian virtues consists of the following:
-> 1. *ren* or humaneness;
-> 2. [[yi]] or righteousness;
-> 3. *li* or propriety;
-> 4. [[zhi]] or wisdom; and
-> 5. [[xin]] or faithfulness.
+### Characteristics of the World in General
 
-# Buddhist Ethics
+#### A. Impermanence and Emptiness
 
-## The Human Condition
+#### B. Dharma and Dependent Origination
 
-### General Features of the World
+### The Human Condition
 
-Humans lives in a world characterized by the following features:
+#### A. Non-Self
 
-- [[impermanence|Impermanence]]: everything changes.
-- [[emptiness|Emptiness]]: nothing is intrinsic.
-- [[dharma|Dharma]]: the world follows a causal order.
-- [[dependent origination|Dependent Origination]]: everything is causally interconnected.
+#### B. Karma and Rebirth
 
-### Basic Features of Human Existence
+#### C. Suffering
 
-Humans live a life characterized by the following features:
+### Buddhist Moral Values and Virtues
 
-- [[no-self|No-self]]: a person’s self always changes; consequently, an unchanging base like a soul does not exist. The various combination of physical and mental elements constitute the self.
-- [[samsara|Samsara]]: the cycle of dying and being reborn.
-- [[karma|Karma]]: the universe’s inescapable moral order: good actions will bear good consequences, while bad actions will bear bad consequences.
-- [[suffering|Suffering]]: suffering is intrinsic to human existence. It arises from the basic features of the world and human existence.
+#### A. The Four Noble Truths
 
-### Liberation from Suffering ([[Nirvana]])
+##### 1. First Noble Truth: Suffering Exists
 
-For humans to liberate themselves from suffering, they must follow Buddha’s teachings.[^3] He introduced the path to enlightenment known as the [[Middle Path]]. Living it frees one from suffering; it is the path between the two extremes: *self-indulgence* and *self-denial*.
+##### 2. Second Noble Truth: Suffering Arises from Craving
 
-To live the Middle Path, one must accomplish all of the following:
+##### 3. Third Noble Truth: Eliminating Craving Eliminates Suffering
 
-1. know the [[Four Noble Truths]];
-2. practice the [[Eight-fold Path]]; and
-3. cultivate certain virtues through specific [[moral precepts]].
+##### 4. Fourth Noble Truth: The Way to Eliminate Craving is by Following the Eight-Fold Path
 
-> [!INFO]
-> After living a life of self-indulgence (as a prince) and self-denial (as an ascetic in the forest), [[Siddhartha Gautama]] achieved enlightenment by meditating under a bodhi tree for several days. This allowed him to end his suffering and become the [[Buddha]] or *The Enlightened One*.
+#### B. The Eight-fold Path
 
-## The Moral Teachings
+#### C. The Five Precepts
 
-### The Four Noble Truths
-
-1. Suffering exists
-2. Suffering arises from craving
-	- [[craving|Craving]] pertains to clinging desires—desires which get attached to their objects
-	- [[non-craving|Non-craving]] involves non-clinging desires—desires which does not get attached to their objects
-3. Eliminating craving eliminates suffering
-	- Cultivate non-clinging desires while eliminating clinging ones
-4. To eliminate craving, follow the Eight-fold Path
-
-### The Eight-fold Path
-
-| General Paths           | Particular Paths            |
-| ----------------------- | --------------------------- |
-| I. Wisdom               | 1. Right Understanding/View |
-|                         | 2. Right Intention          |
-| II. Ethical Conduct     | 3. Right Speech             |
-|                         | 4. Right Action             |
-|                         | 5. Right Livelihood         |
-| III. Mental Development | 6. Right Effort             |
-|                         | 7. Right Mindfulness        |
-|                         | 8. Right Concentration      |
-
-### The Five Precepts
-
-1. I should avoid killing and harming living beings
-	- Cultivates the virtue of [[ahimsa]] or non-violence, compassion, and kindness
-2. I should avoid stealing
-	- Cultivates the virtues of generosity and renunciation
-3. I should avoid engaging in sexual misconduct
-	- Cultivates the virtues of contentment and respect for faithfulness
-4. I should avoid lying
-	- Cultivates the virtues of honesty and trustworthiness
-5. I should avoid drinking alcohol
-	- Cultivates the virtues of mindfulness and responsibility
-
-### Special Precepts
-
-3 additional precepts during holidays:
-
-1. I should avoid eating at the wrong time
-2. I should avoid singing, dancing, playing music, attending entertainment performances, wearing perfume, and using cosmetics and garlands
-3. I should avoid sitting/sleeping in luxurious places, and oversleeping
-
-Novice monks and nuns also practice an additional precept: they should deny any money being given to them.
-
-The totality of precepts is called the [[Ten Precepts]] (with the 7th precept being divided into two).
-
-[^1]: Flourishing, also referred to as [[eudaimonia]] by Aristotle, pertains to the happiness that humans should strive for
-[^2]: Yi is internalized li
-[^3]: The totality of Buddha’s teachings is called the [[dharma]]
+[^a_ethics]: This was because he, presumably, edited his father’s work.
+[^function]: For instance, a good car is one that can successfully and easily travel to a desired distance—which is their proper function.
+[^eudaimonia]: I suppose that this might also be because doing the proper action should lead to fulfillment/eudaimonia.

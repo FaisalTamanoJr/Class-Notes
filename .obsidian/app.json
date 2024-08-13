@@ -12,7 +12,7 @@
   "newFileLocation": "folder",
   "attachmentFolderPath": "assets",
   "showUnsupportedFiles": false,
-  "spellcheck": false,
+  "spellcheck": true,
   "showInlineTitle": false,
   "propertiesInDocument": "source",
   "spellcheckDictionary": [
