@@ -31,13 +31,32 @@ Aristotle states that virtue comes from repeatedly doing the right thing; thus, 
 > [!QUOTE]- Quote Illustrating the Distinction Between Virtue and Moral Action
 > A man who steals is not necessarily a thief; he stole, to be sure, and committed a misdeed, but a thief steals because it is his nature to do so. If an honest man steals, it is usually out of dire necessity, such as the avoidance of starvation, because everything is in him rebels against stealing. The same holds true of a good man who kills; he is not a murderer unless he murders by nature, that is, becomes a killer, but the person who by nature is not a killer may commit an isolated act of homicide purely in self-defence.
 
-A virtuous person is one which enjoys doing virtuous actions because it became natural to them after constantly practicing. As Aristotle says, “A man who abstains from bodily pleasures and enjoys doing so is self-controlled; if he finds it troublesome, he is self-indulgent; a man who endures danger with joy, or at least without pain, is courageous; if he endures it with pain, he is a coward.” Aristotle believed that, in order to become virtuous, one must engage in moral actions with pleasure and contentment.[^eudaimonia]
+A *virtuous person* is one who enjoys doing *virtuous actions* because it became natural to them after constant practice. As Aristotle says, “A man who abstains from bodily pleasures and enjoys doing so is self-controlled; if he finds it troublesome, he is self-indulgent; a man who endures danger with joy, or at least without pain, is courageous; if he endures it with pain, he is a coward.” Aristotle believed that, in order to become virtuous, one must engage in moral actions with pleasure and contentment.[^eudaimonia]
 
 ### The Doctrine of the Mean
 
-Although vice and virtue are similar (i.e., vice is also a product of habit and is enjoyable), Aristotle states that [[vice]] is either the *extreme of excess* or *extreme of deficiency* (with respect to character traits). On the other hand, virtue is the balance between either extremes. Aristotle sheds light on the positive effects of acting in accordance to the median, by comparing it to food—too much or too little will damage our health, while only consuming a proportionate amount will strengthen it.
+Although vice and virtue are similar (i.e., vice is also a product of habit and is enjoyable), Aristotle states that [[vice]] is either the *extreme of excess* or *extreme of deficiency* (with respect to character traits). On the other hand, virtue is the balance between either extremes. Aristotle sheds light on the positive effects of acting in accordance to the median, by comparing it to food—too much or too little will damage our health, while only consuming a proportionate amount will strengthen it. In the table below, Martin summarizes Aristotle’s discussed virtues with their corresponding excess, deficiencies, situation, and type of emotion.
+
+| Kind of Situation          | Type of Emotion         | Excess Vice       | Virtue          | Deficiency Vice      |
+| -------------------------- | ----------------------- | ----------------- | --------------- | -------------------- |
+| Responses to danger        | Fear, confidence        | Foolhardiness     | Courage         | Cowardice            |
+| Satisfaction of appetites  | Physical pleasure       | Overindulgence    | Temperance      | Inhibition           |
+| Giving gifts               | Desire to help          | Extravagance      | Generosity      | Miseliness           |
+| Pursuit of accomplishments | Desire to succeed       | Vaulting ambition | Proper ambition | Unambitiousness      |
+| Appraisal of oneself       | Self-confidence         | Vanity            | Proper pride    | Sense of inferiority |
+| Self-expression            | Desire to be recognized | Boastfulness      | Truthfulness    | False modesty        |
+| Responses to insults       | Anger                   | Irascibility      | Patience        | Apathy               |
+| Social conduct             | Attitudes to others     | Obsequiousness    | Friendliness    | Rudeness             |
+| Awareness of one’s flaws   | Shame                   | Shyness           | Modesty         | Shamelessness        |
+| Conservation, humor        | Amusement               | Buffoonery        | Wittiness       | Boorishness          |
+
+Nonetheless, Aristotle claims that the median is relative to the person, not the act. For example, it is courageous for a soldier to join the war; however, it is reckless for an ordinary citizen to do the same. Similarly, a weightlifter is sufficiently eating when consuming 10 pounds of food (since they require plenty of energy for their specialization), while eating the same amount for an ordinary person is considered too much.
+
+Besides this, Aristotle also states that the model (found at the table shown previously) does not cover all types of cases. Cases involving actions and emotions that connote baseness do not have a mean. Adultery, in-nature, is wrong; there is no excess nor deficient adultery. Hence, a median does not exist for this action. This example illustrates how some things can never have a mean.
 
 ### Evaluating Aristotle’s virtue Ethics
+
+A major criticism raised against Aristotelian ethics is the lack of clear instructions when it comes to specific moral issues. Although it greatly covers the character of an individual and its importance, it does not define which positions/actions are morally correct, such as in the case of abortion, death penalty, and etc.
 
 ## Confucian Ethics
 
