@@ -56,7 +56,23 @@ Besides this, Aristotle also states that the model (found at the table shown pre
 
 ### Evaluating Aristotle’s virtue Ethics
 
-A major criticism raised against Aristotelian ethics is the lack of clear instructions when it comes to specific moral issues. Although it greatly covers the character of an individual and its importance, it does not define which positions/actions are morally correct, such as in the case of abortion, death penalty, and etc.
+#### The Good
+
+This ethical theory stresses the importance of good character in living a moral life. It requires one to have good character to do good deeds, and, as such, promotes good motives behind kind actions. The consequence of cultivating good character leads to a happy virtuous life, where good moral agents are reliably or consistently good; in other words, they have a high propensity of acting good as a result of their nurtured character.
+
+Another positive is that, not only does it cover good actions, but it also encourages us to fully develop our selves. Aristotelian ethics provides some guidelines that assist us in determining our ideal moral selves; thus, we are given a goal that we can strive for and are provided instructions on how we can transform ourselves into good people.
+
+#### The Bad
+
+A major criticism raised against Aristotelian ethics is the lack of clear instructions when dealing with specific moral issues. Although it greatly covers the character of an individual and its importance, it does not define which positions/actions are morally correct, such as in the case of abortion, death penalty, and etc.
+
+In addition, this ethical theory does not provide concrete or clear guidelines for determining the median. Despite Aristotle including a myriad of variables to consider (e.g., time, object, person, etc.), it is still ambiguous, thereby making it too difficult to assess whether our actions are too much or too little.[^practical_wisdom]
+
+Before we can follow another virtuous person’s action, we first have to identify if a person is virtuous or not depending on the actions they take. Our logic falls under circular reasoning when we argue that a virtuous act is one which a virtuous person does, then afterward claim that a virtuous person is one which does virtuous acts.
+
+Another criticism raised against Aristotelian ethics is the premise that humans have one purpose. Several philosophical theories such as existentialism or postmodernism conflict with this notion; our nature or purpose is not limited to reason only (e.g., some theories suggest that we create our own meaning). In addition, there are also some things we can do better than other species besides our reasoning abilities. Hence, we cannot conclude that our nature is defined solely by our reason.
+
+We can also extrapolate David Hume’s criticism of [[natural law theory]] to Aristotelian ethics: we cannot conflate what *is* (descriptive) with what *ought* (normative) to be. Just because it is within our nature to act reasonably, **does not entail that we should** act reasonably. Hume holds that our values is distinct from non-moral natural facts; hence, morality should be discussed separately from our natural needs.
 
 ## Confucian Ethics
 
@@ -115,3 +131,4 @@ A major criticism raised against Aristotelian ethics is the lack of clear instru
 [^a_ethics]: This was because he, presumably, edited his father’s work.
 [^function]: For instance, a good car is one that can successfully and easily travel to a desired distance—which is their proper function.
 [^eudaimonia]: I suppose that this might also be because doing the proper action should lead to fulfillment/eudaimonia.
+[^practical_wisdom]: We can, nevertheless, distinguish what is right from what is wrong through *practical wisdom*. Aristotle recommends taking advantage of our ability to perceive good and bad by identifying morally salient features and applying situational appreciation.

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "pages/GEETHIC - Lesson 6.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "pages/GEETHIC - Lesson 6.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -94,6 +94,16 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "891db8474330295d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "pages/GEETHIC - Lesson 6.md"
           }
         }
       }
@@ -105,16 +115,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-trim-whitespace:Trim whitespace": false,
-      "homepage:Open homepage": false,
       "graph:Open graph view": false
     }
   },
   "active": "14e7d5c90c4b6b86",
   "lastOpenFiles": [
+    "pages/GEETHIC.md",
+    "contents.md",
+    "README.md",
     "pages/contents.md",
     "pages/ENGENVI.md",
-    "README.md",
     "pages/SOFDESG.md",
     "pages/SOFDESG - Lesson 10.md",
     "pages/SOFDESG - Lesson 9.md",
@@ -136,8 +146,6 @@
     "pages/standard normal distribution.md",
     "pages/ENGDATA - Lesson 8.md",
     "pages/central limit theorem.md",
-    "pages/sampling distributions.md",
-    "pages/statistic.md",
     "assets/cardinality notation.jpg",
     "assets/rcl series.jpg",
     "assets/sampling distributions.pdf",
