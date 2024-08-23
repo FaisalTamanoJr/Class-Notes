@@ -78,7 +78,34 @@ We can also extrapolate David Hume’s criticism of [[natural law theory]] to Ar
 
 ### Highlights of Confucius’ Life
 
+[[Confucius]] was born in a family that was generally poor, even though his father was from a noble lineage. His work experiences revealed to him a myriad of social injustices. As a result, he took different influential roles in the government to institute social changes. Nevertheless, he lost his position and was forced to leave Lu after offending a powerful nobleman. He then went to teach in several states. In his final moments as a scholar, he edited works that were later referred to as *Confucian classics*.
+
+Observations from his life that reflect his ethical teachings include the following:
+
+- One could be a noble person despite not being born in an aristocratic family.
+- He deeply loved and respected his family.
+- He was good at teaching and really enjoyed learning.
+- He used his knowledge for the greater good—by dealing with social injustices.
+- Even after losing his government positions, he still taught others so that he could initiate social changes.
+
 ### Overview of Confucianism
+
+[[Confucianism]] was derived from an ancient Chinese tradition known as the *Ru* tradition. More recently, Ru referred to individuals who studied a specific set of fields, and learned the *six classics*.[^six_classics] Because Confucius epitomized the Ru, the sixteenth century Jesuits called the Ru tradition “Confucianism”.
+
+There are two main readings for this tradition: the *Five Classics* (or the *Confucian Classics*) and the *Four Books*. The former is composed of the following books:
+
+1. **Book of History:** a set of texts documenting the emperors’ deeds and dance pieces for the Zhou royal court (from 3000 BCE to 700 BCE).
+2. **Book of Poetry:** a collection of poems made during the Zhou period.
+3. **Book of Changes:** a book consisting of a divination system that explains the patterns in the universe.
+4. **Book of Rites:** a book composed of rules used in court ceremonies and rites.
+5. **Spring and Autumn Annals:** a set of historical records that discussed Confucius and the state of Lu.
+
+On the other hand, the latter is made up of the following books:
+
+1. **Analects:** sayings and speeches from Confucius, which have been recorded by his students.
+2. **Great Learning:** a book explaining what constitutes a noble person; and the nature of education, morality, and politics.
+3. **Doctrine of the Mean:** a text discussing the connection between human nature and the *Way of Heaven*.
+4. **Mencius:** a set consisting of lessons by Mencius.[^mencius]
 
 ### Key Elements of Confucian Ethics
 
@@ -132,3 +159,5 @@ We can also extrapolate David Hume’s criticism of [[natural law theory]] to Ar
 [^function]: For instance, a good car is one that can successfully and easily travel to a desired distance—which is their proper function.
 [^eudaimonia]: I suppose that this might also be because doing the proper action should lead to fulfillment/eudaimonia.
 [^practical_wisdom]: We can, nevertheless, distinguish what is right from what is wrong through *practical wisdom*. Aristotle recommends taking advantage of our ability to perceive good and bad by identifying morally salient features and applying situational appreciation.
+[^six_classics]: The six classics consists of the *Book of Poetry*, the *Book of History*, the *Book of Rites*, the *Book of Music*, the *Book of Changes*, and the *Spring and Autumn Annals*).
+[^mencius]: Mencius was a confucian thinker.
