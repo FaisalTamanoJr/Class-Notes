@@ -107,6 +107,7 @@ On the other hand, the latter is made up of the following books:
 3. **Doctrine of the Mean:** a text discussing the connection between human nature and the *Way of Heaven*.
 4. **Mencius:** a set consisting of lessons by Mencius.[^mencius]
 
+<<<<<<< HEAD
 Confucianism was divided into different forms known as “schools” after interacting with *rival* or non-Confucian schools.
 
 | Confucian Schools    | Non-Confucian Schools |
