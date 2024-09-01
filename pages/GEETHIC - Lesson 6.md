@@ -78,11 +78,64 @@ We can also extrapolate David Hume’s criticism of [[natural law theory]] to Ar
 
 ### Highlights of Confucius’ Life
 
+[[Confucius]] was born in a family that was generally poor, even though his father was from a noble lineage. His work experiences revealed to him a myriad of social injustices. As a result, he took different influential roles in the government to institute social changes. Nevertheless, he lost his position and was forced to leave Lu after offending a powerful nobleman. He then went to teach in several states. In his final moments as a scholar, he edited works that were later referred to as *Confucian classics*.
+
+Observations from his life that reflect his ethical teachings include the following:
+
+- One could be a noble person despite not being born in an aristocratic family.
+- He deeply loved and respected his family.
+- He was good at teaching and really enjoyed learning.
+- He used his knowledge for the greater good—by dealing with social injustices.
+- Even after losing his government positions, he still taught others so that he could initiate social changes.
+
 ### Overview of Confucianism
+
+[[Confucianism]] was derived from an ancient Chinese tradition known as the *Ru* tradition. More recently, Ru referred to individuals who studied a specific set of fields, and learned the *six classics*.[^six_classics] Because Confucius epitomized the Ru, the sixteenth century Jesuits called the Ru tradition “Confucianism”.
+
+There are two main readings for this tradition: the *Five Classics* (or the *Confucian Classics*) and the *Four Books*. The former is composed of the following books:
+
+1. **Book of History:** a set of texts documenting the emperors’ deeds and dance pieces for the Zhou royal court (from 3000 BCE to 700 BCE).
+2. **Book of Poetry:** a collection of poems made during the Zhou period.
+3. **Book of Changes:** a book consisting of a divination system that explains the patterns in the universe.
+4. **Book of Rites:** a book composed of rules used in court ceremonies and rites.
+5. **Spring and Autumn Annals:** a set of historical records that discussed Confucius and the state of Lu.
+
+On the other hand, the latter is made up of the following books:
+
+1. **Analects:** sayings and speeches from Confucius, which have been recorded by his students.
+2. **Great Learning:** a book explaining what constitutes a noble person; and the nature of education, morality, and politics.
+3. **Doctrine of the Mean:** a text discussing the connection between human nature and the *Way of Heaven*.
+4. **Mencius:** a set consisting of lessons by Mencius.[^mencius]
+
+Confucianism was divided into different forms known as “schools” after interacting with *rival* or non-Confucian schools.
+
+| Confucian Schools    | Non-Confucian Schools |
+| -------------------- | --------------------- |
+| *schools of Mencius* | *Mohist school*       |
+| *Xunzi* (*Hsun Tzu*) | *Legalist school*     |
+| *Neo-Confucians*     | *Taoism*              |
+
+The question “Are humans inherently good or bad?” underlies the extent in which the government intervenes in human affairs: if humans are inherently good, less government intervention is needed since they are inclined to do good actions; however, if they are inherently bad, more is needed to achieve social harmony. Both Confucian and Non-Confucian Schools deal with the question in a myriad of ways.
+
+For instance, Confucian schools believe that humans are born good, and, as such, Mencius argued that they are required to study the Confucius classics to protect their goodness from corruption. On the contrary, Xunzi thought that humans are born bad; thus, humans need to study the Confucius classics to change their bad nature.
 
 ### Key Elements of Confucian Ethics
 
+Confucian ethics refer to Confucian ethical traditions before Neo-Confucianism. It is also known as *Classical Confucianism* because it is attributed to the views of Confucius; as elaborated by his two disciples: Mencius and Xunzi. Most of it was taken from the *Analects*, *Mencius*, and *Xunzi*.
+
+Confucian ethics centered around the cultivation of one’s character to become a *junzi*. Confucius developed a framework to determine the types of virtues needed to become one. Lastly, some virtues—which are later identified—are also necessary for a junzi to possess (Confucian virtues).
+
 #### The *Junzi*
+
+The term [[junzi]] can roughly be translated into a “noble person”. Initially, only a person born in an aristocratic family can become a junzi; however, Confucius changed it to hinge on the individual’s character/conduct instead of their lineage. Anyone, as a result, can become a junzi—a term used for a morally excellent person.
+
+In contrast, *xiaoren* roughly translates to “small-spirited person”, and was used to signify people outside of the aristocratic class. The term, nevertheless, was changed alongside junzi, and now refers to a morally petty person. For this reason, even a person of noble birth can become a *xiaoren*.
+
+Some scholars adds to the definition of junzi using the three stages of moral excellence: the apprentice, the junzi, and the sage. The apprentice refers to a person attempting to become a junzi, while a junzi is a person attempting to become a sage or a *shengren*. To be a sage, one must meet the following requirements:
+
+1. They are a junzi.
+2. They know what a junzi is, and its importance.
+3. They guide others to the path of becoming a junzi.
 
 #### The Mandate of Heaven
 
@@ -132,3 +185,5 @@ We can also extrapolate David Hume’s criticism of [[natural law theory]] to Ar
 [^function]: For instance, a good car is one that can successfully and easily travel to a desired distance—which is their proper function.
 [^eudaimonia]: I suppose that this might also be because doing the proper action should lead to fulfillment/eudaimonia.
 [^practical_wisdom]: We can, nevertheless, distinguish what is right from what is wrong through *practical wisdom*. Aristotle recommends taking advantage of our ability to perceive good and bad by identifying morally salient features and applying situational appreciation.
+[^six_classics]: The six classics consists of the *Book of Poetry*, the *Book of History*, the *Book of Rites*, the *Book of Music*, the *Book of Changes*, and the *Spring and Autumn Annals*).
+[^mencius]: Mencius was a confucian thinker.
