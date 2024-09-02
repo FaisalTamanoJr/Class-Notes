@@ -1,3 +1,3 @@
 ---
-alias: [Way of Heaven]
+aliases: [mandate of heaven, Way of Heaven]
 ---

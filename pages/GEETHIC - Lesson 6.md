@@ -80,13 +80,12 @@ We can also extrapolate David Hume’s criticism of [[natural law theory]] to Ar
 
 [[Confucius]] was born in a family that was generally poor, even though his father was from a noble lineage. His work experiences revealed to him a myriad of social injustices. As a result, he took different influential roles in the government to institute social changes. Nevertheless, he lost his position and was forced to leave Lu after offending a powerful nobleman. He then went to teach in several states. In his final moments as a scholar, he edited works that were later referred to as *Confucian classics*.
 
-Observations from his life that reflect his ethical teachings include the following:
-
-- One could be a noble person despite not being born in an aristocratic family.
-- He deeply loved and respected his family.
-- He was good at teaching and really enjoyed learning.
-- He used his knowledge for the greater good—by dealing with social injustices.
-- Even after losing his government positions, he still taught others so that he could initiate social changes.
+> [!SUMMARY] Observations from the Life of Confucius that Reflect his Ethical Teachings
+> - One could be a noble person despite not being born in an aristocratic family.
+> - He deeply loved and respected his family.
+> - He was good at teaching and really enjoyed learning.
+> - He used his knowledge for the greater good—by dealing with social injustices.
+> - Even after losing his government positions, he still taught others so that he could initiate social changes.
 
 ### Overview of Confucianism
 
@@ -107,7 +106,6 @@ On the other hand, the latter is made up of the following books:
 3. **Doctrine of the Mean:** a text discussing the connection between human nature and the *Way of Heaven*.
 4. **Mencius:** a set consisting of lessons by Mencius.[^mencius]
 
-<<<<<<< HEAD
 Confucianism was divided into different forms known as “schools” after interacting with *rival* or non-Confucian schools.
 
 | Confucian Schools    | Non-Confucian Schools |
@@ -132,13 +130,20 @@ The term [[junzi]] can roughly be translated into a “noble person”. Initiall
 
 In contrast, *xiaoren* roughly translates to “small-spirited person”, and was used to signify people outside of the aristocratic class. The term, nevertheless, was changed alongside junzi, and now refers to a morally petty person. For this reason, even a person of noble birth can become a *xiaoren*.
 
-Some scholars adds to the definition of junzi using the three stages of moral excellence: the apprentice, the junzi, and the sage. The apprentice refers to a person attempting to become a junzi, while a junzi is a person attempting to become a sage or a *shengren*. To be a sage, one must meet the following requirements:
+Some scholars adds to the definition of junzi using the three stages of moral excellence: the apprentice, the junzi, and the sage. The apprentice refers to a person attempting to become a junzi, while a junzi is a person attempting to become a sage or a *shengren*.
 
-1. They are a junzi.
-2. They know what a junzi is, and its importance.
-3. They guide others to the path of becoming a junzi.
+> [!INFO] Requirements to be a Sage
+> 1. One must be a junzi.
+> 2. One must know what a junzi is, and its importance.
+> 3. One must guide others to the path of becoming a junzi.
 
 #### The Mandate of Heaven
+
+The Confucian moral framework consists of both naturalist and social elements. The [[Mandate of Heaven|mandate of heaven]] (*tien-ming*) represents the naturalist aspects of the framework, while the roles existing in a different relationships represents its social aspects. Consequently, a junzi pertains to a person who conforms to the mandate of heaven by accomplishing their roles in their various relationships.
+
+As opposed to the prior understanding of the term “mandate of heaven”, Confucius only explicitly perceived heaven (or *tien*) as a place that preserves the universe’s moral order, and guides humans to moral excellence. This concept presupposes that heaven represents the *natural moral order*; hence, it entails that moral order is a natural part of the world—not a human-constructed idea.
+
+Confucius—despite not describing the nature of heaven—contends that we can learn the ways of heaven, especially by learning history (e.g., how and why empires rose and fell).
 
 #### The Five Basic Relations
 
