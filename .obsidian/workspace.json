@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f09f50eaa4888273",
+        "id": "b63681e508b089aa",
         "type": "tabs",
         "children": [
           {
-            "id": "a71b7e07a47fb1dd",
+            "id": "01996318f6e1ee66",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -158,23 +158,26 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a71b7e07a47fb1dd",
+  "active": "01996318f6e1ee66",
   "lastOpenFiles": [
-    "progress-tracker.md",
-    "README.md",
     "pages/GEETHIC - Lesson 6.md",
-    "pages/natural law theory.md",
-    "pages/GEETHIC - Lesson 4.md",
+    "pages/GEETHIC - Lesson 8.md",
+    "pages/GEETHIC - Lesson 7.md",
+    "pages/GEETHIC - Lesson 5.md",
+    "pages/Mandate of Heaven.md",
+    "pages/junzi.md",
     "pages/GEETHIC.md",
     "contents.md",
+    "README.md",
+    "progress-tracker.md",
+    "pages/natural law theory.md",
+    "pages/GEETHIC - Lesson 4.md",
     "pages/FUNDCKT.md",
     "pages/New Note.md",
     "pages/vice.md",
-    "pages/GEETHIC - Lesson 5.md",
     "pages/virtue.md",
     "pages/Virtues.md",
     "pages/SOFDESG - Lesson 5.md",
-    "pages/GEETHIC - Lesson 7.md",
     "pages/FUNDCKT - Lesson 11.md",
     "pages/eudaimonia.md",
     "pages/Aristotelian ethics.md",
@@ -183,9 +186,6 @@
     "pages/NUMMETS - Lesson 7.md",
     "pages/FUNDCKT - Lesson 12.md",
     "pages/FUNDCKT - Lesson 9.md",
-    "pages/FUNDCKT - Lesson 10.md",
-    "pages/FUNDCKT - Lesson 1.md",
-    "pages/GELITPH.md",
     "assets/ac dc current.webp",
     "assets/wye-delta transformations.webp",
     "assets/wye-delta circuit.webp",

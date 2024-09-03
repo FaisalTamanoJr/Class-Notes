@@ -14,13 +14,14 @@
               "type": "markdown",
               "state": {
                 "file": "pages/GEETHIC - Lesson 6.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -74,7 +75,7 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "right": {
     "id": "d223c0c049be5a6f",
@@ -107,7 +108,8 @@
           }
         }
       }
-    ]
+    ],
+    "currentTab": 1
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -120,9 +122,19 @@
   },
   "active": "14e7d5c90c4b6b86",
   "lastOpenFiles": [
+    "pages/Confucianism.md",
+    "pages/GEETHIC - Lesson 6.md",
     "pages/GEETHIC.md",
     "contents.md",
     "README.md",
+    "pages/GEETHIC - Lesson 3.md",
+    "pages/instrumental good.md",
+    "pages/GEETHIC - Lesson 5.md",
+    "templates/callouts template.md",
+    "pages/GEETHIC - Lesson 8.md",
+    "pages/consequentialism.md",
+    "pages/FUNDCKT.md",
+    "pages/FUNDCKT - Lesson 9.md",
     "pages/contents.md",
     "pages/ENGENVI.md",
     "pages/SOFDESG.md",
@@ -136,16 +148,6 @@
     "pages/parallel cutover.md",
     "pages/direct cutover.md",
     "pages/CALENG3.md",
-    "pages/CALENG3 - Lesson 5.md",
-    "pages/progress-tracker.md",
-    "pages/Laplace transforms of eat f(t).md",
-    "pages/Laplace transforms of F(t).md",
-    "pages/ENGDATA - Lesson 7.md",
-    "pages/laplace operator.md",
-    "pages/laplace transform.md",
-    "pages/standard normal distribution.md",
-    "pages/ENGDATA - Lesson 8.md",
-    "pages/central limit theorem.md",
     "assets/cardinality notation.jpg",
     "assets/rcl series.jpg",
     "assets/sampling distributions.pdf",
