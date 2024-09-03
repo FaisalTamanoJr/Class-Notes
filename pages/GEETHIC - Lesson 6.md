@@ -141,7 +141,7 @@ Some scholars adds to the definition of junzi using the three stages of moral ex
 
 The Confucian moral framework consists of both naturalist and social elements. The [[Mandate of Heaven|mandate of heaven]] (*tien-ming*) represents the naturalist aspects of the framework, while the roles existing in a different relationships represents its social aspects. Consequently, a junzi pertains to a person who conforms to the mandate of heaven by accomplishing their roles in their various relationships.
 
-As opposed to the prior understanding of the term “mandate of heaven”, Confucius only described heaven (or *tien*) as a place that preserves the universe’s moral order, and guides humans to moral excellence. This concept presupposes that heaven represents the *natural moral order*; hence, it entails that moral order is a natural part of the world—not a human-constructed idea.
+As opposed to the prior understanding of the term “mandate of heaven”, Confucius only described heaven (or *tien*) as a place that preserves the universe’s moral order, and guides humans to moral excellence. This concept presupposes that heaven represents the *natural moral order*; hence, it entails that moral order is a natural part of the world—not social-constructs.
 
 Confucius—despite not describing the nature of heaven—contends that we can learn the ways of heaven, especially by studying history (e.g., how and why empires rose and fell). For this reason, junzis’ were required to study the Confucian classics.
 
@@ -150,17 +150,80 @@ Confucius—despite not describing the nature of heaven—contends that we can l
 Confucius believed that humans are inherently social in nature—they will always be in a relationship with other humans. It was in this regard that junzi’s only achieve moral excellence with respect to their social relations. Confucius enumerated five basic types of relationships that can exist in human relationships.
 
 > [!INFO] Five Basic Types of Human Relationships
-> 1. parent-child
-> 2. husband-wife
-> 3. ruler-subject
-> 4. elder sibling-younger sibling
-> 5. friend-friend
+> 1. Parent-Child
+> 2. Husband-Wife
+> 3. Ruler-Subject
+> 4. Elder Sibling-Younger Sibling
+> 5. Friend-Friend
 
 Each party in the relationship have equal responsibilities—which, when achieved, result in a harmonious relationship. More advanced relationships emerging from the basic types (e.g., student-teacher, doctor-patient) will also possess their own reciprocal duties. Furthermore, a society will only achieve harmony when all relationships within it are harmonious.
 
-The principle of *rectification of names* describes the duty to know and perform one’s responsibilities in a relationship—with *names* pertaining to one’s role in a particular relationship (such as, father, ruler, and etc.) Chaos arises when one fails to perform their duties, or performs duties inappropriate for their role (e.g., a leader acting like a businessman).
+The principle of *rectification of names* describes the duty to know and perform one’s responsibilities in a relationship—with *names* pertaining to one’s role in a particular relationship (such as, father, ruler, and etc.) Chaos arises when one fails to perform their duties, or performs duties inappropriate for their role (e.g., a leader acting like a businessman). It is important that names are clarified and match accordingly to what they signify. Negative social consequences arise when names are inaccurate or when usage of language is flawed: affairs would be problematic, inappropriate punishments would be carried out, and so on.
+
+Confucius identified key virtues needed in the five basic relations (so that they can perform their respective duties based on their *names*):
+
+| Type of Relationship          | Principal Virtue           |
+| ----------------------------- | -------------------------- |
+| Parent-Child                  | Intimacy                   |
+| Husband-Wife                  | Reciprocity of Duties      |
+| Ruler-Subject                 | Righteousness              |
+| Elder Sibling-Younger Sibling | Respect based on Propriety |
+| Friend-Friend                 | Fidelity                   |
 
 #### The Confucian Virtues
+
+Confucius discussed fundamental virtues which other virtues emerge from. Only *ren* and *li* are widely recognized as part of the *five cardinal virtues of Confucianism*, while the remaining three remains debated by different scholars. One version is shown in the table below
+
+| Confucian Virtue | English Equivalent Term(s) |
+| ---------------- | -------------------------- |
+| Ren              | humanity, benevolence      |
+| Li               | propriety                  |
+| Shu              | reciprocity                |
+| Xiao             | filial piety               |
+| Wen              | culture                    |
+
+There are two ways to interpret the term **ren**. The first way views ren as a master virtue—achieving it entails that all other virtues are also achieved, and one is already a junzi. On the other hand, the second way interprets the term as pertaining to actions that promote the well-being of others.
+
+In the context of Confucianism, **li** refers to virtue of acting appropriately given a situation; thus, one must properly speak, behave, and dress depending on the scenario faced. Li is the expression of Ren; benevolence need to be expressed, and right actions must have the right intentions. Both Li and Ren depend on each other; absence of one of the virtues results in them just becoming meaningless and empty concepts.
+
+**Shu** refers to reciprocity, which the Golden Rule concisely explains: “Do not do unto others what you do not want others to do unto you.”
+
+**Xiao** (or filial piety) is the virtue of showing love, respect, and devotion to one’s family members, especially to their parents. Furthermore, it also applies to the dead, thereby one ought to celebrate ancestral rites.
+
+**Wen** deals with culture, specifically, the cultivation of one’s sense and appreciation of it. This is demonstrated in actions such as acquiring artistic skills and attending art exhibits.
+
+> [!EXAMPLE]- Other Versions of the Basic Virtues
+>
+> | Confucian Virtue | English Equivalent Term(s) |
+> | ---------------- | -------------------------- |
+> | Ren              | humaneness                   |
+> | Yi               | righteousness              |
+> | Li               | propriety                  |
+> | Zhi              | wisdom                     |
+> | Xin              | faithfulness               |
+>
+> | Confucian Virtue | English Equivalent Term(s) |
+> | ---------------- | -------------------------- |
+> | Ren              | humaneness                 |
+> | Yi               | righteousness              |
+> | Li               | propriety                  |
+> | Zhi              | wisdom                     |
+> | Xin              | faithfulness               |
+> | Haoxue           | self-cultivation           |
+>
+> | Rank      | Confucian Virtue | English Equivalent Term(s) |
+> | --------- | ---------------- | -------------------------- |
+> | Primary   | Ren              | humaness                   |
+> | Primary   | Yi               | righteousness              |
+> | Primary   | Li               | propriety                  |
+> | Primary   | Zhi              | wisdom                     |
+> | Secondary | Xiao             | filial piety               |
+> | Secondary | Yong             | courage                    |
+> | Secondary | Xin              | trustworthiness            |
+> | Secondary | Gong             | respectfulness             |
+> | Secondary | Jing             | reverence                  |
+> | Secondary | Xue              | love of learning           |
+> | Secondary | Wen              | refinement                 |
 
 ## Buddhist Ethics
 
@@ -188,13 +251,10 @@ The principle of *rectification of names* describes the duty to know and perform
 
 #### A. The Four Noble Truths
 
-##### 1. First Noble Truth: Suffering Exists
-
-##### 2. Second Noble Truth: Suffering Arises from Craving
-
-##### 3. Third Noble Truth: Eliminating Craving Eliminates Suffering
-
-##### 4. Fourth Noble Truth: The Way to Eliminate Craving is by Following the Eight-Fold Path
+1. Suffering Exists
+2. Suffering Arises from Craving
+3. Eliminating Craving Eliminates Suffering
+4. The Way to Eliminate Craving is by Following the Eight-Fold Path
 
 #### B. The Eight-fold Path
 
