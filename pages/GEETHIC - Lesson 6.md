@@ -141,11 +141,24 @@ Some scholars adds to the definition of junzi using the three stages of moral ex
 
 The Confucian moral framework consists of both naturalist and social elements. The [[Mandate of Heaven|mandate of heaven]] (*tien-ming*) represents the naturalist aspects of the framework, while the roles existing in a different relationships represents its social aspects. Consequently, a junzi pertains to a person who conforms to the mandate of heaven by accomplishing their roles in their various relationships.
 
-As opposed to the prior understanding of the term “mandate of heaven”, Confucius only explicitly perceived heaven (or *tien*) as a place that preserves the universe’s moral order, and guides humans to moral excellence. This concept presupposes that heaven represents the *natural moral order*; hence, it entails that moral order is a natural part of the world—not a human-constructed idea.
+As opposed to the prior understanding of the term “mandate of heaven”, Confucius only described heaven (or *tien*) as a place that preserves the universe’s moral order, and guides humans to moral excellence. This concept presupposes that heaven represents the *natural moral order*; hence, it entails that moral order is a natural part of the world—not a human-constructed idea.
 
-Confucius—despite not describing the nature of heaven—contends that we can learn the ways of heaven, especially by learning history (e.g., how and why empires rose and fell).
+Confucius—despite not describing the nature of heaven—contends that we can learn the ways of heaven, especially by studying history (e.g., how and why empires rose and fell). For this reason, junzis’ were required to study the Confucian classics.
 
 #### The Five Basic Relations
+
+Confucius believed that humans are inherently social in nature—they will always be in a relationship with other humans. It was in this regard that junzi’s only achieve moral excellence with respect to their social relations. Confucius enumerated five basic types of relationships that can exist in human relationships.
+
+> [!INFO] Five Basic Types of Human Relationships
+> 1. parent-child
+> 2. husband-wife
+> 3. ruler-subject
+> 4. elder sibling-younger sibling
+> 5. friend-friend
+
+Each party in the relationship have equal responsibilities—which, when achieved, result in a harmonious relationship. More advanced relationships emerging from the basic types (e.g., student-teacher, doctor-patient) will also possess their own reciprocal duties. Furthermore, a society will only achieve harmony when all relationships within it are harmonious.
+
+The principle of *rectification of names* describes the duty to know and perform one’s responsibilities in a relationship—with *names* pertaining to one’s role in a particular relationship (such as, father, ruler, and etc.) Chaos arises when one fails to perform their duties, or performs duties inappropriate for their role (e.g., a leader acting like a businessman).
 
 #### The Confucian Virtues
 

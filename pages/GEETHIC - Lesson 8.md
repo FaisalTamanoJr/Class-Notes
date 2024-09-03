@@ -7,9 +7,11 @@ References used: [Module 6 Presentation (Lecture Slides)]
 tags: [lesson]
 ---
 
+# Business Ethics
+
 [[business ethics|Business ethics]] is a study concerning the morality that involves business organizations and the activities of its workers.
 
-# Why Business Ethics Matter?
+## Why Business Ethics Matter?
 
 Plenty of people question the role of ethics in business practice; as a result, there are two ways of approaching this issue:
 
@@ -85,7 +87,7 @@ There are 4 prominent arguments made against business ethics:
 - Reply
 	- Selfishness may be vicious or non-vicious: [[vicious selfishness]] leads to the violation of moral rights, while [[non-vicious selfishness]] do not. Because the motive of business is profit, it does not require a vicious form of selfishness.
 
-# Some Ethical Issues in Business
+## Some Ethical Issues in Business
 
 The general kinds of issues in business ethics include the following:
 
@@ -96,16 +98,16 @@ The general kinds of issues in business ethics include the following:
 3. Individual issues
 	- Issues concerning the actions of individuals in a business context.
 
-## Systemic Issues
+### Systemic Issues
 
-### Morality of Capitalism
+#### Morality of Capitalism
 
 [[capitalism|Capitalism]] loses its moral justification when it deviates from [[perfect competition]]—the market’s *state of equilibrium*—where prices of goods tend to be fair. In an imperfect competition, prices tend to be unfair, which sometimes result in the violation of moral rights. This can occur in two ways:
 
 1. When competition is eliminated through a monopoly.
 2. When there are only few sellers in the market (oligopoly), which puts the competition under their control.
 
-### Doing Business in a Global Economy
+#### Doing Business in a Global Economy
 
 - Ethical issues can arise from the way multinational companies (MNC) does business in a host country (especially if it is underdeveloped).
 	- They may take advantage of cheap labor and/or lower legal restrictions.
@@ -113,16 +115,16 @@ The general kinds of issues in business ethics include the following:
 	- They may follow discriminatory laws/practices in the host country.
 	- They may sell harmful products in the host country.
 
-## Corporate Issues
+### Corporate Issues
 
-### Corporate Moral Responsibilities
+#### Corporate Moral Responsibilities
 
 The primary moral obligations of a corporation from two points of view:
 
 1. Shareholder View: To promote the interests of the shareholder.
 2. Stakeholder View: To promote the best balance among the interests of various stakeholders.
 
-### Advertising
+#### Advertising
 
 Business ads are usually persuasive rather than informative. They are unethical when they are being deceptive because they are undermining human autonomy/[[rationality]].
 
@@ -133,7 +135,7 @@ Kinds of business advertising:
 - [[mass advertising]]; and
 - [[subliminal advertising]].
 
-### Discrimination (in the workplace)
+#### Discrimination (in the workplace)
 
 Discrimination in the workplace occurs when job-irrelevant traits are used as basis for making decisions against employees or prospective employees. This can be done on an isolated case—done by an individual—or on an institutionalized case—done by an institutionalized group. Examples of the types of discrimination:
 
@@ -142,7 +144,7 @@ Discrimination in the workplace occurs when job-irrelevant traits are used as ba
 - religious; and
 - disability discrimination.
 
-### Employee Privacy
+#### Employee Privacy
 
 The [[right to privacy]] concerns the right of employees to determine the type and extent of information they share to a company. There are three factors we can consider if these rights were violated:
 
@@ -150,7 +152,7 @@ The [[right to privacy]] concerns the right of employees to determine the type a
 2. Employee’s consent.
 3. Appropriateness of data collection method.
 
-### Anti-competitive Practices of Corporations
+#### Anti-competitive Practices of Corporations
 
 Anti-competitive practices involves companies agreeing to control the prices through monopolies/oligopolies. Examples of anti-competitive practices in oligopoly markets:
 
@@ -161,17 +163,17 @@ Anti-competitive practices involves companies agreeing to control the prices thr
 - tying arrangements
 - pricing discrimination
 
-## Individual Issues
+### Individual Issues
 
-### Conflict of Interest
+#### Conflict of Interest
 
 [[conflict of interest|Conflict of interest]] happens when an employee makes decisions motivated by their self-interest—this may not serve the interests of the whole company. This can occur because of special situations (e.g., special relations) or activities (e.g., bribery).
 
-### Employee Theft
+#### Employee Theft
 
 Employee thefts pertains to employees stealing resources from the company. It usually involves [[trade secrets]] and *inside information*.
 
-### Whistleblowing
+#### Whistleblowing
 
 [[whistleblowing|Whistleblowing]] is the act of exposing the wrongdoings of a company to the authorities or the public. There are two extreme views concerning this act:
 
@@ -188,7 +190,7 @@ The issue with this is that, firstly, loyalty may be misplaced, and secondly, th
 	1. There is sufficient evidence for the wrongdoing.
 	2. There are good reasons to believe that exposing the wrongdoing will prevent the negative consequences.
 
-### Sexual Harassment
+#### Sexual Harassment
 
 Harassment is considered sexual when in comes in the form of unwelcome sexual advances, requests for sexual favors, and other verbal or physical contact of a sexual nature. It is a degrading coercion exerted on employees who are vulnerable and defenseless. There are two types of sexual harassment:
 
@@ -197,7 +199,7 @@ Harassment is considered sexual when in comes in the form of unwelcome sexual ad
 2. [[hostile environment harassment|Hostile Environment Harassment]]:
 	- Occurs when sexual conduct is unreasonably interfering with the employee’s job performance or creates an hostile working environment.
 
-### Political Tactics
+#### Political Tactics
 
 [[political tactics|Political tactics]] are ways in which individuals or groups, within an organization, use informally-sanctioned power to advance their self-interest. This includes the following actions:
 
