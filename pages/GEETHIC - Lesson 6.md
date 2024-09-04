@@ -54,7 +54,7 @@ Nonetheless, Aristotle claims that the median is relative to the person, not the
 
 Besides this, Aristotle also states that the model (found at the table shown previously) does not cover all types of cases. Cases involving actions and emotions that connote baseness do not have a mean. Adultery, in-nature, is wrong; there is no excess nor deficient adultery. Hence, a median does not exist for this action. This example illustrates how some things can never have a mean.
 
-### Evaluating Aristotle’s virtue Ethics
+### Evaluating Aristotle’s Virtue Ethics
 
 #### The Good
 
@@ -93,18 +93,18 @@ We can also extrapolate David Hume’s criticism of [[natural law theory]] to Ar
 
 There are two main readings for this tradition: the *Five Classics* (or the *Confucian Classics*) and the *Four Books*. The former is composed of the following books:
 
-1. **Book of History:** a set of texts documenting the emperors’ deeds and dance pieces for the Zhou royal court (from 3000 BCE to 700 BCE).
-2. **Book of Poetry:** a collection of poems made during the Zhou period.
-3. **Book of Changes:** a book consisting of a divination system that explains the patterns in the universe.
-4. **Book of Rites:** a book composed of rules used in court ceremonies and rites.
-5. **Spring and Autumn Annals:** a set of historical records that discussed Confucius and the state of Lu.
+1. **Book of History -** a set of texts documenting the emperors’ deeds and dance pieces for the Zhou royal court (from 3000 BCE to 700 BCE).
+2. **Book of Poetry -** a collection of poems made during the Zhou period.
+3. **Book of Changes -** a book consisting of a divination system that explains the patterns in the universe.
+4. **Book of Rites -** a book composed of rules used in court ceremonies and rites.
+5. **Spring and Autumn Annals -** a set of historical records that discussed Confucius and the state of Lu.
 
 On the other hand, the latter is made up of the following books:
 
-1. **Analects:** sayings and speeches from Confucius, which have been recorded by his students.
-2. **Great Learning:** a book explaining what constitutes a noble person; and the nature of education, morality, and politics.
-3. **Doctrine of the Mean:** a text discussing the connection between human nature and the *Way of Heaven*.
-4. **Mencius:** a set consisting of lessons by Mencius.[^mencius]
+1. **Analects -** sayings and speeches from Confucius, which have been recorded by his students.
+2. **Great Learning -** a book explaining what constitutes a noble person; and the nature of education, morality, and politics.
+3. **Doctrine of the Mean -** a text discussing the connection between human nature and the *Way of Heaven*.
+4. **Mencius -** a set consisting of lessons by Mencius.[^mencius]
 
 Confucianism was divided into different forms known as “schools” after interacting with *rival* or non-Confucian schools.
 
@@ -229,19 +229,65 @@ In the context of Confucianism, **li** refers to virtue of acting appropriately 
 
 ### Highlights of Buddha’s Life
 
+[[Buddha]] is the title Siddhartha Gautama, the founder of Buddhism, acquired after reaching enlightenment. Therefore, “Buddha” is not exclusive to Gautama; other people can also be Gautama after achieving enlightenment. What separates him from the rest, however, is that he introduced the *Dharma*—the teachings of Buddhism.
+
+When Gautama was born, a hermit named Asita prophesied that he would be a great leader someday. Although it initially pleased the King, he would later worry that Gautama might become a spiritual leader instead of a political one. In order to prevent that from happening, he provided Gautama with everything he had ever wanted, and also removed him from situations that might trigger spiritual reflections (e.g., human suffering).
+
+When Gautama was 29 years old, he went to meet his subjects. Despite his father’s plans, Gautama still got exposed to human suffering through something popularly known as the *Four Passing Sights*: an old man, a sick person, a corpse, and an ascetic/monk. This made him realize that spiritual development—by abstaining from sensual pleasures—might be the solution to the reality of suffering.
+
+Guatama then left his comfortable life to become an experienced ascetic. After years of restraint from worldly pleasures (in hopes of overcoming suffering), Gautama almost dies from collapsing, but was saved by a girl named Sujata. This made him realize that the right path is the one between the two extremes, that is, the path between self-indulgence and self-denial (referred to as *the middle path*).
+
+Gautama then went on to meditate on the middle path for 49 days, under the *Bodhi* tree. After weeks of intense focus, Gautama became enlightened, a Buddha, and was liberated from suffering. He finally understood why people suffer, and what they need to do to overcome it. With this knowledge, he went to teach others on how to also achieve enlightenment.
+
 ### Overview of Buddhism
+
+> [!INFO] Main Components of Buddhism
+> Buddhism has three essential parts, known as the *Three Jewels of Buddhism*:
+>
+> 1. **Buddha -** the representation of enlightenment; hence, Buddhists strive to emulate his life.
+> 2. **Dharma -** all of Buddha’s teachings.
+> 3. **Sangha -** the community of Buddhist monks and nuns who teach the Dharma to the laymen.
+
+There are two major traditions in Buddhism: *Theravada Buddhism* and *Mahayana Buddhism*. The former is dominant in Thailand, Sri Lanka, Laos, Cambodia, and Myanmar; the latter is dominant in China, Japan, Korea, Tibet, Nepal, Bhutan, and Mongolia.
+
+Although the two traditions share the same basic teachings, they differ in some aspects. Firstly, when it comes to the authoritative texts, Theravadins only accept the *Tripitaka*, while Mahayanists recognize some other writings which are collectively referred to as the *Mahayana Sutras*. Secondly, Theravadins believe that Buddhas are only human beings who have lived then died; on the other hand, Mahayanists also believe in spiritual or heavenly Buddhas. Lastly, Therevadins believe that the *arhat* is the ideal Buddhist, while Mahayanists believe that it is the *bodhisattva*. Both arhat and bodhisattva have achieved enlightenment, but they differ in their response to entering the state of nirvana (absence of suffering): the *arhat* immediately proceeds to nirvana, while the *bodhisattva* delay it to help others also attain enlightenment.
+
+Generally, the main teachings of Theravada Buddhism is the same for countries which include people that practice them. Furthermore, it is practiced alongside other religions (e.g., some people practice Theravada Buddhism while also practicing Hinduism). On the contrary, Mahayana Buddhism has a diversity of teachings due to it being divided into numerous sub-schools.
 
 ### Key Elements of Buddhist Ethics
 
 ### Characteristics of the World in General
 
+Two aspects of the things that constitute the world:
+
+1. **Substantiality -** the materials that make up these things. With respect to this aspect, Buddhists believe that they are impermanent and devoid of any intrinsic qualities.
+2. **Functionality -** how things are designed to function or behave. In regards to this aspect, Buddhists believe that things are designed to be causally related.
+
 #### A. Impermanence and Emptiness
 
+Buddhists believe that everything is impermanent; everything is always changing and its future end is inevitable. This concept is related to their idea of emptiness—nothing has an independent identity. All things have their identity (i.e. labels we use to refer to them) due to the other things related to it; for instance, the materials that compose it, their function to the people who use them, or the things around it. A change in any of these aspects would also alter their identity, thereby it is *derived* from other things and is not *intrinsically* theirs. In relation to impermanence, because everything is always changing, there is no “intrinsic” quality that exists in any object (it is empty).
+
 #### B. Dharma and Dependent Origination
+
+Buddhists claim that there is a natural order existing in the universe (the *Dharma*), which is characterized by strict causal relations (the *law of dependent origination*). The law of dependent origination asserts that all effects are caused by a cause, which is also caused by another cause, and so on. There are two levels of applications for this law: a *general* and a *particular* application. The first one pertains to the causal processes in relation to the universe as a whole, while the second one only concerns causal processes specific to humans and their condition.
 
 ### The Human Condition
 
 #### A. Non-Self
+
+Buddhism rejects the popular belief that humans have a fixed self. They have two arguments that support this rejection.
+
+The first argument points out that an unchanging self implies that our self has an intrinsic nature; however, this is impossible because—as discussed in the concept of impermanence and emptiness—no object has intrinsic qualities, everything is relational. For humans, aspects of their identity depend on the various roles they play in different relationships.
+
+The second argument redefines the concept of the self. It states that the self is a result of combining five specific elements (the five *skandhas*):
+
+1. matter;
+2. feeling;
+3. memory;
+4. mental formations; and
+5. consciousness.
+
+These aggregates combined forms a whole, which is the self. The continuity of the self is caused by the overlapping of the changing aggregates with respect to time. In addition, this aggregates are further composed of other aggregates.
 
 #### B. Karma and Rebirth
 
