@@ -2,7 +2,7 @@
 Course: GEETHIC
 Topic: Virtue Ethics - Aristotelian, Confucian, and Buddhist Ethics
 Linked_Tests: [Quiz 2]
-Status: Work in Progress
+Status: Done
 References used: [Ethics - Theories and Applications by Francis Evangelista and Napoleon Mabaquiao Jr. (Chapter 5)]
 tags: [lesson]
 aliases: []
@@ -246,7 +246,7 @@ Gautama then went on to meditate on the middle path for 49 days, under the *Bodh
 >
 > 1. **Buddha -** the representation of enlightenment; hence, Buddhists strive to emulate his life.
 > 2. **Dharma -** all of Buddha’s teachings.
-> 3. **Sangha -** the community of Buddhist monks and nuns who teach the Dharma to the laymen.
+> 3. **Sangha -** the community of Buddhist monks and nuns who teach the Dharma to the lay persons.
 
 There are two major traditions in Buddhism: *Theravada Buddhism* and *Mahayana Buddhism*. The former is dominant in Thailand, Sri Lanka, Laos, Cambodia, and Myanmar; the latter is dominant in China, Japan, Korea, Tibet, Nepal, Bhutan, and Mongolia.
 
@@ -291,20 +291,87 @@ These aggregates combined forms a whole, which is the self. The continuity of th
 
 #### B. Karma and Rebirth
 
+Moral actions can be classified into either moral or non-moral depending on whether or not they posses moral features. We say that an action is a moral one when a moral agent intentionally does them with the knowledge of what is good and bad; otherwise, the action is a non-moral one.
+
+[[Karma]] is a form of Dharma that is utilized in the moral world, which involves moral persons and their moral actions. The *law of karma* states that if you do an action of a certain moral quality (good or bad), you will receive an action with the same moral quality as the one you have committed. The amount of karmic effect will depend on the degree of [[accountability]] a person has for a particular action.
+
+If one has not experienced the full karmic effect within their lifetime, they will go through with it in their next lifetime(s). The concept of karma is connected to the Buddhist belief in *rebirth* or *samsara*—the continuous cycle of birth, life, and death. A person’s current actions can influence the kind of life they will have in their next birth (or rebirth), depending on the karmic effect. This can vary from earthly beings (i.e., humans and animals) to otherworldly beings (e.g., gods from another world, or ghosts from a different world).
+
 #### C. Suffering
+
+The most fundamental feature of the human condition is suffering or *dukkha*, which primarily characterizes the nature of living and conscious beings. The dukkha is part of the *three marks of existence* (the other two being non-self and impermanence). It is considered the most fundamental feature because the importance of anything in the world hinges on their direct relation to the urgency of ending suffering.
 
 ### Buddhist Moral Values and Virtues
 
+Living beings have the capacity to liberate themselves from suffering through [[nirvana]]—the complete absence of suffering. In order to achieve it, they must first cultivate the right values and virtues to reach enlightenment; enlightenment will be their path to nirvana. Once one achieves nirvana, they will no longer be reborn.
+
 #### A. The Four Noble Truths
 
-1. Suffering Exists
-2. Suffering Arises from Craving
-3. Eliminating Craving Eliminates Suffering
-4. The Way to Eliminate Craving is by Following the Eight-Fold Path
+The *four noble truths* arm us with information to eliminate suffering. The truths are arranged in a logical order: the first noble truth introduces the problem; the second introduces its cause; the third introduces the strategy to deal with the cause; and the fourth deals with the steps to carry out the strategy.
+
+1. **Suffering Exists**
+	- All living beings experience suffering—something which is undesirable and needs to be dealt with.
+	- Living beings cannot avoid or ignore suffering.
+	- Overcoming suffering starts with acknowledging its existence first.
+2. **Suffering Arises from Craving**
+	- Buddha believes that *craving* is the primary source of suffering.
+	- Cravings are desires characterized by wanting to acquire something permanently.
+	- Because everything is impermanent, we will constantly fail to satisfy our cravings; thus, suffering as a result.
+	- Another cause for suffering is *ignorance*. Ignorance of the impermanent nature of things engenders cravings.
+3. **Eliminating Craving Eliminates Suffering**
+	- To eliminate suffering, one must eliminate all cravings, but not all their desires.
+	- Eliminating all desires will lead to total self-denial, which goes against the concept of the Middle Path.
+	- The Middle Path suggests cultivating the right desires, while eliminating the wrong ones (cravings).
+	- We can classify desires into two categories: non-clinging (right desires) and clinging (wrong desires or cravings).
+4. **The Way to Eliminate Craving is by Following the Eight-Fold Path**
+	- The *eight-fold path* provides concrete and efficient steps to cultivate the right virtues and values for eliminating suffering.
 
 #### B. The Eight-fold Path
 
+The eight-fold path, also known as the Middle Way, summarizes the Buddhist teachings and provides us the procedure for eliminating suffering. It consists of three general paths and eight particular paths, which are illustrated in the table below
+
+> [!INFO] The Eight-Fold Path
+>
+> | General Paths           | Particular Paths       |
+> | ----------------------- | ---------------------- |
+> | I. Wisdom               | 1. Right Beliefs       |
+> |                         | 2. Right Intention     |
+> | II. Ethical Conduct     | 3. Right Speech        |
+> |                         | 4. Right Action        |
+> |                         | 5. Right Livelihood    |
+> | III. Mental Development | 6. Right Effort        |
+> |                         | 7. Right Mindfulness   |
+> |                         | 8. Right Concentration |
+
+The path of right beliefs pertains to the understanding of the world’s nature and human conditions, the four noble truths, and the three marks of existence. Cultivating this virtue leads to the elimination of ignorance, then to the path of right intention. Secondly, the paths of right speech, action, and livelihood include the basic moral duties found in the *five precepts*. Lastly, the paths of right effort, mindfulness, and concentration refer to the exercises which can enable us to overcome the inclination of craving: right effort means doing our best to avoid extremes; right mindfulness means focusing on the right and positive things; and right concentration means nurturing thoughts which promote inner peace.[^meditation]
+
 #### C. The Five Precepts
+
+The five precepts are five fundamental moral duties imposed on Buddhist lay persons. These precepts are
+
+1. **I should refrain from killing and harming living beings.**
+	- Promotes non-violence (or *ahimsa*), compassion, and kindness.
+2. **I should refrain from stealing.**
+	- Promotes renunciation and generosity.
+3. **I should refrain from engaging in sexual misconduct.**
+	- Promotes satisfaction and faithfulness.
+4. **I should refrain from lying.**
+	- Promotes honesty and trustworthiness.
+5. **I should refrain from drinking alcohol.**
+	- Promotes mindfulness and responsibility.
+
+During holy days, there are three additional precepts:
+
+1. I should refrain from eating at the wrong time.
+2. I should refrain from singing, dancing, playing music, attending entertainment performances, wearing perfume, and using cosmetic and decorative garlands.
+3. I should refrain from sitting or sleeping in luxurious places and oversleeping.
+
+Furthermore, four additional precepts are imposed to novice monks and nuns:[^seventh_precept][^ten_precepts]
+
+1. I should refrain from singing, dancing, playing music, and attending entertainment performances.
+2. I should refrain from wearing perfume, and using cosmetics and garlands.
+3. I should refrain from sitting or sleeping in luxurious places, and oversleeping.
+4. I should refrain from accepting money.
 
 [^a_ethics]: This was because he, presumably, edited his father’s work.
 [^function]: For instance, a good car is one that can successfully and easily travel to a desired distance—which is their proper function.
@@ -312,3 +379,6 @@ These aggregates combined forms a whole, which is the self. The continuity of th
 [^practical_wisdom]: We can, nevertheless, distinguish what is right from what is wrong through *practical wisdom*. Aristotle recommends taking advantage of our ability to perceive good and bad by identifying morally salient features and applying situational appreciation.
 [^six_classics]: The six classics consists of the *Book of Poetry*, the *Book of History*, the *Book of Rites*, the *Book of Music*, the *Book of Changes*, and the *Spring and Autumn Annals*).
 [^mencius]: Mencius was a confucian thinker.
+[^meditation]: Two ways of cultivating these type of thoughts: meditation and chanting.
+[^seventh_precept]: The 7th precept are divided into two for novice nuns and monks.
+[^ten_precepts]: The overall precepts for Buddhist monks and nuns is known as the *ten precepts*.
