@@ -1,1 +1,3 @@
-
+---
+aliases: [Distributive justice]
+---

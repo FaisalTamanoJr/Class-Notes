@@ -1,3 +1,3 @@
 ---
-aliases: [Virtues]
+aliases: [Virtue, Virtues]
 ---

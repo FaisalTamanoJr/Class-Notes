@@ -1,1 +1,3 @@
-
+---
+aliases: [practical virtues]
+---

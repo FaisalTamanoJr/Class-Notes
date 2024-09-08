@@ -2,7 +2,7 @@
 Course: NUMMETS
 Topic: Numerical Integration
 Linked_Tests: [Quiz 3]
-Status: Work in Progress
+Status: Abandoned
 References used: [Numerical Methods for Engineers by Steven Chapra and Raymond Canale (Chapter 21)]
 tags: [lesson]
 ---
