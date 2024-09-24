@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/GEETHIC - Lesson 6.md",
+                "file": "pages/FUNDLEC - Lesson 3.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/GEETHIC - Lesson 6.md",
+            "file": "pages/FUNDLEC - Lesson 3.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "pages/GEETHIC - Lesson 6.md"
+            "file": "pages/FUNDLEC - Lesson 3.md"
           }
         }
       }
@@ -122,10 +122,11 @@
   },
   "active": "14e7d5c90c4b6b86",
   "lastOpenFiles": [
-    "pages/Confucianism.md",
-    "pages/GEETHIC - Lesson 6.md",
-    "pages/GEETHIC.md",
+    "pages/FUNDLEC.md",
     "contents.md",
+    "pages/GEETHIC - Lesson 6.md",
+    "pages/Confucianism.md",
+    "pages/GEETHIC.md",
     "README.md",
     "pages/GEETHIC - Lesson 3.md",
     "pages/instrumental good.md",
@@ -147,7 +148,6 @@
     "pages/system changeover.md",
     "pages/parallel cutover.md",
     "pages/direct cutover.md",
-    "pages/CALENG3.md",
     "assets/cardinality notation.jpg",
     "assets/rcl series.jpg",
     "assets/sampling distributions.pdf",
