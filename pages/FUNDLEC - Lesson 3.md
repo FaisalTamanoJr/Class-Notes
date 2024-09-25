@@ -2,7 +2,7 @@
 Course: FUNDLEC
 Topic: Semiconductor Diode
 Linked_Tests: [Long Quiz 1]
-Status: Work in Progress
+Status: Done
 tags: [lesson]
 ---
 
@@ -96,10 +96,43 @@ $$
 
 ## Diode Capacitance
 
+In a forward bias region, the *diffusion* (or *storage*) *capacitance* $C_{D}$ is considered, while the *transition* (or *depletion*) *capacitance* $C_{T}$ is considered in a reverse bias condition.
+
 ## Diode Equivalent Model
+
+A *diode equivalent model* is a circuit chosen that best represents the characteristics of a particular semiconductor diode.
 
 ### Ideal Diode Model
 
+An ideal diode attempts to resemble the actual behavior of a semiconductor by representing it as a switch: it is a [[short circuit]] when the circuit is forward biased; it is an [[open circuit]] when it is reverse biased.[^short_open]
+
+WHEN TO USE?
+
+- $V_{T}$ is much smaller than the other voltages in the same circuit.
+- The diode’s resistance is also smaller than the other resistances in the same circuit.
+
 ### Complete Piecewise Linear Equivalent Model
 
+This model considers the following:
+
+1. Reverse bias resistance $R_{r}$.
+2. Forward bias resistance $R_{f}$: representing the bulk and contact resistance with a magnitude less than 50 $\Omega$.
+3. diode’s turn on voltage $V_{T}$.
+	1. 0.7 V for silicon.
+	2. 0.3 V for germanium.
+
+| Condition    | Voltage Drop             |
+| ------------ | ------------------------ |
+| Forward Bias | $V_{D}=V_{T}+I_{D}R_{f}$ |
+| Reverse Bias | $V_{D}=I_{S}R_{r}$       |
+
 ### Approximate Piecewise Linear Equivalent Model
+
+Usually, $R_{F}$ is too low and $R_{r}$ is too high; as a result, we can try to simplify the circuit by ignoring the effects of two elements.
+
+In this model,
+
+- In a forward biased condition, $V_{D} = V_{T}$ for any value $I_{D}$.
+- In a reverse biased condition, $I_{D}=0$.
+
+[^short_open]: It is a short circuit because it allows so much current to pass through, while the other one is an open circuit because it does not allow (or only very little) current to pass through.
