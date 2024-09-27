@@ -1,7 +1,7 @@
 ---
 Course: FUNDLEC
 Topic: Basic Solid State Electronics
-Linked_Tests: [Test]
+Linked_Tests: [Long Quiz 1]
 Status: Done
 tags: [lesson]
 ---
