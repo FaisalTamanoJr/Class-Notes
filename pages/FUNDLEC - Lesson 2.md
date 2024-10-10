@@ -48,7 +48,7 @@ tags: [lesson]
 - Their valence electrons will become free electrons after receiving enough energy; as a result, the free electrons will move randomly from one atom to another.
 	- If voltage is applied, the free electrons will move in **one direction** and generates an electric current
 	- The free electrons are locating a positive pair
-- The energy state determines how good a conductor at conducting current (higher means better)
+- The energy state determines how good a conductor is at conducting current (higher means better)
 - has 1 valence electron
 
 > [!TIP]- Finding the Number of Neutrons
@@ -62,7 +62,7 @@ tags: [lesson]
 
 ### Semiconductor
 
-- Semiconductors have a conductivity **between** the extremes of an inductor and conductor. They are a combination of a conductor and an insulator.
+- Semiconductors have a conductivity **between** the extremes of an insulator and conductor. They are a combination of a conductor and an insulator.
 - has 4 valence electrons to form a covalent bond (sharing of electrons)
 - their electrons are arranged to form a crystal
 - in order to become stable, the atoms of semiconductors **share** their valence electrons with each other. As a result, they neither gain nor lose electrons.
